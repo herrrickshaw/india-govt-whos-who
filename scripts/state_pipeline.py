@@ -179,15 +179,15 @@ def _groq_key():
     return None
 
 
-GROQ_MODEL = "openai/gpt-oss-120b"
+GROQ_MODEL = os.environ.get("GROQ_MODEL_OVERRIDE", "openai/gpt-oss-120b")   # each Groq model has its own 200k tokens/day; gpt-oss-20b is enough for classification
 
 
-def groq_json(system, user, retries=5):
+def groq_json(system, user, retries=5, max_tokens=2500):
     import urllib.request
     key = _groq_key()
     if not key:
         return None
-    body = json.dumps({"model": GROQ_MODEL, "temperature": 0, "response_format": {"type": "json_object"},
+    body = json.dumps({"model": GROQ_MODEL, "temperature": 0, "reasoning_effort": "low", "max_completion_tokens": max_tokens, "response_format": {"type": "json_object"},
                        "messages": [{"role": "system", "content": system}, {"role": "user", "content": user}]}).encode()
     for att in range(retries):
         try:
@@ -343,17 +343,23 @@ def crawl(args):
     jobs = [(r.website, r.slug) for r in t.itertuples() if not (SITES / r.slug / "doc_links.csv").exists()]
     print(f"crawl: {len(jobs)} sites (max {args.max_pages} pages each), {len(t) - len(jobs)} already crawled")
     (REPO / "ministry_documents/logs").mkdir(exist_ok=True)
-
-    def run(job):
-        website, slug = job
-        log = open(REPO / "ministry_documents/logs" / f"{slug}.log", "w")
-        subprocess.run(["/usr/bin/python3", str(CRAWLER), website, slug, "--max-pages", str(args.max_pages)], stdout=log, stderr=log, timeout=3600)
-        n = sum(1 for _ in open(SITES / slug / "doc_links.csv")) - 1 if (SITES / slug / "doc_links.csv").exists() else -1
-        return slug, n
-
-    with ThreadPoolExecutor(max_workers=8) as ex:
-        for slug, n in ex.map(run, jobs):
-            print(f"  {slug}: {n} document links")
+    # xargs -P instead of a Python thread pool: forking subprocesses from many threads wedged the pool once, and a hung
+    # site must not hold a slot, so every crawl runs under a hard wall-clock limit (perl alarm; macOS has no `timeout`).
+    jobs_file = STATES_DIR / "crawl_jobs.txt"
+    seen_slugs, lines = set(), []
+    for website, slug in jobs:
+        if slug in seen_slugs:
+            continue
+        seen_slugs.add(slug); lines.append(f"{website} {slug}")
+    jobs_file.write_text("\n".join(lines) + "\n")
+    limit = int(os.environ.get("CRAWL_SITE_SECONDS", "900"))
+    logs = REPO / "ministry_documents/logs"
+    shell = (f'perl -e \'alarm {limit}; exec @ARGV\' /usr/bin/python3 {CRAWLER} "$0" "$1" --max-pages {args.max_pages} '
+             f'> {logs}/"$1".log 2>&1; echo "$1 rc=$?" >> {STATES_DIR}/crawl_progress.log')
+    print(f"crawl: running {len(lines)} unique sites, 8 parallel, {limit}s limit each", flush=True)
+    subprocess.run(["xargs", "-P", "8", "-L", "1", "sh", "-c", shell], stdin=open(jobs_file), check=False)
+    done = sum(1 for sl in seen_slugs if (SITES / sl / "doc_links.csv").exists())
+    print(f"crawl: {done}/{len(seen_slugs)} sites produced document links", flush=True)
 
 
 def select(args):

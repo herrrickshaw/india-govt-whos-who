@@ -22,7 +22,7 @@ Outputs
 
 Run:  /usr/bin/python3 scripts/new_policy_scanner.py [--days 120] [--max-llm 150] [--pib-db <path>]
 """
-import argparse, hashlib, json, re, sqlite3, sys, time
+import argparse, hashlib, json, os, re, sqlite3, sys, time
 from datetime import date, timedelta
 from pathlib import Path
 
@@ -130,10 +130,12 @@ def classify(df, cache, max_llm):
                  for k, r in enumerate(chunk.itertuples())]
         res = groq_json(CLASSIFY_SYS, json.dumps({"items": items}, ensure_ascii=False)); calls += 1
         got = {x.get("i"): x for x in (res or {}).get("items", []) if isinstance(x, dict)}
+        if res is None:            # rate-limited / failed call: do NOT cache, retry on the next run
+            continue
         for k, r in enumerate(chunk.itertuples()):
             cache[r.key] = got.get(k, {"is_instrument": None})
         (OUT / "classify_cache.json").write_text(json.dumps(cache, ensure_ascii=False))
-        time.sleep(2.5)
+        time.sleep(4.0)
     for c in ("is_instrument", "instrument", "type", "status", "new_or_update", "beneficiaries", "summary"):
         df[c] = df.key.map(lambda k: (cache.get(k) or {}).get(c))
     return df, calls
@@ -142,6 +144,20 @@ def classify(df, cache, max_llm):
 DETAIL_SYS = ("From this Indian government press release text, extract the instrument details. JSON only: "
               '{"instrument": "<name>", "outlay": "<amount or empty>", "period": "<validity / dates or empty>", '
               '"eligibility": "<short>", "how_to_apply": "<portal / nodal agency / deadline or empty>", "nodal_body": "<ministry or agency>"}')
+
+
+OUTLAY = re.compile(r"((?:Rs\.?|INR|₹)\s?[\d,]+(?:\.\d+)?\s?(?:lakh crore|lakh|crore|billion|million|thousand)?(?:\s?crore)?)", re.I)
+PERIOD = re.compile(r"((?:till|until|upto|up to|valid(?:ity)? (?:till|until|up to)|for a period of|from \d{1,2}[ a-zA-Z]+ \d{4} to|extended (?:till|until|up to)|last date[^.]{0,20}?)\s?[^.;]{4,70})", re.I)
+HOWTO = re.compile(r"((?:apply|applications?|register|registration|portal|visit)[^.]{0,90}(?:https?://\S+|www\.\S+|[a-z0-9\-]+\.(?:gov|nic)\.in\S*))", re.I)
+
+
+def regex_detail(text):
+    g = lambda rx: (rx.search(text).group(1).strip(" ,.;") if rx.search(text) else "")
+    period = g(PERIOD)
+    if not re.search(r"20\d\d|\d+\s?(?:months?|years?)", period):
+        period = ""                                   # a validity statement needs a year or a duration
+    period = re.sub(r"\s+Posted On.*$", "", period)[:90]
+    return {"outlay": g(OUTLAY), "period": period, "eligibility": "", "how_to_apply": g(HOWTO)[:160], "nodal_body": ""}
 
 
 def enrich_pib(df, cache, max_llm):
@@ -157,9 +173,14 @@ def enrich_pib(df, cache, max_llm):
             text = pib_text(r.url)
             if len(text) < 200:
                 cache[ck] = {}
+            elif os.environ.get("NO_LLM_DETAIL") == "1":
+                cache[ck] = regex_detail(text)          # no model call: pattern extraction from the release text
             else:
-                cache[ck] = groq_json(DETAIL_SYS, text[:5000]) or {}
-                calls += 1; time.sleep(2.5)
+                got = groq_json(DETAIL_SYS, text[:2600], max_tokens=450)
+                calls += 1; time.sleep(7.0)   # ~1k tokens per call -> stays under 8,000 tokens/minute
+                if got is None:        # failed call: leave uncached so the next run retries
+                    continue
+                cache[ck] = got
             (OUT / "classify_cache.json").write_text(json.dumps(cache, ensure_ascii=False))
         for c in ("outlay", "period", "eligibility", "how_to_apply", "nodal_body"):
             df.at[idx, c] = (cache[ck] or {}).get(c, "") or ""
@@ -193,8 +214,23 @@ def attach_known_and_contacts(df):
     pibc_p = REPO / "data/pib_ministry_contacts.csv"
     pibc = pd.read_csv(pibc_p) if pibc_p.exists() else pd.DataFrame()
 
+    GENERIC = {"ministry", "department", "affairs", "government", "india", "dept", "development", "industry", "industries", "services",
+               "welfare", "public", "national", "empowerment", "of", "and", "the", "for"}
+
     def mkey(m):
-        return {t for t in re.split(r"[^a-z]+", str(m).lower()) if len(t) > 4 and t not in ("ministry", "department", "affairs", "government")}
+        return {t for t in re.split(r"[^a-z]+", re.sub(r"\(.*?\)", " ", str(m).lower())) if len(t) > 3 and t not in GENERIC}
+
+    dir_ministries = {m: mkey(m) for m in (direc.ministry.unique() if len(direc) else [])}
+    pib_ministries = {m: mkey(m) for m in (pibc.ministry.unique() if len(pibc) else [])}
+
+    def best_match(name, table):
+        """the single directory ministry whose distinctive tokens best overlap this one (Jaccard >= 0.34)"""
+        k = mkey(name)
+        if not k:
+            return None
+        sc = [(len(k & v) / len(k | v), m) for m, v in table.items() if v and (k & v)]
+        sc.sort(reverse=True)
+        return sc[0][1] if sc and sc[0][0] >= 0.34 else None
 
     rows = []
     for r in df.itertuples():
@@ -208,14 +244,14 @@ def attach_known_and_contacts(df):
             contacts = "; ".join(f"{x.contact} ({x.designation}{', ' + str(x.email) if isinstance(x.email, str) and x.email else ''})" for x in c.itertuples())
             evidence = "signed this instrument's documents" if contacts else ""
         if not contacts and len(direc):
-            mk = mkey(r.ministry)
-            dm = direc[direc.ministry.map(lambda m: bool(mk & mkey(m)))]
+            bm = best_match(r.ministry, dir_ministries)
+            dm = direc[direc.ministry == bm] if bm else direc.iloc[0:0]
             dm = dm[dm.designations.fillna("").str.contains(r"Secretary|Director|Scientist|Commissioner", case=False)].sort_values("n_documents", ascending=False).head(3)
             contacts = "; ".join(f"{x.signatory} ({str(x.designations).split('|')[0].strip()}{', ' + str(x.email) if isinstance(x.email, str) and x.email else ''})" for x in dm.itertuples())
             evidence = "most active signers in this ministry" if contacts else ""
         if not contacts and len(pibc):
-            mk = mkey(r.ministry)
-            pm = pibc[pibc.ministry.map(lambda m: bool(mk & mkey(m))) & pibc.contact_name.notna()].head(2)
+            bp = best_match(r.ministry, pib_ministries)
+            pm = pibc[(pibc.ministry == bp) & pibc.contact_name.notna()].head(2) if bp else pibc.iloc[0:0]
             contacts = "; ".join(f"{x.contact_name} ({x.designation}{', ' + str(x.email) if isinstance(x.email, str) and x.email else ''})" for x in pm.itertuples())
             evidence = "igod minister/secretary contact" if contacts else ""
         rows.append(dict(known_curated_instrument=kc, seen_in_document_index=(kd.instrument if kd is not None else ""),

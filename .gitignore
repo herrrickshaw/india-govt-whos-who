@@ -17,3 +17,5 @@ data/new_policies/
 data/agents/*/raw/
 data/archive_to_dropbox.log
 data/archive_shards.log
+data/states/crawl_jobs.txt
+data/states/crawl_progress.log
