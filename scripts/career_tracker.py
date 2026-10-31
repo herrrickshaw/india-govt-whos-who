@@ -327,14 +327,21 @@ def attach_to(directory_path, ev, state_mode=False):
             continue
         best.sort(reverse=True)
         date, sc, conf, i = best[0]
+        # ambiguity: the same name maps to several distinct officers (different cadre/batch in the ER sheets, or
+        # clearly different organisations on the same day) -> do not claim a move
+        strong = [b for b in best if b[1] >= 0.95]
+        persons = {(str(ev.loc[b[3], "cadre"]), str(ev.loc[b[3], "batch"])) for b in strong if str(ev.loc[b[3], "batch"]) not in ("", "nan")}
+        ambiguous = len(persons) > 1 or (len(toks) <= 2 and sum(1 for b in strong if ev.loc[b[3], "source"] == "dopt_er_sheet") > 1)
+        if ambiguous:
+            conf = "ambiguous"
         e = ev.loc[i]
         cols["latest_posting"].append(e["new_post"]); cols["latest_posting_org"].append(e["new_org"])
         cols["latest_posting_date"].append(e["event_date"]); cols["latest_posting_source"].append(e["source"])
         cols["latest_posting_url"].append(e["url"]); cols["posting_match_confidence"].append(conf)
         last_signed = str(getattr(r, "last_date", "") or "")
-        moved = bool(e["event_date"]) and bool(last_signed) and last_signed != "nan" and e["event_date"][:7] > last_signed[:7] \
+        moved = (conf in ("high", "medium")) and bool(e["event_date"]) and bool(last_signed) and last_signed != "nan" and e["event_date"][:7] > last_signed[:7] \
             and not (set(S.norm_tokens(str(r.ministry))) & set(S.norm_tokens(str(e["new_org"]))))
-        cols["moved_since_signing"].append("yes" if moved else ("same org / older" if e["event_date"] else "undated"))
+        cols["moved_since_signing"].append("ambiguous name" if conf == "ambiguous" else ("yes" if moved else ("same org / older" if e["event_date"] else "undated")))
         cols["career_events_n"].append(len(best))
     for k, v in cols.items():
         d[k] = v

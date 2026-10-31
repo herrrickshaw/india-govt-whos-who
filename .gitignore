@@ -15,3 +15,5 @@ data/career/articles/
 data/career/llm_cache.json
 data/new_policies/
 data/agents/*/raw/
+data/archive_to_dropbox.log
+data/archive_shards.log
