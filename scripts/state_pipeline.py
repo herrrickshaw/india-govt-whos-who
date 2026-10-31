@@ -17,7 +17,7 @@ Run:   /usr/bin/python3 scripts/state_pipeline.py <stage|all> --states UP,TN,KL 
 Needs: pdftotext/pdfinfo/pdftoppm, tesseract with the Indic language packs, `pip install --user indic_transliteration`,
        GROQ_API_KEY in ~/.config/market-secrets/credentials.env for translation (otherwise rule-based transliteration only).
 """
-import argparse, csv, json, os, re, subprocess, sys, time, unicodedata
+import os, argparse, csv, json, os, re, subprocess, sys, time, unicodedata
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 from urllib.parse import urlparse
@@ -284,12 +284,15 @@ def whoswho(args):
     out_path = STATES_DIR / "state_officials.csv"
     done = set()
     if out_path.exists():
-        prev = pd.read_csv(out_path)
-        done = set(prev[prev.name.notna() & (prev.name.astype(str).str.strip() != "")].website)
-        prev[prev.website.isin(done)].to_csv(out_path, index=False)   # drop empty placeholders so they are rescanned
+        try:
+            done = set(pd.read_csv(out_path).website)      # every site already attempted (incl. 'none found' / unreachable)
+        except Exception:
+            done = set()
     rows = [r for r in t.to_dict("records") if r["website"] not in done]
     print(f"whoswho: {len(rows)} sites to scan ({len(done)} done)")
-    results = []
+    COLS = ["state", "department", "website", "name", "designation", "division", "room", "phones", "email", "source_url"]
+    if not out_path.exists():
+        pd.DataFrame(columns=COLS).to_csv(out_path, index=False)
 
     def job(r):
         try:
@@ -302,27 +305,36 @@ def whoswho(args):
                 except requests.RequestException as e:
                     return r, "", [], f"unreachable: {type(e).__name__}"
             name, website, used, offs = W.scrape_ministry({"name": r["name"], "website": r["website"], "igod_org_id": r["igod_org_id"] or ""})
-        except Exception as e:  # noqa
+        except BaseException as e:  # noqa: a worker must never take the stage down
             return r, "", [], str(e)[:100]
         return r, used, offs, ""
 
-    with ThreadPoolExecutor(max_workers=8) as ex:
-        for i, (r, used, offs, err) in enumerate(ex.map(job, rows), 1):
-            print(f"  [{i}/{len(rows)}] {r['state']} {r['name'][:50]}: {len(offs)} {'(' + used + ')' if used else err or '(no whos-who)'}")
-            for o in offs:
-                results.append({"state": r["state"], "department": r["name"], "website": r["website"],
-                                "name": o.get("name", ""), "designation": o.get("designation", ""), "division": o.get("division", ""),
-                                "room": o.get("room", ""), "phones": "; ".join(o.get("phones") or []) if isinstance(o.get("phones"), list) else o.get("phones", ""),
-                                "email": o.get("email", ""), "source_url": used})
-            if not offs:
-                results.append({"state": r["state"], "department": r["name"], "website": r["website"], "name": "", "designation": "",
-                                "division": "", "room": "", "phones": "", "email": "", "source_url": used or f"(none: {err})"})
-    df = pd.DataFrame(results)
-    if out_path.exists():
-        df = pd.concat([pd.read_csv(out_path), df], ignore_index=True)
-    df.to_csv(out_path, index=False)
-    real = df[df.name.astype(str).str.strip() != ""]
-    print(f"whoswho: {len(real)} officers across {real.department.nunique()} departments -> {out_path}")
+    def to_rows(r, used, offs, err):
+        rows = [{"state": r["state"], "department": r["name"], "website": r["website"],
+                 "name": o.get("name", ""), "designation": o.get("designation", ""), "division": o.get("division", ""),
+                 "room": o.get("room", ""), "phones": "; ".join(o.get("phones") or []) if isinstance(o.get("phones"), list) else o.get("phones", ""),
+                 "email": o.get("email", ""), "source_url": used} for o in offs]
+        return rows or [{"state": r["state"], "department": r["name"], "website": r["website"], "name": "", "designation": "",
+                         "division": "", "room": "", "phones": "", "email": "", "source_url": used or f"(none: {err})"}]
+
+    import concurrent.futures as cf, threading
+    DEADLINE = float(os.environ.get("WHOSWHO_STAGE_HOURS", "3")) * 3600
+    t0 = time.time()
+    ex = ThreadPoolExecutor(max_workers=8)
+    futs = {ex.submit(job, r): r for r in rows}
+    n_done = 0
+    try:
+        for fut in cf.as_completed(futs, timeout=DEADLINE):
+            r, used, offs, err = fut.result()
+            n_done += 1
+            print(f"  [{n_done}/{len(rows)}] {r['state']} {r['name'][:50]}: {len(offs)} {'(' + used + ')' if used else err or '(no whos-who)'}", flush=True)
+            pd.DataFrame(to_rows(r, used, offs, err), columns=COLS).to_csv(out_path, mode="a", header=False, index=False)   # saved immediately
+    except cf.TimeoutError:
+        print(f"whoswho: stage deadline reached after {DEADLINE/3600:.1f} h; abandoning {len(rows) - n_done} unfinished sites", flush=True)
+    ex.shutdown(wait=False, cancel_futures=True)
+    df = pd.read_csv(out_path)
+    real = df[df.name.notna() & (df.name.astype(str).str.strip() != "")]
+    print(f"whoswho: {len(real)} officers across {real.department.nunique()} departments -> {out_path}", flush=True)
 
 
 def crawl(args):
