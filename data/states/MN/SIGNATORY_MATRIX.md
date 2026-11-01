@@ -1,44 +1,44 @@
 # MN — who signed what — officers ↔ orders / notifications matrix
 
-_Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (31 ministries/departments)._
+_Built 2026-11-02 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (31 ministries/departments)._
 
 ## Funnel
 
 | Stage | Count |
 |---|---|
-| Candidate order/notification/circular/OM/gazette PDFs in the document index | 300 |
+| Candidate order/notification/circular/OM/gazette PDFs in the document index | 464 |
 | PDFs fetched | 0 |
-| PDFs with machine-readable text | 105 |
-| PDFs with a detectable signature block | 107 |
-| Signatures matched to a roster officer | 30 documents / 13 officers |
-| Signatures not matched (person not in any roster, or moved) | 84 |
+| PDFs with machine-readable text | 155 |
+| PDFs with a detectable signature block | 157 |
+| Signatures matched to a roster officer | 44 documents / 16 officers |
+| Signatures not matched (person not in any roster, or moved) | 120 |
 
 ## Per ministry
 
 | Ministry | candidates | fetched | signature found | matched docs | officers linked |
 |---|---|---|---|---|---|
-| Art and Culture Department, Manipur | 14 | 0 | 1 | 0 | 0 |
+| Art and Culture Department, Manipur | 20 | 0 | 1 | 0 | 0 |
 | Chandel | 6 | 0 | 2 | 2 | 1 |
 | Churachandpur | 4 | 0 | 3 | 3 | 3 |
-| Co-operative Department, Manipur | 14 | 0 | 7 | 3 | 1 |
+| Co-operative Department, Manipur | 18 | 0 | 8 | 3 | 1 |
 | Consumer Affairs, Food and Public Distribution Department, Manipur | 8 | 0 | 5 | 4 | 1 |
 | Council of Higher Secondary Education, Manipur | 14 | 0 | 7 | 0 | 0 |
 | Department of Horticulture & Soil Conservation, Manipur | 11 | 0 | 4 | 0 | 0 |
-| Department of Information & Communication Technology, Manipur | 14 | 0 | 4 | 0 | 0 |
-| Directorate of Health Services, Manipur | 14 | 0 | 8 | 0 | 0 |
+| Department of Information & Communication Technology, Manipur | 25 | 0 | 9 | 0 | 0 |
+| Directorate of Health Services, Manipur | 55 | 0 | 19 | 0 | 0 |
 | Directorate of Printing and Stationary, Manipur | 11 | 0 | 9 | 8 | 1 |
-| Directorate of SCERT, Manipur | 14 | 0 | 5 | 0 | 0 |
-| Education (School) Department, Manipur | 14 | 0 | 1 | 1 | 1 |
+| Directorate of SCERT, Manipur | 20 | 0 | 6 | 0 | 0 |
+| Education (School) Department, Manipur | 27 | 0 | 7 | 1 | 1 |
 | Family Welfare Department, Manipur | 10 | 0 | 6 | 1 | 1 |
 | GRAS-Government Receipt Accounting System, Manipur | 4 | 0 | 0 | 0 | 0 |
-| General Administration Department, Manipur | 14 | 0 | 5 | 0 | 0 |
-| Information Technology Department, Manipur | 14 | 0 | 1 | 1 | 1 |
+| General Administration Department, Manipur | 19 | 0 | 7 | 0 | 0 |
+| Information Technology Department, Manipur | 18 | 0 | 1 | 1 | 1 |
 | Liberal College, Luwangsangbam, Manipur | 3 | 0 | 1 | 0 | 0 |
 | Manipur Police, Manipur | 1 | 0 | 0 | 0 | 0 |
 | Manipur Pollution Control Board (MPCB), Manipur | 12 | 0 | 4 | 0 | 0 |
-| Manipur Renewable Energy Development Agency (MANIREDA), Manipur | 14 | 0 | 10 | 2 | 1 |
-| Minority Affairs Department, Manipur | 14 | 0 | 1 | 0 | 0 |
-| National Health Mission, Manipur | 1 | 0 | 0 | 0 | 0 |
+| Manipur Renewable Energy Development Agency (MANIREDA), Manipur | 34 | 0 | 26 | 15 | 4 |
+| Minority Affairs Department, Manipur | 52 | 0 | 6 | 1 | 1 |
+| National Health Mission, Manipur | 17 | 0 | 3 | 0 | 0 |
 | Planning Department, Manipur | 9 | 0 | 4 | 0 | 0 |
 | Public Health Engineering Department, Manipur | 12 | 0 | 2 | 0 | 0 |
 | Public Works Department (PWD), Manipur | 13 | 0 | 5 | 0 | 0 |
@@ -63,6 +63,12 @@ Full pivot: `officer_topic_pivot.csv`; long form with example titles and URLs: `
 ## Contact person by topic
 
 For each ministry and topic, the roster officers who signed the most documents on it (name, roster designation, email).
+
+### CEO, Manipur and Commissioner-cum-Secretary (Cooperation/Power) & Member Secretary (MANIREDA) & Officer-in-Charge, Public Grievances Redressal & Anti-Corruption Cell, Chief Minister’s Office in addition and Resident Commissioner, New Delhi in addition
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| HR: leave / pay / allowances / service rules |  |
 
 ### Commissioner-cum-Secretary (WR) and SCERT/Adult Education/End.-S) CEO/MIDA)/ Hr. & Tech
 
@@ -123,6 +129,12 @@ For each ministry and topic, the roster officers who signed the most documents o
 |---|---|
 | Other / unclassified | **Robert Sharma** — Director(IT) — robert.sharma@gov.in (1) |
 
+### Joint Secretary (MAHUD)
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| HR: leave / pay / allowances / service rules |  |
+
 ### Joint Secretary, M/o Housing and Urban Affairs, GoI, New Delhi (On Central Deputation)
 
 | Topic | Contact officers (docs signed) |
@@ -134,6 +146,12 @@ For each ministry and topic, the roster officers who signed the most documents o
 | Topic | Contact officers (docs signed) |
 |---|---|
 | HR: leave / pay / allowances / service rules | **Wakambam Suraj Singh** — Joint Director — wsuraj_singh@yahoo.co.in (2) |
+
+### Secretary, Department of Commerce, Ministry of Commerce and Industry, GoI, New Delhi (On Central Deputation)
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| Other / unclassified |  |
 
 ### Special Secretary (MI/CADA)
 
@@ -155,9 +173,11 @@ People who sign orders for a ministry but are not on its who's-who page / igod /
 
 | Ministry | Signatory (as printed) | Signed as | Documents | Latest |
 |---|---|---|---|---|
-| Manipur Renewable Energy Development Agency (MANIREDA), Manipur | N. Praveen Singh | Director, MANIREDA | 7 |  |
+| Directorate of Health Services, Manipur | Somorjit Salam | Director of Medical Education / Director of Medical Education, Manipur | 9 |  |
+| Manipur Renewable Energy Development Agency (MANIREDA), Manipur | N. Praveen Singh | Director, MANIREDA | 8 |  |
+| Education (School) Department, Manipur | Ng. Bhogendra Meitei | Director o f Educations), Manipur / Director of Education (S), | 6 |  |
 | Council of Higher Secondary Education, Manipur | Kh. Ashikumar | Secretary / Secretary, | 4 |  |
-| Directorate of Health Services, Manipur | Somorjit Salam | Director of Medical Education / Director of Medical Education, Manipur | 4 |  |
+| Directorate of Health Services, Manipur | N Hemantakumar Singh | Director of Health Services / Director of Health Services, Govt. of Manipur | 4 |  |
 | Family Welfare Department, Manipur | L. Tomcha Khuman | Director / Director, | 4 |  |
 | General Administration Department, Manipur | Asem Rangina Chanu | Deputy Secretary / Deputy Secretary , | 4 |  |
 | Planning Department, Manipur | N. Kulkarani Devi | Executive Officer / Joint Director (Planning | 4 |  |
@@ -167,6 +187,8 @@ People who sign orders for a ministry but are not on its who's-who page / igod /
 | Family Welfare Department, Manipur | Sonia Oinam | Joint Secretary (Family Welfare / Joint Secretary(Family Welfare | 2 |  |
 | Manipur Pollution Control Board (MPCB), Manipur | BISHWANATH SINHA | Joint Secretary to Government of India / Jt. Secy | 2 |  |
 | Manipur Pollution Control Board (MPCB), Manipur | W. Roshan Singh | Secretary | 2 |  |
+| Minority Affairs Department, Manipur | Koshoni Phimu | Deputy Secretary (MA), | 2 |  |
+| National Health Mission, Manipur | Suresh K. Mohammed | Director (NRHM/RCH/Donor Coordination) | 2 |  |
 | Sarva Shiksha Abhiyan (SSA), Manipur | N. Praveen Singh | Director, | 2 |  |
 
 ## Caveats

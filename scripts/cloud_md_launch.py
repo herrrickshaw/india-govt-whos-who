@@ -78,7 +78,10 @@ def build_manifest(workers, final=None):
         j.update(get_url=presign("get_object", j.pop("in_key")), put_url=presign("put_object", j["out_key"]),
                  meta_url=metas[j["tree"]], ocr_lang=lang_for(j["tree"]), ocr_pages=10)
         j.pop("out_key")
-    s3.put_object(Bucket=BUCKET, Key="status/status.json", Body=b"{}", ServerSideEncryption="AES256")
+    try:                       # create the progress object once; never reset what the worker has written
+        s3.head_object(Bucket=BUCKET, Key="status/status.json")
+    except Exception:
+        s3.put_object(Bucket=BUCKET, Key="status/status.json", Body=b"{}", ServerSideEncryption="AES256")
     man = dict(jobs=jobs, workers=workers, status_put_url=presign("put_object", "status/status.json", "application/json"))
     buf = io.BytesIO()
     with tarfile.open(fileobj=buf, mode="w:gz") as t:
@@ -160,14 +163,26 @@ if __name__ == "__main__":
     a = ap.parse_args()
     if a.cmd == "manifest":
         build_manifest(a.workers)
-    elif a.cmd == "feeder":     # keep manifests/next.json current while the Dropbox->S3 copy is still running
-        expected = len([l for l in subprocess.run(["rclone", "lsf", "dropbox:india-govt-yellow-pages-archive/zips", "-R", "--files-only", "--include", "*__pdf/**"], capture_output=True, text=True).stdout.split() if l.endswith(".zip")])
-        print("expected shards:", expected, flush=True)
+    elif a.cmd == "feeder":     # keep manifests/next.json current; keep copying NEW Dropbox shards to S3; mark final when nothing more can arrive
+        env = dict(os.environ, RCLONE_CONFIG_AWSS3_TYPE="s3", RCLONE_CONFIG_AWSS3_PROVIDER="AWS", RCLONE_CONFIG_AWSS3_ENV_AUTH="true", RCLONE_CONFIG_AWSS3_REGION=REGION)
+        def dropbox_pdf_shards():
+            out = subprocess.run(["rclone", "lsf", "dropbox:india-govt-yellow-pages-archive/zips", "-R", "--files-only", "--include", "*__pdf/**"], capture_output=True, text=True).stdout.split()
+            return len([l for l in out if l.endswith(".zip")])
+        def running(pattern):
+            return subprocess.run(["pgrep", "-f", pattern], capture_output=True).returncode == 0
         while True:
+            expected = dropbox_pdf_shards()
             present = len([k for k, sz in list_keys("in/") if k.endswith(".zip")])
-            copying = subprocess.run(["pgrep", "-f", "rclone copy dropbox"], capture_output=True).returncode == 0
-            final = (present >= expected) and not copying
+            copying = running("rclone copy dropbox")
+            if present < expected and not copying:      # new shards appeared on Dropbox (second state batch): copy them too
+                subprocess.Popen(["rclone", "copy", "dropbox:india-govt-yellow-pages-archive/zips", f"awss3:{BUCKET}/in", "--include", "*__pdf/**", "--transfers", "4",
+                                  "--s3-chunk-size", "64M", "--s3-upload-concurrency", "4", "--retries", "5", "--log-file", str(REPO / "data/aws_copy.log"), "-v"], env=env,
+                                 stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, start_new_session=True)
+                copying = True
+            producers = running("state_pipeline.py") or running("archive_states_watch") or running("archive_shards.py")
+            final = (present >= expected) and not copying and not producers
             build_manifest(a.workers, final=final)
+            print(f"{time.strftime('%H:%M:%S')} expected={expected} in_s3={present} copying={copying} producers={producers} final={final}", flush=True)
             if final:
                 print("final manifest written", flush=True); break
             time.sleep(300)

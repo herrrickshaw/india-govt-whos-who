@@ -1,33 +1,33 @@
 # NL — who signed what — officers ↔ orders / notifications matrix
 
-_Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (19 ministries/departments)._
+_Built 2026-11-02 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (19 ministries/departments)._
 
 ## Funnel
 
 | Stage | Count |
 |---|---|
-| Candidate order/notification/circular/OM/gazette PDFs in the document index | 156 |
+| Candidate order/notification/circular/OM/gazette PDFs in the document index | 307 |
 | PDFs fetched | 0 |
-| PDFs with machine-readable text | 35 |
-| PDFs with a detectable signature block | 35 |
+| PDFs with machine-readable text | 88 |
+| PDFs with a detectable signature block | 88 |
 | Signatures matched to a roster officer | 2 documents / 2 officers |
-| Signatures not matched (person not in any roster, or moved) | 33 |
+| Signatures not matched (person not in any roster, or moved) | 86 |
 
 ## Per ministry
 
 | Ministry | candidates | fetched | signature found | matched docs | officers linked |
 |---|---|---|---|---|---|
-| Department of Taxes, Nagaland | 20 | 0 | 1 | 1 | 1 |
+| Department of Taxes, Nagaland | 125 | 0 | 36 | 1 | 1 |
 | Directorate of Home Guards, Civil Defence & State Disaster Response Force (SDRF), Nagaland | 3 | 0 | 0 | 0 | 0 |
-| Directorate of Technical Education, Nagaland | 20 | 0 | 14 | 0 | 0 |
+| Directorate of Technical Education, Nagaland | 41 | 0 | 31 | 0 | 0 |
 | Economics and Statistics Department, Nagaland | 6 | 0 | 3 | 0 | 0 |
 | Food and Civil Supplies Department, Nagaland | 1 | 0 | 0 | 0 | 0 |
-| Higher Education Department, Nagaland | 20 | 0 | 1 | 0 | 0 |
+| Higher Education Department, Nagaland | 32 | 0 | 1 | 0 | 0 |
 | Home Department, Nagaland | 4 | 0 | 1 | 0 | 0 |
 | Information Technology and Communications Department, Nagaland | 1 | 0 | 0 | 0 | 0 |
 | Information and Public Relations Department, Nagaland | 5 | 0 | 0 | 0 | 0 |
 | Kiphire | 7 | 0 | 1 | 0 | 0 |
-| Motor Vehicles Department, Nagaland | 20 | 0 | 3 | 0 | 0 |
+| Motor Vehicles Department, Nagaland | 33 | 0 | 4 | 0 | 0 |
 | New and Renewable Energy Department, Nagaland | 1 | 0 | 0 | 0 | 0 |
 | Peren | 1 | 0 | 0 | 0 | 0 |
 | Planning and Transformation Department, Nagaland | 10 | 0 | 4 | 0 | 0 |
@@ -66,9 +66,12 @@ People who sign orders for a ministry but are not on its who's-who page / igod /
 
 | Ministry | Signatory (as printed) | Signed as | Documents | Latest |
 |---|---|---|---|---|
-| Directorate of Technical Education, Nagaland | VIPULHOU LHOUNGU | Director | 12 |  |
+| Directorate of Technical Education, Nagaland | VIPULHOU LHOUNGU | Director / Director ct, | 27 |  |
+| Department of Taxes, Nagaland | Sanjay Mangal | Principal Commissioner / Principal Commissioner (GST | 18 |  |
+| Department of Taxes, Nagaland | Y. MHATHUNG MURRY | Commissioner of State Taxes | 14 |  |
 | Motor Vehicles Department, Nagaland | ELIAS T. LOTHA | Commissioner / Commissioner. | 3 |  |
 | Planning and Transformation Department, Nagaland | R. RAMAKRISHNAN | Principal Secretary to the Govt. of Nagaland | 3 |  |
+| Directorate of Technical Education, Nagaland | VIPULHOU LH GU | Director | 2 |  |
 | Economics and Statistics Department, Nagaland | NEIDILHOU ANGAMI | . Director & HOD / Additional Director & HoD | 2 |  |
 | School Education Department, Nagaland | RAZOUSEYI VESE | Director | 2 |  |
 

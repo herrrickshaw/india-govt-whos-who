@@ -299,3 +299,403 @@ c4537adea2e5355d,https://lad.hp.gov.in/sites/default/files/documents/R&amp;PRule
 7378f296868e9ed1,http://lad.hp.gov.in/sites/default/files/2024/R%26P%20Rules%20Deputy%20Director_0.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75004 ms: Couldn't connect to server,1793513653
 1af9cfad99e675c4,https://lad.hp.gov.in/sites/default/files/documents/RPRulesAssttDir2015.pdf,200,application/pdf,1,,1793513655
 0cf346d317401c47,http://lad.hp.gov.in/sites/default/files/2021-09/AC%20Ist%202021.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75005 ms: Couldn't connect to server,1793513730
+5ff2a5fb3dbc296e,https://www.hptax.gov.in/public/setpdf/Chapter XIII of Excise Policy 2025_26.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542139
+154c3d2f66aeed65,https://dhsr.hp.gov.in/Files/Regularsation of services Food Safety Officers.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542139
+9a33f40e3f78b217,https://ayurveda.hp.gov.in/RegularizationAMO&HMO.pdf,404,,0,,1793542140
+01227fa8fd738e68,https://www.hptax.gov.in/public/setpdf/Chapter XIV of Excise Policy 2025_26.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542140
+afe4dfdfaf9e9a62,https://dhsr.hp.gov.in/Files/Senior Scientist office order.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542140
+976a01785f5d0e91,https://hperc.org/wp-content/uploads/files/proposedmodelppasolar2024.pdf,200,application/pdf,1,,1793542141
+65e0a4ee5affcca4,https://planning.hp.gov.in/NewReleases\Drishti-HP-2030.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793542141
+f93b2878a8839fce,https://planning.hp.gov.in/plg_archieve\State Procedure EAP.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542141
+bcfc343165e9274d,https://www.hptax.gov.in/public/setpdf/Document 1611.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542141
+40f7d7006e47e90c,https://dhsr.hp.gov.in/Files/Notification C.Estt & PC&PNDT.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542141
+237a0fc293c9b6ae,https://www.hptax.gov.in/public/setpdf/Excise Policy 2026_27.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542142
+3ffaa7c4c44bea88,https://dhsr.hp.gov.in/Files/Deputy Government Analyst..pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542142
+123f597d1eda378a,https://hperc.org/wp-content/uploads/files/dordershp10-23.pdf,200,application/pdf,1,,1793542143
+9d451d7f204cd101,https://www.hptax.gov.in/public/setpdf/Toll Policy 2025-26.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542143
+bc6e3454620f0a3d,https://dhsr.hp.gov.in/Files/Regularization order of FSo_0.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542143
+77b961bd173eedea,https://www.hptax.gov.in/public/setpdf/Toll Policy 2026_27.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542144
+62c9bf36533a29c7,https://dhsr.hp.gov.in/Files/Tender  notice.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542144
+0b71d1288beeff86,https://agriculture.hp.gov.in/wp-content/uploads/2026/02/Corrigendum-of-e-Tender.pdf,200,application/pdf,1,,1793542145
+8b86faf356b247c1,https://agriculture.hp.gov.in/wp-content/uploads/2022/05/agriculture-department-tender.pdf,200,application/pdf,1,,1793542147
+d92fd8b8123f9b35,https://hperc.org/wp-content/uploads/files/dosolar2-2023.pdf,200,application/pdf,1,,1793542148
+12679e97a0c233b0,https://hperc.org/wp-content/uploads/files/Otwoparttariff22.pdf,200,application/pdf,1,,1793542149
+1d113705d0edd6fd,https://hperc.org/wp-content/uploads/files/ocgrf22.pdf,200,application/pdf,1,,1793542151
+0b3d3d7afd304902,https://hperc.org/wp-content/uploads/files/doGLTSolar.pdf,200,application/pdf,1,,1793542154
+f80c8d2e0e52a859,https://hperc.org/wp-content/uploads/files/noticovi22.pdf,200,application/pdf,1,,1793542156
+4ef44276f9b3a38d,https://ayurveda.hp.gov.in/AppointmentAMOEx.pdf,200,application/pdf,1,,1793542158
+e2afe541a800f030,https://hperc.org/wp-content/uploads/files/doshp2021.pdf,200,application/pdf,1,,1793542161
+89ced7e73d37c1ac,https://planning.hp.gov.in/NewReleases/6thsfc.pdf,200,application/pdf,1,,1793542162
+4a7e67652db23ca1,https://hperc.org/wp-content/uploads/files/solarpv20-21.pdf,200,application/pdf,1,,1793542164
+e2c97322afc2c6d7,https://ayurveda.hp.gov.in/Retirementlist.pdf,200,application/pdf,1,,1793542165
+7896c3709c7a845b,https://ayurveda.hp.gov.in/ExServiceMen.pdf,200,application/pdf,1,,1793542165
+5b15abc60c707e8f,https://ayurveda.hp.gov.in/Corrigendem.pdf,200,application/pdf,1,,1793542167
+f166aaf473941dcd,https://hperc.org/wp-content/uploads/files/doshp20-21.pdf,200,application/pdf,1,,1793542168
+f40000ea404deccf,https://planning.hp.gov.in/NewReleases\cor_RFP.pdf,200,application/pdf,1,,1793542170
+3fa0a65ee5f96ca6,https://hperc.org/wp-content/uploads/files/corrigendum%20PA.pdf,200,application/pdf,1,,1793542170
+7cabc8d0b2af2749,https://www.hptax.gov.in/public/notifications/17933591656ae47d3dafe73.pdf,200,application/pdf,1,,1793542170
+33bf3b4e4163ec4f,https://dest.hp.gov.in/storage/notifications/Notification_GarbageBins.pdf,200,application/pdf,1,,1793542171
+95589342b40cb1f4,https://dest.hp.gov.in/storage/notifications/PET COKE_Amendment.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542171
+1a924529052cfa74,https://hperc.org/wp-content/uploads/files/Memlaw20.pdf,200,application/pdf,1,curl: (56) Recv failure: Connection reset by peer,1793542171
+b82fe3b0e1e499f7,https://hperc.org/wp-content/uploads/files/Driver%20Advertisemnet.pdf,200,application/pdf,1,,1793542174
+0e99db6066603e5c,https://agriculture.hp.gov.in/wp-content/uploads/2025/01/RP-Rules-Director-Agriculture-Eng.pdf,200,application/pdf,1,,1793542174
+fbaf98be26f25c44,https://ddtg.hp.gov.in/wp-content/uploads/2020/04/2018_6_Short%20time%20tender%20for%20hiring%20DG%20Set%20services%20on%20rental%20basis.pdf,200,application/pdf,1,,1793542174
+73dc9cc53a004fa3,https://hperc.org/wp-content/uploads/files/practice_directions%20vc20.pdf,200,application/pdf,1,,1793542176
+674eb7870330a998,https://hperc.org/wp-content/uploads/files/corri%20to%20io%20no.%205-20.pdf,200,application/pdf,1,,1793542177
+88a791c30238d1ea,https://hperc.org/wp-content/uploads/files/2020-01-215.pdf,200,application/pdf,1,,1793542178
+67d3c3463c7f23ee,https://dhsr.hp.gov.in/Files/Tender_0.pdf,200,application/pdf,1,,1793542180
+71a3404e4611c9c0,https://hperc.org/wp-content/uploads/files/pressnote19-20.pdf,200,application/pdf,1,,1793542180
+7f3b0cd2dc4cccb9,https://dhsr.hp.gov.in/Files/Notification 30.03.2021.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542180
+9dc73dc50dbc710f,https://dhsr.hp.gov.in/Files/Notification 30.03.2021 (1).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542181
+bfb2d4281d7b20f9,https://dhsr.hp.gov.in/Files/Notification 19.10.2015 (1).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542182
+89d6f2c470b8f566,https://planning.hp.gov.in/NewReleases\VKNVY_Circular.pdf,200,application/pdf,1,,1793542183
+28d79805828108fe,https://dhsr.hp.gov.in/Files/R&PRules of Deputy Drug Controller.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542183
+47fbfdc635046582,https://dhsr.hp.gov.in/Files/Recruitment & Promotion Rules for the Post of Senior Scientist (Food).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542184
+bd9ec02963efa6c6,https://hperc.org/wp-content/uploads/files/scansupplycode3-18.pdf,200,application/pdf,1,,1793542185
+8c3f25518e525b65,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/myt/tariff_order_FY16.pdf,200,application/octet-stream,1,,1793542185
+ba45d05ce4792568,https://dhsr.hp.gov.in/Files/Recruitment & Promotion Rules for the Post of Senior Scientist (Drugs).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542185
+f8b7e4930a685f71,https://dhsr.hp.gov.in/Files/Recruitment & Promotion Rules for the Post of Junior Anajyst.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542186
+705ec089b7e141af,https://ayurveda.hp.gov.in/AppointmentAMO26.pdf,200,application/pdf,1,,1793542186
+ae022da453ec03bd,https://hperc.org/wp-content/uploads/files/2018-06-276.pdf,200,application/pdf,1,,1793542187
+8513a186769d03b5,https://dhsr.hp.gov.in/Files/Recruitment & Promotion Rules for the Post ofFood Safety Officer.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542187
+dc164f763796336a,https://dhsr.hp.gov.in/Files/Guidelines for law enforcers 2013_2.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542188
+08c8db5926f16d1a,https://hperc.org/wp-content/uploads/files/Bid%20MYT%2020-24.pdf,200,application/pdf,1,,1793542189
+be24b8b27b318da5,https://hperc.org/wp-content/uploads/files/Public%20notice%2002%2005%2018%20STOA.pdf,200,application/pdf,1,,1793542190
+ea0abd47d54de8fe,https://planning.hp.gov.in/NewReleases\circularGOI.pdf,200,application/pdf,1,,1793542193
+4d18f2a2c583a5fc,https://www.hptax.gov.in/public/notifications/17930882916ae05b236f24e.pdf,200,application/pdf,1,,1793542193
+89a1b34e31e2d514,https://hpbiodiversity.gov.in/BMC/GuidelinesforBMC_new.pdf,200,application/pdf,1,,1793542197
+76403b9186b99285,https://hperc.org/wp-content/uploads/files/finalshpdraft%2017.pdf,200,application/pdf,1,,1793542199
+635df2b4e5bac66d,https://agriculture.hp.gov.in/wp-content/uploads/2024/03/RP-Rules-AEO-dated-13-03-2024-English.pdf,200,application/pdf,1,,1793542199
+aedf2c5655a86881,https://cdn.s3waas.gov.in/s3b534ba68236ba543ae44b22bd110a1d6/uploads/2021/11/2021112580.pdf,200,application/pdf,1,,1793542200
+ee31884f109d9dbf,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/myt/mytgen-14.pdf,200,application/octet-stream,1,,1793542200
+f9194632bd84f6b8,https://cdn.s3waas.gov.in/s3b534ba68236ba543ae44b22bd110a1d6/uploads/2021/12/2021121777.pdf,200,application/pdf,1,,1793542204
+e2517820bd11a766,https://cdn.s3waas.gov.in/s3b534ba68236ba543ae44b22bd110a1d6/uploads/2018/03/2018030748.pdf,200,application/pdf,1,,1793542205
+d5c52fea3f431776,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/myt/subsidy14myt.pdf,200,application/octet-stream,1,,1793542208
+57a1e36fe89d38a4,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/myt/tariff_order_HPERC_FY14.pdf,200,text/html; charset=UTF-8,0,,1793542208
+50528981caf6d66a,https://www.himtu.ac.in/sites/default/files/2026-02/26.02.2026%20Tender%20document%20for%20Operation%20and%20Comprehensive%20Maintenance%20of%20STP_0.pdf,200,application/pdf,1,,1793542208
+4ab03d81b22118b5,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/NIT Laptop.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542209
+a52e2ff9834cf1d4,https://www.himtu.ac.in/sites/default/files/2026-02/06022026%20Tender%20Notice.pdf,200,application/pdf,1,,1793542210
+fcfb8a6a678fd543,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/CORRIGENDUM (5541-47) dt. 20.12.24.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542210
+0321785bc7e33e4e,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of Advertisement dt. 20.12.24.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542211
+8a68f86402167c96,https://www.himtu.ac.in/sites/default/files/2025-11/251125_webex-tender.pdf,200,application/pdf,1,,1793542212
+3636e75d4ee4a2e9,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/CorrigendumIII04052024.pdf,200,application/octet-stream,1,,1793542212
+e8c0e39b65babdeb,https://hpbiodiversity.gov.in/BMC/PBR%20Guidelines.pdf,200,application/pdf,1,,1793542213
+de9d00d82a0c2064,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of Tender Notice of Bid dt. 19.2.24.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542213
+6b9cc462d807f3ba,https://hpbiodiversity.gov.in/BMC/Book_1.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793542213
+1cf15a573aef5acc,https://ddtg.hp.gov.in/wp-content/uploads/2025/12/Condemnation-Policy-Himachal-Pradesh-30-1.pdf,200,application/pdf,1,,1793542213
+ad06ce04dcbe18aa,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of NIT dt. 15.3.24.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542214
+877a8d81d36acebb,https://www.himtu.ac.in/sites/default/files/2025-11/181125_CANTEEN%20TENDER%20HPTU-2025_0_0.pdf,200,application/pdf,1,,1793542214
+2367c6e9f56a6d1f,https://hpbiodiversity.gov.in/BMC/Book_2.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793542214
+2d6febba5df8d070,http://lad.hp.gov.in/sites/default/files/2024/R%26P%20Rules%20Assistant%20Director_0.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75108 ms: Couldn't connect to server,1793542214
+765a171571a88a94,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Corrigendum 12.03.24.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542215
+5cbaf1e1f2e2235e,https://hpbiodiversity.gov.in/BMC/Guidelines%20for%20Preparation%20of%20People%E2%80%99s%20Biodiversity%20Register.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793542215
+f626561482214579,https://agriculture.hp.gov.in/wp-content/uploads/2023/03/Technical-Officer-Tea-R-P-Rules-English.pdf,200,application/pdf,1,,1793542215
+203ff812676b62af,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of Advertisement dt. 6.3.24.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542216
+33fc4a39f45320f1,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/mandi20241-32 PM.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542217
+cad7424b631c84b4,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of advertisement Tender Notice for e-tendering.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542218
+c36a6c2a9f020f86,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Annual repairs maintenance of TypeIITypeVQtrs.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542219
+0f334a8e88dfbdcb,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of Advertisement dt. 15.12.23.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542220
+9c82cbbd00779f9a,https://dhsr.hp.gov.in/Files/Guidelines_healthcare_June_2018.pdf,200,application/pdf,1,,1793542221
+5df520118cd9c3a8,https://dhsr.hp.gov.in/Files/Tobacco Guidelines.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542221
+345d1ac2a77b37c7,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of Tender Notice dt. 14.12.23.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542221
+e03f322f247ebbbb,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Renovation of KH T II Set No1 at Kumar House dated 4.10.23.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542222
+e3ca20f2eb368beb,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of Tender Notice dt. 21.9.23.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542223
+6e15ad6530110d0f,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of Advertisement (3710-15) dt. 12.9.23.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542224
+a84304fe4e0293c5,https://hpbiodiversity.gov.in/BMC/Expert%20Group%20Notification.pdf,200,application/pdf,1,,1793542225
+c2ed274d8b4ee4ec,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of Advertisement (3519-24) dt. 6.9.23.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542225
+472817a62f463480,https://webdocuploader.hpseb.in/uploader/download2.php?link=/portal/tender/Publication of Tender Notice (4601-09) dt. 1.9.23.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542226
+e3cc1f9f1bdf1cdb,https://www.himtu.ac.in/sites/default/files/2025-10/181025_tender_document.pdf,200,application/pdf,1,,1793542226
+896e36f55da33643,https://dhsr.hp.gov.in/Files/guidelines_22082016.pdf,200,application/pdf,1,,1793542228
+c6d8f52675591fe6,https://dhsr.hp.gov.in/Files/SWEP Notification 16.01.2021.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542228
+b6ae5db207ef0123,https://www.jngec.ac.in/downloads/Corrigendum_25112023.pdf,200,application/pdf,1,,1793542228
+a9479acc6d19079f,https://hpbiodiversity.gov.in/BMC/Gazette_Notification_of_ABS_Guidlines%20(1)%20(1).pdf,200,application/pdf,1,,1793542228
+533fe88b48f7acbf,https://dhsr.hp.gov.in/Files/DRAFT APPLICATION FORMAT FOR EMPANELEMENT OF PRIVATE HOSPITALS (OUTSIDE STATE) AS PER STATE GOVT. EMPANELEMNT POLICY2008 (NON-CGHS) (1) (1)_removed.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542229
+1460403d366dfc98,https://www.himtu.ac.in/sites/default/files/2025-10/Notice%20For%20Inviting%20Tenders%20For%20Hiring%20Vehicle%2062.pdf,200,application/pdf,1,,1793542229
+5320e604f5bc0c83,https://www.hptax.gov.in/public/notifications/17924605566ad6c70c19e76.pdf,200,application/pdf,1,,1793542229
+b2c6c6dc00ab6f6f,https://ddtg.hp.gov.in/wp-content/uploads/2022/02/IT-Intermediary-Guidelines-and-Digital-Media-Ethics-Code-Rules-2021.pdf,200,application/pdf,1,,1793542229
+a62381a24d123ad0,https://dhsr.hp.gov.in/Files/DRAFT APPLICATION FORMAT FOR EMPANELEMENT OF PRIVATE HOSPITALS UNDER THE HP STATE SINGLE WINDOW EMPANELMENT POLICY 2021.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542230
+d215c2383a46bb22,https://hpbiodiversity.gov.in/BMC/Notification_of_Normally_Tradeded_Commidities_dt_7_April_2016.pdf,200,application/pdf,1,,1793542231
+767c7e7f9d7efbeb,https://hpbiodiversity.gov.in/BMC/Notification_threatened_species.pdf,200,application/pdf,1,,1793542233
+5d2c2783e8dd4358,https://www.himtu.ac.in/sites/default/files/2025-10/Tender%20Notice%20For%20Supply%20of%20Books%2059.pdf,200,application/pdf,1,,1793542235
+6b33433f4d4cef81,https://ayurveda.hp.gov.in/AppointmentAMO89.pdf,200,application/pdf,1,,1793542235
+563237a32d01c093,https://www.jngec.ac.in/downloads/Canteen%20Tender_301023.pdf,200,application/pdf,1,,1793542238
+49ff547547b2e979,https://dest.hp.gov.in/storage/notifications/Ban_SUP_21_1-25.pdf,200,application/pdf,1,,1793542238
+655ec608cabd10af,https://www.jngec.ac.in/downloads/Corrigendum_2_251023.pdf,200,application/pdf,1,,1793542239
+3dfced3775c2c0ec,https://ayurveda.hp.gov.in/Panchkarma.pdf,200,application/pdf,1,,1793542240
+dacdd0ab35c10601,https://hpbiodiversity.gov.in/BMC/Committee%20on%20Threatened%20Sp%20of%20HP%20Notification%20.pdf,200,application/pdf,1,,1793542243
+a6934fd8b1053497,https://hpbiodiversity.gov.in/BMC/BHS.pdf,200,application/pdf,1,,1793542243
+a72d5484ba4355c8,https://ayurveda.hp.gov.in/AMOexservice.pdf,200,application/pdf,1,,1793542244
+79121fd05414bad9,https://www.himtu.ac.in/sites/default/files/2025-10/Tender%20for%20Design%2C%20Development%2C%2058.pdf,200,application/pdf,1,,1793542245
+1507e15acef76bfa,https://www.himtu.ac.in/sites/default/files/2025-10/Corrigendum%20regarding%20extension%2057.pdf,200,application/pdf,1,,1793542245
+818a68c4d4257b2b,https://www.jngec.ac.in/downloads/Tender_reflexia_2024.pdf,200,application/pdf,1,,1793542245
+671d644dd37b1555,https://www.jngec.ac.in/downloads/Canteen Tender June 2024.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542245
+58d4395629cbafa4,https://www.jngec.ac.in/downloads/Canteen Tender August 2024.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542246
+53102b896390667e,https://rggec.ac.in/wp-content/uploads/2024/01/Limited-Tender-for-Civil-work-.pdf,200,application/pdf,1,,1793542247
+5054678457132a60,https://www.jngec.ac.in/downloads/Tenders/Tender Document_UPS Related Work.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542247
+1afe89b31706beec,https://www.jngec.ac.in/downloads/Tenders/Tender Document_Chemistry Lab Chemicals and Glasswares.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542248
+c6c55003048beab8,https://lad.hp.gov.in/sites/default/files/documents/RPRulesSectionOfficer2015.pdf,200,application/pdf,1,,1793542249
+351d627c269ca52b,https://www.jngec.ac.in/downloads/Tenders/Tender for  running Books cum Stationary Shop at JNGEC SNR.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542249
+792598a3facdd3ed,https://rggec.ac.in/wp-content/uploads/2023/12/PMSSS-students-office-order.pdf,200,application/pdf,1,,1793542250
+504151296f9dd9bd,https://www.jngec.ac.in/downloads/Lib tender for  Setting up of HFC.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542250
+36c4ee2ae3617c65,https://www.jngec.ac.in/downloads/Tender Extension of Books cum stationery shop.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542251
+2e73ad5a34579bf1,https://rggec.ac.in/wp-content/uploads/2025/07/IQAC-committee-order.pdf,200,application/pdf,1,,1793542252
+cd417d8c2a0183e5,https://lad.hp.gov.in/sites/default/files/documents/RPAmendment_07Oct2015.pdf,200,application/pdf,1,,1793542252
+446784dc9a1d81fb,https://www.jngec.ac.in/downloads/Limited Tender Notice.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542252
+c8fe0980ace3e7f1,https://ayurveda.hp.gov.in/OBC.pdf,200,application/pdf,1,,1793542253
+9efd856eff56b376,https://www.himtu.ac.in/sites/default/files/2025-10/Tender%20Document%20for%20Preparation%20jobs%2056.pdf,200,application/pdf,1,,1793542253
+f0ef30a8011853e5,https://www.jngec.ac.in/downloads/Limited Tender for RFID Card.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542253
+881ba1738904df17,https://www.jngec.ac.in/downloads/Tenders/Notice of Limited Tender for RFID Card.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542255
+08cb9d996dd5244b,https://ayurveda.hp.gov.in/GeneralCategory2007.pdf,200,application/pdf,1,,1793542255
+200c7721d8d30950,https://www.himtu.ac.in/sites/default/files/2025-10/Extension%20Notice%20regarding%20Tender%2054.pdf,200,application/pdf,1,,1793542256
+fd4bffffc076e605,https://ayurveda.hp.gov.in/DocumentVerifAMO.pdf,200,application/pdf,1,,1793542258
+1628bf5d164c5ee9,https://ayurveda.hp.gov.in/Datesforwebsite.pdf,200,application/pdf,1,,1793542259
+469b976f89735408,https://www.hp.gov.in/hpdmer/file.axd?file=2026%2f6%2fEngagement+order+of+Assistant+Staff+Nurse+in+various+Govt.+medical+Colleges-+AIMSS+Chamiana-2026.PDF,200,application/octet-stream,1,curl: (28) Operation timed out after 120003 milliseconds with 8715421 out of 9299824 bytes received,1793542259
+56bca4ca33cebab4,https://rggec.ac.in/wp-content/uploads/2026/10/Notice-Inviting-Tender-for-Supply-Installation-and-Commissioning-of-Indoor-Gym-Equipments.pdf,200,application/pdf,1,,1793542261
+34aa96ef6ef5aa1c,https://ayurveda.hp.gov.in/Notification.pdf,200,application/pdf,1,,1793542263
+686416658b4a695c,https://ayurveda.hp.gov.in/regularization of contractual Lecturer.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542263
+a6d2fd84862e2693,https://ayurveda.hp.gov.in/ReConstituted Committe.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542264
+7a98bdca68922c91,https://www.hp.gov.in/hpdmer/file.axd?file=2026%2f6%2fAppointment+order+of+Jr.+Resident+-Pt.+JLNGMC%2cChamba-+June-2026.PDF,200,application/octet-stream,1,,1793542266
+464e94fa75d90aed,https://rggec.ac.in/wp-content/uploads/2026/09/Notice-Inviting-Limited-Tender-for-Group-Insurance-for-students-of-RGGEC.pdf,200,application/pdf,1,,1793542268
+6c98a6935bea3bbd,https://www.himtu.ac.in/sites/default/files/2025-10/TENDER%20DOCUMENT%20of%20Preparation%2053.pdf,200,application/pdf,1,,1793542269
+fd00a66e42efc54d,https://www.jngec.ac.in/downloads/Tenders/Tender_Lunch.pdf,200,application/pdf,1,,1793542271
+74585c07ff25a70f,https://www.jngec.ac.in/downloads/Tenders/Corrigendum for Providing Lunch (Mandyali Dham) During TWASK-2025.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542271
+28ddb011edd5e680,https://www.jngec.ac.in/downloads/Tenders/Tender_Light and Sound.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542272
+653981265110ae8c,https://www.hp.gov.in/hpdmer/file.axd?file=2026%2f6%2fAppointment+order+of+Jr.+Resident+at+Dr.+YSPGMC%2c+Nahan-June%2c+2026.PDF,200,application/octet-stream,1,,1793542272
+aef0c87860ec1eb0,https://www.jngec.ac.in/downloads/Tenders/Corrigendum for Providing Light & Sound Arrangements During TWASK-2025.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542273
+5df1849e2d08c1c3,https://www.jngec.ac.in/downloads/Tenders/Tender_Tent and Seating.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542274
+19a36d0f40520ed7,https://rggec.ac.in/wp-content/uploads/2026/09/Revised-GYM-Tender-as-per-Corrigendum-II-with-updated-BOQ.pdf,200,application/pdf,1,,1793542274
+440975e2570a03a9,https://lad.hp.gov.in/sites/default/files/documents/RPAmendment_30Mar2017.pdf,200,application/pdf,1,,1793542274
+d0a834e685170943,https://www.jngec.ac.in/downloads/Tenders/Corrigendum for Providing Tent & Seating Arrangements During TWASK-2025.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542275
+82bd2496c0939cd4,https://www.jngec.ac.in/downloads/Tenders/CCTV Limited Tender .pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542276
+3d2dddf93fec9f70,https://rggec.ac.in/wp-content/uploads/2026/09/Corrigendum-II-Gym-Tender.pdf,200,application/pdf,1,,1793542276
+d89775ee8ff588cb,https://www.jngec.ac.in/downloads/Tenders/Limited Tender Notice.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542277
+ef0be80b754e2bb6,https://agriculture.hp.gov.in/wp-content/uploads/2023/03/Amendment-in-RP-Rules-of-Surveyor-English.pdf,200,application/pdf,1,,1793542277
+34570ac786debd86,https://ayurveda.hp.gov.in/AppointmentorderofAyurvedicPharmacist.pdf,200,application/pdf,1,,1793542279
+e802d0fb2a245ed9,https://hpbiodiversity.gov.in/BMC/Rajpatra%20of%20Himachal%20Pradesh%20(BHS).pdf,200,application/pdf,1,,1793542281
+e7efcba1db66eb63,https://rggec.ac.in/wp-content/uploads/2026/08/Revised-GYM-Tender-as-per-Corrigendum-with-updated-BOQ.pdf,200,application/pdf,1,,1793542281
+d29c017e684db788,https://ayurveda.hp.gov.in/ayushhealth.pdf,200,application/pdf,1,,1793542282
+d3448fe38a8f773d,https://rggec.ac.in/wp-content/uploads/2026/08/Corrigendum-Gym-Tender-29_08_26.pdf,200,application/pdf,1,,1793542284
+273b293b41213b29,https://ayurveda.hp.gov.in/COVID-19testing.pdf,200,application/pdf,1,,1793542288
+01d52a1107306ea6,https://rggec.ac.in/wp-content/uploads/2026/08/Notice-Inviting-Tender-for-Supply-Installation-and-Commissioning-of-Indoor-Gym-Equipments.pdf,200,application/pdf,1,,1793542291
+cd25fe5168fb2052,https://ddtg.hp.gov.in/wp-content/uploads/2024/08/109-Hosting-Policy-SDC_compressed.pdf,200,application/pdf,1,,1793542293
+9466aea4ed2dc531,https://www.himtu.ac.in/sites/default/files/2025-10/Tender%20for%20Printing%20and%20Supply%20of%2052.pdf,200,application/pdf,1,,1793542297
+fdab8129b941b7db,https://www.himtu.ac.in/sites/default/files/2025-10/Tender%20for%20Supply%20of%20Books%20for%20the%20Librar%2051.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793542297
+c9777d69000aeb4f,https://dest.hp.gov.in/storage/notifications/FlexBanner_Notification.pdf,200,application/pdf,1,,1793542299
+ed9438f86015981a,https://ayurveda.hp.gov.in/GeneraladvisoryregardigCOVID-19.pdf,200,application/pdf,1,,1793542300
+59013911b63d6f58,https://ayurveda.hp.gov.in/CorrigendumtoEoIforYogaGuides.pdf,200,application/pdf,1,,1793542302
+c3c0fa546bc35ee2,https://www.himtu.ac.in/sites/default/files/2025-10/Corrigendum%20regarding%20Preparation%20jobs%2050.pdf,200,application/pdf,1,,1793542302
+9fe403cfca0e930b,https://www.himtu.ac.in/sites/default/files/2025-10/Corrigendum%20regarding%20Preparation%2049.pdf,200,application/pdf,1,,1793542303
+ca34af02c138c73b,https://rggec.ac.in/wp-content/uploads/2026/06/Notice-Inviting-Tender-in-offline-Mode-for-Supply-of-Library-Books.pdf,200,application/pdf,1,,1793542304
+5b57050d797fecd7,https://www.himtu.ac.in/sites/default/files/2025-11/29.11.2025Corrigendum%20of%20date%20sheet%20UG%20and%20PG%20for%20end%20Semester%20Examination%20December%2C2025.pdf,200,application/pdf,1,,1793542305
+0c26eeafd62144bb,https://rggec.ac.in/wp-content/uploads/2026/04/Notice-Inviting-Tender-for-AMC-of-IT-Infrastructure-Equipments.pdf,200,application/pdf,1,,1793542307
+544ae0b8e88abdd3,https://www.hp.gov.in/hpdmer/file.axd?file=2026%2f8%2fEngagement+order+of+Assistant+Staff+Nurse+(Post+Code+25026)+in+various+Govt.+medical+Colleges-+AIMSS+Chamiana-2026.pdf,200,application/pdf,1,,1793542307
+42599b9998212b5d,https://dest.hp.gov.in/storage/notifications/OM_E-Waste_.pdf,200,application/pdf,1,,1793542308
+1b9c5b6e73c494f9,https://dest.hp.gov.in/storage/notifications/ADMN FEE FORMAT.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542308
+74cb7e9e218c43bb,https://www.himtu.ac.in/sites/default/files/2025-09/050925_Tender_supply-installation_computer_accessories.pdf,200,application/pdf,1,,1793542309
+29e1f486818c5e80,https://dest.hp.gov.in/storage/notifications/Constitution of the Committee.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542309
+81529719fdd368aa,https://dest.hp.gov.in/storage/notifications/Officers Authorized to Institute the proceedings under HP Non-B.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542310
+2431df0e6acc91ae,https://hpsvacb.hp.gov.in/storage/app/media/uploaded-files/pro-forma-for-prosecution-sanction-order-for-public-servent-who-may-be-removed-by-board-corporation-society.pdf,200,application/pdf,1,,1793542311
+831ab4973d5aeabd,https://planning.hp.gov.in/NewReleases\Guidelines_for_Special_Assistance_to_States_for_Capital_Investment_for_2022-23.pdf,200,application/pdf,1,curl: (28) Operation timed out after 120005 milliseconds with 6602240 out of 11751189 bytes received,1793542313
+eacd1851620ab805,https://dest.hp.gov.in/storage/notifications/BRNB422001D3803_019107.pdf,200,application/pdf,1,,1793542315
+7d9b011beb7bc5fb,https://www.hp.gov.in/hpdmer/file.axd?file=2018%2f6%2fNOTICE+INVITING+EXPRESSION+OF+INTEREST+FOR+OPENING+OF+B.SC.+NURSING+COLLEGE+AND+GENERAL+NURSING+AND+MIDWIFERY+(GNM)+TRAINING+SCHOOLS+AT+TANDA+LOCATION+IN+HIMACHAL+PRADESH..pdf,200,application/pdf,1,,1793542315
+ccdefcd0315f22ea,https://rggec.ac.in/wp-content/uploads/2026/03/Tender-offiline-mode-for-Supply-of-Printed-Books-for-Library.pdf,200,application/pdf,1,,1793542318
+c32ff56355e4e450,https://rggec.ac.in/wp-content/uploads/2026/03/Limited-Tender-for-Purchase-of-Projectors-with-Buyback.pdf,200,application/pdf,1,,1793542319
+8449b3b4fb318db2,https://rggec.ac.in/wp-content/uploads/2026/03/Limited-Tender-for-purchase_Installation-of-Batteries-100AH.pdf,200,application/pdf,1,,1793542320
+4f3f5ad25626f1a8,https://dest.hp.gov.in/storage/notifications/StateFuelPolicy_Amend.pdf,200,application/pdf,1,,1793542320
+bdef700441b536ac,https://dest.hp.gov.in/storage/notifications/AmendmentNon-wovenCarryBagsThicknessdated30_07_2022.pdf,200,application/pdf,1,,1793542322
+9df470be94e28ee1,https://dest.hp.gov.in/storage/notifications/AuthorizationofOfficersfor compoundingoffences_ SUP20_07_2022.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542322
+513905ee305c804c,https://hpsvacb.hp.gov.in/storage/app/media/uploaded-files/pro-forma-for-prosecution-sanction-order-for-retired-gazetted-officer-public-servent.pdf,200,application/pdf,1,,1793542323
+22e296ca12edf68d,https://dest.hp.gov.in/storage/notifications/not241298_A1b.pdf,200,application/pdf,1,,1793542323
+4a91bcf984bd5701,https://www.hp.gov.in/hpdmer/file.axd?file=2020%2f12%2fNew+policy+for+opening+of+nursing+Institution+in+the+State+in+the+year+2020.PDF,200,application/octet-stream,1,,1793542323
+48d4e21eced0e29d,https://planning.hp.gov.in/NewReleases\notification_SPB.pdf,200,application/pdf,1,,1793542324
+824e52a772f4f9ca,https://rggec.ac.in/wp-content/uploads/2026/02/Notice-Inviting-Tender-for-AMC-of-IT-Infrastructure.pdf,200,application/pdf,1,,1793542324
+6557a3276177fc62,https://hpbiodiversity.gov.in/BMC/Himachal__Pradesh__me__jaiv__vividhita__sambandhit_smasayaeyn__evam__sarakshan__hetu__sujhav_.pdf,200,application/pdf,1,,1793542325
+89f3aed0696e34c7,https://rggec.ac.in/wp-content/uploads/2025/12/Notice-Inviting-Limited-Tender-for-Printing-of-Examination-Answer-Sheets.pdf,200,application/pdf,1,,1793542327
+4a8a52402d00db24,https://www.hp.gov.in/hpdmer/file.axd?file=2015%2f5%2fsix+months+training+rules%2c+2014+(1).pdf,200,application/pdf,1,,1793542327
+edb732ee62d0b14b,https://www.himtu.ac.in/sites/default/files/2025-09/11425-Tender-Physics-Lab-equip.pdf,200,application/pdf,1,,1793542327
+b1c7874c70348732,https://dest.hp.gov.in/storage/notifications/EnvironmentalLeadershipAward.pdf,200,application/pdf,1,,1793542328
+736200478a86b382,https://dest.hp.gov.in/storage/notifications/not200919.pdf,200,application/pdf,1,,1793542329
+6cd35daf7a990dee,https://hpsvacb.hp.gov.in/storage/app/media/uploaded-files/pro-forma-for-prosecution-sanction-order-for-retired-public-servent-who-could-have-been-removed-by-board-corporation-society.pdf,200,application/pdf,1,,1793542331
+7c59c88915db4523,https://www.himtu.ac.in/sites/default/files/2025-09/080425-Notification-of-Online-Examination-Form-May-2025.pdf,200,application/pdf,1,,1793542332
+606059b9cb55ddc2,https://www.himtu.ac.in/sites/default/files/2025-09/2425Notification-scaled.pdf,200,application/pdf,1,,1793542333
+e63c9688c5a51fe8,https://dest.hp.gov.in/storage/notifications/not200919_0.pdf,200,application/pdf,1,,1793542335
+8752dddec36d8c77,https://www.himtu.ac.in/sites/default/files/2025-09/250425-Improvement-Term-Notification-Instructions-and-Offline-Examination-Form-May-2025_0.pdf,200,application/pdf,1,,1793542337
+c484501b0a53ad58,https://www.hpgic.co.in/tenders/Corrigendum   of LED on 22-09-2025.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542337
+892a41355084817f,https://dest.hp.gov.in/storage/notifications/Not_Polythene24012020.pdf,200,application/pdf,1,,1793542337
+3cc13903a81d31e7,https://planning.hp.gov.in/NewReleases\Cori-2-RFP.pdf,200,application/pdf,1,,1793542338
+8bab4bd714f7253f,https://www.hpgic.co.in/tenders/Corrigendum civil  signed.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542338
+cfe6d375e2d4178c,https://www.hpgic.co.in/tenders/Corrigendum furniture signed MD.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542339
+d2caaed54ef7c297,https://dest.hp.gov.in/storage/notifications/Not_Polythene05022020.pdf,200,application/pdf,1,,1793542340
+473e8ed14ef9e3bc,https://hpsvacb.hp.gov.in/storage/app/media/uploaded-files/pro-forma-for-prosecution-sanction-order-for-retired-public-servents.pdf,200,application/pdf,1,,1793542340
+3d1252cce8b668f6,https://dest.hp.gov.in/storage/notifications/Guideline_Stone_Crushing_7_June_2014.pdf,200,application/pdf,1,,1793542342
+0a84c5f4d2c9b099,https://www.hpgic.co.in/tenders/tenderpps.pdf,200,application/pdf,1,,1793542342
+0abbdf377c31bed3,https://hpsvacb.hp.gov.in/storage/app/media/Proforma-ViewallNotifications1.pdf,200,application/pdf,1,,1793542343
+3182f7decf0bf749,https://dest.hp.gov.in/storage/notifications/R_n_D_Guidelines_2.pdf,200,application/pdf,1,,1793542343
+d71906babfc8a94b,https://dest.hp.gov.in/storage/notifications/Notification 18-8-22.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542343
+e96f172f0d3ae2c2,https://hpbiodiversity.gov.in/BMC/Biodiversity%20Status%20and%20Initiatives%20in%20Himachal%20Pradesh%20.pdf,200,application/pdf,1,,1793542343
+126127c399344787,https://www.hp.gov.in/hpdmer/file.axd?file=2016%2f7%2fPolicy+for+Appointment+of+Professor%2cAstt.Professor%2cetc.(On+Contractual+basis)+in+the+newly+opened+Government+Medical+College..pdf,200,application/pdf,1,,1793542343
+405bbfcf5c4c0661,https://hpsvacb.hp.gov.in/storage/app/media/Proforma-ViewallNotifications5.pdf,200,application/pdf,1,,1793542343
+8e5480d45a214b89,https://hpbiodiversity.gov.in/Pdf/tour%20report%20uttrakhand.pdf,200,application/pdf,1,,1793542343
+69bb82cfa71cf76c,https://www.hp.gov.in/hpdmer/file.axd?file=2017%2f12%2fNotification+of+Fee+Structure+M.Sc+Nurisng+course+Private+Nursing+Colleges+by+Govt..pdf,200,application/pdf,1,,1793542344
+99e50c4a131e4db9,https://dest.hp.gov.in/storage/notifications/Ban_NonWovenCarryBags.pdf,200,application/pdf,1,,1793542344
+b7bda744cea916f2,https://www.hpgic.co.in/tenders/tendersat.pdf,200,application/pdf,1,,1793542345
+a281b34accd1eecf,https://www.hp.gov.in/hpdmer/file.axd?file=2018%2f6%2fIndian+Nursing+Council+Guidelines+for+opening+of+M.Sc+Nursing+course.pdf,200,application/pdf,1,,1793542345
+3da980c41f9ee07c,https://hpsvacb.hp.gov.in/storage/app/media/Punjab%20Vs%20Labh%20Singh%20Cr%20Appeal%20%20NO.2168%20OF%202010.pdf,200,application/pdf,1,,1793542345
+c59511b056be8025,https://agriculture.hp.gov.in/wp-content/uploads/2025/02/Office-Order-dated-18-02-2025.pdf,200,application/pdf,1,,1793542345
+ed501719d5882759,https://hpbiodiversity.gov.in/Pdf/Banjar%20LIFE%20HPSBB%20Capacity%20Building%20Workshop.pdf,200,application/pdf,1,,1793542345
+b42b633a45651029,https://www.hrtchp.com/web-content/pdf/2026/Tender_Notice_and_Document.pdf,200,application/pdf,1,,1793542345
+5973320f810f471f,https://planning.hp.gov.in/NewReleases\RFP-Consultant.pdf,200,application/pdf,1,,1793542345
+c8e5af9646df9d03,https://hpbiodiversity.gov.in/Pdf/Bar%20Association%20HHH.pdf,200,application/pdf,1,,1793542346
+ce6f6f413db904d8,https://www.hp.gov.in/hpdmer/file.axd?file=2018%2f6%2fIndian+Nursing+Council+Guidelines+for+opening+of+PB+B.Sc+Nursing+course.pdf,200,application/pdf,1,,1793542346
+3259d276fa1e3035,https://www.hrtchp.com/web-content/pdf/2026/Tender_cancel_27_1_26.pdf,200,application/pdf,1,,1793542346
+8d0bec74ad594255,https://planning.hp.gov.in/plg_Reports/APPROACH%20PAPER%20TO%20ELEVENTH%20FIVE-YEAR%20PLAN%20FOR%20HIMACHAL%20PRADESH.pdf,200,application/pdf,1,,1793542346
+78f2ae998b3a20cd,https://hpbiodiversity.gov.in/Pdf/Report%20HPU%20Law%20Workshop.pdf,200,application/pdf,1,,1793542346
+8da50e56c533ca58,https://www.hrtchp.com/web-content/pdf/2025/TenderNotice_13_11_25.pdf,200,application/pdf,1,,1793542347
+61812576fd19171d,https://www.hp.gov.in/hpdmer/file.axd?file=2018%2f6%2fIndian+Nursing+Council+Guidelines+for+opening+of+B.Sc+Nursing+course.pdf,200,application/pdf,1,,1793542347
+57361d3bea323a6f,https://www.himfed.com/assets/tender/manditender.pdf,200,application/pdf,1,,1793542347
+5c92b3c8ff4e3eed,https://himcoste.hp.gov.in/HIMCOSTE Pdf/Proceedings 2nd HIMACHAL PRADESH SCIENCE CONGRESS.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542347
+0bae131a5ff9b0d6,https://www.hpgic.co.in/tenders/tendercaramel.pdf,200,application/pdf,1,,1793542347
+6f029de28e3aa68b,https://himcoste.hp.gov.in/Science%20Popurilaztion/CSE/CSC_website/HPU.pdf,200,application/pdf,1,,1793542349
+d81b8e795981b4a9,https://www.hptax.gov.in/public/notifications/17873947136a897a99bdea6.pdf,200,application/pdf,1,curl: (28) Operation timed out after 120000 milliseconds with 11636281 out of 14572263 bytes received,1793542349
+653c556f8ae40739,https://www.hrtchp.com/web-content/pdf/2025/JOA_030125.pdf,200,application/pdf,1,,1793542349
+7a171569c955ac79,http://lad.hp.gov.in/sites/default/files/2024/R%26P%20Rules%20Section%20Officer_0.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75005 ms: Couldn't connect to server,1793542350
+0d24d0e3331eb193,https://www.hrtchp.com/web-content/pdf/2024/Cancellation_301124.pdf,200,application/pdf,1,,1793542350
+4cdcb3978b3e9f6f,https://www.hrtchp.com/web-content/pdfRPRules.pdf,404,text/html; charset=iso-8859-1,0,,1793542350
+694ad3982963ea82,https://www.hrtchp.com/web-content/pdf/2025/227_GAZETTE_22012025.pdf,200,application/pdf,1,,1793542352
+e122a9992bd5a2a6,https://himcoste.hp.gov.in/Science%20Popurilaztion/CSE/CSC_website/Programme%20Guidelines%20with%20Cover.pdf,200,application/pdf,1,,1793542352
+8d2537324303a658,https://himcoste.hp.gov.in/Science%20Popurilaztion/CSE/CSC_website/26th HP CSC-2018.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542352
+6339191c7552de04,https://himcoste.hp.gov.in/Science%20Popurilaztion/CSE/CSC_website/26th%20himachal%20science%20congress%202018%20venue.pdf,200,application/pdf,1,,1793542355
+aaeb7e429f8e19cf,https://www.hrtchp.com/web-content/pdf/2025/DJ_2025.pdf,200,application/pdf,1,,1793542357
+54a29f6aad137c03,https://www.hrtchp.com/web-content/pdf/SASCORR040517.pdf,403,application/xml,0,,1793542357
+4ae906ab74ccb3f6,https://www.hrtchp.com/web-content/pdf/cond13217.pdf,403,application/xml,0,,1793542358
+4e895aea6bc50e12,https://www.hrtchp.com/web-content/pdf/pran.pdf,403,application/xml,0,,1793542359
+683572ab289013ab,https://hpbiodiversity.gov.in/BMC/Rampur%20workshop%20Report%20Final%20Distt.pdf,200,application/pdf,1,,1793542359
+7c2bbd425bcc4f57,https://www.hrtchp.com/web-content/pdf/sus.pdf,403,application/xml,0,,1793542360
+c2592571d32b792e,https://www.hrtchp.com/web-content/pdf/promotion_cash.pdf,403,application/xml,0,,1793542361
+31ac309181000b9c,https://himcoste.hp.gov.in/RnD_Website/Research%20and%20development%20Projects/Sanction%20Order%20Pinus%20gerardiana%20and%20Mushrooms.pdf,200,application/pdf,1,,1793542362
+0c85fdf79af0990e,https://www.hrtchp.com/web-content/pdf/order.pdf,403,application/xml,0,,1793542362
+394d47388583549f,https://himcoste.hp.gov.in/RnD_Website/pdf/Startup-Official-Policy-Application-Form.pdf,200,application/pdf,1,,1793542363
+0b492b497852c411,https://www.hrtchp.com/web-content/pdf/ticket.pdf,403,application/xml,0,,1793542363
+416aeb16bf7516fa,https://www.hrtchp.com/web-content/pdf/Notification.pdf,403,application/xml,0,,1793542364
+1e047ad184b089cd,https://www.hrtchp.com/web-content/pdf/transfer.pdf,403,application/xml,0,,1793542365
+69f674446030deaf,https://www.hrtchp.com/web-content/pdf/tmpa.pdf,403,application/xml,0,,1793542366
+53f2fc4b6f3d698f,https://himcoste.hp.gov.in/RnD_Website/Research%20and%20development%20Projects/Guidelines%20for%20projects.pdf,200,application/pdf,1,,1793542366
+5aff40d16efcc4ca,https://www.hrtchp.com/web-content/pdf/condorder.pdf,403,application/xml,0,,1793542367
+49b8dfc403acd562,https://www.hrtchp.com/web-content/pdf/chowkidarorder.pdf,403,application/xml,0,,1793542368
+3ece1a813cfd55a5,https://www.hrtchp.com/web-content/pdf/porterorder.pdf,403,application/xml,0,,1793542369
+7473b94a16a2d01d,https://himcoste.hp.gov.in/RnD_Website/SCSP%202016-17/Dr.%20Sonia%20Sood.pdf,200,application/pdf,1,,1793542370
+fa9f2f685887b5ad,https://himcoste.hp.gov.in/Wetland%20Authority/Wetland_pdf/Khajjiar Sanctions.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542370
+8b983e9654966f4a,https://www.hrtchp.com/web-content/pdf/transferorder.pdf,403,application/xml,0,,1793542370
+f27b32b8b63176c9,https://himcoste.hp.gov.in/Wetland%20Authority/Wetland_pdf/management of Khajjiar and Rewalsar.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542371
+06550a864f519a73,https://himcoste.hp.gov.in/Wetland%20Authority/Wetland_pdf/Rewalsar sanction.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542372
+b7e541291ac5f7ef,https://himcoste.hp.gov.in/Wetland%20Authority/Wetland_pdf/2017-18 Pong Dam.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542373
+4dabf25c2d55b44b,https://ayurveda.hp.gov.in/BatchappointmentAMOs25072018.pdf,200,application/pdf,1,,1793542373
+995f65ec3f06bcb2,https://himcoste.hp.gov.in/Wetland%20Authority/Wetland_pdf/Chandratal 2016-17.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542374
+c4d97adc1baa055b,https://himcoste.hp.gov.in/Wetland%20Authority/Wetland_pdf/Sanction Renuka 2017-18 (1).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542375
+dd874b43f4ceb682,https://www.hpgic.co.in/tenders/tenderngb.pdf,200,application/pdf,1,,1793542389
+c954c10bb4bfb330,https://rggec.ac.in/wp-content/uploads/2025/12/Notice-Inviting-E-Tender-NIeT.pdf,200,application/pdf,1,,1793542393
+29cf6fd888a88377,https://rggec.ac.in/wp-content/uploads/2025/11/Tender-Document-AMC-of-IT-Infrastructure.pdf,200,application/pdf,1,,1793542399
+759afb662389dff8,https://www.hpgic.co.in/tenders/tenderlabel.pdf,200,application/pdf,1,,1793542399
+06cff506e9a1066a,https://www.hpgic.co.in/tenders/Short T.Tender labour cont..pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542399
+3140a1e7c97733a9,https://rggec.ac.in/wp-content/uploads/2025/08/Notice-Inviting-e-Tender-STP-RGGEC.pdf,200,application/pdf,1,,1793542400
+c4d0578dbe4f2401,https://www.hpgic.co.in/tenders/New Doc 08-05-2026 11.13.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542400
+72f523ebe207c316,https://rggec.ac.in/wp-content/uploads/2025/08/Notice-Inviting-e-Tender-for-supply-of-Library-Books.pdf,200,application/pdf,1,,1793542401
+44bb1c52ab13b998,https://www.hpgic.co.in/tenders/Labour_New Format_Amended_Reviewed23July.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542401
+2671af01251d7617,https://agriculture.hp.gov.in/wp-content/uploads/2024/09/Appointment-of-JOA-IT-Office-Order.pdf,200,application/pdf,1,,1793542402
+bb065e24e0ac1cef,https://rggec.ac.in/wp-content/uploads/2025/06/Limited-Tender-for-Setting-up-of-HFC.pdf,200,application/pdf,1,,1793542402
+6bc49458b36a8931,https://ddtg.hp.gov.in/wp-content/uploads/2024/08/148-HIMAccess-Policy.pdf,200,application/pdf,1,curl: (28) Operation timed out after 120001 milliseconds with 14778109 out of 15498796 bytes received,1793542413
+8d58c26aa3d83d89,https://www.hpgic.co.in/tenders/tenderscrap.pdf,200,application/pdf,1,,1793542416
+ef0c19d3b68c815f,https://www.hpgic.co.in/tenders/Corrigendum ENA  (1).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542416
+88ee2154c18f4e03,https://www.hpgic.co.in/tenders/tendercb (1).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542417
+0dff608d37614694,https://www.hpgic.co.in/tenders/tenderlabel (1) (1).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542418
+da7973ccef1fe893,https://hpbiodiversity.gov.in/BMC/Final%20TW%20Shimla%20Report%202017.pdf,200,application/pdf,1,,1793542428
+80f09de056a2007b,https://agriculture.hp.gov.in/wp-content/uploads/2024/12/Office-Order-dated-26-12-2024.pdf,200,application/pdf,1,,1793542437
+971b5a488e024e8c,https://agriculture.hp.gov.in/wp-content/uploads/2022/03/Appointment-of-Junior-Draughtsman.pdf,200,application/pdf,1,,1793542442
+2fc5f6f048369508,https://hpbiodiversity.gov.in/BMC/Report%20Training%20Workshop%20Chamba%20TP%20Final.pdf,200,application/pdf,1,,1793542458
+1898fff373a05f89,https://agriculture.hp.gov.in/wp-content/uploads/2022/03/Appointment-Office-Order-of-Junior-Draughtsman_compressed.pdf,200,application/pdf,1,,1793542464
+b6daa269bb9de489,https://www.hp.gov.in/hpdmer/file.axd?file=2018%2f6%2fIndian+Nursing+Council+Guidelines+for+opening+of+GNM+course.pdf,200,application/pdf,1,,1793542466
+f8c7deb09858e46e,https://planning.hp.gov.in/plg_evaluation\gujar.pdf,200,application/pdf,1,curl: (28) Operation timed out after 120005 milliseconds with 11517440 out of 23381187 bytes received,1793542467
+104ef5d779e0425a,https://www.hp.gov.in/hpdmer/file.axd?file=2018%2f6%2fIndian+Nursing+Council+Guidelines+for+opening+of+ANM+Nursing+course.pdf,200,application/pdf,1,,1793542467
+2e2e16635fe740bb,https://www.hptax.gov.in/public/notifications/17873944406a89798862a44.pdf,200,application/pdf,1,curl: (28) Operation timed out after 120001 milliseconds with 9932309 out of 13072774 bytes received,1793542469
+2b3145157a91022c,https://lad.hp.gov.in/sites/default/files/documents/RPJuniorAuditor28082015_A1b.pdf,200,application/pdf,1,curl: (28) Operation timed out after 120002 milliseconds with 10010311 out of 23517096 bytes received,1793542470
+c176c9e764220eb0,https://www.hp.gov.in/hpdmer/file.axd?file=2019%2f10%2fResident+doctor+policy.PDF,200,application/octet-stream,1,,1793542472
+bfe882f6eaedb257,https://www.hp.gov.in/hpdmer/file.axd?file=2019%2f10%2fPG(MD-MS-MDS)+Policy.PDF,200,application/octet-stream,1,,1793542473
+a159f83370d399c7,https://lad.hp.gov.in/sites/default/files/documents/RPJuniorAuditorAmendment_2016.pdf,200,application/pdf,1,,1793542474
+25c221722878ee7d,"https://hpbiodiversity.gov.in/BMC/Report%20Training%20Workshop%20Sirmour,%2022th%20May%202016%20(1).pdf",200,application/pdf,1,,1793542482
+d84858b38a451f49,https://www.hptax.gov.in/public/notifications/17865194176a7c1f794240b.pdf,200,application/pdf,1,,1793542483
+0a91846b79049e25,https://agriculture.hp.gov.in/wp-content/uploads/2023/02/Appointment-Order-of-ADO-dated-16-01-2023-N.pdf,200,application/pdf,1,,1793542505
+66b517e728144079,https://www.hp.gov.in/hpdmer/file.axd?file=2020%2f6%2fAct+of+Atal+Medical+%26+Research+University+Nerchowk+Mandi%2c+Himachal+Pradesh.pdf,200,application/pdf,1,,1793542506
+6252a31390c8108f,https://planning.hp.gov.in/plg_evaluation\fin_allocation.pdf,200,application/pdf,1,,1793542515
+8e3f176b22d51b7d,https://planning.hp.gov.in/plg_evaluation\Hand Pump.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542515
+db58f7cded55acf5,https://www.hp.gov.in/hpdmer/file.axd?file=2021%2f2%2fAmendment+in+Gazette+Notification+Regarding+PC%26PNDT+Six+Months+Training+Rules%2c+2020.pdf,200,application/pdf,1,,1793542516
+f3c30983e9819fba,https://planning.hp.gov.in/plg_evaluation\Village Health Guide.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542516
+6af3ceda834be06b,https://planning.hp.gov.in/plg_evaluation\IRDP Report.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542517
+1bfa8b8b92408eda,https://planning.hp.gov.in/plg_evaluation\Beneficiaries under Old Age Widow and National Security Pension Scheme - Himachal Pradesh.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542518
+0212dd38ef150390,https://planning.hp.gov.in/plg_evaluation\SERICULTURE.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793542520
+43a0ec461f501b27,https://planning.hp.gov.in/plg_evaluation\Functionality of Girls Toilets in HP.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542520
+fb43932d25514243,https://www.hp.gov.in/hpdmer/file.axd?file=2021%2f4%2fHimachal+Pradesh+Nurses+Registration+Act%2c+1977.pdf,200,application/pdf,1,,1793542521
+1f1b1a284f54189f,https://planning.hp.gov.in/NewReleases/Standing Order Planning Department.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542521
+6d18836ed6c67f88,https://www.hp.gov.in/hpdmer/file.axd?file=2021%2f4%2fHIMACHAL+PRADESH+PARAMEDICAL+COUNCIL+ACT%2c+2003.pdf,200,application/pdf,1,,1793542525
+fb670a5d377817c5,https://www.hp.gov.in/hpdmer/file.axd?file=2021%2f10%2fResident+doctor+policy+2019.PDF,200,application/octet-stream,1,,1793542529
+9ba2953f788c5c35,https://planning.hp.gov.in/plg_PlanFormulation/notification_SPB.pdf,200,application/pdf,1,,1793542533
+b63a89ee5976f6ac,https://www.hp.gov.in/hpdmer/file.axd?file=2021%2f10%2fPG(MD-MS-MDS)+Policy+2019.PDF,200,application/octet-stream,1,,1793542533
+18a84d89405a86b0,https://ddtg.hp.gov.in/wp-content/uploads/2023/10/GuidelinesUserManual-1-CM-Helpline.pdf,200,application/pdf,1,curl: (28) Operation timed out after 120000 milliseconds with 13057789 out of 16341047 bytes received,1793542533
+e381ee32255cb982,https://planning.hp.gov.in/plg_RIDF/MLA_Guidelines.pdf,200,application/pdf,1,,1793542534
+afe88215749083ff,https://www.hpgic.co.in/tenders/tendercar.pdf,200,application/pdf,1,curl: (28) Operation timed out after 120002 milliseconds with 2963875 out of 7178494 bytes received,1793542539
+246bbc5abb7963f4,https://www.hpgic.co.in/tenders/tendersat (1).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542539
+38b00ef976e1d1d6,http://lad.hp.gov.in/sites/default/files/2021-09/JA%20Ist%202018.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75004 ms: Couldn't connect to server,1793542549
+1e9dfe7cf410ae7e,https://lad.hp.gov.in/sites/default/files/documents/RPJuniorAuditorAmendment_2017.pdf,404,text/html; charset=UTF-8,0,,1793542551
+c488cc9b6a8bb886,https://ddtg.hp.gov.in/wp-content/uploads/2024/11/157.pdf,200,application/pdf,1,,1793542556
+1d32fbb5156e4729,https://www.hpgic.co.in/tenders/tenderena.pdf,200,application/pdf,1,,1793542570
+7c36ea4a157210ba,https://www.hpgic.co.in/tenders/tendercb.pdf,200,application/pdf,1,,1793542573
+6607c00821020957,https://www.hpgic.co.in/tenders/HPMC Tender (GeM).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542573
+67647ee000bbbb85,https://www.hpgic.co.in/tenders/20.09.2025_ RFP for Computer and Network (Digital Library).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542574
+94f6aed569d773a6,https://www.hpgic.co.in/tenders/tender led.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793542575
+b8fd9e368bcbda7c,https://www.hptax.gov.in/public/notifications/17848745986a6306666e514.pdf,200,application/pdf,1,,1793542576
+2a25ccb77cd8a71e,https://ddtg.hp.gov.in/wp-content/uploads/2026/07/145.pdf,200,application/pdf,1,,1793542585
+f6fd7d5272ba109b,https://agriculture.hp.gov.in/wp-content/uploads/2023/06/Notification-of-Revamped-PMFBY-Kharif-2023-to-Rabi-2025-26-C.pdf,200,application/pdf,1,curl: (28) Operation timed out after 120001 milliseconds with 10575575 out of 13046898 bytes received,1793542625
+29afcab0cf7bfb76,https://ddtg.hp.gov.in/wp-content/uploads/2024/08/HIMSWAN-policy-dated-9-july-24.pdf,200,application/pdf,1,,1793542626
+c3bfa6ee98b1be20,http://lad.hp.gov.in/sites/default/files/2021-09/JA%20Ist%202020.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75005 ms: Couldn't connect to server,1793542626
+17830ec9495f5b5b,https://ddtg.hp.gov.in/wp-content/uploads/2022/06/Drone-Policy.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793542626
+629cc1030c633df3,https://ddtg.hp.gov.in/wp-content/uploads/2021/09/LMK-Policy-V1.1.pdf,200,application/pdf,1,,1793542632
+6257338f6757f9ad,https://ddtg.hp.gov.in/wp-content/uploads/2024/10/E-mail_policy_of_Government_of_India.pdf,200,application/pdf,1,,1793542638
+9351b933285415c9,https://ddtg.hp.gov.in/wp-content/uploads/2024/10/Guidelines-for-E-mail-Account-Management-and-Effective-E-mail-Usage.pdf,200,application/pdf,1,,1793542645
+3ff6ab6458dd703f,https://www.hptax.gov.in/public/notifications/17845217476a5da41358324.pdf,200,application/pdf,1,,1793542667
+3b01a2aa4ccc786c,https://ddtg.hp.gov.in/wp-content/uploads/2025/12/Notification-dec-2025-RoW-Rules-2024.pdf,200,application/pdf,1,,1793542668
+0d04276fc4265de9,https://www.hptax.gov.in/public/notifications/17825622786a3fbde62e55b.pdf,200,application/pdf,1,,1793542672
+be0b13ded391998c,https://ddtg.hp.gov.in/wp-content/uploads/2020/04/IT_Policy.pdf,200,application/pdf,1,,1793542685
+2d8224ba5eebddd9,https://www.hptax.gov.in/public/notifications/17823727846a3cd9b0c6272.pdf,200,application/pdf,1,,1793542686
+a914fe0b4a962a3a,https://ddtg.hp.gov.in/wp-content/uploads/2023/08/MOA-SITEG.pdf,200,application/pdf,1,,1793542699
+da277409d79e2da8,https://www.hptax.gov.in/public/notifications/17810728446a2903cc91a9e.pdf,200,application/pdf,1,,1793542700
+8ec7a196a2d0a0ed,http://lad.hp.gov.in/sites/default/files/2021-01/HP%20SAS_1.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75002 ms: Couldn't connect to server,1793542701
+97d1c1b613f7e48a,https://www.hptax.gov.in/public/notifications/17810714846a28fe7c84aca.pdf,200,application/pdf,1,,1793542703
+3b69e74ea4176079,https://ddtg.hp.gov.in/wp-content/uploads/2023/08/117.pdf,200,application/pdf,1,,1793542705
+1184f644e39d4062,https://www.hptax.gov.in/public/notifications/17788447036a07041fa2356.pdf,200,application/pdf,1,,1793542706
+1ef71219c8525df0,https://ddtg.hp.gov.in/wp-content/uploads/2023/10/174.pdf,200,application/pdf,1,,1793542707
+1e520c4bd767d358,https://www.hptax.gov.in/public/notifications/177497389569cbf3c769c80.pdf,200,application/pdf,1,,1793542708
+e316dc4d0c701f89,https://www.hptax.gov.in/public/notifications/177497362469cbf2b8650df.pdf,200,application/pdf,1,,1793542710
+27ecf2aa0beb5974,https://ddtg.hp.gov.in/wp-content/uploads/2023/10/223.pdf,200,application/pdf,1,,1793542710
+519d402bb84afd00,https://ddtg.hp.gov.in/wp-content/uploads/2026/05/58-1.pdf,200,application/pdf,1,,1793542711
+89db2bcb7ba314c2,https://ddtg.hp.gov.in/wp-content/uploads/2023/10/Charges-for-hosting-e-governence-Apllication.pdf,200,application/pdf,1,,1793542713
+ab0a8f4a4fb468d6,https://ddtg.hp.gov.in/wp-content/uploads/2023/10/Charges-for-Pre-hosting-Security-Assessment.pdf,200,application/pdf,1,,1793542713
+258b5dc71bd8938d,https://www.hptax.gov.in/public/notifications/177497342169cbf1edae276.pdf,200,application/pdf,1,,1793542714
+269eccc6f28b8989,https://agriculture.hp.gov.in/wp-content/uploads/2023/06/Notification-of-Revamped-RWBCIS-Kharif-2023-to-Rabi-2025-26-Cupdated.pdf,200,application/pdf,1,,1793542722
+e8bc6efb5d9439a8,https://agriculture.hp.gov.in/wp-content/uploads/2023/09/Notification-dated-29-08-2023.pdf,200,application/pdf,1,,1793542726
+ffc1312903e2dc77,https://agriculture.hp.gov.in/wp-content/uploads/2024/03/Office-Order-dated-15-02-2024-Notification.pdf,200,application/pdf,1,,1793542727
+034a94dd974b0b76,https://agriculture.hp.gov.in/wp-content/uploads/2022/03/Office-Order-of-Regularization-of-Junior-Engineers.pdf,200,application/pdf,1,,1793542728
+54d47683dad63600,https://agriculture.hp.gov.in/wp-content/uploads/2022/03/Office-Order-Of-The-Post-of-Junior-Engineer.pdf,200,application/pdf,1,,1793542730
+e69b25da08727ec1,https://agriculture.hp.gov.in/wp-content/uploads/2023/05/Transfer-Order-of-DDAs-dated-20-05-2023.pdf,200,application/pdf,1,,1793542731
+eb50420e57ed917f,https://agriculture.hp.gov.in/wp-content/uploads/2026/02/SMAM-Revised-Operational-Guidelines-dated-18-12-2025.pdf,200,application/pdf,1,,1793542745
+874d1b019a73b4ec,https://agriculture.hp.gov.in/wp-content/uploads/2026/02/Digital-Agriculture-Mission-Operational-Guidelines-dated-23-09-2024-L.pdf,200,application/pdf,1,,1793542776
+8d2f922c591c8a60,http://lad.hp.gov.in/sites/default/files/2023-08/LowVisionAppointment_000010.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75006 ms: Couldn't connect to server,1793542776
+a92bac65151148b7,https://agriculture.hp.gov.in/wp-content/uploads/2022/04/Guidelines-of-Mukhya-Mantri-Kisaan-Evam-Khetihar-Mazdoor-Jeevan-compressed.pdf,200,application/pdf,1,,1793542780
+b057f26d991641e4,http://lad.hp.gov.in/sites/default/files/2023-08/ExMenAppointment_000009.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75003 ms: Couldn't connect to server,1793542851
+70849d9b3d712f3a,http://lad.hp.gov.in/sites/default/files/2023-08/LocomotorAppointment_000011.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75003 ms: Couldn't connect to server,1793542926
+bdda3e30029d3e50,http://lad.hp.gov.in/sites/default/files/2024-09/AppointmentJOAIT_000280.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75003 ms: Couldn't connect to server,1793543001
+f1302b23c9274cfc,http://lad.hp.gov.in/sites/default/files/2026-10/office%20order_000247.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75005 ms: Couldn't connect to server,1793543076
+907299c4e50ec587,http://lad.hp.gov.in/sites/default/files/CreationHPSAD_000275_page-0001.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75003 ms: Couldn't connect to server,1793543151
+8e782157f2528a99,http://lad.hp.gov.in/sites/default/files/order1.pdf,000,,0,curl: (28) Failed to connect to lad.hp.gov.in port 80 after 75005 ms: Couldn't connect to server,1793543226
+4b402aeb0325db7e,https://lad.hp.gov.in/sites/default/files/2026-10/office%20order_000247.pdf,200,application/pdf,1,,1793543229
+f5ad456024101b2c,https://lad.hp.gov.in/sites/default/files/2026-07/Adobe%20Scan%2031-Jul-2026%20%281%29.pdf,200,application/pdf,1,,1793543230
+b02030666c19274d,https://lad.hp.gov.in/sites/default/files/2026-01/trans.pdf,200,application/pdf,1,,1793543231
+f92064f979c34734,https://lad.hp.gov.in/sites/default/files/2025-11/Adobe%20Scan%2028%20Nov%202025.pdf,200,application/pdf,1,,1793543232

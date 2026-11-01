@@ -299,3 +299,415 @@ e8addc66d53fe1dc,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pd
 de0c7cf47539020d,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/FEE-115.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75018 ms: Couldn't connect to server,1793514887
 bafe50a4143df606,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/95-FAP.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75042 ms: Couldn't connect to server,1793514962
 988d1e7e1ba31f88,http://10.10.29.73:81/energy.karnataka.gov.in/public/storage/pdf-files/Lift rules.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793514962
+80cf9299a4306eb1,https://raitamitra.karnataka.gov.in/storage/pdf-files/Scheme Continuation GO of Ongoing Schemes-2022-23.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544409
+f311683300838f3d,https://bcwd.karnataka.gov.in/storage/pdf-files/NTSNT Govt Orders/19_10_2012.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544409
+2b0f8c93fa74b8ff,https://krishimaratavahini.karnataka.gov.in/storage/pdf-files/circulara-DAM/ಕಷಿ ಉತ್ಪನ್ನ ಮಾರುಕಟ್ಟೆ ಸಮಿತಿ ಪ್ರಾಂಗಣ ಉಪ-ಮಾರುಕಟ್ಟೆ ಪ್ರಾಂಗಣಗಳಲ್ಲಿ ಖಾಲಿ ಇರುವ ನಿವೇಶನಗಳು ಮತ್ತು ಅಂಗಡಿ ವ ಗೋದಾಮುಗಳನ್ನು ಲೀಸ್_ ಕಂ ಸೇಲ್_ ಆಧಾರದ ಮೇಲೆ ಹಂಚಿಕೆ ಮಾಡುವ ಕುರಿತು.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544409
+6fb26982a23b79a0,https://dwdsc.karnataka.gov.in/storage/pdf-files/DEPDGuidelines (primatric scholarship).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544409
+b371a885021aa3b9,https://energy.karnataka.gov.in/storage/pdf-files/Solar policy Amendment notification No Energy 7 vsc 2019 Dated-20-09-2019.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544409
+5c34aef07cae230d,https://www.krishimaratavahini.kar.nic.in/HTML/Downloads/23_10_2019%20Circular.pdf,000,,0,curl: (6) Could not resolve host: www.krishimaratavahini.kar.nic.in,1793544409
+dfc09a9516d5dd82,https://industry.karnataka.gov.in/storage/pdf-files/order_new_textile_and_garment_policy_2019-24.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793544409
+256e5747cb9f1165,https://dpal.karnataka.gov.in/storage/pdf-files/33%20of%201963%20.pdf,200,application/pdf,1,,1793544410
+6ff49c3f33ac47fc,https://raitamitra.karnataka.gov.in/storage/pdf-files/Scheme%20continuation order-2020-21.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544410
+eae0b8723dd949a7,https://krishimaratavahini.karnataka.gov.in/storage/pdf-files/circulara-DAM/ನಿವೇಶನಗಳನ್ನು ಲೀಸ್-ಕಂ-ಸೇಲ್ ಆಧಾರದ ಮೇಲೆ ಹಂಚಿಕೆ ಪಡೆದಿರುವ ಪೇಟೆ ಕಾರ್ಯಕರ್ತರಿಗೆ ಕಟ್ಟಡ ನಿರ್ಮಾಣ ಮಾಡ-2.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544410
+b280a3d13089c866,https://bcwd.karnataka.gov.in/storage/pdf-files/NTSNT Govt Orders/16_07_2011.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544410
+0c7fbbe6a07b847d,https://www.krishimaratavahini.kar.nic.in/HTML/Downloads/30_09_2019%20Circular.pdf,000,,0,curl: (6) Could not resolve host: www.krishimaratavahini.kar.nic.in,1793544410
+f3162dc60db34371,https://energy.karnataka.gov.in/storage/pdf-files/Kar Energy conversation and energy efficiency policy.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544410
+60f3e63e05c68e62,https://industry.karnataka.gov.in/storage/pdf-files/CI135ICS2023amendment.pdf,200,application/pdf,1,,1793544410
+863c8064dabe079d,https://www.krishimaratavahini.kar.nic.in/HTML/Downloads/15_07_2019%20circular.pdf,000,,0,curl: (6) Could not resolve host: www.krishimaratavahini.kar.nic.in,1793544411
+70c229e99ddbc874,https://krishimaratavahini.karnataka.gov.in/storage/pdf-files/circulara-DAM/ರಾಜ್ಯದಲ್ಲಿನ ಕೃಷಿ ಉತ್ಪನ್ನ ಮಾರುಕಟ್ಟೆ ಸಮಿತಿಗಳ ಪ್ರಾಂಗಣದಲ್ಲಿನ ಕಟ್ಟಡಗಳನ್ನು ಪೇಟೆಕಾರ್ಯಕರ್ತರು ಪೂರ್ವಾನುಮತಿ ಪಡೆಯದೆ ಖರೀದಿಸಿರುವುದಕ್ಕೆ ಘಟನೋತ್ತರ ಮಂಜೂರಾತಿ ನೀಡುವ ಕುರಿತು.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544411
+129ef42d6971b631,https://bcwd.karnataka.gov.in/storage/pdf-files/NTSNT Govt Orders/20_12_2010.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544411
+7249b8529513350e,https://energy.karnataka.gov.in/storage/pdf-files/RE%20Policy 2022-27 Gazette Copy-Final.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544411
+c4afa823566a7c3b,https://industry.karnataka.gov.in/storage/pdf-files/64KAISEVI2024ORDER.pdf,200,application/pdf,1,,1793544411
+9e5a2d7ac7058c07,https://krishimaratavahini.karnataka.gov.in/storage/pdf-files/circulara-DAM/ಲೀಸ್-ಕಂ-ಸೇಲ್_ ಆಧಾರದ ಮೇಲೆ ಹಂಚಿಕೆಯಾದ ನಿವೇಶನಗಳಲ್ಲಿ ನೆಲಮಹಡಿ ಜೊತೆಗೆ ಒಂದನೇ ಮಹಡಿಯನ್ನು ನಿರ್ಮಿಸಿಕೊ-2.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544412
+551f19746c7425a2,https://www.krishimaratavahini.kar.nic.in/HTML/Downloads/25_08_2018%20Circular.pdf,000,,0,curl: (6) Could not resolve host: www.krishimaratavahini.kar.nic.in,1793544412
+aa42cfb456d4a162,https://bcwd.karnataka.gov.in/storage/pdf-files/NTSNT Govt Orders/14_7_2010.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544412
+a1012308bdd3abb2,https://energy.karnataka.gov.in/storage/pdf-files/RE Policy 2022-27 Gazette Copy-Final.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544412
+97be2c2fd4095849,https://industry.karnataka.gov.in/storage/pdf-files/89kaisevi2024ORDER.pdf,200,application/pdf,1,,1793544412
+ada9d71e11d4cbe4,https://dtek.karnataka.gov.in/uploads/ipgrs%20CIRCULAR_1788259742.pdf,200,application/pdf,1,,1793544412
+e80b54a07e2c0922,https://dosel.karnataka.gov.in/uploads/media_to_upload1745222613.pdf,200,application/pdf,1,,1793544412
+c5f16b12f639417d,https://bcwd.karnataka.gov.in/storage/pdf-files/NTSNT Govt Orders/24_06_2010.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544413
+f67e3063a318caa8,https://www.krishimaratavahini.kar.nic.in/HTML/Downloads/19_05_2017%20Circular.pdf,000,,0,curl: (6) Could not resolve host: www.krishimaratavahini.kar.nic.in,1793544413
+0ef30c8872481dfc,https://industry.karnataka.gov.in/storage/pdf-files/Go/Cerulean Energy Solutions Pvt Ltd.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544413
+9465a8d7c5883e5f,https://dtek.karnataka.gov.in/uploads/Amendment%20order%20_1787290080.pdf,200,application/pdf,1,,1793544413
+e729c37ec8ea91a6,https://www.krishimaratavahini.kar.nic.in/HTML/Downloads/CIRCULAR%20CATTLES.pdf,000,,0,curl: (6) Could not resolve host: www.krishimaratavahini.kar.nic.in,1793544414
+7234bd313452ae1e,https://industry.karnataka.gov.in/storage/pdf-files/Go/Greenko Solar Energy Pvt Ltd.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544414
+d14346b2e37cf08b,https://raitamitra.karnataka.gov.in/storage/pdf-files/FarmerhighlevelCommitteegovtorder.pdf,200,application/pdf,1,,1793544414
+3c548f1c81cad752,https://bcwd.karnataka.gov.in/add-page-link/PDF/GovtOrders/NTSNT/02.06.2010.pdf,500,text/html; charset=UTF-8,0,,1793544414
+7aac9e04bfb2e41d,https://hed.karnataka.gov.in/storage/pdf-files/karnatakasanskritUniversitySyndicatenomineenotification-2024.pdf,200,application/pdf,1,,1793544414
+53cf8caaa9336dd9,https://bcwd.karnataka.gov.in/storage/pdf-files/NTSNT Govt Orders/02_06_2010.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544415
+ac345ac9a0a8a872,https://www.krishimaratavahini.kar.nic.in/HTML/Downloads/trader%20license%20DD_AD%20directions.pdf,000,,0,curl: (6) Could not resolve host: www.krishimaratavahini.kar.nic.in,1793544415
+6240532fd63cbcbf,https://industry.karnataka.gov.in/storage/pdf-files/Go/ILC Iron and Steel Pvt Ltd.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544415
+67ecafac9de7bbb2,https://hfwcom.karnataka.gov.in/uploads/Circular%20regarding%20Vacancy%20updation%20for%202026-27%20transfer_1780081915.pdf,200,application/pdf,1,,1793544415
+b3d4ce3247af77f9,https://bcwd.karnataka.gov.in/storage/pdf-files/NTSNT Govt Orders/26_03_2009.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544416
+628064f5f2faafc1,https://industry.karnataka.gov.in/storage/pdf-files/Go/ACC Ltd.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544416
+c100a72bb6383a3b,https://hfwcom.karnataka.gov.in/uploads/Image_1297_1779892487.pdf,200,application/pdf,1,,1793544416
+674b18c935395130,https://dpal.karnataka.gov.in/storage/pdf-files/33of1963TheKarnatakaPrision(SecondAmendment)Rules2006.pdf,200,application/pdf,1,,1793544416
+f39202b37da49bf6,https://bcwd.karnataka.gov.in/storage/pdf-files/NTSNT Govt Orders/22_7_2009.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544417
+119861c0cd3bed47,https://industry.karnataka.gov.in/storage/pdf-files/Go/Ace Manufacturing Systems Ltd.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544417
+2d2f4dd4e95dda1d,https://drugs.karnataka.gov.in/uploads/media_to_upload1781699952.pdf,200,application/pdf,1,,1793544418
+9e5462c64ad30ee0,https://bcwd.karnataka.gov.in/storage/pdf-files/NTSNT Govt Orders/21_03_2009.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544418
+82215f31981d2f22,https://industry.karnataka.gov.in/storage/pdf-files/Go/Brightflexi International Pvt Ltd.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544418
+cc24c12b3ce75313,https://bcwd.karnataka.gov.in/storage/pdf-files/NTSNT Govt Orders/25_03_2008.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544419
+5b2c9dc12c4dffac,https://industry.karnataka.gov.in/storage/pdf-files/Go/IFCI Infrastructure Development Ltd.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544419
+3bf79ad70b1a6afd,https://hfwcom.karnataka.gov.in/uploads/PHCO%20NOC%20COURT_1779457902.pdf,200,application/pdf,1,,1793544419
+031a740507ed27d0,"https://emapan.karnataka.gov.in/pages/Images/PDF/Circular & Annexure - About Manufacturers, Dealers & Repairers Submitting Quarterly Accounts.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544420
+f3700e86f1dd5eb8,https://dtek.karnataka.gov.in/uploads/Engineering%20level%2013a1%20to%2014%20Order%20with%20endorsement_1787219982.pdf,200,application/pdf,1,,1793544420
+9cddd1022343f57a,https://hfwcom.karnataka.gov.in/uploads/Programme%20consultant%20Notification%20copy_1777702301.pdf,200,application/pdf,1,,1793544421
+415bda001d484519,https://hfwcom.karnataka.gov.in/uploads/%E0%B2%B8%E0%B3%81%E0%B2%A4%E0%B3%8D%E0%B2%A4%E0%B3%8B%E0%B2%B2%E0%B3%86%202140595_1777008541.pdf,200,application/pdf,1,,1793544421
+56f1b04c4f714d9e,https://raitamitra.karnataka.gov.in/storage/pdf-files/PM-KISANSchemeguidelinesfinal.pdf,200,application/pdf,1,,1793544421
+fb397c83cc831011,https://emapan.karnataka.gov.in/Pages/Images/PDF/InspectionCircular.pdf,200,application/pdf,1,,1793544422
+c87ad3742e432197,https://drugs.karnataka.gov.in/uploads/media_to_upload1780072169.pdf,200,application/pdf,1,,1793544422
+383d31042223ee71,https://agriculture.karnataka.gov.in/uploads/media_to_upload1750482129.pdf,200,application/pdf,1,,1793544422
+f75d2105c9897edc,https://dom.karnataka.gov.in/uploads/GO%2025%20NEW%20MMDRPU_1789995039.pdf,200,application/pdf,1,,1793544422
+2ab8b70c3e4eb24d,https://hed.karnataka.gov.in/uploads/media_to_upload1741684658.pdf,200,application/pdf,1,,1793544423
+0196a026edc2059d,https://dpal.karnataka.gov.in/storage/pdf-files/33of1963theKarnatakaPrisons(SecondA)Rules2007.pdf,200,application/pdf,1,,1793544423
+07016d8032040894,https://hfwcom.karnataka.gov.in/uploads/Quotation%20notification%20for%20SSL%20certificate_1776082584.pdf,200,application/pdf,1,,1793544423
+ea740d0d46d11c74,https://dtek.karnataka.gov.in/uploads/st%20def%20circular%2026%2027_1785415927.pdf,200,application/pdf,1,,1793544424
+4dbac2b1cb0a3c49,https://emapan.karnataka.gov.in/Pages/Images/PDF/Circular1.pdf,200,application/pdf,1,,1793544424
+8925f8ed667f5fae,https://hed.karnataka.gov.in/uploads/media_to_upload1741685010.pdf,200,application/pdf,1,,1793544424
+ddc82e67c4921611,https://hfwcom.karnataka.gov.in/uploads/VCCM%20Paper%20Advertise%20%282%29_1775820393.pdf,200,application/pdf,1,,1793544424
+1059e378105e079d,https://emapan.karnataka.gov.in/Pages/Images/PDF/KarnatakaLegalMetrologyEnforcementRules2011.pdf,200,application/pdf,1,,1793544424
+4a15b6d321b3c37b,https://agriculture.karnataka.gov.in/uploads/media_to_upload1750932208.pdf,200,application/pdf,1,,1793544425
+eccd97b7a17ed79e,https://hed.karnataka.gov.in/uploads/media_to_upload1741685163.pdf,200,application/pdf,1,,1793544425
+000a23e8e9e36d51,https://dtek.karnataka.gov.in/uploads/Circular%20to%20heads%20of%20all%20HEI_1784893329.pdf,200,application/pdf,1,,1793544426
+5bd9a9eedf5db377,https://hed.karnataka.gov.in/uploads/media_to_upload1741685326.pdf,200,application/pdf,1,,1793544426
+48db9d34ab9bf044,https://hfwcom.karnataka.gov.in/uploads/VCCM%20Website%20Notification_1775152015.pdf,200,application/pdf,1,,1793544427
+2dea7bf7136f0e6b,https://drugs.karnataka.gov.in/uploads/media_to_upload1779800095.pdf,200,application/pdf,1,,1793544427
+14e6bcb24fa8434c,https://hed.karnataka.gov.in/uploads/media_to_upload1741685631.pdf,200,application/pdf,1,,1793544428
+65cfd4161f56bb26,https://dtek.karnataka.gov.in/uploads/Guest%20FAculty%20Notification-2026-27_compressed_1784024157.pdf,200,application/pdf,1,,1793544428
+5261f91bc96d975a,https://agriculture.karnataka.gov.in/storage/pdf-files/ಕೃಇ57ಎಎಇ2023.pdf,200,application/pdf,1,,1793544429
+888a8ca5118aaa2c,https://agriculture.karnataka.gov.in/storage/pdf-files/Govt-Orders/GO2023-24.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793544429
+cefac576fb349773,https://dom.karnataka.gov.in/uploads/Admission%20Notification%202026-27_1772693748.pdf,200,application/pdf,1,,1793544429
+909a6bb87f2ad518,https://hed.karnataka.gov.in/uploads/media_to_upload1741685901.pdf,200,application/pdf,1,,1793544430
+2de7863d10554bdf,https://hfwcom.karnataka.gov.in/uploads/Website%20Notification%206_1773831503.pdf,200,application/pdf,1,,1793544431
+f98a5c2508bb94e4,https://dosel.karnataka.gov.in/uploads/media_to_upload1742024143.pdf,200,application/pdf,1,,1793544431
+57a630dadfb63da7,https://drugs.karnataka.gov.in/uploads/media_to_upload1779800125.pdf,200,application/pdf,1,,1793544431
+2e5ec444aece624b,https://hed.karnataka.gov.in/uploads/media_to_upload1741686043.pdf,200,application/pdf,1,,1793544431
+485bfe6ff58f5334,https://hed.karnataka.gov.in/uploads/media_to_upload1741686082.pdf,200,application/pdf,1,,1793544433
+e28814b0ed79bed9,https://hfwcom.karnataka.gov.in/uploads/Draft%20Policy%20for%20Responsible%20Digital%20Use%20among%20Students_1773213925.pdf,200,application/pdf,1,,1793544433
+36b3d5c281098bb1,https://hed.karnataka.gov.in/uploads/media_to_upload1741686125.pdf,200,application/pdf,1,,1793544434
+2df12390be35f7e4,https://drugs.karnataka.gov.in/uploads/media_to_upload1774684032.pdf,200,application/pdf,1,,1793544434
+bc30ce7e721b4ab2,https://hed.karnataka.gov.in/uploads/media_to_upload1741686166.pdf,200,application/pdf,1,,1793544435
+1f29424cecd86cf7,https://hfwcom.karnataka.gov.in/uploads/PM-ABHIM%20Website%20Notification_1770715906.pdf,200,application/pdf,1,,1793544436
+8d3d244c5ec6f8a5,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/CET Examination.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544436
+3794bb9ddca01450,https://www.iiitb.ac.in/includefiles/userfiles/files/Tender-Dining%20Hall.pdf,200,application/pdf,1,,1793544436
+4728d5e32ab0ecdc,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/Ph.D Programme Entrance Test & Interview 2025-26.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544437
+8ea163d134c06912,https://www.iiitb.ac.in/includefiles/userfiles/files/Tender_Amendment_01.pdf,200,application/pdf,1,,1793544437
+d0bfdb8c2a12f592,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/Mathematics Ph.D. Entrance Exam.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544438
+801dea2aae7e6d64,https://dosel.karnataka.gov.in/uploads/media_to_upload1741157249.pdf,200,application/pdf,1,,1793544438
+6d2a30eae641435d,https://drugs.karnataka.gov.in/uploads/media_to_upload1779457101.pdf,200,application/pdf,1,,1793544438
+fd11bcd305f94c64,https://www.iiitb.ac.in/includefiles/userfiles/files/IIITB_VSG_VSA_Tender_2025_06_05.pdf,200,application/pdf,1,,1793544438
+00b8fd1c851ea252,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/Narayanaguru Jayanti 2026 Food Supply Quotation.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544439
+027e9a12f9d22d1d,https://www.iiitb.ac.in/includefiles/userfiles/files/Corrigendum-1%20for%20Testing%20Services%20RFP%20for%20Tele-Manas%20-%2009May2025.pdf,200,application/pdf,1,,1793544439
+658443c30f14191a,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/Ph.D. Entrence test 2026-27.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544440
+e1c84238e8d8dbb6,https://www.iiitb.ac.in/includefiles/userfiles/images/Security-2025-28-pdf.pdf,200,application/pdf,1,,1793544440
+b4241a7ee29a4058,https://www.iiitb.ac.in/includefiles/userfiles/files/Q%26A%20Security%20Tender-2025.pdf,200,application/pdf,1,,1793544441
+230db60419671dfc,https://www.iiitb.ac.in/includefiles/userfiles/files/corrigendum%20dated%2024_02_25%2C%20IIITB-FCLTY-001-2025.pdf,200,application/pdf,1,,1793544442
+195ab7447ff03f2c,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/Chemistry-PhD-Entrance-Examination-2026.pdf,200,application/pdf,1,,1793544443
+398fc1fa2c1946b2,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/RV Notifications Jun-July 2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544443
+d63ab29039d7fd83,https://raitamitra.karnataka.gov.in/storage/pdf-files/ScanGuideline2022-23.pdf,200,application/pdf,1,,1793544443
+58a373a3d52004fd,https://www.iiitb.ac.in/includefiles/userfiles/images/Facility-2025-28-PDF.pdf,200,application/pdf,1,,1793544444
+57524e4282f52756,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/BPED & MPED Entrance Test 2026-27.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544444
+76377e6387afe6a7,https://agriculture.karnataka.gov.in/storage/pdf-files/AGRI12AFT2022.pdf,200,application/pdf,1,,1793544444
+0ef210db2438e2fc,https://www.iiitb.ac.in/includefiles/userfiles/images/tenders/corrigendum%20dated%2030_01_25%2C%20IIITB-FCLTY-002-2025.pdf,200,application/pdf,1,,1793544444
+364cf21d9f783bb6,"https://agriculture.karnataka.gov.in/storage/pdf-files/Planning matter/108 ಕೃಉಇ 2018, 02-03-2019.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544444
+7d18e485d5529e51,https://drugs.karnataka.gov.in/uploads/media_to_upload1771834060.pdf,200,application/pdf,1,,1793544444
+a514f47c03c915b1,https://www.iiitb.ac.in/includefiles/userfiles/files/Q%26A%20Facility%20Tender-2025.pdf,200,application/pdf,1,,1793544445
+aa8563e7e0f850b0,"https://agriculture.karnataka.gov.in/storage/pdf-files/Planning matter/92 ಕೃಉಇ 2018, 31-07-19.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544445
+f69e1bf76d5cde07,https://dwdsc.karnataka.gov.in/storage/pdf-files/SeniorCitizenpolicy.pdf,200,application/pdf,1,,1793544446
+3f1a5131bcf4bed7,https://www.iiitb.ac.in/includefiles/userfiles/files/corrigendum%20dated%2024_02_25%2C%20IIITB-FCLTY-002-2025.pdf,200,application/pdf,1,,1793544446
+338009ae7b6b7cd5,https://agriculture.karnataka.gov.in/storage/pdf-files/Govt-Orders/Image_001.pdf,200,application/pdf,1,,1793544446
+6ff57b97e0478560,https://dwdsc.karnataka.gov.in/storage/pdf-files/12ExemptionfromLanguageTestforSpasticHearingImpairedLearningDisabilityMentalRetardationStudentsinCircularDegreeCourses.pdf,200,application/pdf,1,,1793544446
+10e3787b86e83cee,https://dosel.karnataka.gov.in/uploads/media_to_upload1740030214.pdf,200,application/pdf,1,,1793544447
+01f7816949688b93,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/PHD_2.pdf,200,application/pdf,1,,1793544447
+8c862479a526acf3,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/Notification (1).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544447
+e3b6a091e1fd9611,https://www.nls.ac.in/wp-content/uploads/2021/09/Tender-Document.pdf,200,application/pdf,1,,1793544447
+f10e44e4c046d3e5,https://www.nls.ac.in/wp-content/uploads/2021/09/Corrigendum-Deadline-Extension.pdf,200,application/pdf,1,,1793544448
+2b72a6270d43ac33,https://drugs.karnataka.gov.in/uploads/media_to_upload1769919513.pdf,200,application/pdf,1,,1793544448
+fe29cf3da8e0d869,https://agriculture.karnataka.gov.in/storage/pdf-files/Govt-Orders/Image_002.pdf,200,application/pdf,1,,1793544448
+6b58097dcf204362,https://agriculture.karnataka.gov.in/storage/pdf-files/Govt-Orders/Image_003.pdf,200,application/pdf,1,,1793544448
+ef3599a15a469b7d,https://dwdsc.karnataka.gov.in/storage/pdf-files/prizemoneyscholarshiprevisedorder.pdf,200,application/pdf,1,,1793544448
+aeb2d5b14118670f,https://www.nls.ac.in/wp-content/uploads/2021/10/revised-optical-fiber-tender.pdf,200,application/pdf,1,,1793544449
+fd5ce23ed0a0d9d5,https://dtek.karnataka.gov.in/uploads/GPT%20lectures%20%20Transfer%20order-2026_0001_1783686140.pdf,200,application/pdf,1,,1793544449
+37493e3884ec4eb2,https://agriculture.karnataka.gov.in/storage/pdf-files/Govt-Orders/Image_004.pdf,200,application/pdf,1,,1793544450
+8977c120e1be56bc,https://www.nls.ac.in/wp-content/uploads/2021/11/Active-components-corrigendum.pdf,200,application/pdf,1,,1793544450
+011003f35d34de21,https://www.mangaloreuniversity.ac.in/upload/2026/news-notification/Quotation-27-7-2026.pdf,200,application/pdf,1,,1793544450
+491ac4030c24c10f,https://vtu.ac.in/wp-content/uploads/2019/11/tender.pdf,200,application/pdf,1,,1793544450
+67ed34805166adbf,https://dwdsc.karnataka.gov.in/storage/pdf-files/31Regardingthesanctionofculturalactivityandsportsincentivefundschemeforpersonswithdisabilities.pdf,200,application/pdf,1,,1793544451
+c62922e488803447,https://www.nls.ac.in/wp-content/uploads/2021/11/corrigendum-IMS-1.pdf,200,application/pdf,1,,1793544451
+a2e2dd163d3f2726,https://vtu.ac.in/wp-content/uploads/2019/12/T-465-Corrigendum.pdf,200,application/pdf,1,,1793544451
+ea3e3e59b6bc10a4,https://www.nls.ac.in/wp-content/uploads/2022/02/AMC-corrigendum.pdf,200,application/pdf,1,,1793544452
+d36bfaf6022013d8,https://dwdsc.karnataka.gov.in/storage/pdf-files/71RegardingrevisionandsanctionofsubsidyunderDisabilityRemedialMedicalScheme.pdf,200,application/pdf,1,,1793544452
+f974392ff6f4489b,https://vtu.ac.in/wp-content/uploads/2026/08/English-notification-T-757.pdf,200,application/pdf,1,,1793544453
+9fd9b77532cd5d30,https://dwdsc.karnataka.gov.in/storage/pdf-files/91RegardingrevisionoftheamountofloanorsubsidysanctionedunderAadhaarschemeforprovidingself-employmentforPwDs.pdf,200,application/pdf,1,,1793544453
+57116ed0758a405f,https://www.nls.ac.in/wp-content/uploads/2022/09/tender.pdf,200,application/pdf,1,,1793544453
+23351d24e86ba068,https://vtu.ac.in/wp-content/uploads/2026/08/Notification-English-T-758.pdf,200,application/pdf,1,,1793544454
+405b1f83f36ef2e7,https://dwdsc.karnataka.gov.in/storage/pdf-files/92RegardingrevisionofamountofloanorsubsidysanctionedunderAadhaarschemeforprovidingself-employmentfordisabledpersons.pdf,200,application/pdf,1,,1793544454
+0bf994f2b248f447,https://www.nls.ac.in/wp-content/uploads/2022/09/TENDER-DOCUMENT.pdf,200,application/pdf,1,,1793544454
+78fc415d295b1a13,https://vtu.ac.in/wp-content/uploads/2026/08/English-notification-T-759.pdf,200,application/pdf,1,,1793544455
+45cf30f825f356bb,https://www.nls.ac.in/wp-content/uploads/2024/06/3130_001.pdf,200,application/pdf,1,,1793544455
+41d91b4c56df272f,https://vtu.ac.in/wp-content/uploads/2026/08/English-Notification-T-760.pdf,200,application/pdf,1,,1793544456
+62247fce2648403f,https://dosel.karnataka.gov.in/uploads/Gazette%20Notification%20No_1793267741.pdf,200,application/pdf,1,,1793544456
+e8fc798cf6fa59c3,https://vtu.ac.in/wp-content/uploads/2026/08/Notification-English-T-761.pdf,200,application/pdf,1,,1793544457
+76ff551c5bbfb8af,https://dtek.karnataka.gov.in/uploads/2026%20GEC%20Faculty%20Transfer%20List_1783513621.pdf,200,application/pdf,1,,1793544457
+1903c98d8bb73e89,https://www.nls.ac.in/wp-content/uploads/2024/10/Rfp-1.pdf,200,application/pdf,1,,1793544457
+f3f1b50e8053f753,https://www.nls.ac.in/wp-content/uploads/2025/11/RFP-for-Appointment-of-Service-Provider-for-Physical-Verification-of-Fixed-Assets-Asset-Tagging-and-Automation-with-Existing-Accounting-ERP.pdf,200,application/pdf,1,,1793544458
+638b1bccdca670a1,https://vtu.ac.in/wp-content/uploads/2026/08/Notification-English-T-741-1.pdf,200,application/pdf,1,,1793544458
+ed938f9942dcee59,https://dosel.karnataka.gov.in/storage/pdf-files/EP209SLB2023currigendumorder.pdf,200,application/pdf,1,,1793544458
+b8b3c6aac2ee5fc5,https://vtu.ac.in/wp-content/uploads/2026/09/Tender-for-Procurement-of-Sports-kit-bag-and-water-bottles-to-Sports-section-of-VTU-Belagavi.pdf,200,application/pdf,1,,1793544459
+33ad3960e388fe02,https://dwdsc.karnataka.gov.in/storage/pdf-files/childcentricrecentorder.pdf,200,application/pdf,1,,1793544459
+7fb0864ac9ffdeba,https://vtu.ac.in/wp-content/uploads/2026/09/Notification-English-T-763.pdf,200,application/pdf,1,,1793544460
+061aa671a14431bd,https://vtu.ac.in/wp-content/uploads/2026/09/Notification-English-T-764.pdf,200,application/pdf,1,,1793544461
+b8b9b360d452ebf2,https://cescmysore.karnataka.gov.in/uploads/CORRIGANDUM-Order%20%28CYS-965%20dtd%2007-07-2026%29_1783418713.pdf,200,application/pdf,1,,1793544461
+ac731ea686f3fbc6,https://cescmysore.karnataka.gov.in/storage/pdf-files/Acts/IE Rules 1956.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544461
+6ea815bec4d9547e,https://khb.karnataka.gov.in/uploads/corrigendum%20for%20ca%20properties_1781949161.pdf,200,application/pdf,1,,1793544462
+38ac227a7b82e27e,https://dwdsc.karnataka.gov.in/storage/pdf-files/131TransferorderofNHFDCschemefromKarnatakaStateWomensDevelopmentCorporationtoDepartmentofEmpowermentofPersonswithDisabilitiesandSeniorCitizens.pdf,200,application/pdf,1,,1793544462
+b027f4a5f9b1bb34,https://cescmysore.karnataka.gov.in/storage/pdf-files/Acts/Email Policy.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544462
+b870a5d56d8750d9,https://khb.karnataka.gov.in/uploads/Mudigere%20Allotment%20Notification_1781783374.pdf,200,application/pdf,1,,1793544465
+49d56147c1fcf74d,https://cescmysore.karnataka.gov.in/storage/pdf-files/Notifications/KERCSharingofRevenuefromotherbusinessofTransmissionandorDistributionLicenseesFirstAmendmentRegulations2023.pdf,200,application/pdf,1,,1793544469
+495b7b03b99fc06c,https://dtek.karnataka.gov.in/uploads/Polytechnic%20Vacancy%20for%202026%20Teaching%20staff%20transfer_1783492384.pdf,200,application/pdf,1,,1793544470
+175b5b9d20ee4bdb,https://dosel.karnataka.gov.in/uploads/media_to_upload1744016658.pdf,200,application/pdf,1,,1793544471
+85f0ba446b522363,https://dosel.karnataka.gov.in/uploads/media_to_upload1744006100.pdf,200,application/pdf,1,,1793544471
+2aed849b08c8ee72,https://emapan.karnataka.gov.in/Pages/Images/PDF/TheLegalMetrology(PackagedCommodities)Rules2011.pdf,200,application/pdf,1,,1793544472
+817f1e331e9d605e,https://dtek.karnataka.gov.in/uploads/Anuradha%204%20Lect%20transfer%20Time%20Table_1783434323.pdf,200,application/pdf,1,,1793544473
+7566051b3282637e,https://dwdsc.karnataka.gov.in/storage/pdf-files/132RegardingrevisingtheschemeandprovisionsforimplementingtheFinancialDevelopmentandLoanSchemefortheDisabledandissuingorders.pdf,200,application/pdf,1,,1793544473
+0da9809696e34f63,https://emapan.karnataka.gov.in/Pages/Images/PDF/Notification_VerificationCertificate_Sakala.pdf,200,application/pdf,1,,1793544474
+7187f5397e1538c3,https://emapan.karnataka.gov.in/Pages/Images/PDF/VCOnline.pdf,200,application/pdf,1,,1793544475
+45e4b799ccd73fd3,https://khb.karnataka.gov.in/uploads/Jagalur%20DS%20Notification%2019062026_1781611417.pdf,200,application/pdf,1,,1793544475
+2b1b949a2fb0ebb1,https://emapan.karnataka.gov.in/Version2024/Pages/Pages/Images/PDF/Documents.pdf,404,text/html,0,,1793544475
+f55b93ad45a513dd,https://cescmysore.karnataka.gov.in/storage/pdf-files/AboutUs/CoSofElectricitywithI-IIAmendments.pdf,200,application/pdf,1,,1793544476
+012e815bfabae12e,https://dtek.karnataka.gov.in/uploads/lect%20transfer%20SFR%20counsellings%20circular_1783329880.pdf,200,application/pdf,1,,1793544476
+0f28905f37f164a5,https://emapan.karnataka.gov.in/Version2024/Pages/Pages/Images/PDF/Sakala.pdf,404,text/html,0,,1793544477
+f78725a0a541f3cb,https://cescmysore.karnataka.gov.in/storage/pdf-files/AboutUs/CoSAmendments3.pdf,200,application/pdf,1,,1793544477
+e99ae3e93f28a530,https://emapan.karnataka.gov.in/Version2024/Pages/Pages/Images/PDF/Sakala_New_Notification.pdf,404,text/html,0,,1793544478
+d17f7888dfdfdf7c,https://khb.karnataka.gov.in/uploads/CORRIGENDUM%20CA_1780920980.pdf,200,application/pdf,1,,1793544478
+54df854f5c5211db,https://emapan.karnataka.gov.in/Version2024/Pages/Pages/Images/PDF/Circular.pdf,404,text/html,0,,1793544479
+5a290ed4ad3f5606,https://drugs.karnataka.gov.in/uploads/media_to_upload1764582647.pdf,200,application/pdf,1,,1793544479
+73dc1155ebb2218c,https://dosel.karnataka.gov.in/uploads/media_to_upload1744185609.pdf,200,application/pdf,1,,1793544479
+db7c876cbfde5108,https://kptcl.karnataka.gov.in/storage/pdf-files/Circular Docs/MCS_merged.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544479
+7e65b0febe843a3c,https://kmdc.karnataka.gov.in/uploads/media_to_upload1663760010.pdf,200,application/pdf,1,,1793544480
+16aad89caf226065,https://kmdc.karnataka.gov.in/uploads/media_to_upload1658208598.pdf,200,application/pdf,1,,1793544481
+756fcd635153c286,https://ceg.karnataka.gov.in/assets/front/pdf/Gruha%20Jyothi%20GO2%20dated%2015.06.2023.pdf,200,application/pdf,1,,1793544481
+b3c381956395776c,https://kmdc.karnataka.gov.in/uploads/media_to_upload1655537507.pdf,200,application/pdf,1,,1793544482
+54134fd1a70ff9eb,https://www.kridl.org/docs/steel18072012/proceedings of the meeting.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544482
+fa207b35f795f2b5,https://cescmysore.karnataka.gov.in/storage/pdf-files/AboutUs/CoSAmendments4.pdf,200,application/pdf,1,,1793544482
+1572e48153239ca8,https://khb.karnataka.gov.in/uploads/CA%20Sites%20Notification%2026-05-26%20%281%29_1779879893.pdf,200,application/pdf,1,,1793544483
+ea4e5157409b4f70,"https://dom.karnataka.gov.in/storage/pdf-files/Colony%20Development%20Scheme/11Corporation,CMSDP,VDPGovtOrders.pdf",200,application/pdf,1,,1793544484
+88cd0aadb6a721b2,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/94-FAP.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75004 ms: Couldn't connect to server,1793544484
+a16669ec66ff9991,https://dosel.karnataka.gov.in/uploads/media_to_upload1745315307.pdf,200,application/pdf,1,,1793544484
+f354a64bad6d6bbc,"https://khb.karnataka.gov.in/uploads/DHARWAD%20,%20SATTUR%20PH-4%20REVISED%20NOTIFICATION_1779341978.pdf",200,application/pdf,1,,1793544484
+7fd5f6bbd821c2bd,https://kptcl.karnataka.gov.in/storage/pdf-files/RA/Papernotification.pdf,200,application/pdf,1,,1793544484
+058685588994cc13,https://kptcl.karnataka.gov.in/storage/pdf-files/admin/Corrigendum_4_EOI for Development of GIS & Real Estate_PPP.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544484
+a289c563728683c3,https://rera.karnataka.gov.in/resources/notifications/notification1.pdf,200,application/pdf;charset=UTF-8,1,,1793544485
+f2e5904944d3433c,https://rera.karnataka.gov.in/resources/notifications/Press Release 15052019.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544485
+1a9de6a98f5dbca7,https://dosel.karnataka.gov.in/uploads/media_to_upload1744365520.pdf,200,application/pdf,1,,1793544485
+bb0a50b521cf4c22,https://www.kridl.org/docs/cementtender/Meetingproceeding.pdf,200,application/pdf,1,,1793544485
+72e10c91c5f54c61,https://drugs.karnataka.gov.in/uploads/media_to_upload1764324253.pdf,200,application/pdf,1,,1793544486
+91e58c9ae1a39511,https://rera.karnataka.gov.in/resources/notifications/Press Release 220419.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544486
+4a2a41effe031c44,https://cescmysore.karnataka.gov.in/storage/pdf-files/Notifications/Arasikere.pdf,200,application/pdf,1,,1793544486
+cc80ce47a88a7d30,https://drugs.karnataka.gov.in/uploads/media_to_upload1751024382.pdf,200,application/pdf,1,,1793544488
+bdb865de521d6693,https://www.kridl.org/docs/cementtender/Letterofacceptance.pdf,200,application/pdf,1,,1793544488
+86446e7bea3d3c86,https://khb.karnataka.gov.in/uploads/SATTUR%20PH-4%20LANDLOOSER%20NOTIFICATION_1779168846.pdf,200,application/pdf,1,,1793544488
+9474517cd2634eb5,https://www.keonics.in/assets/tenders_images/Tenders17853244581.pdf,200,application/pdf,1,,1793544489
+03de0dea42152274,https://cescmysore.karnataka.gov.in/storage/pdf-files/Notifications/Banavara.pdf,200,application/pdf,1,,1793544489
+75aef1225fe36179,https://kseab.karnataka.gov.in/uploads/Drawing%20Grade%20Exam-2026%20Notification_0001_1790760885.pdf,200,application/pdf,1,,1793544489
+e066693890654055,https://www.keonics.in/assets/tenders_images/Tenders17661515491.pdf,200,application/pdf,1,,1793544489
+63bac797eb1b5798,https://kptcl.karnataka.gov.in/storage/pdf-files/admin/JSA_JPM_KK_Notification.pdf,200,application/pdf,1,,1793544490
+1617cc4d151fdd22,https://www.keonics.in/assets/tenders_images/Tenders17730399681.pdf,200,application/pdf,1,,1793544491
+0e8f5f6e7a15bcb0,https://khb.karnataka.gov.in/uploads/KHB%20&%20PRATIPATI%20JV%20PROJECT%20ONLINE%20NOTIFICATION%2007052026_1778496828.pdf,200,application/pdf,1,,1793544491
+8a420ecde865d74c,https://www.keonics.in/assets/tenders_images/Tenders1771691346.pdf,200,application/pdf,1,,1793544492
+f74e8bd825a0c685,https://www.kridl.org/docs/cementtender/Approvedcementrate.pdf,200,application/pdf,1,,1793544492
+31865eebba073b74,https://rera.karnataka.gov.in/resources/notifications/press_release_march.pdf,200,application/pdf;charset=UTF-8,1,,1793544492
+e8d061319afaa141,https://khb.karnataka.gov.in/uploads/Hiremalligewad_dharwad%20notification%20dated%2002042026_1775625935.pdf,200,application/pdf,1,,1793544492
+08a58e69330dccdd,https://www.keonics.in/assets/tenders_images/Tenders17707906141.pdf,200,application/pdf,1,,1793544492
+355bb2675cb71d99,https://rera.karnataka.gov.in/resources/notifications/newoffice.pdf,200,application/pdf;charset=UTF-8,1,,1793544494
+07b30b8f8557347b,https://www.keonics.in/assets/tenders_images/Tenders1770789778.pdf,200,application/pdf,1,,1793544494
+5bca961f5f9d2400,https://khb.karnataka.gov.in/uploads/E-Auction%20Proceedings%2027%20%281%29_1773382870.pdf,200,application/pdf,1,,1793544494
+756819b068f86e5f,https://kseab.karnataka.gov.in/uploads/tender%20doc%202_1790849770.pdf,200,application/pdf,1,,1793544494
+2c260eb13eb0dd58,https://www.kridl.org/docs/cementtender/projectcommunicationletter.pdf,200,application/pdf,1,,1793544494
+9222d8ac2750b6a5,https://khb.karnataka.gov.in/uploads/NAGAMANGALA%20PUBLIC%20NOTIFICATION_1773296522.pdf,200,application/pdf,1,,1793544495
+00f4d712a1d3ea31,https://www.keonics.in/assets/tenders_images/Tenders17839215341.pdf,200,application/pdf,1,,1793544495
+c1ccb2c52540f7e7,https://ksiidc.karnataka.gov.in/storage/pdf-files/Company Documents/PPP-Policy-GO-No-IDD-14-ITS-2018-dtd-17-03-2018.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544495
+e2baee094f2e19bc,https://www.kridl.org/docs/steel20130312/Proceeding12032013.pdf,404,text/html,0,,1793544495
+732c260254a359f1,https://www.kridl.org/docs/Tender/Steel21092013/Proceedings of the Meeting.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544495
+ce621cff01a5cc16,https://kptcl.karnataka.gov.in/storage/pdf-files/admin/JSA_JPM_NKK_Notification_1.pdf,200,application/pdf,1,,1793544495
+bcf4bcaf91e4b125,https://www.keonics.in/assets/tenders_images/Tenders17830777991.pdf,200,application/pdf,1,,1793544496
+4ae9460d50a131bf,https://rera.karnataka.gov.in/resources/notifications/penalty_ongoing_projects.pdf,200,application/pdf;charset=UTF-8,1,,1793544496
+ad2ffe084a0b6471,https://www.kridl.org/docs/Tender/Steel21092013/Letter of Acceptance.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544496
+350a2b23751fe3e5,https://rera.karnataka.gov.in/resources/notifications/Public_Notice_19_Aug_2017.pdf,200,application/pdf;charset=UTF-8,1,,1793544496
+09e14b8965e34047,https://www.keonics.in/assets/tenders_images/Tenders17794555221.pdf,200,application/pdf,1,,1793544496
+bb9afbf5d8a055a1,https://rera.karnataka.gov.in/resources/notifications/Public Notification.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544497
+41927127acdb0ecd,https://www.kridl.org/docs/Tender/Steel21092013/Approved Rate of Steel.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544497
+fffb2da2a2ae76d5,https://www.keonics.in/assets/tenders_images/Tenders17781741581.pdf,200,application/pdf,1,,1793544498
+5fc1d40fc7f75c85,https://kseab.karnataka.gov.in/uploads/2027%20II%20PUC%20EXAM%20-%201%20REGULAR%20STUDENTS%20REGISTRATION%20CIRCULAR_1791443563.pdf,200,application/pdf,1,,1793544498
+a9cc81108ed0b7b3,https://kptcl.karnataka.gov.in/storage/pdf-files/Recruitment-2022/AE_JE_not_reported_list.pdf,200,application/pdf,1,,1793544498
+a590585138e65fc9,https://ksiidc.karnataka.gov.in/uploads/NRC%20Policy_1782286016.pdf,200,application/pdf,1,,1793544498
+d1f46265c66bad39,https://ksiidc.karnataka.gov.in/storage/pdf-files/Policies/Govt Order dated 21-3-2020(1).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544498
+265531e20f0426e2,"http://dpal.karnataka.gov.in/storage/pdf-files/Kanunu%20padakosha%20PDF%20Files/Cinemas%20(Regulation)%20%20Rules,%202014%20(E).pdf",000,,0,curl: (28) Failed to connect to dpal.karnataka.gov.in port 80 after 75004 ms: Couldn't connect to server,1793544498
+621f021b8aa74c55,https://www.kridl.org/docs/Tender/Steel21092013/Communication Lettter.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544498
+7cfcd0db4e5d03f1,https://kseab.karnataka.gov.in/uploads/2027_SSLC_EXAM-1_REGISTRATION_CIRCULAR_1791540994.pdf,200,application/pdf,1,,1793544498
+58e5ea57ecf5f1e4,https://www.keonics.in/assets/tenders_images/Tenders17772871401.pdf,200,application/pdf,1,,1793544498
+9c49a7de47fe57de,https://rera.karnataka.gov.in/resources/circulars/circular10.pdf,200,application/pdf;charset=UTF-8,1,,1793544499
+c36b4a046a66a4b6,https://kptcl.karnataka.gov.in/storage/pdf-files/RA/Paper_Notification_APR-FY-24-KN.pdf,200,application/pdf,1,,1793544499
+256984e15f220ae0,https://kswc.karnataka.gov.in/storage/pdf-files/KSWC GAzette Notification001.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544499
+61ef204e37cd03c1,https://ksiidc.karnataka.gov.in/uploads/1166_Ksiidc%20eng_1787989600.pdf,200,application/pdf,1,,1793544499
+f941930fe861ea0c,https://www.kridl.org/docs/Tender/Steel-29-01-2014/01 Proceedings-of-the-Meeting-of-tender-scrutiny-Commitee.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544499
+7f420cb9ab08283a,https://mescom.karnataka.gov.in/storage/pdf-files/PURCHASE SECTION/UNI SR GO Dtd 31_03_2022.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544500
+07e61aaebf0ab217,https://rera.karnataka.gov.in/resources/circulars/circular6.pdf,200,application/pdf;charset=UTF-8,1,,1793544501
+5f9b797f24d4ebb0,https://kptcl.karnataka.gov.in/storage/pdf-files/exam/Department_Exams_June2025_circular.pdf,200,application/pdf,1,,1793544501
+184778324e39084f,https://mescom.karnataka.gov.in/storage/pdf-files/Acts and Regulations/E__DOCS_COMMERCIAL SECTION_Acts and Rules_IErules1956.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544501
+763f3ecbcbdb6606,https://dom.karnataka.gov.in/storage/pdf-files/Government%20Orders%20and%20Circulars/upsc%20kas.pdf,200,application/pdf,1,,1793544501
+8de8048828c0d9cb,https://kptcl.karnataka.gov.in/storage/pdf-files/admin/Holiday-List_2024.pdf,200,application/pdf,1,,1793544502
+22949835b3d1399f,https://ashraya.karnataka.gov.in/download/Advocate_empannelment_Notification.pdf,200,application/pdf,1,,1793544502
+d01f5abfa629ae2e,https://ksiidc.karnataka.gov.in/uploads/Part%203024%20E_1787142555.pdf,200,application/pdf,1,,1793544502
+37c77d41b622025d,https://mescom.karnataka.gov.in/storage/pdf-files/Acts and Regulations/Information Technology Act 2000 - 2008 (amendment).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544502
+afaa04eafbbc1735,https://rera.karnataka.gov.in/resources/circulars/circular7.pdf,200,application/pdf;charset=UTF-8,1,,1793544503
+e93a9c8ec45758e8,https://mescom.karnataka.gov.in/storage/pdf-files/Acts and Regulations/E-mail_policy_of_GoI.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544503
+44ebdc676a542e45,https://ashraya.karnataka.gov.in/download/Notification_0001.pdf,200,application/pdf,1,,1793544504
+63923f7227c8e04e,https://cdn.s3waas.gov.in/s3a1d33d0dfec820b41b54430b50e96b5c/uploads/2025/06/2025060286.pdf,200,application/pdf,1,,1793544504
+960adc225ca1ece2,https://ashraya.karnataka.gov.in/download/MemorandumandArticlesofRGHCL.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793544504
+9aef9b18198798fd,https://mescom.karnataka.gov.in/storage/pdf-files/Acts and Regulations/KTPP act ( including circulars).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544504
+2973b016a73a9a41,https://ashraya.karnataka.gov.in/Guidelines/SiteUrbanGO.pdf,200,application/pdf,1,,1793544505
+018a7fa7ea95c262,https://ksiidc.karnataka.gov.in/uploads/Part%203081%20eng_1781783519.pdf,200,application/pdf,1,,1793544505
+2ffc04e8f042e4b5,https://mescom.karnataka.gov.in/storage/pdf-files/Acts and Regulations/COS Tenth Amendment_Notification on COS of Electricity of Distribution Licensee.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544505
+0508193457d6d6f7,https://mescom.karnataka.gov.in/storage/pdf-files/Acts and Regulations/12th Amendment to KERC (Recovery of Expenditure for Supply of Electricity) Regulations 2023.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544506
+21644d8225fd9a0d,https://kseab.karnataka.gov.in/uploads/Guidelines%202027%20SSLC%20EXAM%20Private%20Fresher%20Registration_1791542048.pdf,200,application/pdf,1,,1793544506
+1b82f45c3b86d2bf,https://ashraya.karnataka.gov.in/Guidelines/UrbansitesGuidelines.pdf,200,application/pdf,1,,1793544507
+c89f930069edcb4b,"https://mescom.karnataka.gov.in/storage/pdf-files/Acts and Regulations/11th Amendment to KERC (Recovery of Expenditure for Supply of Electricity) Regulations,2020.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544507
+366c951867670985,https://ksiidc.karnataka.gov.in/storage/pdf-files/CSR/CSRPolicy(Amended).pdf,200,application/pdf,1,,1793544508
+7c70566c2b248f82,https://housing.karnataka.gov.in/storage/pdf-files/Departmental Orders/DOH157KHB2017Dt1472017.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544508
+735103b33b3308a7,https://dom.karnataka.gov.in/storage/pdf-files/Govt%20Orders/13%20SCHOOLS.pdf,200,application/pdf,1,,1793544508
+9fe3d959af10f758,https://mescom.karnataka.gov.in/storage/pdf-files/Acts and Regulations/Security Deposit Regulation by KERC 2007 Gazetted Notification.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544508
+ff61d6f18877cc95,https://housing.karnataka.gov.in/storage/pdf-files/Departmental Orders/DOH128KHB2016P-4.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544509
+4e270a0d0c782616,https://mescom.karnataka.gov.in/storage/pdf-files/Acts and Regulations/sop_amendment_07_10_2022.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544509
+3035d88457772f23,https://housing.karnataka.gov.in/storage/pdf-files/Departmental Orders/DOH158KHB2017dated-16122017.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544510
+761061a862bfca7e,https://cdn.s3waas.gov.in/s3a1d33d0dfec820b41b54430b50e96b5c/uploads/2025/09/17587996931113.pdf,200,application/pdf,1,,1793544510
+09017d2d9b11c36b,https://kptcl.karnataka.gov.in/storage/pdf-files/admin/Holiday_2022_Notification.pdf,200,application/pdf,1,,1793544510
+740bd7e2a9e55531,https://housing.karnataka.gov.in/storage/pdf-files/Departmental Orders/DOH4RERA2017GO22-5-18.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544511
+78ab43a872fb09f0,https://horticulturedir.karnataka.gov.in/storage/pdf-files/Lalbagh/Districtsectorguidelines.pdf,000,,0,"curl: (60) SSL certificate problem: certificate has expired
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could not
+establish ",1793544512
+ed007521510c610e,http://chikballapur.nic.in/dho-notification.pdf,000,,0,curl: (6) Could not resolve host: chikballapur.nic.in,1793544512
+dd3d0a909a058d54,https://housing.karnataka.gov.in/storage/pdf-files/Departmental Orders/DOH24RERA2017PROCEEDINGTOCONSTITUIONOFSELECTIONCOMMITTEES.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544512
+520da557dd9b56d3,https://housing.karnataka.gov.in/storage/pdf-files/Departmental Orders/DOH8RERA2017E-GZATTE12-06-2020NEWADDITIONS.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793544513
+7c808230535f90b9,https://housing.karnataka.gov.in/storage/pdf-files/Departmental%20Orders/DOH39RERA2021.pdf,000,,0,"curl: (60) SSL certificate problem: certificate has expired
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could not
+establish ",1793544514
+e4b7f000b6e1fbd9,https://cdn.s3waas.gov.in/s3a1d33d0dfec820b41b54430b50e96b5c/uploads/2024/11/2024112032.pdf,200,application/pdf,1,,1793544515
+9f7d83de96bacf97,https://housing.karnataka.gov.in/storage/pdf-files/Departmental%20Orders/DOH79RERA2021%E0%B2%A4%E0%B2%BF%E0%B2%A6%E0%B3%8D%E0%B2%A6%E0%B3%81%E0%B2%AA%E0%B2%A1%E0%B2%BF.pdf,000,,0,"curl: (60) SSL certificate problem: certificate has expired
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could not
+establish ",1793544515
+b6f94646c7593025,https://cdn.s3waas.gov.in/s3a1d33d0dfec820b41b54430b50e96b5c/uploads/2025/01/2025012796.pdf,200,application/pdf,1,,1793544515
+6b0e3ca0aaedf14f,https://www.kvafsu.edu.in/notification/2022/Supply-of-Poultry-Chick-Feed-at-VCB.pdf,200,application/pdf,1,,1793544517
+b3195f6029724817,https://cescmysore.karnataka.gov.in/storage/pdf-files/Notifications/Gandasi.pdf,200,application/pdf,1,,1793544517
+f18864e515b6c609,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17804860202872.pdf,200,application/pdf,1,,1793544518
+81d255907184065d,https://www.kvafsu.edu.in/notification/2022/AMC-of-university-website.pdf,200,application/pdf,1,,1793544518
+7a461d54d6abc571,http://raitamitra.karnataka.gov.in/storage/pdf-files/Farmerssuicidecompensationguidelines.pdf,000,,0,curl: (28) Failed to connect to raitamitra.karnataka.gov.in port 80 after 75001 ms: Couldn't connect to server,1793544518
+4db9dbc379de2e88,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17805504191883.pdf,200,application/pdf,1,,1793544519
+7cfc2afcacb64dbd,https://raitamitra.karnataka.gov.in/storage/pdf-files/MSA&amp;PScircular.pdf,500,text/html; charset=UTF-8,0,,1793544519
+3077cad7b4491db8,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17805539342208.pdf,200,application/pdf,1,,1793544520
+b63ea8f690ec6aa2,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17805539382713.pdf,200,application/pdf,1,,1793544523
+090accecc29a17cc,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17805539482663.pdf,200,application/pdf,1,,1793544525
+8d8390585089ea23,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17805539499439.pdf,200,application/pdf,1,,1793544525
+fb9831a448747d27,"http://mybmtc.karnataka.gov.in/storage/pdf-files/KSRTC%20Rules,%201961.pdf",000,,0,curl: (28) Failed to connect to mybmtc.karnataka.gov.in port 80 after 75034 ms: Couldn't connect to server,1793544525
+5910ce1cf3c9683e,https://kseab.karnataka.gov.in/uploads/Guidelines%202027%20SSLC%20EXAM%20%20REGNCCERF_compressed_1791543602.pdf,200,application/pdf,1,,1793544526
+0b64453db7d91d35,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17805539511058.pdf,200,application/pdf,1,,1793544529
+61d17391d2b95bf2,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17805539563390.pdf,200,application/pdf,1,,1793544530
+bd9ace441f2e7879,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17805547311635.pdf,200,application/pdf,1,,1793544531
+dcd2960ecb8b4523,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17805547301405.pdf,200,application/pdf,1,,1793544533
+871708a0829c1585,https://dom.karnataka.gov.in/storage/pdf-files/Govt%20Orders/16%20SCHOOLS.pdf,200,application/pdf,1,,1793544535
+bcce7ca8ef5bf91e,https://kseab.karnataka.gov.in/uploads/2027%20II%20PU%20REPEATER%20CANDIDATE%20REGISTRATION_13102026_1791880516.pdf,200,application/pdf,1,,1793544535
+cc6f19b0bb52f04b,https://ashraya.karnataka.gov.in/Guidelines/UrbanSchemeRenameGo.pdf,200,application/pdf,1,,1793544536
+b2ad9368c1622cd4,https://cescmysore.karnataka.gov.in/uploads/JE%20-12C%20Promotion%20Modification%20order_1771673195.pdf,200,application/pdf,1,,1793544538
+b82da8b7ad53b129,https://cdn.s3waas.gov.in/s3aba3b6fd5d186d28e06ff97135cade7f/uploads/2026/06/17805547293453.pdf,200,application/pdf,1,,1793544540
+eff93204e2d5a505,https://cdn.s3waas.gov.in/s35f0f5e5f33945135b874349cfbed4fb9/uploads/2026/08/17857366362707.pdf,200,application/pdf,1,,1793544541
+604a4a4f9b40a135,https://cdn.s3waas.gov.in/s32ca65f58e35d9ad45bf7f3ae5cfd08f1/uploads/2026/10/17934392298386.pdf,200,application/pdf,1,,1793544542
+693bc6daf2aac9b0,https://cdn.s3waas.gov.in/s3959a557f5f6beb411fd954f3f34b21c3/uploads/2026/10/17921517797676.pdf,200,application/pdf,1,,1793544544
+82df61976a897a8f,https://cdn.s3waas.gov.in/s35751ec3e9a4feab575962e78e006250d/uploads/2019/03/2019032616.pdf,200,application/pdf,1,,1793544545
+e3350e314cd4e12f,https://cdn.s3waas.gov.in/s35751ec3e9a4feab575962e78e006250d/uploads/2019/03/2019032245.pdf,200,application/pdf,1,,1793544546
+2860ec7640911131,https://cdn.s3waas.gov.in/s35751ec3e9a4feab575962e78e006250d/uploads/2018/08/2018083135.pdf,200,application/pdf,1,,1793544547
+0d726aa7ac0028b7,https://cdn.s3waas.gov.in/s367d96d458abdef21792e6d8e590244e7/uploads/2023020464.pdf,200,application/pdf,1,,1793544547
+28630c8c23a36e6d,https://cdn.s3waas.gov.in/s3a8ecbabae151abacba7dbde04f761c37/uploads/2026/06/17816807362977.pdf,200,application/pdf,1,,1793544549
+72414dad7198572d,https://cdn.s3waas.gov.in/s3a8ecbabae151abacba7dbde04f761c37/uploads/2026/06/17816806453248.pdf,200,application/pdf,1,,1793544551
+1a1413efe5a6070d,https://cdn.s3waas.gov.in/s3a8ecbabae151abacba7dbde04f761c37/uploads/2021/03/2021030329.pdf,200,application/pdf,1,,1793544551
+9cd452ede412d4fd,https://cdn.s3waas.gov.in/s3a8ecbabae151abacba7dbde04f761c37/uploads/2021/03/2021030333.pdf,200,application/pdf,1,,1793544552
+2497d3f0d236e45f,https://kseab.karnataka.gov.in/storage/pdf-files/Circular_related_NMMS_Online_Applin_2025-26.pdf,200,application/pdf,1,,1793544553
+51dbf9c47a603fdc,https://cdn.s3waas.gov.in/s3a8ecbabae151abacba7dbde04f761c37/uploads/2021/03/2021030348.pdf,200,application/pdf,1,,1793544554
+050419e96319457c,https://cdn.s3waas.gov.in/s3a8ecbabae151abacba7dbde04f761c37/uploads/2021/03/2021030331.pdf,200,application/pdf,1,,1793544555
+91f357137b515b68,https://cdn.s3waas.gov.in/s3a8ecbabae151abacba7dbde04f761c37/uploads/2021/03/2021030329-1.pdf,200,application/pdf,1,,1793544556
+b97000eb31533f33,https://cdn.s3waas.gov.in/s3a8ecbabae151abacba7dbde04f761c37/uploads/2021/03/2021030396.pdf,200,application/pdf,1,,1793544557
+9ee2d8fc41406526,https://cdn.s3waas.gov.in/s33a835d3215755c435ef4fe9965a3f2a0/uploads/2022/04/2022040199.pdf,200,application/pdf,1,,1793544557
+2691f17bdf7c2538,https://cdn.s3waas.gov.in/s33a835d3215755c435ef4fe9965a3f2a0/uploads/2022/04/2022040114.pdf,200,application/pdf,1,,1793544558
+8f00effcfc28d31c,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/FEE%2015%20FAP%202017-min.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75003 ms: Couldn't connect to server,1793544559
+407a6d229f82581b,https://cdn.s3waas.gov.in/s33a835d3215755c435ef4fe9965a3f2a0/uploads/2021/07/2021071452.pdf,200,application/pdf,1,,1793544561
+c1d665cb2dfd3461,https://cdn.s3waas.gov.in/s33a835d3215755c435ef4fe9965a3f2a0/uploads/2020/07/2020072470.pdf,200,application/pdf,1,,1793544561
+2f56309d9d024288,https://kseab.karnataka.gov.in/storage/pdf-files/Circular_PARAKH_RASHTRIYA_SARVEKSHAN_2025.pdf,200,application/pdf,1,,1793544562
+0ce7fc5952323d4a,https://cdn.s3waas.gov.in/s3a8e864d04c95572d1aece099af852d0a/uploads/2018/12/2018122247.pdf,200,application/pdf,1,,1793544562
+327ae663349a0b24,https://cdn.s3waas.gov.in/s386b122d4358357d834a87ce618a55de0/uploads/2026/07/17848735393068.pdf,200,application/pdf,1,,1793544564
+e3e6836f20e60095,https://cdn.s3waas.gov.in/s386b122d4358357d834a87ce618a55de0/uploads/2024/09/2024092598.pdf,200,application/pdf,1,,1793544564
+a11b7375a036fdad,https://cdn.s3waas.gov.in/s3d5cfead94f5350c12c322b5b664544c1/uploads/2026/06/17823711528224.pdf,200,application/pdf,1,,1793544566
+81f658a6438501db,https://cdn.s3waas.gov.in/s306997f04a7db92466a2baa6ebc8b872d/uploads/2023/09/2023093063.pdf,200,application/pdf,1,,1793544567
+82d66349bfdad387,https://cdn.s3waas.gov.in/s3c8ed21db4f678f3b13b9d5ee16489088/uploads/2026/09/17900714507334.pdf,200,application/pdf,1,,1793544568
+51cfb22d3895f4a4,https://cdn.s3waas.gov.in/s3c8ed21db4f678f3b13b9d5ee16489088/uploads/2024/06/2024061529.pdf,200,application/pdf,1,,1793544569
+707e8603d6b63816,https://dom.karnataka.gov.in/storage/pdf-files/1st%20Qtr%20Installment%20Fund%20Release%20GO%20Order.pdf,200,application/pdf,1,,1793544569
+c36577f97c7ab475,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2023/09/2023092012.pdf,200,application/pdf,1,,1793544570
+6ea48c7bfbdc538d,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2023/10/2023101235.pdf,200,application/pdf,1,,1793544571
+acdba7caadd9cedf,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2023/10/2023101332.pdf,200,application/pdf,1,,1793544572
+d56cb496b9ea2e80,"http://dpal.karnataka.gov.in/storage/pdf-files/Kanunu%20padakosha%20PDF%20Files/Cinemas%20(Regulation)%20%20Rules,%202014%20(K).pdf",000,,0,curl: (28) Failed to connect to dpal.karnataka.gov.in port 80 after 75002 ms: Couldn't connect to server,1793544573
+b9230a65f3b43099,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2023/11/2023110433.pdf,200,application/pdf,1,,1793544576
+224891be86855303,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2023/11/2023112997.pdf,200,application/pdf,1,,1793544578
+c78b48a79d6c73f1,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2023/11/2023112982.pdf,200,application/pdf,1,,1793544579
+b1536225515a81d1,https://kseab.karnataka.gov.in/storage/pdf-files/Circularregardingentranceexaminationfor6thclassenrollmentofAdarshaVidyalayasfortheyear2024-25.pdf,200,application/pdf,1,,1793544579
+a0cb9c00a247d244,https://dom.karnataka.gov.in/storage/pdf-files/Government%20Orders%20and%20Circulars/Construction%20work%20Circular.pdf,200,application/pdf,1,,1793544579
+8e3581a14c810a8a,https://dpal.karnataka.gov.in/storage/pdf-files/Karnataka%20Cinemas%20(Regulation)%20(A)%20rules%202019.pdf,200,application/pdf,1,,1793544580
+8dd6a3f5fe39d968,https://dom.karnataka.gov.in/storage/pdf-files/Government%20Orders%20and%20Circulars/SSlc%20and%20puc%20results%20IMG-20211223-WA0015.pdf,200,application/pdf,1,,1793544580
+a0034105a45b77f7,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2023/11/2023112991.pdf,200,application/pdf,1,,1793544581
+24eb40db5005a43f,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2023/11/2023112933.pdf,200,application/pdf,1,,1793544582
+64df16d8fbd92d8d,https://kseab.karnataka.gov.in/storage/pdf-files/SEAS_2023_CIRCULAR.pdf,200,application/pdf,1,,1793544583
+6c8a6c17f30f041b,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2023/12/2023120496.pdf,200,application/pdf,1,,1793544583
+d1eb973415696936,"https://dpal.karnataka.gov.in/storage/pdf-files/94%20(23%20of%201964)%20Karnataka%20Cinemas%20(Regulations)%20(A)%20Rules,%202022.pdf",200,application/pdf,1,,1793544583
+83cdfd1efecf58a2,https://dpal.karnataka.gov.in/storage/pdf-files/(23%20of%201964)%20Cinemas%20(Regulation)%20(Amendment)%20Rules%202022.pdf,200,application/pdf,1,,1793544583
+8b6d6bba2a492523,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2023/12/2023122261.pdf,200,application/pdf,1,,1793544584
+d7d46148a78f656b,https://dom.karnataka.gov.in/storage/pdf-files/Govt%20Orders/Seva%20Sindhu_Circular.pdf,200,application/pdf,1,,1793544584
+0463509387c852c9,https://cdn.s3waas.gov.in/s3c0f168ce8900fa56e57789e2a2f2c9d0/uploads/2024/07/2024071562.pdf,200,application/pdf,1,,1793544585
+ae12d1cc0ee95ec8,https://cdn.s3waas.gov.in/s3f1c1592588411002af340cbaedd6fc33/uploads/2026/09/17900731799029.pdf,200,application/pdf,1,,1793544586
+60c95c62029bb3cd,https://cdn.s3waas.gov.in/s34b04a686b0ad13dce35fa99fa4161c65/uploads/2024/12/2024122782.pdf,200,application/pdf,1,,1793544588
+278421792bc13786,https://dpal.karnataka.gov.in/storage/pdf-files/Karnataka%20Rules/39%20of%201964%20Rules%20(K).pdf,200,application/pdf,1,,1793544588
+e7b0458416894b92,https://dom.karnataka.gov.in/storage/pdf-files/Government%20Orders%20and%20Circulars/MDRS%20Women%20Wardens%20new.pdf,200,application/pdf,1,,1793544591
+b34aa67a03b90aae,"https://dpal.karnataka.gov.in/storage/pdf-files/(34%20of%202021)%20Prison%20Development%20Board%20Rules,%202022.pdf",200,application/pdf,1,,1793544599
+fc3e09d74335bef3,https://dpal.karnataka.gov.in/storage/pdf-files/Karnataka%20Rules/42%20of%201964%20Rules%20(E).pdf,200,application/pdf,1,,1793544599
+5ae948c1efb064bd,http://mybmtc.karnataka.gov.in/storage/pdf-files/Commuter%20Advisory%20and%20Facilitation%20Committee%20(CAFC).pdf,000,,0,curl: (28) Failed to connect to mybmtc.karnataka.gov.in port 80 after 75004 ms: Couldn't connect to server,1793544601
+88108232d03bd792,https://mybmtc.karnataka.gov.in/storage/pdf-files/Press%20Releases/PressRelease.pdf,200,application/pdf,1,,1793544621
+071a018a00ae8685,https://mescom.karnataka.gov.in/storage/pdf-files/Electricity%20Tariff/Tariff_Order_2024_compressed__1_.pdf,200,application/pdf,1,curl: (28) Operation timed out after 120000 milliseconds with 6199681 out of 12031883 bytes received,1793544630
+96f2b59c47df3226,https://mybmtc.karnataka.gov.in/storage/pdf-files/Press%20Releases/PressReleasePrayaasschemefunctionEng.pdf,200,application/pdf,1,,1793544633
+df20b8d4c7db39b5,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/FEE-72-FAP-min.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75005 ms: Couldn't connect to server,1793544634
+415b2497b8bd52c4,https://ashraya.karnataka.gov.in/Guidelines/PMAYU_GO.pdf,200,application/pdf,1,,1793544637
+237ece3ebe76544a,https://mybmtc.karnataka.gov.in/storage/pdf-files/Corrigendum-Engpdf.pdf,200,application/pdf,1,,1793544637
+844ae34344005b44,https://mybmtc.karnataka.gov.in/storage/pdf-files/notification%20no%2016.pdf,200,application/pdf,1,,1793544639
+44c1c0cab600606e,https://mybmtc.karnataka.gov.in/storage/pdf-files/Press%20Release%20-%20Issuing%20Reinstatement%20orders%20english%20with%20photos.pdf,200,application/pdf,1,,1793544686
+8f5017b13616ebed,https://ashraya.karnataka.gov.in/Guidelines/PMAYU_Guideline.pdf,200,application/pdf,1,,1793544687
+7d60ef9045c97e14,https://mybmtc.karnataka.gov.in/storage/pdf-files/Press%20release%20Eng%20Signing%20MoU%20between%20BMTC%20&amp;%20SJICR%2001082022%20%20Eng.pdf,500,text/html; charset=UTF-8,0,,1793544687
+245801c1277eb843,https://ashraya.karnataka.gov.in/Guidelines/Vajipeyee_GO.pdf,200,application/pdf,1,,1793544687
+6b7b543ed0afc3ca,https://mybmtc.karnataka.gov.in/storage/pdf-files/BMTC%20Paper%20Notifications-2.pdf,200,application/pdf,1,,1793544688
+34f23f87b30048fb,https://mybmtc.karnataka.gov.in/storage/pdf-files/Issuing%20Reinstating%20orders-%20Eng.pdf,200,application/pdf,1,,1793544702
+b810f47a678a500d,https://mybmtc.karnataka.gov.in/storage/pdf-files/Reinstating%20terminated-%20Eng.pdf,200,application/pdf,1,,1793544707
+c7157c01a8010574,https://ashraya.karnataka.gov.in/Guidelines/Vajpayee_Guidlines.pdf,200,application/pdf,1,,1793544708
+8c75bb1c71d467e9,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/FEE%20193%20FAF%202013%20(3).pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75005 ms: Couldn't connect to server,1793544709
+52b1fcfb0fdc0fa2,https://ashraya.karnataka.gov.in/Guidelines/2015-16AmbedkarGO.pdf,200,application/pdf,1,,1793544710
+422442759528c314,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/ForestDevp.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75005 ms: Couldn't connect to server,1793544784
+852d7ab0589d4684,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/229%20FDP%202016-min.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75003 ms: Couldn't connect to server,1793544859
+e060b0a0cee4ebf7,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/G.O.No.FEE%2008%20FDS%2020176.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75002 ms: Couldn't connect to server,1793544934
+57f0c495eff803a6,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/WritP.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75003 ms: Couldn't connect to server,1793545009
+432595be65fcd583,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/G.O.No.FEE202FWL2016.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75015 ms: Couldn't connect to server,1793545084
+c7dcac4d4801da29,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/TigerScheme.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75007 ms: Couldn't connect to server,1793545159
+8879e4e553ff9645,http://10.10.29.73:81/forest.karnataka.gov.in/public/storage/pdf-files/Govt-Orders/TreePark.pdf,000,,0,curl: (28) Failed to connect to 10.10.29.73 port 81 after 75007 ms: Couldn't connect to server,1793545234
+d7d44dc254e95805,http://10.10.29.73:81/energy.karnataka.gov.in/public/storage/pdf-files/RE Policy.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793545234
+54ff4a790130b0a0,http://10.10.29.73:81/energy.karnataka.gov.in/public/storage/pdf-files/Solar Policy 2014-2021-Notification.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793545235
+b1dcb810ce038492,http://10.10.29.73:81/energy.karnataka.gov.in/public/storage/pdf-files/solar_policy 2014-21 Amendment Notification No-EN49VSC2016 Dated-12.01.2017.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793545236
+368538d8a916579f,http://10.10.29.73:81/energy.karnataka.gov.in/public/storage/pdf-files/Solar Policy 2014-21 Amendment Notification EN 179 VSC 2018-14.11.2018.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793545237

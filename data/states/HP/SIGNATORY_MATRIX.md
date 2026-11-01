@@ -1,72 +1,81 @@
 # HP — who signed what — officers ↔ orders / notifications matrix
 
-_Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (38 ministries/departments)._
+_Built 2026-11-02 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (39 ministries/departments)._
 
 ## Funnel
 
 | Stage | Count |
 |---|---|
-| Candidate order/notification/circular/OM/gazette PDFs in the document index | 300 |
+| Candidate order/notification/circular/OM/gazette PDFs in the document index | 700 |
 | PDFs fetched | 0 |
-| PDFs with machine-readable text | 39 |
-| PDFs with a detectable signature block | 40 |
-| Signatures matched to a roster officer | 7 documents / 6 officers |
-| Signatures not matched (person not in any roster, or moved) | 36 |
+| PDFs with machine-readable text | 71 |
+| PDFs with a detectable signature block | 73 |
+| Signatures matched to a roster officer | 9 documents / 8 officers |
+| Signatures not matched (person not in any roster, or moved) | 67 |
 
 ## Per ministry
 
 | Ministry | candidates | fetched | signature found | matched docs | officers linked |
 |---|---|---|---|---|---|
 | Administrative Reforms Department, Himachal Pradesh | 4 | 0 | 0 | 0 | 0 |
-| Agriculture Department, Himachal Pradesh | 12 | 0 | 0 | 0 | 0 |
-| Ayurveda Department, Himachal Pradesh | 12 | 0 | 6 | 3 | 2 |
+| Agriculture Department, Himachal Pradesh | 34 | 0 | 2 | 0 | 0 |
+| Ayurveda Department, Himachal Pradesh | 34 | 0 | 10 | 3 | 2 |
 | Baddi University of Emerging Sciences & Technology, Himachal Pradesh | 5 | 0 | 0 | 0 | 0 |
 | Bilaspur | 1 | 0 | 0 | 0 | 0 |
 | Chamba | 2 | 0 | 0 | 0 | 0 |
 | Commission for Protection of Child Rights, Himachal Pradesh | 1 | 0 | 1 | 0 | 0 |
-| Digital Technologies and Governance Department, Himachal Pradesh | 12 | 0 | 1 | 0 | 0 |
-| Directorate of Health Safety and Regulation, Himachal Pradesh | 12 | 0 | 1 | 0 | 0 |
-| Directorate of Medical Education & Research, Himachal Pradesh | 12 | 0 | 2 | 0 | 0 |
+| Digital Technologies and Governance Department, Himachal Pradesh | 34 | 0 | 4 | 0 | 0 |
+| Directorate of Health Safety and Regulation, Himachal Pradesh | 34 | 0 | 1 | 0 | 0 |
+| Directorate of Medical Education & Research, Himachal Pradesh | 34 | 0 | 5 | 1 | 1 |
 | Education Department, Himachal Pradesh | 7 | 0 | 1 | 0 | 0 |
-| Environment, Science Technology & Climate Change Department, Himachal Pradesh | 12 | 0 | 4 | 0 | 0 |
-| Excise and Taxation Department, Himachal Pradesh | 12 | 0 | 0 | 0 | 0 |
+| Environment, Science Technology & Climate Change Department, Himachal Pradesh | 34 | 0 | 12 | 0 | 0 |
+| Excise and Taxation Department, Himachal Pradesh | 34 | 0 | 2 | 0 | 0 |
 | G. B. Pant Memorial Govt. College, Himachal Pradesh | 1 | 0 | 0 | 0 | 0 |
 | Government College Solan, Himachal Pradesh | 2 | 0 | 0 | 0 | 0 |
-| H.P. Electricity Regulatory Commission (HPERC), Himachal Pradesh | 12 | 0 | 6 | 1 | 1 |
-| Himachal Pradesh General Industries Corporation Ltd. (HPGIC), Himachal Pradesh | 12 | 0 | 2 | 1 | 1 |
+| H.P. Electricity Regulatory Commission (HPERC), Himachal Pradesh | 34 | 0 | 6 | 1 | 1 |
+| Himachal Pradesh Council for Science, Technology & Environment, Himachal Pradesh | 15 | 0 | 2 | 0 | 0 |
+| Himachal Pradesh General Industries Corporation Ltd. (HPGIC), Himachal Pradesh | 34 | 0 | 2 | 1 | 1 |
 | Himachal Pradesh Khadi & Village Industries Board, Himachal Pradesh | 6 | 0 | 2 | 0 | 0 |
-| Himachal Pradesh State Audit Department, Himachal Pradesh | 12 | 0 | 1 | 0 | 0 |
-| Himachal Pradesh State Biodiversity Board, Himachal Pradesh | 12 | 0 | 0 | 0 | 0 |
-| Himachal Pradesh State Co-operative Marketing & Consumers Federation Ltd., Himachal Pradesh | 12 | 0 | 0 | 0 | 0 |
-| Himachal Pradesh State Electricity Board Limited (HPSEBL), Himachal Pradesh | 12 | 0 | 2 | 0 | 0 |
+| Himachal Pradesh State Audit Department, Himachal Pradesh | 34 | 0 | 4 | 0 | 0 |
+| Himachal Pradesh State Biodiversity Board, Himachal Pradesh | 34 | 0 | 1 | 0 | 0 |
+| Himachal Pradesh State Co-operative Marketing & Consumers Federation Ltd., Himachal Pradesh | 13 | 0 | 0 | 0 | 0 |
+| Himachal Pradesh State Electricity Board Limited (HPSEBL), Himachal Pradesh | 34 | 0 | 2 | 0 | 0 |
 | Himachal Pradesh Takniki Shiksha Board, Dharamshala, Himachal Pradesh | 9 | 0 | 0 | 0 | 0 |
-| Himachal Pradesh Technical University, Himachal Pradesh | 12 | 0 | 0 | 0 | 0 |
-| Himachal Road Transport Corporation (HRTC), Himachal Pradesh | 3 | 0 | 1 | 0 | 0 |
+| Himachal Pradesh Technical University, Himachal Pradesh | 34 | 0 | 0 | 0 | 0 |
+| Himachal Road Transport Corporation (HRTC), Himachal Pradesh | 25 | 0 | 2 | 0 | 0 |
 | Horticulture Department, Himachal Pradesh | 6 | 0 | 2 | 0 | 0 |
-| Jawaharlal Nehru Government Engineering College, Himachal Pradesh | 12 | 0 | 0 | 0 | 0 |
+| Jawaharlal Nehru Government Engineering College, Himachal Pradesh | 34 | 0 | 0 | 0 | 0 |
 | Kinnaur | 7 | 0 | 0 | 0 | 0 |
 | Kullu | 3 | 0 | 1 | 1 | 1 |
 | Lahaul And Spiti | 5 | 0 | 0 | 0 | 0 |
 | Mandi | 2 | 0 | 1 | 0 | 0 |
-| Planning Department, Himachal Pradesh | 12 | 0 | 3 | 1 | 1 |
-| Rajiv Gandhi Government Engineering College (RGGEC), Kangra, Himachal Prades | 12 | 0 | 2 | 0 | 0 |
-| Shimla | 12 | 0 | 0 | 0 | 0 |
+| Planning Department, Himachal Pradesh | 34 | 0 | 6 | 1 | 1 |
+| Rajiv Gandhi Government Engineering College (RGGEC), Kangra, Himachal Prades | 34 | 0 | 2 | 0 | 0 |
+| Shimla | 15 | 0 | 0 | 0 | 0 |
 | Sirmaur | 5 | 0 | 1 | 0 | 0 |
 | Solan | 1 | 0 | 0 | 0 | 0 |
-| State Vigilance & Anti Corruption Bureau, Himachal Pradesh | 12 | 0 | 0 | 0 | 0 |
+| State Vigilance & Anti Corruption Bureau, Himachal Pradesh | 19 | 0 | 1 | 1 | 1 |
 | Una | 2 | 0 | 0 | 0 | 0 |
 
 ## Officer × topic matrix (documents signed)
 
 Full pivot: `officer_topic_pivot.csv`; long form with example titles and URLs: `officer_topic_matrix.csv`; one row per signed document: `officer_documents.csv`.
 
-| Officer | Designation (roster) | Ministry | Committees / meetings / minutes / constitution of | TOTAL |
-|---|---|---|---|---|
-| Sh. Ravinder Kumar | Adviser (Planning), H.P. Shimla-2 | Planning Department, Himachal Pradesh | 1 | 1 |
+| Officer | Designation (roster) | Ministry | Committees / meetings / minutes / constitution of | Statutory rules / gazette notifications (G.S.R. / S.O.) | Training / capacity building / workshops | TOTAL |
+|---|---|---|---|---|---|---|
+| Rakesh Kumar | Tehsildar Churah | Chamba |  | 1 | 1 | 2 |
+| Sh. Ravinder Kumar | Adviser (Planning), H.P. Shimla-2 | Planning Department, Himachal Pradesh | 1 |  |  | 1 |
 
 ## Contact person by topic
 
 For each ministry and topic, the roster officers who signed the most documents on it (name, roster designation, email).
+
+### Chamba
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| Statutory rules / gazette notifications (G.S.R. / S.O.) | **Rakesh Kumar** — Tehsildar Churah — thqtis-cha@hp.gov.in (1) |
+| Training / capacity building / workshops | **Rakesh Kumar** — Tehsildar Churah — thqtis-cha@hp.gov.in (1) |
 
 ### Director, Horticulture, Himachal Pradesh, Shimla.
 
@@ -100,6 +109,13 @@ For each ministry and topic, the roster officers who signed the most documents o
 |---|---|
 | Other / unclassified |  |
 
+### Secretary (GAD) to the Government of Himachal Pradesh, Shimla and Secretary, Human Rights Commission, Himachal Pradesh, Shimla.
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| Acts / commencement / legislation |  |
+| Budget / sanction / release of funds / grants |  |
+
 ### Special Secretary (Health & Family Welfare ) to the Government of Himachal Pradesh, Shimla and CEO, Rashtriya Sawasthya Bima Yojna, Shimla
 
 | Topic | Contact officers (docs signed) |
@@ -112,8 +128,15 @@ People who sign orders for a ministry but are not on its who's-who page / igod /
 
 | Ministry | Signatory (as printed) | Signed as | Documents | Latest |
 |---|---|---|---|---|
+| Environment, Science Technology & Climate Change Department, Himachal Pradesh | Prabodh Saxena | Secretary (Env. S&T) to the / Secretary to the | 4 |  |
 | Ayurveda Department, Himachal Pradesh | Himachal Pradesh | Commissioner, Keonthal Commercial Complex, Khalini, / Secretary (AYUSH) to the Govt. of H.P., Shimla-2. | 3 |  |
+| Environment, Science Technology & Climate Change Department, Himachal Pradesh | Prabodh Saksena | Chief Secretary | 3 |  |
+| Ayurveda Department, Himachal Pradesh | Meena Sharma | Deputy Secretary (AYUSH) to the / Deputy Secretary (Ayush) to the | 2 |  |
+| Ayurveda Department, Himachal Pradesh | Rajeev Sharma | Secretary (A YUSH) to the / Secretary (AYUSH) tothe. | 2 |  |
 | Ayurveda Department, Himachal Pradesh | Vandana Gupta | Under Secretary (Ayush) to the / Under Secretary (Ayush) to the “t | 2 |  |
+| Environment, Science Technology & Climate Change Department, Himachal Pradesh | R.D. Dhiman | Secretary (Env. &ST) to the | 2 |  |
+| Himachal Pradesh State Audit Department, Himachal Pradesh | Himachal Pradesh | Deputy Controller, Class-I(Gazetted / Officer, Class-II (Gazetted) Recruitment and | 2 |  |
+| Himachal Pradesh State Audit Department, Himachal Pradesh | Saurabh Jassal | Director, | 2 |  |
 
 ## Caveats
 
