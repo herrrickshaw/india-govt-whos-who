@@ -1,0 +1,301 @@
+doc_id,url,http,content_type,ok,err,ts
+4d32da0cb192b4aa,https://www.jharkhand.gov.in/Home/ViewStatePolicyFile?file=8. Jharkhand Procurement Policy 2014.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513947
+13d8c0e5a960bf35,https://sameti.org/EOI/2026-27/03-09-26/Corrigendum Notice.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513947
+69b3f3a26cedb44a,http://egazette.nic.in/WriteReadData/2019/210413.pdf,000,,0,curl: (6) Could not resolve host: egazette.nic.in,1793513947
+de52065f3bad5701,https://ekalyan.cgg.gov.in/downloads/2023-24/office_order/Office_Order_letterNo_1005_dated_18_06_2024.pdf,200,application/pdf,1,,1793513947
+07bc60648e392d4a,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Notice/tourism_awards_guideline_2025.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793513947
+70b30b0ea9e30e8b,https://www.jharkhand.gov.in/Home/ViewStatePolicyFile?file=7. Jharkhand Industrial and Investment Promotion Policy 2021.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513948
+7000540ab3d403dd,https://bauranchi.org/wp-content/uploads/2025/07/Notification-of-Anti-Ragging-Squads_000166.pdf,404,text/html; charset=UTF-8,0,,1793513948
+46ace8b8d5986e4d,https://bauranchi.org/wp-content/uploads/2026/10/Corrigendum-19-26-Dy-Director-Training.pdf,200,application/pdf,1,,1793513948
+d4567bb6142efed8,https://www.jharkhand.gov.in/Home/ViewStatePolicyFile?file=6. Jharkhand Industrial Park and Logistic Policy 2022.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513949
+728bf99bd55c0d81,https://sameti.org/EOI/2025-26/19-03-26/CorrigendumNotice.pdf,200,application/pdf,1,,1793513949
+3de07e3abc29b6cf,https://sameti.org/EOI/2025-26/10-12-25/Corrigendum Pre BId.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513949
+9dd039e0bc6958e4,https://ekalyan.cgg.gov.in/downloads/Post_Matric_OBC_Allotment_Office_Order_No_169_Dated-27.1.25.pdf,200,application/pdf,1,,1793513949
+07c15dabdea68388,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO000611052016010500PM.pdf,200,application/pdf,1,,1793513949
+86cb0b98f1b3aef0,"https://www.jharkhand.gov.in/Home/ViewStatePolicyFile?file=5. Jharkhand Ethanol Production Promotion Policy, 2022.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513950
+8a4f04d0b1656b83,https://sameti.org/EOI/2025-26/10-12-25/Corrigendum Agri Meet Sameti file.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513950
+2457137b2773783c,https://ekalyan.cgg.gov.in/downloads/Post_Matric_OBC_Allotment_Office_Order_No_168_Dated-270125.pdf,200,application/pdf,1,,1793513950
+161310c57e51b1a9,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Notice/Canceltender.pdf,200,application/pdf,1,,1793513950
+8c8a993cacc74987,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO004413062016030600PM.pdf,200,application/pdf,1,,1793513951
+3b36f7232366b4bf,https://www.jharkhand.gov.in/Home/ViewStatePolicyFile?file=4. Jharkhand Electric Vehicle Policy 2022.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513951
+0c4d4a3bad0cc261,https://ekalyan.cgg.gov.in/downloads/2023-24/sub_allotment_letter/Office_Order_letterNo_942_Dated_07_06_2024.pdf,200,application/pdf,1,,1793513951
+ef94ca41570df411,https://finance.jharkhand.gov.in/download\oth_updates\1482026_526.pdf,200,application/pdf,1,,1793513951
+6b3bf918c2097400,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO004513062016030623PM.pdf,200,application/pdf,1,,1793513951
+e7f0688cf0adf1f8,https://sameti.org/EOI/2023-24/tender/lab-furniture-Tender_for_ADA_QCFL.pdf,200,application/pdf,1,,1793513952
+a3fcd54cd4df6110,https://jsacs.org.in/wp-content/uploads/2020/08/HIVOmbudsmanEnglish.pdf,200,application/pdf,1,,1793513952
+59f19808a4656156,https://www.jharkhand.gov.in/Home/ViewStatePolicyFile?file=3. Jharkhand MSME Promotion Policy 2023.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513952
+f5ccb6fc4e55d2a1,https://rcd.jharkhand.gov.in/fileupld/1625553621-Corrigendum_in_NHSOR-2012.pdf,200,application/pdf,1,,1793513952
+089441671c6925b2,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO005216062016050652PM.pdf,200,application/pdf,1,,1793513952
+25cc35891eb56914,https://www.jharkhand.gov.in/Home/ViewStatePolicyFile?file=2. Jharkhand Export Policy 2023.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513953
+98ba769331f3117f,https://ekalyan.cgg.gov.in/downloads/2023-24/sub_allotment_letter/Office_Order_letterNo_943_Dated_07_06_2024.pdf,200,application/pdf,1,,1793513953
+f40f9a7d83c20628,https://sameti.org/EOI/2022-23/tender/1a.pdf,200,application/pdf,1,,1793513953
+282a1403f3327432,https://forest.jharkhand.gov.in/admin/deptorders/departmental-orders_276.pdf,200,application/pdf,1,,1793513953
+89cc3c303ab394b3,https://www.jharkhand.gov.in/Home/ViewStatePolicyFile?file=1. Jharkhand Food and Feed Processing Policy 2024.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513954
+3d6f88a86d578288,https://ekalyan.cgg.gov.in/downloads/2023-24/sub_allotment_letter/Office_Order_letterNo_944_Dated_07_06_2024.pdf,200,application/pdf,1,,1793513954
+54f8339fc000e2d2,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO005505072016100728AM.pdf,200,application/pdf,1,,1793513954
+4036916e942c6d94,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO006505072016120751PM.pdf,200,application/pdf,1,,1793513955
+8e9743c560bffdd4,https://www.jharkhand.gov.in/Home/ViewStatePolicyFile?file=Policy for the Internet of Things.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513955
+c4960084a96523aa,https://finance.jharkhand.gov.in/download\oth_updates\482026_524.pdf,200,application/pdf,1,,1793513955
+99c59c48112577a7,https://ekalyan.cgg.gov.in/downloads/2023-24/sub_allotment_letter/Office_Order_letterNo_945_Dated_07_06_2024.pdf,200,application/pdf,1,,1793513955
+64ec0d7e0dbe0130,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO006605072016010737PM.pdf,200,application/pdf,1,,1793513956
+46af7d36935c7153,https://www.jharkhand.gov.in/Home/ViewStatePolicyFile?file=Jharkhand State Mineral Policy 2017.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513956
+9743778189b7d285,https://ekalyan.cgg.gov.in/downloads/2023-24/sub_allotment_letter/Office_Order_letterNo_946_Dated_07_06_2024.pdf,200,application/pdf,1,,1793513956
+1c41e6b3af28f976,https://finance.jharkhand.gov.in/download\circular_notifiaction\01102026_2996.pdf,200,application/pdf,1,,1793513956
+01c9e1963cbe8d9d,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Tender/Tender_RFP_20250822_165804.pdf,200,application/pdf,1,,1793513956
+d5084ac9a9bf8977,https://jsacs.org.in/wp-content/uploads/2020/08/HIVOmbudsmanHindi.pdf,200,application/pdf,1,,1793513956
+bbf8ff5bd5310f9b,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO007212072016050722PM.pdf,200,application/pdf,1,,1793513957
+6f7776ff2060c8bf,http://jsacs.org.in/wp-content/uploads/2019/05/Memorandum_of_HIVAIDS_Schemes.pdf,200,application/pdf,1,,1793513957
+3ad1b0702113639c,https://sameti.org/EOI/2022-23/tender/1b.pdf,200,application/pdf,1,,1793513957
+5ff3de8f4d61fb41,https://sajha.in/wp-content/uploads/2026/01/SAJHA-68-Dt.-16.01.2026-Corrigendum.pdf,200,application/pdf,1,,1793513957
+0a0991c3a06b9531,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO008822082016020843PM.pdf,200,application/pdf,1,,1793513958
+e2600113754be206,https://jsacs.org.in/wp-content/uploads/2025/09/Corrigendum.pdf,200,application/pdf,1,,1793513958
+60839c8c4c732a5a,https://ekalyan.cgg.gov.in/downloads/2023-24/sub_allotment_letter/Office_Order_letterNo_947_Dated_07_06_2024.pdf,200,application/pdf,1,,1793513958
+5a7aa1c609d9aa1e,https://finance.jharkhand.gov.in/download\circular_notifiaction\06102026_3044.pdf,200,application/pdf,1,,1793513958
+d8c63d1636898ee6,http://www.sajha.in/wp-content/uploads/2024/08/e-tender-Notice-for-HPC.-06.08.2024.pdf,200,application/pdf,1,,1793513958
+899bd7d63cc58ba1,https://jserc.org/pdf/director2026a.pdf,200,application/pdf,1,,1793513958
+4581d69a948573cf,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO010229082016100822AM.pdf,200,application/pdf,1,,1793513959
+89329167ee068e67,https://jbvnl.co.in/notice/administrative/Joined_Documents_12_Oct_2026121026.pdf,200,application/pdf,1,,1793513959
+9424e06d9ede4e2a,https://jbvnl.co.in/notice/administrative/Notification for Transfer Posting 1240926.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513959
+1ede74f7dcbc6089,http://www.sajha.in/wp-content/uploads/2024/08/High-Performance-Sports-Science-Centre-Tender-Cancellation-Notice-First-Tender.pdf,200,application/pdf,1,,1793513959
+bf1477cedfa1acd7,https://forest.jharkhand.gov.in/admin/deptorders/departmental-orders_275.pdf,200,application/pdf,1,,1793513959
+54af9a829fe92306,https://finance.jharkhand.gov.in/download\circular_notifiaction\16092026_2844.pdf,200,application/pdf,1,,1793513959
+690058314b2e7b16,https://onlinejsic.jharkhand.gov.in/suchna/uploads/circular/a87ff679a2f3e71d9181a67b7542122c.pdf,200,application/pdf,1,,1793513960
+713f6e12ab7c7b17,https://udhd.jharkhand.gov.in/Handlers/SanctionOrders.ashx?id=SO010729082016100803AM.pdf,200,application/pdf,1,,1793513960
+b2714bdbd14933f6,https://jbvnl.co.in/notice/administrative/Notification No. 1334 To 1337 Dated 21.07.2026300726.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513960
+dc2d8c74ce24cef9,https://forest.jharkhand.gov.in/admin/deptorders/departmental-orders_272.pdf,200,application/pdf,1,,1793513960
+48717cd21861bea0,http://www.sajha.in/wp-content/uploads/2024/07/e-tender-Notice-for-HPC..pdf,200,application/pdf,1,,1793513960
+a8aaedae00976169,https://sameti.org/EOI/2022-23/tender/Corigendum.pdf,200,application/pdf,1,,1793513960
+f14503e4a022d2e7,https://jbvnl.co.in/notice/administrative/Notification No. 1324 to 1329 Reg. Transfer Posting210726.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513961
+3feefdbe564c95fc,https://jbvnl.co.in/notice/accounts/Tender Cancellation Notice_000350151026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513962
+17d48d9604947455,https://cdn.s3waas.gov.in/s3559cb990c9dffd8675f6bc2186971dc2/uploads/2026/08/17871321614874.pdf,200,application/pdf,1,,1793513962
+21cf821dd03a0108,http://www.sajha.in/wp-content/uploads/2024/06/Notice-No_145-for-Tender-ID_-SAJHA_Development-of-Integrated-Website-and-Mobile-Application.pdf,200,application/pdf,1,,1793513962
+126bfc9153f67efe,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2025/08/17546476391425.pdf,200,application/pdf,1,,1793513963
+6abedb0fe82ff368,https://onlinejsic.jharkhand.gov.in/suchna/uploads/circular/eccbc87e4b5ce2fe28308fd9f2a7baf3.pdf,200,application/pdf,1,,1793513963
+178b587939d5c539,http://www.sajha.in/wp-content/uploads/2024/06/Fooding-re-tender-Notice.pdf,200,application/pdf,1,,1793513963
+82c2b3a3fae1bc6e,https://jbvnl.co.in/download/T-1 Transfer Scheme 3_2_2014.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513963
+6fec0547943c2acf,https://jserc.org/pdf/tender-modification-2026.pdf,200,application/pdf,1,,1793513963
+f679aa748bf72b32,https://onlinejsic.jharkhand.gov.in/suchna/uploads/circular/c4ca4238a0b923820dcc509a6f75849b.pdf,200,application/pdf,1,,1793513963
+76f19c1a63bc38f1,http://www.sajha.in/wp-content/uploads/2024/06/High-Performance-Centre-Re-Tender-Call-2.pdf,200,application/pdf,1,,1793513963
+2fa26c14dacb92e8,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2025/08/17546476685439.pdf,200,application/pdf,1,,1793513963
+5d9cdbf671f3ecff,https://jcsti.jharkhand.gov.in/document/ACTS_RULES/MoA_JCSTI.pdf,200,application/pdf,1,,1793513964
+14d74b07b831613d,https://jbvnl.co.in/download/Office order no.913 dated 10.05.2017 Manual of practices for handling.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513964
+18fe50756c0a6a75,https://jcsti.jharkhand.gov.in/document/resolution/Resolution_Commitee Structure.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513964
+8c7c7a363a53c272,https://finance.jharkhand.gov.in/pdf/Budget_2026_27/Explanatory_Memorandum_on_The_Budget.pdf,200,application/pdf,1,,1793513964
+1324e23c24f3606c,http://www.sajha.in/wp-content/uploads/2024/03/Corrigendum-for-Supply-of-Manpower-Tender.pdf,200,application/pdf,1,,1793513964
+00a715c99fb459ba,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2025/08/17546476901186.pdf,200,application/pdf,1,,1793513964
+7cb34b6355d2f090,https://jbvnl.co.in/download/Tariff Order jbvnl 2016-17.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513965
+ef702911f0edbcb5,https://jcsti.jharkhand.gov.in/document/resolution/Resolution_Name Change.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513965
+e2395bba4a10d3f7,https://onlinejsic.jharkhand.gov.in/suchna/uploads/rti-acts-rules/RIGHT_TO_INFORMATION_ACT_2005.pdf,200,application/pdf,1,,1793513965
+59dbf29975e154c4,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2025/08/17546477101613.pdf,200,application/pdf,1,,1793513965
+ec7c69fd8f79fcf6,http://www.sajha.in/wp-content/uploads/2024/03/Corrigendum-for-Website-Tender_Final.pdf,200,application/pdf,1,,1793513965
+121a5a083aa39c2f,https://sameti.org/EOI/2022-23/ETC%20Hehal/Tender%20Invitation%20Notice.pdf,200,application/pdf,1,,1793513965
+78d8b84524f963b8,https://sameti.org/EOI/2022-23/tender/seed testing.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513965
+5b1be89174676498,https://rcd.jharkhand.gov.in/fileupld/1625553462-Circular_regarding_auction_.pdf,200,application/pdf,1,,1793513966
+e3a7abfbc60cf51e,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Tender/Notification_20250908_202658.pdf,200,application/pdf,1,,1793513966
+2b75682daf4895fa,https://jbvnl.co.in/download/Tariff Order.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513966
+ea547deb7841ccb1,https://onlinejsic.jharkhand.gov.in/suchna/uploads/rti-acts-rules/RIGHT_TO_INFORMATION_ACT(HINDI)_2005.pdf,200,application/pdf,1,,1793513966
+d12887183dada006,http://www.sajha.in/wp-content/uploads/2024/03/Corrigendum-for-HPSSC.pdf,200,application/pdf,1,,1793513966
+51b4fbf27f1b13aa,http://jserc.org/pdf/publicnotice/tender-dvc.pdf,200,application/pdf,1,,1793513966
+09c6e9b38479f9b4,https://irad.parivahan.gov.in/downloads/iRAD_MANUAL_May_2024.pdf,404,text/html; charset=iso-8859-1,0,,1793513966
+67edc9ecba911e8e,https://rcd.jharkhand.gov.in/fileupld/1625553338-Accelerated_Execution_of_Sanctioned_Scheme.pdf,200,application/pdf,1,,1793513966
+c4bd8634e7b0752d,https://sameti.org/EOI/2022-23/tender/seed testing retender.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513966
+1f1c8ae6b476a0ea,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2026/05/17777170782639.pdf,200,application/pdf,1,,1793513967
+9e1cad042e1bfa7f,https://jcsti.jharkhand.gov.in/document/NOTICE_NOTIFICATION/Notice-Hindi.pdf,200,application/pdf,1,,1793513967
+4371934146bbef91,https://jserc.org/pdf/tender2026.pdf,200,application/pdf,1,,1793513967
+931a07a600fd3c7e,https://jbvnl.co.in/upload/T-2 GOJ Notification 2917 dt.20.11.15.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513967
+3526130708a941e4,https://forest.jharkhand.gov.in/admin/deptorders/departmental-orders_273.pdf,200,application/pdf,1,,1793513967
+2c578866fe186504,http://www.sajha.in/wp-content/uploads/2024/03/Notice-for-Date-Extantion-of-C.O.E.-Fooding-Tender.pdf,200,application/pdf,1,,1793513967
+a6abe3fce2311e7b,https://irad.parivahan.gov.in/downloads/iRAD__ver_2_0_7_Draft_User_Mannual.pdf,404,text/html; charset=iso-8859-1,0,,1793513967
+d0cb3b463af7b7ae,https://jserc.org/pdf/tender_2024f.pdf,200,application/pdf,1,,1793513968
+e399d22b07b657e4,https://jcsti.jharkhand.gov.in/document/NOTICE_NOTIFICATION/Notice_English.pdf,200,application/pdf,1,,1793513968
+9bd7832536452dd2,https://jbvnl.co.in/notice/commercial/N0T6ZF.CORRIGENDUM in GIST.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513968
+6bb68c65d80fd969,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Tender/Other2_20250822_165804.pdf,200,application/pdf,1,,1793513968
+3528467568ff251f,"https://elegalmetrology.jharkhand.gov.in/japnet/document/The Legal Metrology (General) Rules, 2011.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513968
+7c965dda0c717d8e,"https://elegalmetrology.jharkhand.gov.in/japnet/document/The Legal Metrology (Approval of Models) Rules, 2011.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513969
+3e84e9ec0264996d,https://jserc.org/pdf/tender_2024e.pdf,200,application/pdf,1,,1793513969
+5ce0bb7647517caa,https://jserc.org/pdf/tender_2024d.pdf,200,application/pdf,1,,1793513970
+67cf6918bb3a8ea6,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2026/10/17920621266184.pdf,200,application/pdf,1,,1793513970
+1d627e2d0c5b65c4,"https://elegalmetrology.jharkhand.gov.in/japnet/document/The Legal Metrology (Packaged Commodities) Rules, 2011.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513970
+952690e80a077b90,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/Press_Release_2-26-12-2022%2528Hindi%2529.pdf,200,application/pdf,1,,1793513970
+f05ce144624ecce2,https://jserc.org/pdf/tender_2024c.pdf,200,application/pdf,1,,1793513971
+cc170ba8817ee599,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/covid_98_03-11-2022_0.pdf,200,application/pdf,1,,1793513971
+23a327d6e33817db,"https://elegalmetrology.jharkhand.gov.in/japnet/document/the JHARKHAND Legal metrology (enforcement) rules, 2011.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513971
+bcf01dc61af8f1f9,https://jserc.org/pdf/tender_2024b.pdf,200,application/pdf,1,,1793513972
+cdd94fd2fb899832,"https://elegalmetrology.jharkhand.gov.in/japnet/document/The Legal Metrology (National Standards) Rules, 2011.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513972
+5308de67a2a96a4f,https://jserc.org/pdf/tender_2024a.pdf,200,application/pdf,1,,1793513973
+df4c9ee7424049cb,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2026/10/17920621402816.pdf,200,application/pdf,1,,1793513973
+474f5a8de50de388,https://jcsti.jharkhand.gov.in/document/NOTICE_NOTIFICATION/Notification_of_Executive_Director_JCSTI.PDF,200,application/pdf,1,,1793513973
+2448bd8e4d808c31,https://forest.jharkhand.gov.in/admin/deptorders/departmental-orders_274.pdf,200,application/pdf,1,,1793513974
+1960f8e35bbf7865,https://jkuber.jharkhand.gov.in/budgetjhr/download/Dept_Guideline.pdf,200,application/pdf,1,,1793513974
+6446a3ceab2276ba,http://bmtu.ac.in/uploads/Assets/government-gazette/0102152021030315508.GujaratGovernmentGazzete.pdf,200,application/pdf,1,,1793513974
+90f87ff8c05dbbb5,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Tender/Tender_RFP_20250822_165107.pdf,200,application/pdf,1,,1793513974
+83b3b8c18671bc1c,https://jserc.org/pdf/tender_2024.pdf,200,application/pdf,1,,1793513975
+3119f74207c74bda,https://gscc.jharkhand.gov.in/sample files/guruji_guidelines.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513975
+2466f460799b6f1f,http://bmtu.ac.in/uploads/Assets/about-university/aboutus5governmentofgujaratnotification08082021102828461.pdf,200,application/pdf,1,,1793513975
+b056e56d008cf870,https://gscc.jharkhand.gov.in/sample files/GSCC_Gazette_Notification.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513976
+70922fea9fc82be6,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2026/10/17920621584628.pdf,200,application/pdf,1,,1793513977
+8b615ddda2671746,https://gscc.jharkhand.gov.in/sample files/Amendment_to_Gazette_Notification.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513977
+21a418e09d782110,https://rcd.jharkhand.gov.in/fileupld/1625218456-8_Jharkhand_Highways_Fee_Determination_of_Rates_and_Collection_Rules_2011_English.pdf,200,application/pdf,1,,1793513977
+307773a049c1e2a5,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/21-10-2026/21102026105215578SUCHNA PRAKASHAN 17.10.2026.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513978
+56642e9fd77f5410,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2026/10/17920621765326.pdf,200,application/pdf,1,,1793513979
+da03af059860f9ca,https://rcd.jharkhand.gov.in/fileupld/1625218411-7_The_Indian_Toll_Jharkhand_Amendment_Act_2002_Hindi_English.pdf,200,application/pdf,1,,1793513980
+5cf31e7c4a22cd20,https://forest.jharkhand.gov.in/admin/deptorders/departmental-orders_271.pdf,200,application/pdf,1,,1793513980
+1bee9cdca60523c8,"https://forest.jharkhand.gov.in/files/acts-rules/pdf/THE INDIAN FOREST ACT, 1927.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513980
+4d74e29c7364e5cc,https://forest.jharkhand.gov.in/files/acts-rules/pdf/The Indian Wild Life.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513981
+0e6fa581cce7081f,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2026/10/17920621973298.pdf,200,application/pdf,1,,1793513982
+058618363481754b,https://forest.jharkhand.gov.in/files/acts-rules/pdf/FCA.pdf,200,application/pdf,1,,1793513983
+48b088fa173486f9,http://bmtu.ac.in/uploads/Assets/ugc-notification/0202152021031306291.UGCnotiication.pdf,200,application/pdf,1,,1793513984
+679747bbf39cd393,https://cdn.s3waas.gov.in/s363538fe6ef330c13a05a3ed7e599d5f7/uploads/2026/10/17920623211728.pdf,200,application/pdf,1,,1793513985
+d118b693dcdb9ac2,https://cdn.s3waas.gov.in/s33dc4876f3f08201c7c76cb71fa1da439/uploads/2026/10/17930807493116.pdf,200,application/pdf,1,,1793513986
+5826d595f8461aac,https://aadhaar.jharkhand.gov.in/resources/DoIT_1240.Dt.04.08.2022.pdf,200,application/pdf,1,,1793513986
+296f1fa490a099ea,https://aadhaar.jharkhand.gov.in/resources/Data and Information Security Policy_DIT Jharkhand.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513986
+3729d24cf26d2331,https://cdn.s3waas.gov.in/s33dc4876f3f08201c7c76cb71fa1da439/uploads/2025/10/17595814423919.pdf,200,application/pdf,1,,1793513987
+ed3772ce19b7a0e0,https://cdn.s3waas.gov.in/s33dc4876f3f08201c7c76cb71fa1da439/uploads/2026/05/17797073789319.pdf,200,application/pdf,1,,1793513988
+d9471dece52e36ca,https://jkuber.jharkhand.gov.in/budgetjhr/download/rules_of_executive_business.pdf,200,application/pdf,1,,1793513988
+74ca20c169e6cf08,https://aadhaar.jharkhand.gov.in/resources/New_Policy_UIDAI_2022.pdf,200,application/pdf,1,,1793513988
+a85d50e6b9d6b56d,https://jkuber.jharkhand.gov.in/budgetjhr/pdf/2nd_Supplementary_Expenditure_Letter 29.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513988
+299ac1c0c964c06a,https://aadhaar.jharkhand.gov.in/resources/aebas-instruction.pdf,404,text/html,0,,1793513988
+7975196abdcedba1,https://cdn.s3waas.gov.in/s33dc4876f3f08201c7c76cb71fa1da439/uploads/2026/05/17778961621161.pdf,200,application/pdf,1,,1793513989
+f790ea51b8ed1420,https://rcd.jharkhand.gov.in/fileupld/1625218364-6_State_Highways_Authority_of_Jharkhand_Rules_2010_english.pdf,200,application/pdf,1,,1793513989
+06b4814bbfbd458e,https://cdn.s3waas.gov.in/s33dc4876f3f08201c7c76cb71fa1da439/uploads/2026/09/17897342501083.pdf,200,application/pdf,1,,1793513990
+8be193e19c9f4a6c,https://jcsti.jharkhand.gov.in/document/NOTICE_NOTIFICATION/Notification_of_Technical_Officer_cum_incharge_Ranchi_Science_Centre_Varahmihir_JCSTI.pdf,200,application/pdf,1,,1793513990
+ee9108a05084fcba,https://jcsti.jharkhand.gov.in/document/NOTICE_NOTIFICATION/Registration_JCSTI_New.pdf,200,application/pdf,1,,1793513991
+4e250594dd958ba4,https://cdn.s3waas.gov.in/s33dc4876f3f08201c7c76cb71fa1da439/uploads/2026/07/17846224783797.pdf,200,application/pdf,1,,1793513991
+ebe8a8b36c270e20,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/25-09-2026/25092026112505957DEOGHAR.PDF,200,application/pdf,1,,1793513992
+6159b2b2d25541e3,https://cdn.s3waas.gov.in/s33dc4876f3f08201c7c76cb71fa1da439/uploads/2026/03/17745019103985.pdf,200,application/pdf,1,,1793513992
+104190d2e8dd54dd,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/10-09-2026/10092026010909526CHITARPUR ACCEPT LIST 2026.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513992
+ea98531590021824,https://jcsti.jharkhand.gov.in/document/NOTICE_NOTIFICATION/Registration_JCSTI_Old.pdf,200,application/pdf,1,,1793513992
+c68d2c4aaf6d6d56,https://jcsti.jharkhand.gov.in/document/CIRCULAR/Guidelines_Innovation_Hub.pdf,404,text/html,0,,1793513992
+85527d6f5d819b72,https://forest.jharkhand.gov.in/files/acts-rules/pdf/vanadhikar.pdf,200,application/pdf,1,,1793513992
+ee3418a199b4ebc1,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/10-09-2026/10092026010835605GOLA ACCEPT LIST 2026.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513993
+12c047c8abbdec75,https://cdn.s3waas.gov.in/s33dc4876f3f08201c7c76cb71fa1da439/uploads/2026/06/17809202574466.pdf,200,application/pdf,1,,1793513993
+9b1c928c616c01a1,https://jrhms.jharkhand.gov.in/uploads/reports/8a45b236-c4ab-449d-9adb-41ae1f3dc987.pdf,200,application/pdf,1,,1793513993
+044078a0bb18bade,https://jkuber.jharkhand.gov.in/budgetjhr/pdf/2ndSupplementry.pdf,200,application/pdf,1,,1793513994
+ac6e697997b31488,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/10-09-2026/10092026010703029RAMGARH REJECT LIST 2026.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513994
+507dfd9f12f7ddfd,https://jrhms.jharkhand.gov.in/uploads/reports/7cc06529-42f5-4ce3-9c46-7a6f11a6c9fe.pdf,200,application/pdf,1,,1793513994
+05e7439b68907875,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2026/08/17873085778814.pdf,200,application/pdf,1,,1793513994
+fbb55f4836977479,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Tender/Notification_20250908_202753.pdf,200,application/pdf,1,,1793513994
+7144e7505a36debf,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/10-09-2026/10092026010614710PATRATU REJECT LIST 2026.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513995
+57761c0a97361e98,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2026/09/17888612962442.pdf,200,application/pdf,1,,1793513995
+2f40ee9d9924f054,https://elegalmetrology.jharkhand.gov.in/japnet/document/numeration_rules.pdf,200,application/pdf,1,,1793513995
+8593b295f390f3e7,https://jkuber.jharkhand.gov.in/budgetjhr/pdf/1st_Supplementary_Expenditure_Letter_2018_19.pdf,200,application/pdf,1,,1793513995
+f434e90572c9b316,https://jkuber.jharkhand.gov.in/budgetjhr/pdf/Notification_Budget Officer.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513995
+a669fcaf9b064782,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/10-09-2026/10092026010531887GOLA REJECT LIST 2026.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513996
+781c5f150e3a9250,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2026/08/17875771949336.pdf,200,application/pdf,1,,1793513996
+421519731b76a1f8,https://jrhms.jharkhand.gov.in/uploads/dres/3b538f67-964d-492c-8baa-2a65e3769db5.pdf,200,application/pdf,1,,1793513997
+96919c59b0becc2e,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/10-09-2026/10092026010443768CHITARPUR REJECT LIST 2026.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513997
+839846ade1ee56c3,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2026/07/17851427087102.pdf,200,application/pdf,1,,1793513997
+6c20ec377015a564,https://forest.jharkhand.gov.in/files/acts-rules/pdf/claim-under-forest.pdf,200,application/pdf,1,,1793513997
+3159818e84802dec,https://jrhms.jharkhand.gov.in/uploads/tenders/7dcef465-7675-4c46-bf89-49a391cbcce7.pdf,200,application/pdf,1,,1793513998
+e27fe47b1ccf0b3d,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2026/07/17851426309783.pdf,200,application/pdf,1,,1793513998
+bbeb1c30fe4d8786,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/10-09-2026/10092026010334792DULMI REJECT LIST 2026.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513998
+2d1bae57edeec70f,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/20-09-2020/20092020104954727CORRIGENDUM (4).PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793513999
+9526ca5577b8819b,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2025/11/17636279627963.pdf,200,application/pdf,1,,1793513999
+99a7bc11def08920,https://recruitment.jharkhand.gov.in/RecruitmentDoc/Public/23-11-2020/23112020013809882CORRIGENDUM LETTER.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793514000
+13191cef63407a85,https://jrhms.jharkhand.gov.in/uploads/tenders/6627614f-b42e-4470-bdab-c53b57967ba8.pdf,200,application/pdf,1,,1793514000
+db65b243d7ceda1d,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2025/09/17573287727304.pdf,200,application/pdf,1,,1793514001
+fe1b86bf63c6e67f,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2026/02/17700100962941.pdf,200,application/pdf,1,,1793514001
+af80aedf50877f37,https://jcsti.jharkhand.gov.in/document/guidelines/Guidelines_for_Funding_Seminar_Coneference_Workshop_Symposium.pdf,200,application/pdf,1,,1793514002
+c97aafd85716237b,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2026/01/17675969747313.pdf,200,application/pdf,1,,1793514002
+779a454ef19877e3,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/dmdorder20062022_0.pdf,200,application/pdf,1,,1793514003
+e216d3489bc149ed,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2025/12/17670936551391.pdf,200,application/pdf,1,,1793514003
+b9354197d772c4b2,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/Press_Release_1-25-02-2022.pdf,200,application/pdf,1,,1793514003
+d52780572a3125fd,https://jrhms.jharkhand.gov.in/uploads/tenders/17672250-48c0-494c-9017-d56217063f38.pdf,200,application/pdf,1,,1793514004
+55e2982510dc4b2e,https://cdn.s3waas.gov.in/s310a7cdd970fe135cf4f7bb55c0e3b59f/uploads/2026/01/17675965501625.pdf,200,application/pdf,1,,1793514004
+5b1fc42bfe75c0fa,https://jrhms.jharkhand.gov.in/uploads/tenders/e521b799-505a-4a6d-8440-b3c81c35f916.pdf,200,application/pdf,1,,1793514005
+8da6adb40f6804a2,https://cdn.s3waas.gov.in/s39b72e31dac81715466cd580a448cf823/uploads/2026/06/17823649218761.pdf,200,application/pdf,1,,1793514005
+d0579a570b6109c8,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Tender/Other2_20250822_165107.pdf,200,application/pdf,1,,1793514006
+d9fa9cf95bc1af79,https://jrhms.jharkhand.gov.in/uploads/tenders/e725f2af-d49b-470d-b4ab-7b554aab548e.pdf,200,application/pdf,1,,1793514006
+da41cddde9761813,https://cdn.s3waas.gov.in/s39b72e31dac81715466cd580a448cf823/uploads/2026/06/17823654243851.pdf,200,application/pdf,1,,1793514006
+b703173677cf0b52,https://bmtu.ac.in/Uploads/Assets/government-gazette/0102152021030315508.GujaratGovernmentGazzete.pdf,200,application/pdf,1,,1793514007
+c13ea41c427567ac,https://cdn.s3waas.gov.in/s39b72e31dac81715466cd580a448cf823/uploads/2026/06/17823647877485.pdf,200,application/pdf,1,,1793514007
+9f04ac2f7d2d2842,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Tender/Tender_RFP_20250702_113827.pdf,200,application/pdf,1,,1793514007
+11949423a8a8aa69,https://bmtu.ac.in/uploads/Assets/academic-calander/academiccalenderyear2023-204circular09142023115714369.pdf,200,application/pdf,1,,1793514008
+34327d884284fa0c,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/covid-notification-01-Feb-2022.pdf,200,application/pdf,1,,1793514008
+4ac7acd895fc4dea,https://cdn.s3waas.gov.in/s39b72e31dac81715466cd580a448cf823/uploads/2026/06/17823650951129.pdf,200,application/pdf,1,,1793514008
+64ba3c7ccda7654c,https://cdn.s3waas.gov.in/s3389bc7bb1e1c2a5e7e147703232a88f6/uploads/2026/04/17774454755612.pdf,200,application/pdf,1,,1793514009
+a90b6e118d713569,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/Press_Release_2-31-01-2022.pdf,200,application/pdf,1,,1793514009
+7a7285e238caf6c5,https://rcd.jharkhand.gov.in/fileupld/1625217962-2_Jharkhand_Highways_Rules_2007_English.pdf,200,application/pdf,1,,1793514010
+bc0c26db3fc52b5b,https://cdn.s3waas.gov.in/s3389bc7bb1e1c2a5e7e147703232a88f6/uploads/2025/08/17549909002243.pdf,200,application/pdf,1,,1793514010
+0f63dc5eceb2ec44,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/Press_Release_1-13-01-2022.pdf,200,application/pdf,1,,1793514010
+0573476515eeb38b,https://bmtu.ac.in/uploads/Assets/syllabus/b07162024051409641.A.-Semester-1And2-NotificationAndCourseStructure.pdf,200,application/pdf,1,,1793514011
+42f548d11f9e3b39,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/Press_Release_1-12-01-2022.pdf,200,application/pdf,1,,1793514011
+7b25d3b362258918,https://cdn.s3waas.gov.in/s3389bc7bb1e1c2a5e7e147703232a88f6/uploads/2025/08/17544669711356.pdf,200,application/pdf,1,,1793514011
+f94430457dbd77a8,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Tender/Notification_20250702_113827.pdf,200,application/pdf,1,,1793514011
+d6b57ce3b14dd6b1,https://bmtu.ac.in/uploads/Assets/syllabus/b07162024051443392.Com.-Semester-1And2-NotificationAndCourseStructure.pdf,200,application/pdf,1,,1793514012
+6c569f12a60ff218,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/Press_Release_1-03-01-2022.pdf,200,application/pdf,1,,1793514014
+a8633f1f059de4b8,https://cdn.s3waas.gov.in/s3389bc7bb1e1c2a5e7e147703232a88f6/uploads/2022/02/2022020199.pdf,200,application/pdf,1,,1793514015
+d00eaa2c2e8ef2b1,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/Press_Release_1-09-12-2021.pdf,200,application/pdf,1,,1793514015
+5049c06fabc16654,https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2026/03/17736514418768.pdf,200,application/pdf,1,,1793514015
+bc794c1eeb4cc9ee,https://cm.jharkhand.gov.in/sites/default/files/Covid_Notification_2024-11/Press_Release_2-29-10-2021.pdf,200,application/pdf,1,,1793514016
+982abd6cb6fe5ba0,https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2026/03/17738351983430.pdf,200,application/pdf,1,,1793514016
+b42b969b62e1ab28,https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/Tender/Tender_RFP_20250701_225404.pdf,200,application/pdf,1,,1793514017
+89e231bb1f7b30c4,https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2026/02/17714093866397.pdf,200,application/pdf,1,,1793514017
+3ef5ee60018e1ef6,https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2026/07/17851469122587.pdf,200,application/pdf,1,,1793514018
+49ed888890e88d68,https://bmtu.ac.in/uploads/Assets/syllabus/b07162024051506252.Sc.-Semester-1And2-NotificationAndCourseStructure.pdf,200,application/pdf,1,,1793514019
+08c87621ec4cbb75,https://cdn.s3waas.gov.in/s3ed265bc903a5a097f61d3ec064d96d2e/uploads/2026/04/17757207761970.pdf,200,application/pdf,1,,1793514019
+bd5e27a67402dc0e,https://bmtu.ac.in/uploads/Assets/syllabus/basemester3and4notificationandcoursestructure08282025031933573.pdf,200,application/pdf,1,,1793514020
+5842041410fb7a15,https://cdn.s3waas.gov.in/s313f320e7b5ead1024ac95c3b208610db/uploads/2026/01/17688214227673.pdf,200,application/pdf,1,,1793514020
+8c3bca04ca5017a4,https://bmtu.ac.in/uploads/Assets/syllabus/bcomsemester3and4notificationandcoursestructure07012025024407621.pdf,200,application/pdf,1,,1793514020
+11f6b937fec29df4,https://cdn.s3waas.gov.in/s313f320e7b5ead1024ac95c3b208610db/uploads/2026/01/17688214441262.pdf,200,application/pdf,1,,1793514021
+7da25382cf373611,https://bmtu.ac.in/uploads/Assets/syllabus/bscsemester3and4notificationandcoursestructure07012025024346028.pdf,200,application/pdf,1,,1793514021
+3ba816abf31946b6,https://cdn.s3waas.gov.in/s313f320e7b5ead1024ac95c3b208610db/uploads/2026/01/17688214685654.pdf,200,application/pdf,1,,1793514023
+aa5153d1521fed4d,https://cdn.s3waas.gov.in/s313f320e7b5ead1024ac95c3b208610db/uploads/2026/01/17688214924074.pdf,200,application/pdf,1,,1793514023
+c38fdd0312c86c58,https://cdn.s3waas.gov.in/s313f320e7b5ead1024ac95c3b208610db/uploads/2026/01/17688215263730.pdf,200,application/pdf,1,,1793514024
+bba313c44c2b1a64,https://cdn.s3waas.gov.in/s313f320e7b5ead1024ac95c3b208610db/uploads/2026/01/17688215436526.pdf,200,application/pdf,1,,1793514025
+073020b7e61b039f,https://finance.jharkhand.gov.in/pdf/Budget_2026_27/Fiscal_Policy_Strategy_Statement_2026.pdf,200,application/pdf,1,,1793514026
+9da47205655278ca,https://cdn.s3waas.gov.in/s313f320e7b5ead1024ac95c3b208610db/uploads/2019/06/2019060110.pdf,200,application/pdf,1,,1793514026
+322db5b586314a96,https://finance.jharkhand.gov.in/pdf/Budget_Direction_202627.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793514027
+e468edd6fee0d504,https://cdn.s3waas.gov.in/s313f320e7b5ead1024ac95c3b208610db/uploads/2025/08/17551675114870.pdf,200,application/pdf,1,,1793514027
+ab83043e4c259a4e,https://finance.jharkhand.gov.in/pdf/Budget_Direction_202526.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793514028
+ab6caf8a55ac24e1,https://cdn.s3waas.gov.in/s313f320e7b5ead1024ac95c3b208610db/uploads/2018/03/2018033042.pdf,200,application/pdf,1,,1793514028
+5b4dac851ee6933d,https://finance.jharkhand.gov.in/pdf/Budget_Direction_2024-25.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793514029
+7b4eea998acea6bd,https://cdn.s3waas.gov.in/s301f78be6f7cad02658508fe4616098a9/uploads/2020/05/2020050877.pdf,200,application/pdf,1,,1793514029
+855306833b5abcea,https://finance.jharkhand.gov.in/pdf/Budget_Direction_2023-24.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793514030
+ec4620a46595f441,https://cdn.s3waas.gov.in/s3ba2fd310dcaa8781a9a652a31baf3c68/uploads/2025/08/17546354479315.pdf,200,application/pdf,1,,1793514030
+ef1bee20698455e5,https://cdn.s3waas.gov.in/s3ba2fd310dcaa8781a9a652a31baf3c68/uploads/2025/11/17635493528492.pdf,200,application/pdf,1,,1793514031
+09bc560036f562d3,https://cdn.s3waas.gov.in/s3ba2fd310dcaa8781a9a652a31baf3c68/uploads/2026/05/17781548663769.pdf,200,application/pdf,1,,1793514032
+054153a84f6bb4cf,https://finance.jharkhand.gov.in/download/\oth_updates\1482026_526.pdf,200,application/pdf,1,,1793514032
+b98c32f8f960b413,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2026/07/17830552552172.pdf,200,application/pdf,1,,1793514034
+72d374cb2f49a3db,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2026/07/17830552571413.pdf,200,application/pdf,1,,1793514035
+31b30caf0ad19340,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2026/07/17830552618208.pdf,200,application/pdf,1,,1793514035
+66a50377867b93cd,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2026/07/17830552685519.pdf,200,application/pdf,1,,1793514036
+4b6cb5aac30341c0,https://finance.jharkhand.gov.in/download/\oth_updates\482026_524.pdf,200,application/pdf,1,,1793514037
+b06168d21eee935e,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2024/02/2024021530.pdf,200,application/pdf,1,,1793514037
+8a0e3e6c330e7635,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2024/03/2024032984.pdf,200,application/pdf,1,,1793514038
+05bc3bbbe126247d,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2024/04/2024040164.pdf,200,application/pdf,1,,1793514040
+fc39b5e922252bbc,https://finance.jharkhand.gov.in/download/\oth_updates\2832026_517.pdf,200,application/pdf,1,,1793514040
+d1ed54a0a15abce4,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2025/08/17555957772475.pdf,200,application/pdf,1,,1793514040
+e87d5a099c839812,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2025/08/17555957711132.pdf,200,application/pdf,1,,1793514042
+b96a46d4d15750f7,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2025/08/17555957737679.pdf,200,application/pdf,1,,1793514042
+a36cd112139e6b3c,https://cdn.s3waas.gov.in/s33c59dc048e8850243be8079a5c74d079/uploads/2025/08/17555957744291.pdf,200,application/pdf,1,,1793514044
+b544ede276d88c26,https://cdn.s3waas.gov.in/s3df877f3865752637daa540ea9cbc474f/uploads/2026/10/17912858091023.pdf,200,application/pdf,1,,1793514045
+5b9e0354c5b53e2c,https://finance.jharkhand.gov.in/download/\oth_updates\2722026_514.pdf,200,application/pdf,1,,1793514045
+3d23483980e169b3,https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2026/04/17759031475120.pdf,200,application/pdf,1,,1793514046
+d5659320d5bd2386,https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2026/06/17803984296875.pdf,200,application/pdf,1,,1793514047
+eb30cfc0f3f2d977,https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2026/06/17822963394476.pdf,200,application/pdf,1,,1793514048
+ed1aacb383fa15b7,https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2026/06/17823872396805.pdf,200,application/pdf,1,,1793514049
+0e9ad993941423f3,https://cdn.s3waas.gov.in/s3e165421110ba03099a1c0393373c5b43/uploads/2025/12/17657961167128.pdf,200,application/pdf,1,,1793514050
+134e55459feac5e7,https://cdn.s3waas.gov.in/s32b8a61594b1f4c4db0902a8a395ced93/uploads/2026/10/17932680529411.pdf,200,application/pdf,1,,1793514050
+38f23f66ef5740af,https://finance.jharkhand.gov.in/download/\oth_updates\15122025_506.pdf,200,application/pdf,1,,1793514051
+1a980083a7ec5606,https://cdn.s3waas.gov.in/s32b8a61594b1f4c4db0902a8a395ced93/uploads/2025/02/2025021031.pdf,200,application/pdf,1,,1793514051
+8317f2ef9ee8cc41,https://cdn.s3waas.gov.in/s32b8a61594b1f4c4db0902a8a395ced93/uploads/2026/10/17918048647337.pdf,200,application/pdf,1,,1793514053
+c6a9dcc3f72c4a6c,https://rcd.jharkhand.gov.in/fileupld/guideline/SOP_for_Monitoring_and_Compliance_of_Safety_norms_on_the_Highways.pdf,200,application/pdf,1,,1793514053
+31c2fa9b91d050e8,https://cdn.s3waas.gov.in/s32b8a61594b1f4c4db0902a8a395ced93/uploads/2023/02/2023020234.pdf,200,application/pdf,1,,1793514053
+6bca027319155287,https://cdn.s3waas.gov.in/s32b8a61594b1f4c4db0902a8a395ced93/uploads/2023/02/2023020216.pdf,200,application/pdf,1,,1793514055
+eb71720f9e4722f6,https://cdn.s3waas.gov.in/s32b8a61594b1f4c4db0902a8a395ced93/uploads/2023/03/2023030983.pdf,200,application/pdf,1,,1793514056
+0c1fecfa8126fc62,https://cdn.s3waas.gov.in/s32b8a61594b1f4c4db0902a8a395ced93/uploads/2023/03/2023030923.pdf,200,application/pdf,1,,1793514057
+04691f7d883b4df8,https://cdn.s3waas.gov.in/s369421f032498c97020180038fddb8e24/uploads/2026/05/17783152236121.pdf,200,application/pdf,1,,1793514058
+f4dc6762f0b6e5d4,https://cdn.s3waas.gov.in/s369421f032498c97020180038fddb8e24/uploads/2024/08/2024082348.pdf,200,application/pdf,1,,1793514059
+17ed652b872a7408,https://cdn.s3waas.gov.in/s3b337e84de8752b27eda3a12363109e80/uploads/2026/01/17676994611666.pdf,200,application/pdf,1,,1793514060
+d662b42606c7fdb7,https://cdn.s3waas.gov.in/s30fcbc61acd0479dc77e3cccc0f5ffca7/uploads/2026/03/17730361057811.pdf,200,application/pdf,1,,1793514061
+0b651c2c52f20dbf,https://cdn.s3waas.gov.in/s32bb232c0b13c774965ef8558f0fbd615/uploads/2026/10/17912022153524.pdf,200,application/pdf,1,,1793514062
+0aeffa56e47c17d4,https://cdn.s3waas.gov.in/s32bb232c0b13c774965ef8558f0fbd615/uploads/2021/04/2021041675.pdf,200,application/pdf,1,,1793514063
+4ec8ad05637048c5,https://cdn.s3waas.gov.in/s32bb232c0b13c774965ef8558f0fbd615/uploads/2026/09/17905954483684.pdf,200,application/pdf,1,,1793514065
+394336241b3793a5,https://cdn.s3waas.gov.in/s32bb232c0b13c774965ef8558f0fbd615/uploads/2022/08/2022081793.pdf,200,application/pdf,1,,1793514065
+84cc8393feb7e28b,https://cdn.s3waas.gov.in/s32bb232c0b13c774965ef8558f0fbd615/uploads/2020/01/2020010826.pdf,200,application/pdf,1,,1793514066
+5ae9a45edaa699eb,https://cdn.s3waas.gov.in/s32bb232c0b13c774965ef8558f0fbd615/uploads/2018/06/2018061179.pdf,200,application/pdf,1,,1793514067
+be025a3a05ca6e06,https://cdn.s3waas.gov.in/s32bb232c0b13c774965ef8558f0fbd615/uploads/2018/06/2018061954.pdf,200,application/pdf,1,,1793514068
+c12638b7640363ed,https://rcd.jharkhand.gov.in/fileupld/guideline/Overview_of_road_safety_in_india.pdf,200,application/pdf,1,,1793514128
+4b5c906182cfd431,https://rcd.jharkhand.gov.in/fileupld/guideline/Accident_data_records.pdf,200,application/pdf,1,,1793514169
+f698fea07bedc706,https://rcd.jharkhand.gov.in/fileupld/guideline/Maintainance_of_roads_bridges_to_enhance_road_safety.pdf,200,application/pdf,1,,1793514181

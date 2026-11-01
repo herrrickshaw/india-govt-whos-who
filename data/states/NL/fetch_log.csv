@@ -1,0 +1,157 @@
+doc_id,url,http,content_type,ok,err,ts
+b5fc58493bb209f6,https://nagalandtax.nic.in/docs/GST/order/2026/Order-C form _specimen.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515895
+78c05208887591c1,http://localhost/fcs/wp-content/uploads/2022/04/Nagaland-Food-Security-Rules-2016_20220411145903.pdf,000,,0,curl: (7) Failed to connect to localhost port 80 after 0 ms: Couldn't connect to server,1793515895
+b2095d642604e14f,http://mvd.nagalandgis.in/wp-content/uploads/2022/07/1993rules.pdf,000,,0,curl: (6) Could not resolve host: mvd.nagalandgis.in,1793515896
+2f9506d80da1bc90,https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/PM_Vidyalaxmi_Scheme_Guidelines.pdf,404,text/html; charset=utf-8,0,,1793515896
+3599fcc15237c670,https://mvdnagaland.in/download/4/notifications/1043/extension-notice-motor-vehicles-department-tender-no-tcmv-11824.pdf,200,application/pdf,1,,1793515896
+2421ab0546291114,https://scholarships.gov.in/public/schemeGuidelines/GuidelinesPostmatricST-Nagaland.pdf,200,application/pdf;charset=ISO-8859-1,1,,1793515896
+57cc79e33dace35b,https://nagalandtax.nic.in/docs/GST/order/2026/Amended Enforcement Team.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515896
+38191c5f5f77045f,http://localhost/highereducation/wp-content/uploads/2017/07/revised-guidelines-.pdf,000,,0,curl: (7) Failed to connect to localhost port 80 after 0 ms: Couldn't connect to server,1793515896
+7d195670bd8c365c,http://mvd.nagalandgis.in/wp-content/uploads/2022/07/cmvr1989.pdf,000,,0,curl: (6) Could not resolve host: mvd.nagalandgis.in,1793515897
+97ef3f773b934502,https://highereducation.nagaland.gov.in/wp-content/uploads/2025/07/Guidelines_ISHAN-UDAY_2324.pdf,200,application/pdf,1,,1793515897
+6f032e9bdf1cc298,https://mvdnagaland.in/download/4/notifications/987/tender-bid-submission-extension-notice-tender-no-tc-mv-118-24.pdf,200,application/pdf,1,,1793515897
+823ea183374cfaee,https://highereducation.nagaland.gov.in/wp-content/uploads/2025/07/Guidelines-NEC-Merit-Scholarship.pdf,200,application/pdf,1,,1793515897
+b84780cee0c7114a,https://nagalandplanning.in/download/43/general-notifications/1058/prebid-meeting-minutes-for-adb-project.pdf,200,application/pdf,1,,1793515897
+883fa8099f2c3d39,https://nagalandtax.nic.in/docs/vacancy/Memorandum on place of posting for MTS (District).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515897
+769991dbd6718119,http://localhost/home/wp-content/uploads/2025/09/SAB-A-Circular-5th-March-2025.pdf,000,,0,curl: (7) Failed to connect to localhost port 80 after 0 ms: Couldn't connect to server,1793515897
+ee93c81185b90472,http://mvd.nagalandgis.in/wp-content/uploads/2022/07/onetimetaxation2009.pdf,000,,0,curl: (6) Could not resolve host: mvd.nagalandgis.in,1793515898
+f4d7213d611c3fe2,https://nagalandplanning.in/download/43/general-notifications/966/vacancies-of-multi-tasking-staff-mts-posts-under-the-directorate-of-minority-affairs-gon.pdf,200,application/pdf,1,,1793515898
+2bd03ec70c13f145,https://mvdnagaland.in/download/4/notifications/985/e-tender-for-the-operation-and-maintenance-of-inspection-and-certification-centre.pdf,200,application/pdf,1,,1793515898
+967309742662e32b,https://ditc.nagaland.gov.in/storage/uploads/MVkvKbXBA3HK9z3GSHM6pKYOH2UWyr652BuwNMEL.pdf,200,application/pdf,1,,1793515898
+78efca0aa7afc377,https://home.nagaland.gov.in/wp-content/uploads/2025/09/Order-RIIN-1_merged.pdf,200,application/pdf,1,,1793515898
+5ace8d7abadd092b,https://nagalandtax.nic.in/docs/Notification/Act/Issued by Commisioner of Taxes/Prof/Notification on P tax.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515898
+9abc10f8c00be7b2,http://localhost/nre/wp-content/uploads/2018/08/Tender-Document-1.pdf,000,,0,curl: (7) Failed to connect to localhost port 80 after 0 ms: Couldn't connect to server,1793515898
+3c82f07117239d31,http://mvd.nagalandgis.in/wp-content/uploads/2022/07/The-Road-Regulations-Rules-1989.pdf,000,,0,curl: (6) Could not resolve host: mvd.nagalandgis.in,1793515899
+659f6e9f40705b10,https://nagalandplanning.in/download/43/general-notifications/963/application-for-the-post-of-assistant-project-officer.pdf,200,application/pdf,1,,1793515899
+88de457eff5ab47d,https://phed.nagaland.gov.in/wp-content/uploads/2025/07/Notification-for-driving-test.pdf,200,application/pdf,1,,1793515899
+56c8c6f5f1195881,https://scholarships.gov.in/public/schemeGuidelines/Guidelines_ISHAN%20UDAY_2324.pdf,200,application/pdf;charset=ISO-8859-1,1,,1793515899
+cede14c29a35b7ed,https://police.nagaland.gov.in/wp-content/uploads/2023/10/office-memorandum_compressed.pdf,200,application/pdf,1,,1793515899
+656a552688e855d6,https://mvdnagaland.in/download/4/notifications/974/vltd-registration.pdf,200,application/pdf,1,,1793515899
+b1c127d508fae6e8,https://highereducation.nagaland.gov.in/wp-content/uploads/2025/07/Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf,200,application/pdf,1,,1793515899
+a0b6935c2e8bc742,http://localhost/hgcdsdrf/wp-content/uploads/2024/11/Corrigendum-2024.pdf,000,,0,curl: (7) Failed to connect to localhost port 80 after 0 ms: Couldn't connect to server,1793515900
+d8f64cd475354e8f,https://nagalandtax.nic.in/docs/GST/Order/2025/Addendum on GST Enforcement Team.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515900
+d55e4289ed5fe05f,https://nagalandplanning.in/download/43/general-notifications/962/screening-board-meeting-for-appointment-of-jd-po-and-apo-postponed.pdf,200,application/pdf,1,,1793515900
+d24a08d8c30c9ea1,https://phed.nagaland.gov.in/wp-content/uploads/2025/08/Notification-for-Oral-Interview-of-driver-post.pdf,200,application/pdf,1,,1793515900
+a6d55a7b29ef19e5,https://mvdnagaland.in/download/4/notifications/966/vltd-eoi-last-date.pdf,200,application/pdf,1,,1793515900
+d71c323de4d31903,https://scholarships.gov.in/public/schemeGuidelines/Guidelines_NATIONAL_SCHOLARSHIP_FOR_POSTGRADUATE_STUDIES_UGC_2324.pdf,200,application/pdf;charset=ISO-8859-1,1,,1793515900
+8e9cd94a8059cfc8,https://highereducation.nagaland.gov.in/wp-content/uploads/2025/07/GuidelinesPostmatric-ST.pdf,200,application/pdf,1,,1793515900
+d83eaa4fb6f6e77a,https://police.nagaland.gov.in/wp-content/uploads/2023/10/Narcotic-Drugs-Psychotropic-Substances_compressed.pdf,200,application/pdf,1,,1793515900
+b02b30342b81853f,https://nagalandtax.nic.in/docs/vacancy/Publication of notification.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515901
+e7ef0662ef60d790,http://localhost/hgcdsdrf/wp-content/uploads/2024/10/corrigendum.pdf,000,,0,curl: (7) Failed to connect to localhost port 80 after 0 ms: Couldn't connect to server,1793515901
+7c531978daf0f883,https://phed.nagaland.gov.in/wp-content/uploads/2025/08/Notification-final-result-of-Driver-Gr.-II.pdf,200,application/pdf,1,,1793515901
+15928fbb1bf06ec3,https://nagalandplanning.in/download/43/general-notifications/961/application-due-date-for-project-officer-and-asst-project-officer-extended-to-20th-june-2023.pdf,200,application/pdf,1,,1793515901
+b6fb553f3e4ab277,https://scholarships.gov.in/public/schemeGuidelines/NEC_1234_G.pdf,200,application/pdf;charset=ISO-8859-1,1,,1793515901
+a1a32e6679d47b0d,https://mvdnagaland.in/download/4/notifications/965/expression-of-interest-for-manufacturers-of-ais-140-certified-vlt-devices-approved-by-morth-in-state-of-nagaland.pdf,200,application/pdf,1,,1793515901
+d031c41df5831043,https://police.nagaland.gov.in/wp-content/uploads/2019/06/IT-Act-Amendments2008.pdf,200,application/pdf,1,,1793515901
+b209f75f0a861281,https://nagalandtax.nic.in/docs/vacancy/Circular_Selected list.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515902
+ac0072fb0a1bb9f3,https://statistics.nagaland.gov.in/storage/circulars/31622037438.pdf,200,application/pdf,1,,1793515902
+28f95e8b2ca66a1f,https://nagalandplanning.in/download/43/general-notifications/688/sectoral-outlay-for-developmental-activities-during-2022-23.pdf,200,application/pdf,1,,1793515902
+b7d153b192fe3142,https://highereducation.nagaland.gov.in/wp-content/uploads/2025/07/Guidelines-State-Merit-Scholarship.pdf,200,application/pdf,1,,1793515902
+b0b3b03482373daa,https://mvdnagaland.in/download/4/notifications/960/e-tender-for-supply-of-it-equipment-from-it-empanelled-firms.pdf,200,application/pdf,1,,1793515902
+d24ad912bbff5781,https://statistics.nagaland.gov.in/storage/circulars/41624625646.pdf,200,application/pdf,1,,1793515902
+c8cea0b8f61069c4,https://nagalandtax.nic.in/docs/vacancy/Circular_Rejected list.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515903
+dfd1cee39bf32048,https://nagalandplanning.in/download/43/general-notifications/684/approved-sectoral-outlay-2021-22.pdf,200,application/pdf,1,,1793515903
+5d715563762222d0,https://mvdnagaland.in/download/4/notifications/944/selection-of-a-consultant-for-providing-pmu-and-consultancy-service-for-developing-an-integrated-road-safety-solution-in-the-state-of-nagaland.pdf,200,application/pdf,1,,1793515903
+6430746cbb0684ed,https://nagalandtax.nic.in/docs/GST/Order/2025/Order-03 2025 on New Enforcement Team under NGST.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515904
+8ef194716701b837,https://nagalandplanning.in/download/43/general-notifications/682/sectoral-outlay-for-developmental-activities-during-2021-22.pdf,200,application/pdf,1,,1793515904
+cc4d9ea529512dc6,https://mvdnagaland.in/download/4/notifications/942/final-mts-recruitment-result-under-motor-vehicles-department.pdf,200,application/pdf,1,,1793515904
+4128f1f37ad5a6e1,https://statistics.nagaland.gov.in/storage/circulars/51631887870.pdf,200,application/pdf,1,,1793515905
+6728c5dd3abd56cc,https://nagalandtax.nic.in/docs/circular/Circular on Pet Tax 2025.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515905
+d530d9d3d992e598,https://nagalandplanning.in/wp-content/uploads/2024/03/Nagaland_Draft_RFP_ADB_Bamboo_Value_Chain_final.pdf,200,application/pdf,1,,1793515905
+d1e475e3d0160238,https://ipr.nagaland.gov.in/sites/default/files/2026-04/Accreditation%20rules%20New.pdf,200,application/pdf,1,,1793515905
+cbb9e7ebf32b29a6,https://mvdnagaland.in/download/4/notifications/940/circular-for-mts-recruitment-under-motor-vehicles-department.pdf,200,application/pdf,1,,1793515905
+f0f9aba8c80f6db4,https://ipr.nagaland.gov.in/sites/default/files/2020-02/Guidelines-for-Nagaland-Journalist.pdf,200,application/pdf,1,,1793515905
+8b582df8b8f04535,https://nagalandtax.nic.in/docs/GST/OM on work assignment.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515906
+dbb57262a0ee21e2,https://highereducation.nagaland.gov.in/wp-content/uploads/2026/09/RESEARCH-GUIDELINES.pdf,200,application/pdf,1,,1793515906
+1085d403d24fe81f,https://nagalandplanning.in/download/97/nec-general-guidelines/614/approved-nec-general-guidelines-2018.pdf,200,application/pdf,1,,1793515906
+a31d032293373f87,https://home.nagaland.gov.in/wp-content/uploads/2025/09/Gazette-1_merged.pdf,200,application/pdf,1,,1793515906
+1447db926e679ae6,https://mvdnagaland.in/wp-content/uploads/2022/08/Information-technology-policy-Google-Docs.pdf,200,application/pdf,1,,1793515906
+4959695115e09a42,https://ipr.nagaland.gov.in/index.php/sites/default/files/2020-02/Guidelines-for-Nagaland-Journalist.pdf,404,text/html; charset=utf-8,0,,1793515906
+d7c3e9a1f42b73ae,https://hgcdsdrf.nagaland.gov.in/wp-content/uploads/2025/10/INVITATION-OF-SEALED-TENDERS-FOR-DISPOSAL-OF-CONDEMNED-UNSERVICEABLE-ITEMS.pdf,200,application/pdf,1,,1793515907
+6d221d9d3d55c55c,https://nagalandtax.nic.in/docs/Notification/Act/Issued by Finance Department/Petroleum/2024/deisel.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515907
+ffd89ec1d6adcabb,https://highereducation.nagaland.gov.in/wp-content/uploads/2017/07/guidelines.pdf,200,application/pdf,1,,1793515907
+f111e6fd8b8da526,https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2026/08/17857638613242.pdf,200,application/pdf,1,,1793515907
+4d744a5c4fbf0eec,https://highereducation.nagaland.gov.in/wp-content/uploads/2026/08/Azim-Premji-notification.pdf,200,application/pdf,1,,1793515907
+50c6c5c25cee9664,https://mvdnagaland.in/download/4/notifications/939/scheme-guidelines-on-rah-veer.pdf,200,application/pdf,1,,1793515907
+219e6c100cf14c9a,https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2026/04/17758067965177.pdf,200,application/pdf,1,,1793515908
+31233a741d24e163,https://highereducation.nagaland.gov.in/wp-content/uploads/2017/07/Advertisement23.pdf,200,application/pdf,1,,1793515909
+ae70907b8e9fce4f,https://mvdnagaland.in/download/4/notifications/937/advertisement-for-the-post-of-mts.pdf,200,application/pdf,1,,1793515909
+946a13ffe911ef9b,https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2020/05/2020050220.pdf,200,application/pdf,1,,1793515909
+7f49a4549dddbfdd,https://mvdnagaland.in/download/4/notifications/924/eio-for-engagement-of-companies-or-firms-for-supply-of-smart-card-printers.pdf,200,application/pdf,1,,1793515909
+ca72aa5abd5586c1,https://home.nagaland.gov.in/wp-content/uploads/2025/09/notification-1.pdf,200,application/pdf,1,,1793515909
+85f68481ef08d180,https://highereducation.nagaland.gov.in/wp-content/uploads/2017/07/notification-schol2023.pdf,200,application/pdf,1,,1793515910
+9bda1e37c6d31697,https://nagalandtax.nic.in/docs/GST/addendum.pdf,200,application/pdf,1,,1793515910
+14ea984da6dbdc67,"https://nagalandtax.nic.in/docs/GST/OM dated 16th Sept,2025 on TCC.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515910
+73e02a4b4c82de02,https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2020/05/2020053063.pdf,200,application/pdf,1,,1793515910
+5f6646904aafce68,https://mvdnagaland.in/download/4/notifications/919/sop-for-fitment-registration-and-activation-of-vlt-device.pdf,200,application/pdf,1,,1793515910
+633466fcfb650fea,https://nagalandtax.nic.in/docs/GST/Guidelines for DDOs and Taxpayers with regard to supply of goods and services including civi works .pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515911
+d3491f6c57521d87,https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2020/09/2020092086.pdf,200,application/pdf,1,,1793515911
+27141a3e0c61cac3,https://mvdnagaland.in/download/4/notifications/918/sop-for-emergency-alert.pdf,200,application/pdf,1,,1793515911
+1e214327a9fb2b9d,https://highereducation.nagaland.gov.in/wp-content/uploads/2017/07/revised-guidelines-.pdf,200,application/pdf,1,,1793515911
+ee1f226824b59cfc,https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2020/09/2020092061.pdf,200,application/pdf,1,,1793515913
+d77389a08b4f67cf,https://cdn.s3waas.gov.in/s30ff8033cf9437c213ee13937b1c4c455/uploads/2021/03/2021032658.pdf,200,application/pdf,1,,1793515914
+61f01af9aec41efc,https://cdn.s3waas.gov.in/s32dea61eed4bceec564a00115c4d21334/uploads/2017/05/2017112381.pdf,200,application/pdf,1,,1793515914
+ec7194186d75dc27,https://police.nagaland.gov.in/wp-content/uploads/2019/06/National-Security-Amendment-Act-1984.pdf,200,application/pdf,1,,1793515915
+bcd21ae4bda722e3,https://highereducation.nagaland.gov.in/wp-content/uploads/2025/12/Hostel-Guidelines.pdf,200,application/pdf,1,,1793515915
+85e6eb113d41ef83,https://cdn.s3waas.gov.in/s3fe131d7f5a6b38b23cc967316c13dae2/uploads/2018/04/2018040529.pdf,200,application/pdf,1,,1793515915
+585fcb925266220b,https://phed.nagaland.gov.in/wp-content/uploads/2022/05/phed-nagaland-drinking-water-supply-consumer-rules-1998-1st-amendment-20113.pdf,200,application/pdf,1,,1793515916
+1e1fd2e76fcd9944,https://cdn.s3waas.gov.in/s3fe131d7f5a6b38b23cc967316c13dae2/uploads/2018/04/2018040575.pdf,200,application/pdf,1,,1793515917
+768d595d76af0e58,https://statistics.nagaland.gov.in/storage/circulars/61633410264.pdf,200,application/pdf,1,,1793515917
+75f8c3fa772ee46c,https://dte.nagaland.gov.in/wp-content/uploads/2024/01/SCTE-Norms-Rules-2024.pdf,200,application/pdf,1,,1793515917
+1092790bbb5f0366,https://statistics.nagaland.gov.in/storage/circulars/71633410285.pdf,200,application/pdf,1,,1793515917
+7f796c889c7991d5,https://cdn.s3waas.gov.in/s37f5d04d189dfb634e6a85bb9d9adf21e/uploads/2025/06/2025061656.pdf,200,application/pdf,1,,1793515918
+7900b8c3a5d551f0,https://nagalandtax.nic.in/docs/GST/Office_memorandem_dated_21st_april_regarding_TCC_Issuance.pdf,200,application/pdf,1,,1793515918
+c0a5eea8dd2a27d6,https://nagalandtax.nic.in/docs/OM on P Tax Reg & Enrl.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515918
+4c0426b60c8a1f53,https://cdn.s3waas.gov.in/s37f5d04d189dfb634e6a85bb9d9adf21e/uploads/2025/07/17531651441613.pdf,200,application/pdf,1,,1793515919
+872b8ee98a3e1282,https://statistics.nagaland.gov.in/storage/circulars/81633667546.pdf,200,application/pdf,1,,1793515919
+ea6c038922143561,https://ipr.nagaland.gov.in/sites/default/files/2026-08/Compendium%20of%20Govt.%20Notification%20regarding%20PWD%20%28P%26D%29%20_compressed.pdf,200,application/pdf,1,,1793515919
+9162555b98ca6975,https://ipr.nagaland.gov.in/sites/default/files/2026-09/Film%20policy%202024-final.pdf,200,application/pdf,1,,1793515920
+ebcd39d88f1ceae9,https://cdn.s3waas.gov.in/s37f5d04d189dfb634e6a85bb9d9adf21e/uploads/2025/07/17531657091897.pdf,200,application/pdf,1,,1793515920
+f4d7262c555a7430,https://dte.nagaland.gov.in/wp-content/uploads/2026/08/State-Merit-List-of-NEET-UG-and-NON-NEET-2026-Notification.pdf,200,application/pdf,1,,1793515922
+ff0865fd425e44da,https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-extension-NEET-UG-last-date-2026.pdf,200,application/pdf,1,,1793515923
+c2508ab8d631772d,https://highereducation.nagaland.gov.in/wp-content/uploads/2025/12/COACHING-GUIDELINES.pdf,200,application/pdf,1,,1793515923
+28302253f2be5c99,https://nagalandtax.nic.in/docs/GST/office_memorandum_.pdf,200,application/pdf,1,,1793515926
+7ba53c400c9ee357,https://highereducation.nagaland.gov.in/wp-content/uploads/2025/12/Supreme-Court-Mental-Health.pdf,200,application/pdf,1,,1793515927
+3b21103b6e042073,https://nagalandtax.nic.in/docs/GST/OM-relaxation.pdf,200,application/pdf,1,,1793515927
+a05638f1f8ae7f7a,https://nagalandtax.nic.in/docs/GST/office memorandum with regard to TCC.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793515927
+0f1f2b5a816797d5,https://dte.nagaland.gov.in/wp-content/uploads/2026/04/notification-Diploma-admission.pdf,200,application/pdf,1,,1793515927
+622bad9713ebd577,https://dte.nagaland.gov.in/wp-content/uploads/2026/08/NEETUG-2026-candidates-particulars-rectified-Notification.pdf,200,application/pdf,1,,1793515928
+dcc6ed38d5e7a01e,https://dte.nagaland.gov.in/wp-content/uploads/2026/07/Notification-for-rectification-CUET.pdf,200,application/pdf,1,,1793515934
+36dfa8dc8efc4af7,https://dte.nagaland.gov.in/wp-content/uploads/2026/06/Notification-for-Medical-courses-non-NEET-2026.pdf,200,application/pdf,1,,1793515937
+c9d2349aa743e1c7,https://police.nagaland.gov.in/wp-content/uploads/2019/06/the-arms-rules-1962.pdf,200,application/pdf,1,,1793515938
+ab4b47afa12bcd92,https://dte.nagaland.gov.in/wp-content/uploads/2026/06/Notification-under-the-purview-of-NEET-2026.pdf,200,application/pdf,1,,1793515939
+f9994dfcd8cc08ff,https://dte.nagaland.gov.in/wp-content/uploads/2026/05/Diploma-outside-Notification-2026.pdf,200,application/pdf,1,,1793515944
+ce21bf8c39b3158c,https://police.nagaland.gov.in/wp-content/uploads/2019/06/The-Criminal-Law-Amendment-2013.pdf,200,application/pdf,1,,1793515945
+f0b85437cb62e4e4,https://police.nagaland.gov.in/wp-content/uploads/2019/06/The-Registration-of-Foreigners-Rules-1992.pdf,200,application/pdf,1,,1793515950
+524e473357b72108,https://police.nagaland.gov.in/wp-content/uploads/2019/06/The-Rules-Regulations-Instructions-Manuals-and-Records-Held-by-or-Under-the-Control-or-used-by-the-Employee-forDischarging-its-Functions.pdf,200,application/pdf,1,,1793515951
+120b3f93051c1c12,https://dte.nagaland.gov.in/wp-content/uploads/2026/05/Notification-Private-counselling.pdf,200,application/pdf,1,,1793515951
+6dd6081aedf41611,https://police.nagaland.gov.in/wp-content/uploads/2023/09/Joining-Instructions-Confirmation-Chart-NPM-2023.pdf,200,application/pdf,1,,1793515954
+56fdb68630e30ebe,https://dte.nagaland.gov.in/wp-content/uploads/2026/05/Notification-cuet-2026.pdf,200,application/pdf,1,,1793515955
+ef12b2a3832769a4,https://dte.nagaland.gov.in/wp-content/uploads/2026/03/Notification.pdf,200,application/pdf,1,,1793515956
+ab83740f069aa645,https://dte.nagaland.gov.in/wp-content/uploads/2025/09/Notification-BAMS-BHMS-NEIAH-Shillong.pdf,200,application/pdf,1,,1793515957
+4ed53e7892e23fc0,https://dte.nagaland.gov.in/wp-content/uploads/2025/07/BAMS-BHMS-notification.pdf,200,application/pdf,1,,1793515961
+3d1374ca64beb91f,https://police.nagaland.gov.in/wp-content/uploads/2022/05/PSA-Nagaland-Rules-2022.pdf,200,application/pdf,1,,1793515961
+740bf243f63e69ff,https://dte.nagaland.gov.in/wp-content/uploads/2025/07/Guidelines.pdf,200,application/pdf,1,,1793515963
+b5cb13bc30868f1f,https://police.nagaland.gov.in/wp-content/uploads/2019/08/new-doc-2019-08-06-10.54.pdf,200,application/pdf,1,,1793515969
+bb8a44ddb924a39b,https://police.nagaland.gov.in/wp-content/uploads/2026/10/Order-3rd-October-2026.pdf,200,application/pdf,1,,1793515976
+8f9b880a9ca88be9,https://dte.nagaland.gov.in/wp-content/uploads/2025/07/Notification-for-State-Counselling-NEET-UG-2025.pdf,404,text/html; charset=UTF-8,0,,1793515977
+d6293bdd68cd3f5f,https://dte.nagaland.gov.in/wp-content/uploads/2025/07/Notification-for-CUETUG-2025.pdf,200,application/pdf,1,,1793515980
+c65d5f611a8b010d,https://dte.nagaland.gov.in/wp-content/uploads/2025/07/Notification-17th-July-2025.pdf,200,application/pdf,1,,1793515986
+3a00c90fffe9636f,https://dte.nagaland.gov.in/wp-content/uploads/2025/07/Notification-NEET-UG-2025-Merit-list.pdf,200,application/pdf,1,,1793515990
+d2e0a72fa315a96d,https://dte.nagaland.gov.in/wp-content/uploads/2025/06/ITI-Lateral-Entry-Notification.pdf,200,application/pdf,1,,1793515992
+f2c45d6009f41f8e,https://education.nagaland.gov.in/wp-content/uploads/2016/05/CCS-Leave-Rules-1972-2024.pdf,000,,0,curl: (28) Connection timed out after 120006 milliseconds,1793516020
+61bb20993a6b3177,https://education.nagaland.gov.in/wp-content/uploads/2026/02/circular.pdf,200,application/pdf,1,,1793516030
+9b6de10ee1d24695,https://education.nagaland.gov.in/wp-content/uploads/2026/03/Addl-Docs-Circular-Feb26.pdf,000,,0,curl: (28) Connection timed out after 120007 milliseconds,1793516150
+ee0d296454ff3d6c,https://education.nagaland.gov.in/wp-content/uploads/2026/03/Rationalisation-Notification.pdf,000,,0,curl: (28) Connection timed out after 120003 milliseconds,1793516270
+7a75d5c3af95b66b,https://education.nagaland.gov.in/wp-content/uploads/2016/05/Re-Notification-for-No-Aadhaar-Reporting-2.pdf,000,,0,curl: (28) Connection timed out after 120009 milliseconds,1793516390
+8edaedecb93c6507,https://education.nagaland.gov.in/wp-content/uploads/2016/05/SHVR-2025-26.pdf,000,,0,curl: (28) Connection timed out after 120003 milliseconds,1793516510
+a7331ae641bda3e0,https://education.nagaland.gov.in/wp-content/uploads/2016/05/PRE_MATRIC_ST_Class_IX_X_GUIDELINES.pdf,200,application/pdf,1,,1793516511
+235632b38ffbc7ae,https://education.nagaland.gov.in/wp-content/uploads/2016/05/Doc-2020-02-03.pdf,200,application/pdf,1,,1793516513
+c116d936dc106822,https://education.nagaland.gov.in/wp-content/uploads/2016/05/Notification-for-Online-Class-11-Admission-2026-1.pdf,200,application/pdf,1,,1793516515
+246519ad0fb08d85,https://education.nagaland.gov.in/wp-content/uploads/2016/05/Notification-1.pdf,200,application/pdf,1,,1793516518
+fab7b86bd913d912,https://education.nagaland.gov.in/wp-content/uploads/2016/05/NDMSS-Policy-NDMSSP-1-31-60.pdf,200,application/pdf,1,,1793516539
+41c13dde389ab1f7,https://education.nagaland.gov.in/wp-content/uploads/2016/05/NDMSS-Policy-NDMSSP-1-61-98.pdf,000,,0,curl: (28) Connection timed out after 120005 milliseconds,1793516659
+c6e1e7430c1b2a8c,https://education.nagaland.gov.in/wp-content/uploads/2016/05/Notification-SET.pdf,200,application/pdf,1,,1793516662
+eba4764809d24eec,https://education.nagaland.gov.in/wp-content/uploads/2016/05/CRITERIA-Notification.pdf,000,,0,curl: (35) Recv failure: Operation timed out,1793516765
+9b0e908e1a4c5f26,https://education.nagaland.gov.in/wp-content/uploads/2016/05/CRITERIA-Annexure-II.pdf,000,,0,curl: (35) Recv failure: Operation timed out,1793516853
+2154c3b83ef077ef,https://education.nagaland.gov.in/wp-content/uploads/2026/02/Circular-for-Additional-Documents-for-Regularisation.pdf,000,,0,curl: (28) Connection timed out after 120009 milliseconds,1793516973
