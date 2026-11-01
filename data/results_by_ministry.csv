@@ -1,0 +1,82 @@
+ministry,docs_indexed,order_docs,pdfs_read,with_signature,signers,signers_email,roster_officers,matched_docs,officers_linked,instruments,instr_with_contact
+Department of Telecommunications (DoT),10964,5311,5407,1633,507,66,357,811,75,45,20
+Department for Promotion of Industry and Internal Trade (DPIIT),15923,2420,2797,911,346,33,291,130,42,50,33
+Department of Health and Family Welfare (DoHFW),9335,1853,1875,580,225,2,499,183,40,47,14
+Department of Legal Affairs (DoLA),2334,1206,1367,975,181,37,0,48,8,2,0
+Housing and Urban Affairs (MoHUA),4145,1040,1131,241,134,4,330,89,24,34,14
+Department of Animal Husbandry and Dairying (DoAHD),2191,543,649,251,109,8,116,96,20,21,8
+Labour and Employment (MoLE),3393,703,695,338,104,3,1516,76,18,11,6
+Department of Justice (DoJ),1659,689,671,469,99,7,0,1,1,4,1
+Department of Higher Education (DoHE),4079,514,652,107,84,1,0,5,5,14,3
+Department of Personnel and Training (DoPT),965,298,381,123,82,4,0,3,2,12,10
+Power,1840,621,830,275,80,11,325,91,10,28,13
+Department of Fisheries (DoF),1092,481,454,136,73,7,58,66,12,17,6
+Department of Public Enterprises (DPE),2666,416,432,113,69,4,57,10,8,13,8
+New and Renewable Energy (MNRE),1581,671,638,161,67,16,147,88,21,62,25
+"Environment, Forest and Climate Change (MoEFCC)",8912,868,935,423,64,6,0,188,3,5,2
+Department of Financial Services (DoFS),1649,188,247,128,62,7,0,11,4,7,2
+Department of Social Justice and Empowerment (DoSJE),1714,450,414,90,51,4,0,13,3,15,5
+Department of School Education and Literacy (DSEL),2626,311,299,72,50,11,0,3,3,17,2
+Department of Science and Technology (DST),2015,242,334,61,45,10,308,13,10,9,3
+Tourism,1709,256,376,75,40,3,81,26,12,14,6
+Textiles (MoT),681,200,209,56,35,4,139,6,4,11,4
+Legislative Department (LD),2348,372,391,58,34,1,0,6,2,0,0
+External Affairs (MEA),1316,192,228,32,31,3,20,4,4,4,1
+Earth Sciences (MoES),2497,96,272,48,28,0,86,4,3,5,1
+Electronics and Information Technology (MeitY),614,165,145,70,26,6,671,60,15,8,6
+Department of Consumer Affairs (DoCA),713,133,150,93,25,3,103,60,6,1,1
+Department of Land Resources (DLR),499,145,160,51,23,4,71,2,1,10,7
+Mines (MoM),1020,229,242,153,21,3,161,99,7,5,2
+Road Transport and Highways (MoRTH),915,148,125,54,21,1,353,43,11,7,6
+Steel (MoS),1711,121,123,70,20,2,116,5,3,1,1
+Parliamentary Affairs (MPA),814,123,147,64,20,0,0,12,2,0,0
+Department of Administrative Reforms and Public Grievances (DARPG),2394,182,182,45,19,4,0,0,0,6,3
+"Ports, Shipping and Waterways (MoPSW)",1198,166,174,23,19,4,150,9,4,5,0
+Development of North Eastern Region (MDONER),1042,221,101,36,19,4,86,18,5,13,7
+Department of Scientific and Industrial Research (DSIR),1253,116,161,26,17,0,41,2,2,3,2
+Department of Health Research (DHR),642,155,136,33,17,3,0,1,1,3,2
+"Micro, Small & Medium Enterprises (MSME)",260,69,64,15,17,1,171,1,1,2,2
+Department of Pharmaceuticals (DoPs),535,90,91,28,16,5,19,0,0,7,6
+Information and Broadcasting (MIB),520,38,39,21,16,2,0,3,3,3,3
+Planning (MoP),1650,73,90,16,9,2,0,0,0,1,1
+Statistics and Programme Implementation (MoSPI),708,46,77,16,7,2,0,0,0,1,0
+Rural Development (MoRD),309,34,32,6,6,0,0,1,1,2,0
+Department of Pension & Pensioner's Welfare (DoPPW),64,16,14,8,6,0,0,2,2,1,1
+Skill Development and Entrepreneurship (MSDE),62,21,20,4,5,0,72,1,1,6,0
+Tribal Affairs (MoTA),1019,477,26,3,4,0,0,1,1,0,0
+Heavy Industries (MoHI),964,56,41,11,4,1,119,9,2,9,4
+Minority Affairs (MoMA),105,31,21,5,4,0,0,2,2,2,0
+Coal,2568,10,4,3,3,2,79,2,2,1,1
+Department of Revenue (DoR),1341,6,9,3,3,0,418,1,1,1,1
+Department of Economic Affairs (DEA),1859,11,12,1,2,0,0,0,0,4,0
+Civil Aviation (MoCA),769,5,5,2,2,0,50,0,0,0,0
+Department of Rural Development (DoRD),354,24,28,2,2,0,0,0,0,1,0
+Department of Space,2209,3,376,1,1,0,14,0,0,0,0
+Department of Empowerment of Persons with Disabilities (DEPWD),853,1,4,1,1,0,0,0,0,0,0
+Department of Chemicals and Petro-Chemicals (DoCP),712,6,4,1,1,0,105,0,0,0,0
+Department of Ex-Servicemen Welfare (DESW),411,8,8,2,1,0,40,0,0,1,1
+Department of Sports (DoS),35,27,9,1,1,0,0,0,0,0,0
+Home Affairs (MHA),3233,0,5,0,0,0,0,0,0,0,0
+Food Processing Industries (MoFPI),2463,3,2,0,0,0,109,0,0,0,0
+Department of Atomic Energy,2184,1,6,0,0,0,80,0,0,0,0
+Culture,2174,8,11,0,0,0,0,0,0,0,0
+Department of Expenditure (DoE),2094,2,2,0,0,0,163,0,0,0,0
+Women and Child Development (MoWCD),1687,3,3,0,0,0,0,0,0,0,0
+Petroleum and Natural Gas (MoPNG),1377,1,1,0,0,0,141,0,0,0,0
+Panchayati Raj (MoPR),805,0,0,0,0,0,71,0,0,0,0
+Department of Fertilizers (DoFz),446,3,4,0,0,0,151,0,0,0,0
+Railways (MoR),381,1,1,0,0,0,1690,0,0,1,0
+Cooperation,362,29,30,0,0,0,65,0,0,2,0
+Department of Food and Public Distribution (DFPD),352,0,0,0,0,0,209,0,0,0,0
+Department of Agriculture and Farmers Welfare (DoAFW),117,2,2,0,0,0,591,0,0,0,0
+Department of Investment and Public Asset Management (DIPAM),82,0,0,0,0,0,0,0,0,0,0
+AYUSH (MoA),58,3,4,0,0,0,12,0,0,0,0
+Department of Defence Production (DDP),55,0,0,0,0,0,0,0,0,0,0
+Department of Posts (DoP),49,0,0,0,0,0,0,0,0,0,0
+Department of Agricultural Research and Education (DARE),40,0,0,0,0,0,0,0,0,0,0
+Department of Official Language (DoOL),22,0,0,0,0,0,33,0,0,0,0
+"Department of Water Resources, River Development and Ganga Rejuvenation (DoWRGR)",19,1,0,0,0,0,0,0,0,0,0
+Department of Drinking Water and Sanitation (DDWS),5,2,2,0,0,0,0,0,0,0,0
+Department of Military Affairs (DMA),4,0,0,0,0,0,0,0,0,0,0
+"Personnel, Public Grievances and Pensions (MoPPGP)",3,0,0,0,0,0,0,0,0,0,0
+Commerce and Industry (MoCI),1,0,0,0,0,0,195,0,0,0,0
