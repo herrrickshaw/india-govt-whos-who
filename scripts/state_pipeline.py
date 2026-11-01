@@ -383,9 +383,16 @@ def select(args):
         cand.insert(0, "doc_id", cand.url.map(S.doc_id))
         cand["host"] = cand.url.map(lambda u: urlparse(u).netloc)
         cand["group"] = st; cand["category"] = ""; cand["date"] = ""
+        prev_c = sdir(st) / "candidates.csv"
+        old = pd.read_csv(prev_c) if (getattr(args, "tranche2", False) and prev_c.exists()) else None
+        if old is not None:
+            cand = cand[~cand.doc_id.isin(set(old.doc_id))]       # only documents not selected before
         if args.max_docs:
             cand = cand.groupby("ministry", group_keys=False).head(max(5, args.max_docs // max(1, cand.ministry.nunique()) + 5)).head(args.max_docs)
-        cand[["doc_id", "ministry", "title", "group", "category", "date", "url", "host", "website", "found_on"]].to_csv(sdir(st) / "candidates.csv", index=False)
+        outc = cand[["doc_id", "ministry", "title", "group", "category", "date", "url", "host", "website", "found_on"]]
+        if old is not None:
+            outc = pd.concat([old, outc], ignore_index=True).drop_duplicates("doc_id")
+        outc.to_csv(sdir(st) / "candidates.csv", index=False)
         print(f"select {st}: {len(cand)} candidate PDFs from {len(d)} links ({cand.ministry.nunique()} departments)")
 
 
@@ -404,7 +411,9 @@ def extract(args):
         langs, scr, _, language = STATE_LANG.get(st, ("eng", "LATIN", None, "English"))
         cand = pd.read_csv(S.OUT / "candidates.csv").set_index("doc_id")
         rows = []
-        files = sorted(S.PDF.glob("*.pdf"))
+        old_sig = pd.read_csv(S.OUT / "signatures.csv", low_memory=False) if (S.OUT / "signatures.csv").exists() else pd.DataFrame()
+        already = set(old_sig.doc_id) if len(old_sig) else set()     # earlier results are kept; only new PDFs are read
+        files = [f for f in sorted(S.PDF.glob("*.pdf")) if f.stem not in already]
         print(f"[{st}] extract: {len(files)} PDFs, OCR {langs}")
         for k, f in enumerate(files):
             if f.stem not in cand.index:
@@ -434,7 +443,7 @@ def extract(args):
                              "sig_script": sscr, "sig_designation_raw": dg, "sig_designation": en, "strength": stv})
             if (k + 1) % 100 == 0:
                 print(f"  {k+1}/{len(files)}")
-        df = pd.DataFrame(rows)
+        df = pd.concat([old_sig, pd.DataFrame(rows)], ignore_index=True) if len(old_sig) else pd.DataFrame(rows)
         df.to_csv(S.OUT / "signatures.csv", index=False)
         d1 = df.drop_duplicates("doc_id")
         print(f"[{st}] extract: {len(d1)} docs; script mix {d1.script.value_counts().to_dict()}; with signature "
@@ -576,6 +585,7 @@ if __name__ == "__main__":
     ap.add_argument("--max-sites", type=int, default=0)
     ap.add_argument("--max-pages", type=int, default=60)
     ap.add_argument("--max-docs", type=int, default=300)
+    ap.add_argument("--tranche2", action="store_true", help="select the next documents per state, keeping earlier selections and results")
     a = ap.parse_args()
     a.states = [s.strip().upper() for s in a.states.split(",") if s.strip()]
     stages = STAGES if a.stages == ["all"] else a.stages

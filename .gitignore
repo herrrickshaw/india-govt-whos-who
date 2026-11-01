@@ -20,3 +20,7 @@ data/archive_shards.log
 data/states/crawl_jobs.txt
 data/states/crawl_progress.log
 data/archive_states_watch.log
+data/aws_copy.log
+data/cloud_md/
+data/cloud_md_feeder.log
+data/resource_guard.log
