@@ -1,17 +1,17 @@
 # BR — who signed what — officers ↔ orders / notifications matrix
 
-_Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (53 ministries/departments)._
+_Built 2026-11-02 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (63 ministries/departments)._
 
 ## Funnel
 
 | Stage | Count |
 |---|---|
-| Candidate order/notification/circular/OM/gazette PDFs in the document index | 300 |
+| Candidate order/notification/circular/OM/gazette PDFs in the document index | 700 |
 | PDFs fetched | 0 |
-| PDFs with machine-readable text | 36 |
-| PDFs with a detectable signature block | 36 |
-| Signatures matched to a roster officer | 4 documents / 4 officers |
-| Signatures not matched (person not in any roster, or moved) | 33 |
+| PDFs with machine-readable text | 75 |
+| PDFs with a detectable signature block | 75 |
+| Signatures matched to a roster officer | 9 documents / 8 officers |
+| Signatures not matched (person not in any roster, or moved) | 69 |
 
 ## Per ministry
 
@@ -23,60 +23,73 @@ _Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who
 | Aurangabad | 7 | 0 | 0 | 0 | 0 |
 | BC and EBC Welfare Department, Bihar | 7 | 0 | 0 | 0 | 0 |
 | Banka | 1 | 0 | 0 | 0 | 0 |
-| Bhagalpur | 9 | 0 | 2 | 0 | 0 |
+| Bhagalpur | 20 | 0 | 2 | 0 | 0 |
 | Bhojpur | 2 | 0 | 0 | 0 | 0 |
 | Bihar Admission and eCounselling Services | 2 | 0 | 0 | 0 | 0 |
 | Bihar Agricultural University, Sabour | 4 | 0 | 2 | 1 | 1 |
-| Bihar Animal Sciences University (BASU) | 9 | 0 | 0 | 0 | 0 |
+| Bihar Animal Sciences University (BASU) | 26 | 0 | 0 | 0 | 0 |
 | Bihar Board of Open Schooling & Examination | 7 | 0 | 1 | 0 | 0 |
 | Bihar Combined Entrance Competitive Examination Board (BCECEB) | 9 | 0 | 0 | 0 | 0 |
+| Bihar Education Project Council (BEPC) | 17 | 0 | 0 | 0 | 0 |
 | Bihar Electricity Regulatory Commission | 1 | 0 | 1 | 0 | 0 |
-| Bihar State Building Construction Corporation Limited (BSBCCL) | 9 | 0 | 1 | 1 | 1 |
-| Bihar State Election Authority (BSEA) | 9 | 0 | 2 | 0 | 0 |
+| Bihar Government Servant Grievance Redressal System | 1 | 0 | 1 | 0 | 0 |
+| Bihar Public Grievance Redressal System | 11 | 0 | 1 | 1 | 1 |
+| Bihar State Building Construction Corporation Limited (BSBCCL) | 26 | 0 | 1 | 1 | 1 |
+| Bihar State Election Authority (BSEA) | 14 | 0 | 2 | 0 | 0 |
+| Bihar State Electronics Development Corporation Limited, Beltron, Patna | 17 | 0 | 0 | 0 | 0 |
 | Bihar State Financial Corporation (BSFC), Patna | 1 | 0 | 0 | 0 | 0 |
 | Bihar State Housing Board (BSHB) | 3 | 0 | 0 | 0 | 0 |
-| Bihar State Panchayat Resource Institute (BSPRI) | 9 | 0 | 0 | 0 | 0 |
-| Bihar State Pollution Control Board (BSPCB) | 9 | 0 | 2 | 1 | 1 |
-| Bihar State Power Transmission Company Limited (BSPTCL) | 9 | 0 | 0 | 0 | 0 |
-| Bihar State Road Development Corporation Ltd (BSRDCL) | 9 | 0 | 0 | 0 | 0 |
+| Bihar State Panchayat Resource Institute (BSPRI) | 10 | 0 | 0 | 0 | 0 |
+| Bihar State Pollution Control Board (BSPCB) | 26 | 0 | 5 | 1 | 1 |
+| Bihar State Power Transmission Company Limited (BSPTCL) | 26 | 0 | 6 | 0 | 0 |
+| Bihar State Road Development Corporation Ltd (BSRDCL) | 23 | 0 | 1 | 0 | 0 |
+| Bihar Tourism | 17 | 0 | 0 | 0 | 0 |
 | Building Construction Department, Bihar | 1 | 0 | 0 | 0 | 0 |
 | Buxar | 4 | 0 | 0 | 0 | 0 |
-| Central Excise and Service Tax, Ranchi Zone, Patna | 9 | 0 | 0 | 0 | 0 |
+| Central Excise and Service Tax, Ranchi Zone, Patna | 26 | 0 | 0 | 0 | 0 |
+| Central Selection Board of Constable, Patna, Bihar | 17 | 0 | 2 | 0 | 0 |
 | Commercial Taxes Department, Bihar | 3 | 0 | 1 | 0 | 0 |
 | Darbhanga | 4 | 0 | 0 | 0 | 0 |
-| Direct Benefit Transfer (DBT), Agriculture Department, Bihar | 9 | 0 | 0 | 0 | 0 |
-| Directorate of Fisheries, Bihar | 9 | 0 | 0 | 0 | 0 |
-| Directorate of Land Records & Survey, Bihar | 9 | 0 | 2 | 1 | 1 |
+| Direct Benefit Transfer (DBT), Agriculture Department, Bihar | 22 | 0 | 2 | 0 | 0 |
+| Directorate of Fisheries, Bihar | 24 | 0 | 0 | 0 | 0 |
+| Directorate of Land Records & Survey, Bihar | 26 | 0 | 6 | 1 | 1 |
+| Flood Management Improvement Support Centre (FMISC), Bihar | 17 | 0 | 8 | 0 | 0 |
 | Gaya | 6 | 0 | 0 | 0 | 0 |
 | Gopalganj | 5 | 0 | 3 | 0 | 0 |
-| Horticulture Directorate, Agriculture Department, Bihar | 9 | 0 | 0 | 0 | 0 |
-| Infrastructure Development Authority (IDA), Bihar | 9 | 0 | 1 | 0 | 0 |
-| Jai Prakash Vishwavidyala (University), Bihar | 9 | 0 | 2 | 0 | 0 |
+| Government Polytechnic, Muzaffarpur, Bihar | 5 | 0 | 2 | 0 | 0 |
+| Horticulture Directorate, Agriculture Department, Bihar | 26 | 0 | 3 | 3 | 2 |
+| Infrastructure Development Authority (IDA), Bihar | 25 | 0 | 1 | 0 | 0 |
+| JEEViKA - Bihar Rural Livelihoods Project (BRLP) | 17 | 0 | 0 | 0 | 0 |
+| Jai Prakash Vishwavidyala (University), Bihar | 26 | 0 | 2 | 0 | 0 |
 | Jamui | 2 | 0 | 0 | 0 | 0 |
 | Jehanabad | 5 | 0 | 0 | 0 | 0 |
 | Kaimur (Bhabua) | 2 | 0 | 0 | 0 | 0 |
 | Katihar | 4 | 0 | 2 | 0 | 0 |
 | Khagaria | 1 | 0 | 0 | 0 | 0 |
-| Kishanganj | 9 | 0 | 3 | 0 | 0 |
-| Lakhisarai | 9 | 0 | 0 | 0 | 0 |
+| Kishanganj | 22 | 0 | 3 | 0 | 0 |
+| Lakhisarai | 24 | 0 | 2 | 0 | 0 |
 | Loknayak Jai Prakash Institute Of Technology (LNJPIT) | 5 | 0 | 0 | 0 | 0 |
 | Madhepura | 2 | 0 | 0 | 0 | 0 |
 | Minor Water Resources Department, Bihar | 1 | 0 | 0 | 0 | 0 |
 | Munger | 4 | 0 | 0 | 0 | 0 |
 | Muzaffarpur | 3 | 0 | 3 | 0 | 0 |
-| Muzaffarpur Institute of Technology, Bihar | 9 | 0 | 0 | 0 | 0 |
+| Muzaffarpur Institute of Technology, Bihar | 11 | 0 | 0 | 0 | 0 |
 | Nalanda | 4 | 0 | 1 | 0 | 0 |
-| Nalanda University | 9 | 0 | 2 | 0 | 0 |
+| Nalanda University | 26 | 0 | 3 | 0 | 0 |
 | Nawada | 5 | 0 | 0 | 0 | 0 |
 | Pashchim Champaran | 2 | 0 | 0 | 0 | 0 |
-| Patna University, Bihar | 9 | 0 | 2 | 0 | 0 |
+| Patna University, Bihar | 26 | 0 | 4 | 1 | 1 |
+| Right to Information (RTI) Jaankari Facilitation Centre, Bihar | 6 | 0 | 1 | 0 | 0 |
 
 ## Officer × topic matrix (documents signed)
 
 Full pivot: `officer_topic_pivot.csv`; long form with example titles and URLs: `officer_topic_matrix.csv`; one row per signed document: `officer_documents.csv`.
 
-| Officer | Designation (roster) | Ministry |  | TOTAL |
-|---|---|---|---|
+| Officer | Designation (roster) | Ministry | Other / unclassified | TOTAL |
+|---|---|---|---|---|
+| Abhishek Kumar | Block Development Officer, Durgawati | Kaimur (Bhabua) | 2 | 2 |
+| Shri Manoj Kumar | Joint Commissioner Cum Secretary And Regional Transport Authority(Regional Transport Authority) | Divisional Commissioner, Darbhanga Division, Bihar | 1 | 1 |
+| Pawan Kumar | Deputy Election Officer | Kaimur (Bhabua) | 1 | 1 |
 
 ## Contact person by topic
 
@@ -101,6 +114,18 @@ For each ministry and topic, the roster officers who signed the most documents o
 | Advisory / public notice / caution |  |
 | Committees / meetings / minutes / constitution of |  |
 
+### Divisional Commissioner, Darbhanga Division, Bihar
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| Other / unclassified | **Shri Manoj Kumar** — Joint Commissioner Cum Secretary And Regional Transport Authority(Regional Transport Authority) — rtasecy-dbg-bih@gmail.com (1) |
+
+### Kaimur (Bhabua)
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| Other / unclassified | **Abhishek Kumar** — Block Development Officer, Durgawati — bdo.dur-km-bih@nic.in (2); **Pawan Kumar** — Deputy Election Officer — dyeo_kaimur@yahoo.com (1) |
+
 ### Settlement Officer, Nawada
 
 | Topic | Contact officers (docs signed) |
@@ -113,10 +138,12 @@ People who sign orders for a ministry but are not on its who's-who page / igod /
 
 | Ministry | Signatory (as printed) | Signed as | Documents | Latest |
 |---|---|---|---|---|
+| Flood Management Improvement Support Centre (FMISC), Bihar | Vijay Kumar | Director / Joint Director | 7 |  |
 | Gopalganj | Lok Svasthy Pramandal Gopalaganj | Secretary | 3 |  |
 | Agriculture Technology Management Agency (ATMA), Samastipur, Bihar | Murana | Director | 2 |  |
 | Bhagalpur | Preshit | Commissioner / Director | 2 |  |
 | Bihar State Election Authority (BSEA) | SARYUG PRASAD | Deputy Secretary to Government / Deputy Secretary to Government. , : | 2 |  |
+| Bihar State Pollution Control Board (BSPCB) | BISHWANATH SINHA | Joint Secretary / Jt. Secy | 2 |  |
 | Katihar | Samaharanalay Katihar | Secretary | 2 |  |
 | Muzaffarpur | Samaharta-sah-samuchit Sarakar | Commissioner | 2 |  |
 

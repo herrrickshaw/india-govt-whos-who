@@ -1,11 +1,11 @@
 # Career tracker — where are the signatories now?
 
-_Built 2026-11-01 by `scripts/career_tracker.py`. Events: 7083 ({'dopt_er_sheet': 5734, 'sarkarimirror': 833, 'psuwatch': 395, 'whispersinthecorridors': 121}); articles cached: 1806._
+_Built 2026-11-02 by `scripts/career_tracker.py`. Events: 7083 ({'dopt_er_sheet': 5734, 'sarkarimirror': 833, 'psuwatch': 395, 'whispersinthecorridors': 121}); articles cached: 1806._
 
 | Directory | signers | with a later/current posting found | moved since they signed | high confidence |
 |---|---|---|---|---|
 | centre | 2958 | 495 | 83 | 97 |
-| states | 1480 | 225 | 0 | 110 |
+| states | 2823 | 409 | 0 | 176 |
 
 ## Signers who have moved (sample, high/medium confidence)
 

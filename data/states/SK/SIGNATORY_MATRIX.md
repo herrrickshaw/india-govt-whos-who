@@ -1,17 +1,17 @@
 # SK — who signed what — officers ↔ orders / notifications matrix
 
-_Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (10 ministries/departments)._
+_Built 2026-11-02 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (10 ministries/departments)._
 
 ## Funnel
 
 | Stage | Count |
 |---|---|
-| Candidate order/notification/circular/OM/gazette PDFs in the document index | 172 |
+| Candidate order/notification/circular/OM/gazette PDFs in the document index | 273 |
 | PDFs fetched | 0 |
-| PDFs with machine-readable text | 31 |
-| PDFs with a detectable signature block | 31 |
-| Signatures matched to a roster officer | 3 documents / 3 officers |
-| Signatures not matched (person not in any roster, or moved) | 29 |
+| PDFs with machine-readable text | 64 |
+| PDFs with a detectable signature block | 64 |
+| Signatures matched to a roster officer | 11 documents / 4 officers |
+| Signatures not matched (person not in any roster, or moved) | 56 |
 
 ## Per ministry
 
@@ -20,13 +20,13 @@ _Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who
 | Agriculture Department, Sikkim | 2 | 0 | 0 | 0 | 0 |
 | Co-operation Department, Sikkim | 21 | 0 | 3 | 2 | 2 |
 | Cultural Department, Sikkim | 9 | 0 | 2 | 0 | 0 |
-| Energy and Power Department, Sikkim | 35 | 0 | 7 | 0 | 0 |
+| Energy and Power Department, Sikkim | 54 | 0 | 12 | 0 | 0 |
 | Food, Civil Supplies and Consumer Affairs Department, Sikkim | 2 | 0 | 0 | 0 | 0 |
 | Housing and Development Board, Sikkim | 11 | 0 | 0 | 0 | 0 |
 | Information and Public Relations Department, Sikkim | 9 | 0 | 1 | 0 | 0 |
 | Labour Department, Sikkim | 13 | 0 | 1 | 0 | 0 |
-| Police Department, Sikkim | 35 | 0 | 6 | 0 | 0 |
-| Rural Development Department, Sikkim | 35 | 0 | 11 | 1 | 1 |
+| Police Department, Sikkim | 64 | 0 | 10 | 0 | 0 |
+| Rural Development Department, Sikkim | 88 | 0 | 35 | 9 | 2 |
 
 ## Officer × topic matrix (documents signed)
 
@@ -38,6 +38,13 @@ Full pivot: `officer_topic_pivot.csv`; long form with example titles and URLs: `
 ## Contact person by topic
 
 For each ministry and topic, the roster officers who signed the most documents on it (name, roster designation, email).
+
+### Additional Secretary, Department of Expenditure, M/o Finance, Government of India, New Delhi (On Central Deputation)
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| Office administration / housekeeping |  |
+| Other / unclassified |  |
 
 ### Commissioner-cum-Secretary, Women, Child, Senior Citizen and Divyangjan Welfare Department, Government of Sikkim
 
@@ -55,6 +62,9 @@ For each ministry and topic, the roster officers who signed the most documents o
 
 | Topic | Contact officers (docs signed) |
 |---|---|
+| Committees / meetings / minutes / constitution of |  |
+| Office administration / housekeeping |  |
+| Other / unclassified |  |
 | Training / capacity building / workshops |  |
 
 ## Signatories missing from the rosters (roster gaps)
@@ -63,12 +73,17 @@ People who sign orders for a ministry but are not on its who's-who page / igod /
 
 | Ministry | Signatory (as printed) | Signed as | Documents | Latest |
 |---|---|---|---|---|
-| Rural Development Department, Sikkim | TSHERING LHADEN LACHUNGPA | SPECIAL SECRETARY | 5 |  |
+| Rural Development Department, Sikkim | TSHERING LHADEN LACHUNGPA | ADDITIONAL SECRETARY / SPECIAL SECRETARY | 8 |  |
+| Rural Development Department, Sikkim | BENU GURUNG | . SECRETARY / SPECIAL SECRETARY | 4 |  |
 | Energy and Power Department, Sikkim | Above Officials | Secretary, Power Department. | 2 |  |
 | Energy and Power Department, Sikkim | Bikash Deokota | Secretary | 2 |  |
+| Energy and Power Department, Sikkim | GHANSHYAM PRASAD | Jt. Secy | 2 |  |
 | Energy and Power Department, Sikkim | Power Departeni | Officer. | 2 |  |
+| Energy and Power Department, Sikkim | SRIKANT NAGULAPALLI | Addl. Secy | 2 |  |
 | Police Department, Sikkim | Sikkim Police | Director General of Police | 2 |  |
+| Rural Development Department, Sikkim | KOSHI KAPIL | ADDITIONAL SECRETARY | 2 |  |
 | Rural Development Department, Sikkim | Norgay Lepcha | Director (Finance & Accounts), RDD | 2 |  |
+| Rural Development Department, Sikkim | Sisila Lama Tam | Director (T) / Officer | 2 |  |
 
 ## Caveats
 

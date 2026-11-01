@@ -1,17 +1,17 @@
 # TR — who signed what — officers ↔ orders / notifications matrix
 
-_Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (11 ministries/departments)._
+_Built 2026-11-02 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (11 ministries/departments)._
 
 ## Funnel
 
 | Stage | Count |
 |---|---|
-| Candidate order/notification/circular/OM/gazette PDFs in the document index | 133 |
+| Candidate order/notification/circular/OM/gazette PDFs in the document index | 166 |
 | PDFs fetched | 0 |
-| PDFs with machine-readable text | 11 |
-| PDFs with a detectable signature block | 11 |
-| Signatures matched to a roster officer | 2 documents / 2 officers |
-| Signatures not matched (person not in any roster, or moved) | 9 |
+| PDFs with machine-readable text | 20 |
+| PDFs with a detectable signature block | 20 |
+| Signatures matched to a roster officer | 4 documents / 3 officers |
+| Signatures not matched (person not in any roster, or moved) | 17 |
 
 ## Per ministry
 
@@ -21,13 +21,13 @@ _Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who
 | Digital Seva e-District Portal, Tripura | 2 | 0 | 1 | 1 | 1 |
 | KTDS Police Training Academy, Tripura | 1 | 0 | 0 | 0 | 0 |
 | The Tripura State Medical Council, Tripura | 1 | 0 | 0 | 0 | 0 |
-| Tripura Farmers Portal & Kisan Call Center (KCC), Tripura | 32 | 0 | 8 | 1 | 1 |
-| Tripura JICA Project - Sustainable Catchment Forest Management (SCATFORM), Tripura | 32 | 0 | 0 | 0 | 0 |
+| Tripura Farmers Portal & Kisan Call Center (KCC), Tripura | 37 | 0 | 8 | 1 | 1 |
+| Tripura JICA Project - Sustainable Catchment Forest Management (SCATFORM), Tripura | 41 | 0 | 1 | 0 | 0 |
 | Tripura Nursing Council, Tripura | 4 | 0 | 0 | 0 | 0 |
 | Tripura Renewable Energy Development Agency, Tripura | 4 | 0 | 0 | 0 | 0 |
 | Tripura State Blood Transfusion Council, Tripura | 2 | 0 | 0 | 0 | 0 |
 | Tripura State Council For Science & Technology, Tripura | 16 | 0 | 0 | 0 | 0 |
-| Tripura Tribal Areas Autonomous District Council (TTAADC), Tripura | 32 | 0 | 2 | 0 | 0 |
+| Tripura Tribal Areas Autonomous District Council (TTAADC), Tripura | 51 | 0 | 10 | 2 | 1 |
 
 ## Officer × topic matrix (documents signed)
 
@@ -45,6 +45,12 @@ For each ministry and topic, the roster officers who signed the most documents o
 | Topic | Contact officers (docs signed) |
 |---|---|
 | Statutory rules / gazette notifications (G.S.R. / S.O.) |  |
+
+### Registrar of Co-operative Societies, Tripura, Agartala.
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| Procurement / tenders / GeM |  |
 
 ### Tripura JICA Project - Sustainable Catchment Forest Management (SCATFORM), Tripura
 

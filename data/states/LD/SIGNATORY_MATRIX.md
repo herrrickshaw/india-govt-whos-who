@@ -1,6 +1,6 @@
 # LD — who signed what — officers ↔ orders / notifications matrix
 
-_Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (8 ministries/departments)._
+_Built 2026-11-02 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (8 ministries/departments)._
 
 ## Funnel
 
