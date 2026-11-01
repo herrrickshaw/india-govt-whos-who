@@ -1,0 +1,304 @@
+doc_id,url,http,content_type,ok,err,ts
+e6650869c9d8fb5c,https://www.goaelectricity.gov.in/Regulations/Circular 03092013_0285.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512646
+d42359c1597e15cb,https://goacivilsupplies.gov.in/wp-content/uploads/2025/05/GoaDaman-and-Diu-Controlled-Commodities-Regulation-of-Distribution-Order1966.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793512646
+b7536cda8789502d,https://www.envcc.goa.gov.in/Assest/Latest_uploads/Appointment_of_the_Chairman_of_the_Goa_State_Pollution_Control_Board.pdf,200,text/html,0,,1793512646
+d712a760cdabe685,https://envcc.goa.gov.in/Assest/Latest_uploads/Appointment_of_the_Chairman_of_the_Goa_State_Pollution_Control_Board.pdf,200,text/html,0,,1793512646
+dfdd5838767ca3e8,https://ports.goa.gov.in/wp-content/uploads/2026/08/Notification-Declaration-of-Zone-under-IV-Act.pdf,200,application/pdf,1,,1793512646
+fbaa7be661891b3d,https://dhtc.goa.gov.in/wp-content/uploads/2026/03/Amendment-to-VKY.pdf,200,application/pdf,1,,1793512646
+ee0efa7b0732c15b,https://forest.goa.gov.in/sites/default/files/2024-04/Preservation%20of%20Trees%20Rules%2C%201983%20Amended.pdf,200,application/pdf,1,,1793512646
+e04e29f3eb1e573a,https://gazetteer.goa.gov.in/wp-content/uploads/2026/09/Citizens-Charter-dated-16.09.2026.pdf,200,application/pdf,1,,1793512647
+dbbe79487e6901c3,https://envcc.goa.gov.in/document-category/environment-reports/upload/Compendium of EIA Notifications_Jan2021_compressed.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512647
+1ff8eadff2699eb8,https://gazetteer.goa.gov.in/wp-content/uploads/2024/02/Order-of-Taluka-Gazetteer-Committee.pdf,200,application/pdf,1,,1793512648
+af22933437841935,https://dmg.goa.gov.in/PDFs/Notifications/Notification/Stoppage-of-transportation-ore-on-public-roads.pdf,200,application/pdf,1,,1793512648
+705223cc4f47d4d8,https://dca.goa.gov.in/assets/docs/Navy-letter.pdf,200,application/pdf,1,,1793512648
+e08454bb3ed103e6,https://envcc.goa.gov.in/document-category/acts-rules/uploads/gepc 2019.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512648
+7ee61c24feff9378,http://forest.goa.gov.in/sites/default/files/2022-06/gdd.pdf,200,application/pdf,1,,1793512648
+6a26be0e45b47b2c,https://dca.goa.gov.in/assets/docs/MADARules2018.pdf,200,application/pdf,1,,1793512648
+09c9fac43de5a81a,https://dmg.goa.gov.in/PDFs/Notifications/Orders/MONSOON-PREPARDNESS-SOUTH.pdf,200,application/pdf,1,,1793512648
+39ff8f2488700dda,https://fisheries.goa.gov.in/wp-content/uploads/2026/02/PMMSY-Guidelines.pdf,200,application/pdf,1,,1793512649
+62d10595188e77d6,https://fisheries.goa.gov.in/wp-content/uploads/2024/10/PM-MKSSY-Operational-Guidelines.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793512649
+649bad106ddafab3,https://ports.goa.gov.in/wp-content/uploads/2026/08/Notiifcation-Section-532-741-and-551.pdf,200,application/pdf,1,,1793512649
+c6fabbb98dc64c67,https://gazetteer.goa.gov.in/wp-content/uploads/2024/02/Order-of-Editorial-Board-of-Goa-Gazetteer.pdf,200,application/pdf,1,,1793512649
+dee65052aa768039,https://dmg.goa.gov.in/PDFs/Notifications/Orders/MONSOON-PREPARDNESS-NORTH.pdf,200,application/pdf,1,,1793512650
+5f23d508acb2f249,https://gazetteer.goa.gov.in/wp-content/uploads/2024/02/Business-Allocation-Rules-for-the-Department.pdf,200,application/pdf,1,,1793512650
+8ad1b9547dbbf331,https://envcc.goa.gov.in/document-category/acts-rules/uploads/biodiversity_rule_2004.pdf,200,text/html,0,,1793512650
+7a63224da6df7187,https://dca.goa.gov.in/assets/docs/Notification-DCA.pdf,200,application/pdf,1,,1793512650
+46ec324bf8ff0a5c,https://envcc.goa.gov.in/document-category/acts-rules/uploads/State Level Steering Committee _SLSC_.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512650
+2489de5f1e25e9eb,https://dmg.goa.gov.in/PDFs/Corrigendum published on 21-04-2026_20260522110827.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512650
+52a2cb8e35eff17d,https://gazetteer.goa.gov.in/wp-content/uploads/2024/03/Creation-of-Post-RA.pdf,404,text/html; charset=UTF-8,0,,1793512651
+73fbceda33f560dc,https://envcc.goa.gov.in/document-category/acts-rules/uploads/seac-seiaa2020.pdf,200,text/html,0,,1793512651
+14c80fb51634a1f9,https://dmg.goa.gov.in/PDFs/Notifications/Notification/Auction-Calendar-2026-2027.pdf,200,application/pdf,1,,1793512651
+5a20da518d361ad0,https://ports.goa.gov.in/wp-content/uploads/2026/02/Gazette-Notification-amending-Goa-Barge-Tax-Rules-1975-and-Draft-Gazette-Notification-amending-Goa-Barge-Taxation-on-Goods-Rules-1987-.pdf,200,application/pdf,1,,1793512652
+5444da03a331b716,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/7UB7WkGNJ9vlUECai8mVCMKXJc3zjn9u8wyKHomK.pdf,200,application/pdf,1,,1793512652
+f135372fd682908d,https://gazetteer.goa.gov.in/wp-content/uploads/2024/03/DPC-Order-2023-24.pdf,404,text/html; charset=UTF-8,0,,1793512652
+0ca932d9fb92cba2,https://envcc.goa.gov.in/document-category/acts-rules/uploads/fire crackers -2021.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512652
+0740e34befd5299a,https://dca.goa.gov.in/assets/docs/MEMORANDUM.pdf,200,application/pdf,1,,1793512653
+2c8df92237e1674f,https://gazetteer.goa.gov.in/wp-content/uploads/2024/03/Assessment-of-Manpower-and-Creation-of-Post.pdf,404,text/html; charset=UTF-8,0,,1793512653
+2db4fc6c11d4b393,https://dslr.goa.gov.in/docs/Attachment - 6-Order -1 RTI  PIO and APIO.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512653
+53de7c078bfe3249,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/t9u6X1trd5Cb5GqRpZvNsqpOjkWesadPWE9FXdWe.pdf,200,application/pdf,1,,1793512653
+97b91b343ec4c98f,https://ports.goa.gov.in/attachments/article/313/Notification%20regarding%20appointment%20of%20Surveyors%20and%20Examiners.pdf,200,text/html; charset=UTF-8,0,,1793512653
+9c0a158f28af9431,https://dmg.goa.gov.in/PDFs/E-Auction/Blank-Tender-Documents-for-2nd-phase-E-Auction.pdf,200,application/pdf,1,,1793512653
+4e7b83f59a92256b,https://dol.goa.gov.in/wp-content/uploads/2025/03/pio-apio-gazette.pdf,200,application/pdf,1,,1793512653
+72b903f8db7778aa,https://goacivilsupplies.gov.in/wp-content/uploads/2025/05/Solvent-Raffinate-and-Slop-Acquisition-Sale-Storage-and-Prevention-of-Use-in-Automobiles-Order-2000.pdf,200,application/pdf,1,,1793512653
+5ab8ccc5d88afe47,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/wV3ROC7z3zoDoeRCD0Uq0cdaTnw5BMn0YUQcWBBi.pdf,200,application/pdf,1,,1793512653
+f850010d4d23c688,https://dmg.goa.gov.in/PDFs/Notifications/green-tax-sanction-order/Green-Tax-Sanction-Order-9.pdf,200,application/pdf,1,,1793512654
+b8d4c0ef687302f8,https://gazetteer.goa.gov.in/wp-content/uploads/2026/02/Order-of-Final-Sanctioned-strength-of-the-Department.pdf,200,application/pdf,1,,1793512654
+6d98c112e8e21927,https://goacivilsupplies.gov.in/wp-content/uploads/2025/05/Naptha-AcquisitionSaleStorage-and-Prevention-of-use-in-Automobile-order-2000.pdf,200,application/pdf,1,,1793512654
+4c44709e4d54637d,https://dslr.goa.gov.in/docs/Attachment - 7-Order -2 RTI  PIO and APIO.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512654
+7107564124105337,https://gazetteer.goa.gov.in/wp-content/uploads/2025/09/sanctioned-strength.pdf,200,application/pdf,1,,1793512655
+05da9ee44c6c8954,https://dmg.goa.gov.in/PDFs/E-Auction/Notice-Inviting-Tender-4th-NIT-(Mineral-Block)-new.pdf,200,application/pdf,1,,1793512655
+c11c2df6dc4c1335,https://ports.goa.gov.in/attachments/article/312/Notification%20under%20various%20sections%20if%20I%20V%20Act%202021.pdf,200,text/html; charset=UTF-8,0,,1793512655
+f07312beb8973334,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/Wpl9Ryuy2eWrprIq38hL5EV5PT9mgQKmSuj2K6fb.pdf,200,application/pdf,1,,1793512655
+b0eb179eebfca632,https://ports.goa.gov.in/wp-content/uploads/2026/07/EtenderNoticePMCARC.pdf,200,application/pdf,1,,1793512655
+0c78168bca407550,https://dol.goa.gov.in/wp-content/uploads/2025/03/Circulars-Name-Board-and-Signages.pdf,200,application/pdf,1,,1793512655
+1df786ff5a0f7170,https://ports.goa.gov.in/wp-content/uploads/2026/07/EtenderNoticeTAS.pdf,200,application/pdf,1,,1793512656
+e7dff92bd11c3832,https://dmg.goa.gov.in/PDFs/E-Auction/Blank-Tender-Documnet-4th-NIT-(Mineral-Block).pdf,200,application/pdf,1,,1793512656
+59d60ca4dd1c5f90,https://gazetteer.goa.gov.in/wp-content/uploads/2025/09/Order-EE.pdf,200,application/pdf,1,,1793512656
+3f44d319bf54ab14,https://dmg.goa.gov.in/PDFs/E-Auction/corrigendum-e-auction-dumps.pdf,200,application/pdf,1,,1793512657
+53dd568e6ed5db83,https://gazetteer.goa.gov.in/wp-content/uploads/2026/04/Departmental-Purchase-Committee.pdf,200,application/pdf,1,,1793512657
+f46755fb68d7fffd,"https://www.coopgoa.gov.in/Download/The%20Goa%20Co-operative%20Societies%20(Amendment)%20Act,%202026%20(Goa%20Act%2023%20of%202026).pdf",200,application/pdf,1,,1793512657
+287fd857d7051920,https://ports.goa.gov.in/wp-content/uploads/2026/07/EtenderNoticePMU.pdf,200,application/pdf,1,,1793512657
+b4eb417b5826874b,https://dol.goa.gov.in/wp-content/uploads/2025/03/Circular-Name-Board-Autonomous-Bodies_0-1.pdf,200,application/pdf,1,,1793512657
+0d26cf2df322dee6,https://dmg.goa.gov.in/PDFs/Notifications/DMF/Circular-North-Goa-South-Goa-Minor-Mineral-DMF.pdf,200,application/pdf,1,,1793512658
+77487278c78d2a7f,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/RFz6brI7kpPhOhv4oi14zfuzV9geKshbrdGfvJDB.pdf,200,application/pdf,1,,1793512658
+fe2baf47142d5a9e,https://gazetteer.goa.gov.in/wp-content/uploads/2026/04/Liason-officer-for-Roster.pdf,200,application/pdf,1,,1793512658
+0d5f6f5c18ad20bc,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/ZPs9V3houAf2SkyqF6ocNGa6Pa7Tl0SAxv6f05Oo.pdf,200,application/pdf,1,,1793512658
+9684645e4328b7b2,https://ports.goa.gov.in/wp-content/uploads/2025/03/Corrigendum2.pdf,200,application/pdf,1,,1793512659
+27bf01d4f98f2e1a,https://dmg.goa.gov.in/PDFs/E-Auction/Corrigendum-E-auction-of-Dumps-at-various-locations-in-Goa.pdf,200,application/pdf,1,,1793512659
+4878378267473353,https://gazetteer.goa.gov.in/wp-content/uploads/2026/04/Nodal-Officer-for-She-Box-Portal.pdf,200,application/pdf,1,,1793512659
+c6f792eb2528e551,https://www.coopgoa.gov.in/Download/ABN-EXN.pdf,200,application/pdf,1,,1793512659
+6f6d3ac76e610454,https://www.goaelectricity.gov.in/Regulations/Attachment%20no.%20180.pdf,200,application/pdf,1,,1793512659
+77f6ef59dfb097d1,https://ports.goa.gov.in/wp-content/uploads/2025/03/Corrignedum.pdf,200,application/pdf,1,,1793512659
+6a9f8da20b4f8f17,https://dol.goa.gov.in/wp-content/uploads/2025/03/Circular-Name-Board-Autonomous-Bodies-Konk_0.pdf,200,application/pdf,1,,1793512659
+f185728ff0bfeb34,https://ports.goa.gov.in/wp-content/uploads/2025/03/Tender-notice-1.pdf,200,application/pdf,1,,1793512661
+834f71a50ae5dd90,https://ports.goa.gov.in/wp-content/uploads/2025/03/Tender-Notice.pdf,200,application/pdf,1,,1793512661
+bcf237c1fb9e643e,https://ports.goa.gov.in/wp-content/uploads/2026/07/Advisory_20260724135202_0.pdf,200,application/pdf,1,,1793512662
+d1d14a464e1858cb,https://statelotteries.goa.gov.in/wp-content/uploads/2026/09/NIT.pdf,200,application/pdf,1,,1793512663
+762a55f28587d69d,https://statelotteries.goa.gov.in/wp-content/uploads/2026/09/Corrigendum-I.pdf,200,application/pdf,1,,1793512663
+955902929617f6ec,https://goaprintingpress.gov.in/downloads/2425/2425-34-SI-EOG-1.pdf,200,application/pdf,1,,1793512663
+5ee7459cd6db13b8,https://www.goaelectricity.gov.in/Regulations/CEA%20safety%20guidelines%202023.PDF,404,text/html; charset=UTF-8,0,,1793512664
+f852303757ea7dcc,https://dmg.goa.gov.in/PDFs/E-Auction/Model-Tender-Document-for-Dump-new.pdf,200,application/pdf,1,,1793512664
+42eae8a597eedfdd,https://statelotteries.goa.gov.in/wp-content/uploads/2026/10/Corrigendum-II.pdf,200,application/pdf,1,,1793512665
+1f49444c9c7d6a2f,https://dsya.goa.gov.in/wp-content/uploads/2026/01/Limited-Tender-Gym-Equip-at-Govt.Gymnasium-Nuvem.pdf,200,application/pdf,1,,1793512665
+7941ede8a963a02e,https://dol.goa.gov.in/wp-content/uploads/2025/03/notification_15dec.pdf,200,application/pdf,1,,1793512667
+717ab67bab24f41a,https://dsya.goa.gov.in/wp-content/uploads/2025/04/Limited-Tender-Enquiry-Supply-of-Gym-Equipments.pdf,200,application/pdf,1,,1793512667
+cc51870b967455c1,https://dol.goa.gov.in/wp-content/uploads/2025/03/circular.pdf,200,application/pdf,1,,1793512667
+eee9ed784efdcf19,https://statelotteries.goa.gov.in/wp-content/uploads/2026/10/Corrigendum-III.pdf,200,application/pdf,1,,1793512667
+5a4eb4f5462f8d0e,https://fisheries.goa.gov.in/wp-content/uploads/2026/02/Guidelines-for-implementation-of-Aquaculture-fis_250218_150517.pdf,200,application/pdf,1,,1793512668
+0e9fe38ef6077715,https://dsya.goa.gov.in/wp-content/uploads/2023/11/Limited-Tender.pdf,200,application/pdf,1,,1793512668
+d8c9fb93ab42f157,https://www.coopgoa.gov.in/Download/APMDR_Act_Rules.pdf,200,application/pdf,1,,1793512668
+612036e972edf0b8,https://dsya.goa.gov.in/wp-content/uploads/2018/12/Tender-Notice..pdf,200,application/pdf,1,,1793512669
+cb91a7b51de31265,https://www.coopgoa.gov.in/Download/Marketing-Rules-2017.pdf,404,text/html,0,,1793512669
+08f7de497082c813,https://dol.goa.gov.in/wp-content/uploads/2025/03/draftmultilingualpolicy.pdf,200,application/pdf,1,,1793512669
+3088474dd69b3997,https://dol.goa.gov.in/wp-content/uploads/2025/03/Gazette-Amcho-Ganv-Amchi-Parampara-Amchem-Daiz_removed.pdf,200,application/pdf,1,,1793512669
+12126d0b0e8dae6b,https://dsya.goa.gov.in/wp-content/uploads/2017/05/Sports-Equipment-Corrigendum.pdf,200,application/pdf,1,,1793512670
+304953fbc16d3daf,https://fisheries.goa.gov.in/wp-content/uploads/2026/02/PMMSY-Guidelines24-June2020.pdf,200,application/pdf,1,,1793512670
+a524b70da1e77e40,https://dol.goa.gov.in/wp-content/uploads/2026/08/Gazette-Bhasha-Puraskar-Yojana.pdf,200,application/pdf,1,,1793512670
+561e0c99e237ca0b,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/SkKh4eqmHdVEBiJAhiUiDg2DBPW1gMPNm8dz1Sf7.pdf,200,application/pdf,1,,1793512671
+df959c9c97d89a90,https://dsya.goa.gov.in/wp-content/uploads/2025/05/Empanelment-of-Agencies-for-supply-of-Sports-Materials-and-Sports-Equipment-.pdf,200,application/pdf,1,,1793512671
+64b4fa1f4f1e99f6,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/jtNaTLmeIcqNSCUt3JeFU9b6QSZSRMI0eIpA5hgM.pdf,200,application/pdf,1,,1793512671
+c85c695f3d758c2d,https://dol.goa.gov.in/wp-content/uploads/2026/08/RTI-gazette-Dol.pdf,200,application/pdf,1,,1793512672
+57d5fab1584f316e,https://dsya.goa.gov.in/wp-content/uploads/2025/04/Circular-6WCC-MAY-JUNE-2025.pdf,200,application/pdf,1,,1793512672
+2f4bfbb4a354d1cd,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/cZsoovOU7Wf9CqffSpjVO3rgMgg1vRay1WJ5wdHc.pdf,200,application/pdf,1,,1793512673
+7e6a97b97e5889da,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/9cJsIOuR6P70gmVItKW2iwdbqrkPDVMMCKl8RCie.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793512673
+691a0b683d57fce9,https://www.goaelectricity.gov.in/wp-content/uploads/2026/01/CEA-safety-guidelines-2023.pdf,200,application/pdf,1,,1793512675
+e1c963f0cbae936c,https://statelotteries.goa.gov.in/wp-content/uploads/2021/10/azadi-ka-amrit-mahotsav-circular.pdf,404,text/html; charset=UTF-8,0,,1793512675
+73426d0e7ee51148,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/sHTTBP3R66TjMhWuo6SXY3rdqkkfetewIQFTF11k.pdf,200,application/pdf,1,,1793512675
+fa5254e1624c4078,https://fisheries.goa.gov.in/wp-content/uploads/2026/02/PMMSY-TED-guidelines.pdf,200,application/pdf,1,,1793512676
+d56f23ba90ecae76,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/gVSvGLaEqzPcfLfdAsZmt2oVd4chM6UviUtfUuqO.pdf,200,application/pdf,1,,1793512676
+abcc9c6c87f766b2,https://statelotteries.goa.gov.in/wp-content/uploads/2026/03/2526-49-SI-OG.pdf,200,application/pdf,1,,1793512676
+23bbed479157d5c2,https://dhs.goa.gov.in/cms-gov-be/storage/app/public/uploads/newsNotices/fAYM7VzJ591gSRqQQoneRsOFL1HNpMCXvKOriX5n.pdf,200,application/pdf,1,,1793512677
+424b4cb1a825ad80,https://fisheries.goa.gov.in/wp-content/uploads/2024/01/1.MERCHANT-SHIPPING-ACT-1958-1.pdf,200,application/pdf,1,,1793512677
+a38370831a84b09c,https://www.coopgoa.gov.in/Download/SchemeNotification.pdf,200,application/pdf,1,,1793512678
+3ee8ba4f4360b731,https://nhm.goa.gov.in/wp-content/uploads/2020/10/Rules-for-Photography-competition.pdf,200,application/pdf,1,,1793512678
+27a1f64f6afea7c5,https://fisheries.goa.gov.in/wp-content/uploads/2024/01/2.MERCHANT-SHIPPING-INDIAN-FISHING-BOATS-INSPECTION-RULES-1988.pdf,200,application/pdf,1,,1793512678
+6fe04d21444fbac8,https://statelotteries.goa.gov.in/wp-content/uploads/2025/11/Amendment-in-Rajshree-10-Rajshree-Night-Weekly-w.e.f.-20.10.2025.pdf,200,application/pdf,1,,1793512678
+f2660048f9b0a878,https://statelotteries.goa.gov.in/wp-content/uploads/2025/11/Notification-of-Set-4-5-6.pdf,200,application/pdf,1,,1793512678
+dd69398a7b88fa52,https://fisheries.goa.gov.in/wp-content/uploads/2024/01/3.MERCHANT-SHIPPING-REGISTRATION-OF-INDIAN-FISHING-BOATS-RULES-1988.pdf,200,application/pdf,1,,1793512678
+b350e7b3d205b7ac,https://dsya.goa.gov.in/wp-content/uploads/2025/03/Admission-Circular-Delhi-Sports-University.pdf,200,application/pdf,1,,1793512679
+7b23d5f1163a7cd3,https://dte.goa.gov.in/sites/default/files/pgmedicalrules.pdf,200,application/pdf,1,,1793512679
+7280d018fd5b7d08,https://nhm.goa.gov.in/wp-content/uploads/2025/08/Goa-Confidential-Pricing-Proposal.pdf,200,application/pdf,1,,1793512679
+480e5bbc987a35d4,https://dte.goa.gov.in/sites/default/files/2020-07/circular1.pdf,404,text/html; charset=UTF-8,0,,1793512680
+f674c327218d26da,https://dte.goa.gov.in/sites/default/files/notif_2_2026_corrigendum.pdf,200,application/pdf,1,,1793512680
+c158b29ed3fd8336,https://statelotteries.goa.gov.in/wp-content/uploads/2023/02/Goa-Online-Lottery-Rules-2023.pdf,200,application/pdf,1,,1793512680
+b655d9e2be651840,https://fisheries.goa.gov.in/wp-content/uploads/2024/01/4.Goa-Marine-Fishing-Regulation-Act-1980.pdf,200,application/pdf,1,,1793512680
+790b73dc51756990,https://statelotteries.goa.gov.in/wp-content/uploads/2021/12/Goa-Lotteries-Regulation-Third-Amendment-Rules-2021.pdf,200,application/pdf,1,,1793512680
+021bb8578fc5caec,https://dsya.goa.gov.in/wp-content/uploads/2026/10/Rules-and-Regulation-Entry-Form.pdf,200,application/pdf,1,,1793512680
+2cbfc03b0cf42718,https://www.goaelectricity.gov.in/wp-content/uploads/2026/01/dumping-garbage-advisory.pdf,200,application/pdf,1,,1793512681
+254413a1f5fa3cb1,https://fisheries.goa.gov.in/wp-content/uploads/2024/01/5.Goa-Marine-Fishing-Regulation-Act-First-Amendement-1989.pdf,200,application/pdf,1,,1793512681
+1cb3d6ac4b035a24,https://dte.goa.gov.in/sites/default/files/Notification3_of_2025.pdf,200,application/pdf,1,,1793512681
+a100ba1b1e0ef7b5,https://dsya.goa.gov.in/wp-content/uploads/2025/11/Rules-and-Regulations-22nd-State-Youth-Festival-2025.pdf,200,application/pdf,1,,1793512681
+259da0919a33d3a9,http://forest.goa.gov.in/sites/default/files/2022-06/CAMPA%20Rules%202018%2C%20TGI-Extraordinary%20%28PArt-II-Sec3%28i%29%29.pdf,200,application/pdf,1,curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2),1793512681
+4e7a29b86355f953,https://statelotteries.goa.gov.in/wp-content/uploads/2021/08/Amendments-to-Goa-Computerised-Network-Lottery-Rules-18-06-2019.pdf,200,application/pdf,1,,1793512681
+154ca240cd085b51,https://fisheries.goa.gov.in/wp-content/uploads/2024/01/6.-The-Goa-Marine-Fishing-Regulation-2nd-Amendment-Act-2019.pdf,200,application/pdf,1,,1793512682
+a95d12b9765978aa,https://dte.goa.gov.in:443/sites/default/files/pgmedicalrules.pdf,200,application/pdf,1,,1793512682
+d46d63b88a1ffbd7,https://nhm.goa.gov.in/wp-content/uploads/2025/05/Request-for-Proposal-for-Appointment-of-Concurrent-Auditor-2024-25.pdf,200,application/pdf,1,,1793512682
+2bc44946cc284b0a,https://dte.goa.gov.in/sites/default/files/Notification2_of_2025.pdf,200,application/pdf,1,,1793512682
+15ebb9fe03a3b74d,https://dsya.goa.gov.in/wp-content/uploads/2025/06/Guidelines-for-Tenzing-Norgay-National-Adventure-Award.pdf,200,application/pdf,1,,1793512682
+6726b8732aa463fa,http://forest.goa.gov.in/sites/default/files/2022-06/CAMPA%20Steering%20Committee%2C%20Notification%20dated%2020-05-2019.pdf,200,application/pdf,1,,1793512682
+36a4500ba9352655,https://dte.goa.gov.in:443/sites/default/files/notif_2_2026_corrigendum.pdf,200,application/pdf,1,,1793512683
+9b89679c30e1392d,https://statelotteries.goa.gov.in/wp-content/uploads/2021/08/Amendments-to-Goa-Computerised-Network-Lottery-Rules-24-01-2013.pdf,200,application/pdf,1,,1793512683
+7954a73a06b72b56,https://fisheries.goa.gov.in/wp-content/uploads/2024/01/7.Goa-Marine-Fishing-Regulation-Rules-1982.pdf,200,application/pdf,1,,1793512683
+d567cacf599d230f,https://nhm.goa.gov.in/wp-content/uploads/2024/11/Tender-For-Kit-Bag-For-AAM.pdf,200,application/pdf,1,,1793512683
+e88d13b0bd64af25,https://dsya.goa.gov.in/wp-content/uploads/2024/10/Guidelines-for-State-Youth-Festival-2024.pdf,200,application/pdf,1,,1793512683
+b4f5c87b3bd4f1f1,https://dte.goa.gov.in/sites/default/files/Notification1_of_2025.pdf,200,application/pdf,1,,1793512683
+3b75e61fd6c2ff55,https://dte.goa.gov.in:443/sites/default/files/Notification3_of_2025.pdf,200,application/pdf,1,,1793512683
+838cec155e4ff1b8,http://forest.goa.gov.in/sites/default/files/2022-06/CAMPA%2C%20Executive%20Committee%2C%20Notification%20dated%2020-05-2019.pdf,200,application/pdf,1,,1793512683
+1c9254eea02221ec,https://nhm.goa.gov.in/wp-content/uploads/2024/10/Sealed-tenders-are-invited-for-the-purchase-of-SAFE-kits.pdf,200,application/pdf,1,,1793512683
+103c6c10dc78dea8,https://www.goaelectricity.gov.in/Regulations/CEA_Safety_Regulations_2010.pdf,200,application/pdf,1,,1793512683
+dfd2a0c979c1bf4e,https://gcarch.goa.gov.in/wp-content/uploads/2023/06/20070202-Consultancy-Services-Order.pdf,200,application/pdf,1,,1793512684
+42a3e2ce112f8d1a,http://forest.goa.gov.in/sites/default/files/2022-05/PUBNOT.pdf,200,application/pdf,1,,1793512684
+7a9fc78c536688f3,https://dte.goa.gov.in:443/sites/default/files/Notification2_of_2025.pdf,200,application/pdf,1,,1793512684
+3e677bdaef2307a4,https://dte.goa.gov.in/sites/default/files/2022-03/corrigendum_notif4_21.pdf,200,application/pdf,1,,1793512684
+50be6846a945a130,https://fisheries.goa.gov.in/wp-content/uploads/2024/01/8.Goa-MarineFishing-Regulation-First-AmendmentRules-2001.pdf,200,application/pdf,1,,1793512684
+0b2ebe457233f649,https://nhm.goa.gov.in/wp-content/uploads/2024/03/Letter-to-DOIP-for-BEMMP-Tender.pdf,200,application/pdf,1,,1793512685
+b502c617520f9e46,https://bursary.dhe.goa.gov.in/user_manuals/student_manual.pdf,000,,0,"curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could",1793512685
+237b8bb55cb64e11,https://gdch.goa.gov.in/storage/2026/08/Tender-Notice-Prosthodontics-Working-Tables-Stools.pdf,200,application/pdf,1,,1793512685
+a727579bc052de0d,https://dsya.goa.gov.in/wp-content/uploads/2022/06/Draft-of-National-Youth-Policy.pdf,200,application/pdf,1,,1793512685
+8b59a4b1dbd87f79,https://forest.goa.gov.in/sites/default/files/2024-03/Notification%20regarding%20Compensation.pdf,200,application/pdf,1,,1793512685
+d1357d75981aad59,https://dte.goa.gov.in/sites/default/files/2022-03/corrigendum_notif3_21.pdf,200,application/pdf,1,,1793512685
+2d176e7b490b24c8,https://gcarch.goa.gov.in/wp-content/uploads/2026/10/Circular-226-One-time-condonation-for-B.Arch-students.pdf,200,application/pdf,1,,1793512685
+d9e556e753aa1b3f,https://gcarch.goa.gov.in/wp-content/uploads/2025/10/Notification.pdf,200,application/pdf,1,,1793512686
+30b7fc61d6bc8c81,https://gpb.goa.gov.in/documents/committees/sc-st-committee-composition-2025.pdf,200,application/pdf,1,,1793512686
+4d5d4b5e38b481f9,https://forest.goa.gov.in/sites/default/files/2022-06/NBM_Revised_Guidelines.pdf,200,application/pdf,1,,1793512686
+5ea49b95e4ab472d,https://dte.goa.gov.in/sites/default/files/2022-03/corrigendum_notif2_21.pdf,200,application/pdf,1,,1793512686
+8cc85896d33ea59c,https://www.coopgoa.gov.in/Download/RTI%20order.pdf,200,application/pdf,1,,1793512686
+2276f6523fb19dce,https://webassets.unigoa.ac.in/uploads/confg_docs/20240822.051449~Students_Discipline_Conduct_Rules_2018.pdf,200,application/pdf,1,,1793512686
+8e882bee05c3af46,https://gpb.goa.gov.in/documents/committees/anti-ragging-committee-2025-26.pdf,200,application/pdf,1,,1793512687
+a1b375c9f39f6282,https://gcarch.goa.gov.in/wp-content/uploads/2023/01/ROPWD_act2016.pdf,200,application/pdf,1,,1793512687
+1d1d65bbc95d91c7,https://forest.goa.gov.in/sites/default/files/2022-09/Rules%20and%20regulations%20wildlife%20week%202022%20Final.pdf,200,application/pdf,1,,1793512687
+566c6fa49524bace,https://webassets.unigoa.ac.in/uploads/confg_docs/20241115.051819~AAA_Policy_24.pdf,200,application/pdf,1,,1793512687
+3852507eaf858c23,https://www.goaelectricity.gov.in/wp-content/uploads/2026/10/Circular-EHN-1174-date_30_09_2026.pdf,200,application/pdf,1,,1793512688
+78afde05288c1ced,https://gcarch.goa.gov.in/wp-content/uploads/2023/10/INSTRUCTIONS-FOR-PAYING-EXAM-FEES.pdf,200,application/pdf,1,,1793512688
+18aee982f21aff3c,https://gpb.goa.gov.in/documents/committees/icc-composition-2025.pdf,200,application/pdf,1,,1793512688
+1df1f09eab6029b5,https://webassets.unigoa.ac.in/uploads/confg_docs/20240805.071601~Copyright_Publication_Policy.pdf,200,application/pdf,1,,1793512688
+057ffd07cc8fcbba,https://ifbgoa.goa.gov.in/sites/default/files/List-of-the-candidates-qualified-for-the-written-test-based-on-skill-test-and-instructions-for-written-test-for-the-post-of-Junior-Stenographer.pdf,200,application/pdf,1,,1793512688
+7a3388ee35846519,https://forest.goa.gov.in/sites/default/files/2022-06/Corrigendum-forest-1.pdf,200,application/pdf,1,,1793512689
+dd064d8e217d146c,https://gpb.goa.gov.in/documents/committees/sgrc-composition-2025.pdf,200,application/pdf,1,,1793512689
+576c2474e38d1a36,https://ifbgoa.goa.gov.in/sites/default/files/INSTRUCTIONSLISTOFELIGIBLECANDIDATESFORSKILLTESTFORTHEPOSTOFLDC.pdf,200,application/pdf,1,,1793512689
+ba230ca1226792c8,https://gcarch.goa.gov.in/wp-content/uploads/2026/08/Anti-ragging-committee-notice-2026.pdf,200,application/pdf,1,,1793512689
+610eed5384a53bed,https://webassets.unigoa.ac.in/uploads/confg_docs/20260602.172424~Eql_Opp_Policy_PwD_May26.pdf,200,application/octet-stream,1,,1793512690
+571ecea8dfae70b1,https://gpb.goa.gov.in/documents/committees/eofc-composition-2025-28.pdf,200,application/pdf,1,,1793512690
+dbe94299dfcca125,https://gcarch.goa.gov.in/wp-content/uploads/2026/08/SGRC-Committee_20260824_0001.pdf,200,application/pdf,1,,1793512690
+925a6bb82b46dc3f,https://webassets.unigoa.ac.in/uploads/confg_docs/20210115.053302~Policy_Gender_Equity_and_Sensitivity.pdf,200,application/pdf,1,,1793512690
+9fa7091890908a84,https://forest.goa.gov.in/sites/default/files/2022-06/Notification%20for%20filling%20up%20various%20posts%20in%20Forest%20Department.pdf,200,application/pdf,1,,1793512690
+5572297a48e9246b,https://forest.goa.gov.in/sites/default/files/2022-06/Revised-instructions-to-candidates.pdf,200,application/pdf,1,,1793512691
+64cc31f2d80c97df,https://ifbgoa.goa.gov.in/wp-content/uploads/2025/12/CIRCULAR-REG.-GUIDELINES-FOR-FACTORIES-TO-ENSURE-FIRE-SAFETY.pdf,200,application/pdf,1,,1793512691
+3cde6741ffd14bc4,https://gcarch.goa.gov.in/wp-content/uploads/2025/11/Governing-CommitteeAdvisory-Committee-for-Goa-College-of-Architecture.pdf,200,application/pdf,1,,1793512691
+d431ed89af7e3716,https://webassets.unigoa.ac.in/uploads/confg_docs/20210614.053049~GU_IT_Policy_final-06-04-16.pdf,200,application/pdf,1,,1793512691
+e2153791f02f42d1,https://forest.goa.gov.in/sites/default/files/2025-09/O.A. 425 OF 2023.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512691
+642cd49a3aed0af8,https://www.coopgoa.gov.in/Download/Amended%20Act%20for%20Mhajo%20Flat%20published%20in%20Official%20Gazette.pdf,200,application/pdf,1,,1793512691
+20085c43bf45ff84,https://www.coopgoa.gov.in/Download/Corrigendum regarding change of Venues of writtern examination of Jr. Auditor & Audit Assistant.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512691
+a19775c3db2d37a3,https://ifbgoa.goa.gov.in/wp-content/uploads/2025/11/TENDER-NOTICE.pdf,200,application/pdf,1,,1793512692
+1c94e9601e2df325,https://itipernem.goa.gov.in/wp-content/uploads/2026/06/tender-12.06.2026-compressed.pdf,200,application/pdf,1,,1793512692
+491bfd3111477549,https://gcarch.goa.gov.in/wp-content/uploads/2024/12/2020-GU_TA-DA-Circular.pdf,200,application/pdf,1,,1793512692
+569684af67aa3a47,https://webassets.unigoa.ac.in/uploads/confg_docs/20181022.154950~RDRM_GU-Research-Policy_final.pdf,200,application/pdf,1,,1793512692
+add1cee4d5107487,https://ifbgoa.goa.gov.in/sites/default/files/Order-regarding-maintaining-registers-and-records-electronically-or-otherwise_0.pdf,200,application/pdf,1,,1793512692
+20bd94afc0eb2e86,https://www.itipernem.goa.gov.in/iti-tables/files/tenders/1611136686Quotation for the supply of Video Conferencing equipments.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512692
+4b073b360d663c94,https://itipernem.goa.gov.in/wp-content/uploads/2025/10/Electrician-Tender_compressed.pdf,200,application/pdf,1,,1793512693
+23f20181433a664f,https://www.goaelectricity.gov.in/wp-content/uploads/2026/10/Circular-EHN-890-date_05_10_2026.pdf,200,application/pdf,1,,1793512693
+9e5864c28a646c8a,https://gcarch.goa.gov.in/wp-content/uploads/2023/08/1718-21-SI-OG-0.pdf,200,application/pdf,1,,1793512693
+6e1a1fcf0430b977,https://webassets.unigoa.ac.in/uploads/confg_docs/20241112.051117~Ethical_Guideline_approved_EC-28Jun24.pdf,200,application/pdf,1,,1793512693
+26d3613ad798391c,https://ifbgoa.goa.gov.in/sites/default/files/Order-regarding-auto-renewal-of-Licence-to-Work-a-Factory-issued-under-The-Factories-Act-1948.pdf,200,application/pdf,1,,1793512693
+1367fa234da3a908,https://www.coopgoa.gov.in/Download/CIRCULAR-audit-report.pdf,200,application/pdf,1,,1793512693
+bb0fead1a1a2b5eb,https://dslr.goa.gov.in/Notifications/Notification.pdf,200,application/pdf,1,,1793512694
+5a1b0e80f8afe43d,https://gcarch.goa.gov.in/wp-content/uploads/2023/06/drawal-of-funds-on-ac-bills.pdf,200,application/pdf,1,,1793512694
+d13dceba4caa5a5b,https://www.goaelectricity.gov.in/wp-content/uploads/2026/06/Circular-Regarding-New-LT-Domestic-Electricity-connectoons-with-loadaq-5-KW-Ease-Doing-Business-initiatives.pdf,200,application/pdf,1,,1793512694
+a8ee2e672d769596,https://ifbgoa.goa.gov.in/sites/default/files/Order-regarding-Online-Services.pdf,200,application/pdf,1,,1793512694
+5adb5ba3fe85dec1,https://www.goaelectricity.gov.in/wp-content/uploads/2026/01/Scan20002.pdf,200,application/pdf,1,,1793512695
+1010a0e12303e448,https://www.coopgoa.gov.in/Download/NOTIFICATION.pdf,200,application/pdf,1,,1793512695
+a541c4432557384f,https://webassets.unigoa.ac.in/uploads/confg_docs/20260615.112027~Sports-Policy_24.pdf,200,application/octet-stream,1,,1793512695
+7dc81cc73b6f9237,https://dslr.goa.gov.in/Notifications/PublicNotice_FormI.pdf,200,application/pdf,1,,1793512695
+b894294f2d342070,https://www.itipernem.goa.gov.in/iti-tables/files/tenders/1536052743quotation.pdf,404,text/html; charset=UTF-8,0,,1793512695
+c7b086c5ae2f9cc8,https://webassets.unigoa.ac.in/uploads/confg_docs/20220203.112746~SUSTAINABLE_INVEST_POLICY.pdf,200,application/pdf,1,,1793512695
+bf031fcdbef7021b,https://ifbgoa.goa.gov.in/sites/default/files/Order-regarding-online-submission-of-returns-under-The-Factories-Act-1948.pdf,200,application/pdf,1,,1793512695
+31fc1ec4bda02f55,https://gcarch.goa.gov.in/wp-content/uploads/2023/02/Study-Tour-Order-and-Rules2.pdf,200,application/pdf,1,,1793512695
+b9e5dbf9a5b1a42d,https://www.goaelectricity.gov.in/wp-content/uploads/2026/01/Circular20170622_15425117.pdf,200,application/pdf,1,,1793512696
+06cf1a478400a7fd,https://ghb.goa.gov.in/notices/wp-content/uploads/2026/10/Corrigendum-GHB-1815-2026-Commercial-Plots-eAuction.pdf,200,application/pdf,1,,1793512696
+7d8efd11ef13a074,https://edc-goa.com/wp-content/uploads/2024/01/AC-AMC-Tender-Doc_Notice-1.pdf,200,application/pdf,1,,1793512697
+5a43a38132bc2df4,https://webassets.unigoa.ac.in/uploads/confg_docs/20260629.104438~Mental_Health_Policy_DHE-26.pdf,200,application/octet-stream,1,,1793512697
+15811f892e3a07ec,https://www.goaelectricity.gov.in/wp-content/uploads/2026/01/circular20170627_11395382.pdf,200,application/pdf,1,,1793512697
+581436185f3b5f25,https://ifbgoa.goa.gov.in/sites/default/files/CIRCULARSAFETY.pdf,200,application/pdf,1,,1793512698
+29c219ab3452b45d,https://www.itipernem.goa.gov.in/iti-tables/files/tenders/1501954740Quotation.pdf,404,text/html; charset=UTF-8,0,,1793512698
+207acb2873c835c2,https://ghb.goa.gov.in/notices/wp-content/uploads/2026/10/Tender-Notice-GHB-TECH-EE-1749-2026.pdf,200,application/pdf,1,,1793512698
+ae4c613b723c7193,https://webassets.unigoa.ac.in/uploads/pocket/goa-university-admissions-ranking-test-guart-202627-%E2%80%93-round-ii_7020260529.180717.pdf,200,application/octet-stream,1,,1793512698
+fd5f782595cd855a,https://www.coopgoa.gov.in/Download/notification-9th-April.pdf,200,application/pdf,1,,1793512698
+542257aa71567f2e,https://www.goaelectricity.gov.in/wp-content/uploads/2026/01/CIRCULAR_dt05062017.pdf,200,application/pdf,1,,1793512698
+b5b5dd8c1880e11f,https://ifbgoa.goa.gov.in/sites/default/files/NOTIFICATION_REVISED_LIST_OF_PUBLIC_SERVICES_OCT_2017.pdf,200,application/pdf,1,,1793512698
+be66a167d7e8a3a4,https://ghb.goa.gov.in/notices/wp-content/uploads/2026/10/Corrigendum-GHB-1683-2026-Tenements-eAuction.pdf,200,application/pdf,1,,1793512698
+383e620117c1d5e9,https://edc-goa.com/wp-content/uploads/2021/06/39_content_ELCSG_Public_Notice-converted.pdf,200,application/pdf,1,,1793512698
+b1891ebae6cb2021,https://webassets.unigoa.ac.in/uploads/confg_docs/20211125.093721~E-procure_portal.pdf,200,application/pdf,1,,1793512699
+f39650ab14cbbccc,https://www.itipernem.goa.gov.in/iti-tables/files/tenders/1493710481AC-Quotation.pdf,404,text/html; charset=UTF-8,0,,1793512699
+3d5d1537bed32cf5,https://www.itipernem.goa.gov.in/iti-tables/files/tenders/1483174660UPS 5 KVA.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512699
+15828106c12f3965,https://ifbgoa.goa.gov.in/sites/default/files/ORDER_REGARDING_MEDICAL_EXAMINATION_FEES_ENHANCEMENT_OCT_20_15_0.pdf,200,application/pdf,1,,1793512699
+f7f2a970bfb189cc,https://ghb.goa.gov.in/notices/wp-content/uploads/2026/09/NIT.pdf,200,application/pdf,1,,1793512699
+b2b10d979991a24c,https://www.gsuda.org/uploads/projects/PROJECTS TENDERED & TENDERING STAGE.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512699
+51f853036dc67da0,https://www.itipernem.goa.gov.in/iti-tables/files/tenders/1483174889AMC Canon Copier.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512700
+2a2881d5fc479421,https://ghb.goa.gov.in/notices/storage/2025/10/long-notice_compressed.pdf,200,application/pdf,1,,1793512700
+28b30ac52636827c,https://ifbgoa.goa.gov.in/sites/default/files/ORDER-REGARDING-FEES-CHARGED-BY-DEPARTMENT-FOR-INDUSTRIAL-HYGIENE-SURVEYS.pdf,200,application/pdf,1,,1793512700
+cb1ca358fc8eebed,https://goaspcb.gov.in/wp-content/uploads/2026/08/directions-13-8-26.pdf,200,application/pdf,1,,1793512700
+21f76f2e4fe67713,https://www.itipernem.goa.gov.in/iti-tables/files/tenders/1483175261AMC Bio Metric Machine.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512701
+f035677fbd3b3dd2,https://www.gsidcltd.com/wp-content/uploads/2026/06/memorandum_i_for_april_may_june_2026.pdf,200,application/pdf,1,,1793512701
+cf3174837ae90a17,https://ifbgoa.goa.gov.in/wp-content/uploads/2026/09/Notification-Regarding-Implemantation-of-the-Occupational-Safety-Health-and-Working-condition-code-2020.pdf,200,application/pdf,1,,1793512701
+eee843ae0a85a595,https://ghb.goa.gov.in/notices/wp-content/uploads/2025/09/GHBTECHEE12552025.pdf,200,application/pdf,1,,1793512701
+5c766988ef0f4c75,https://goaspcb.gov.in/Media/Default/uploads/1)%20Municipal%20Solid%20Waste%20Rules.pdf,200,application/pdf,1,,1793512701
+095f34fce46881aa,https://www.itipernem.goa.gov.in/iti-tables/img/managingcommittees/1461925553IMC Notification.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512702
+8143185ad62cb561,https://ghb.goa.gov.in/notices/wp-content/uploads/2025/09/corrigendum-1146_2025.pdf,200,application/pdf,1,,1793512702
+a5c50fa7397cf298,https://www.gsidcltd.com/wp-content/uploads/2026/09/Memorandum_I_july_aug_sept_2026.pdf,200,application/pdf,1,,1793512702
+59b8e41ee3bf3e62,https://goaspcb.gov.in/Media/Default/Rules/SWM_2016.pdf,200,application/pdf,0,,1793512702
+ce6b31d5f747bed3,https://gdch.goa.gov.in/storage/2026/09/Rules-and-Notifications.pdf,200,application/pdf,1,,1793512703
+79bdec4dacb44a9f,https://ghb.goa.gov.in/notices/wp-content/uploads/2025/09/Tender-Notice-no.-GHB_TECH_EE_1056_2025.pdf,200,application/pdf,1,,1793512703
+f383c6a195d0fbe7,https://dslr.goa.gov.in/docs/transfer.pdf,200,application/pdf,1,,1793512704
+b12594247aca4f15,https://gdch.goa.gov.in/storage/2026/09/Orders-and-Circulars.pdf,200,application/pdf,1,,1793512704
+252d9a61d3e2d33e,https://ghb.goa.gov.in/notices/wp-content/uploads/2025/09/Detailed-Tender-Notice-Signature.pdf,200,application/pdf,1,,1793512704
+c0dc2f9db036cd2a,https://www.gsidcltd.com/wp-content/uploads/2026/03/EOI-152-CorrigendumI.pdf,200,application/pdf,1,,1793512705
+dd28e640e73e7595,https://ghb.goa.gov.in/notices/storage/2025/09/kaagaz_20250618_112145269170.pdf,200,application/pdf,1,,1793512705
+a846e6683bcbd84a,https://ghb.goa.gov.in/notices/storage/2025/06/corrigendum-notice.pdf,200,application/pdf,1,,1793512706
+2d494b550c1c8e68,https://dslr.goa.gov.in/docs/AuctionNoticeOct2014.pdf,200,application/pdf,1,,1793512706
+98a0e7e9244f355a,https://ghb.goa.gov.in/notices/storage/2025/06/2020-second-amendment-tenement.pdf,200,application/pdf,1,,1793512707
+3a4ecbac340f67c1,https://nhm.goa.gov.in/wp-content/uploads/2024/03/Tender-Notice-Supply-of-Machinery-Equipment-and-Instruments.pdf,200,application/pdf,1,,1793512708
+d4859a596a7a7e7f,https://www.gsidcltd.com/wp-content/uploads/2026/10/NIT-111CorrigendumI.pdf,200,application/pdf,1,,1793512708
+5ff5d723297edbdb,https://ghb.goa.gov.in/notices/storage/2025/06/9-The-Goa-Housing-Board-Appointment-and-functions-of-Technical-Committee-Regulations-2012.pdf,200,application/pdf,1,,1793512708
+a7f3163a02ae42d8,https://dslr.goa.gov.in/docs/mopatendernotice.pdf,200,application/pdf,1,,1793512709
+7dddc95860f87d0d,https://dslr.goa.gov.in/docs/mopatenderdoc1.pdf,200,application/pdf,1,,1793512711
+cec105a0096b0bf3,https://dslr.goa.gov.in/docs/Naksha/Final Sanction--Letter dated 13_11_24.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793512711
+34ff9f3d38c19914,https://nhm.goa.gov.in/wp-content/uploads/2024/02/Tender-Notice-No.-100PTDHSMSD2023-241557.pdf,200,application/pdf,1,,1793512711
+1dcdefa5f69fb6bb,https://nhm.goa.gov.in/wp-content/uploads/2023/11/Publication-of-e-Tender-Notice.pdf,200,application/pdf,1,,1793512712
+99069cb648fa4c85,https://goaspcb.gov.in/Media/Default/uploads/2)%20Guidlines%20by%20CPCB%20on%20Municipal%20solid%20Waste.pdf,200,application/pdf,1,,1793512712
+f9b3c1ad7def63a4,https://goaspcb.gov.in/Media/Default/Rules/swmformI.pdf,200,application/pdf,1,,1793512713
+ef849063b6e7e043,https://edc-goa.com/wp-content/uploads/2024/11/MMIRS_Notification.pdf,200,application/pdf,1,,1793512714
+183cdb90693a4909,https://nhm.goa.gov.in/wp-content/uploads/2023/05/BEMMP-Corrigendum-I-Notice.pdf,200,application/pdf,1,,1793512714
+78639fd7ca41fefd,https://nhm.goa.gov.in/wp-content/uploads/2023/04/NIT-on-NHM-Website.pdf,200,application/pdf,1,,1793512714
+6a05d48614c44b4e,https://nhm.goa.gov.in/wp-content/uploads/2020/05/Supply-of-equipments-and-consumables-for-IUI-Tender.pdf,200,application/pdf,1,,1793512715
+c41c5a964cca2667,https://dslr.goa.gov.in/docs/Naksha/Public_Notice_02-07-2026_with_Corrigendum_06-07-2026_PANAJI.pdf,200,application/pdf,1,,1793512716
+68a4fffc9697177a,https://nhm.goa.gov.in/wp-content/uploads/2020/05/Tender-Notice-for-printing-of-Immunization-handbook.pdf,200,application/pdf,1,,1793512716
+4c6d78cf2a5b04f4,https://edc-goa.com/wp-content/uploads/2025/11/MSRY.pdf,200,application/pdf,1,,1793512718
+dd17dc8b732d086b,https://goaspcb.gov.in/Media/Default/uploads/GuidelinesCandD.pdf,200,application/pdf,0,,1793512720
+4b6bf9a8d93507b5,"https://goaspcb.gov.in/Media/Default/uploads/a)%20Bio%20Medical%20Waste%20(Management%20%20_%20Handling)%20Rules,1998.pdf",200,application/pdf,1,,1793512720
+5b8bffb39113507e,https://dslr.goa.gov.in/docs/Govt_order_for_Survey_and_Mutation_Fee.pdf,200,application/pdf,1,,1793512721
+e16b2f4841d32638,https://goacivilsupplies.gov.in/wp-content/uploads/2025/05/Liquefied-Petroleum-Gas-Regulation-of-Supply-and-Distribution-Order-2000-i.e.-LPG-Control-Order.pdf,200,application/pdf,1,,1793512721
+1652c2ec1cfa3c07,https://upload.indiacode.nic.in/showfile?actid=AC_MP_74_283_00003_00003_1547531752503&amp;type=order&amp;filename=target_pds_order_2015.pdf,000,,0,curl: (28) Failed to connect to upload.indiacode.nic.in port 443 after 75119 ms: Couldn't connect to server,1793512721
+a179e4423b952f9f,"https://goaspcb.gov.in/Media/Default/uploads/b)%20Bio%20Medical%20Waste%20(Management%20%20_%20Handling)%20Amendment%20Rules,2003.pdf",200,application/pdf,1,,1793512721
+3f1ee133cfd9266b,https://goacivilsupplies.gov.in/wp-content/uploads/2025/05/The-Motor-Spirit-and-High-Speed-Diesel-Regulation-of-Supply-Distribution-and-Prevention.pdf,200,application/pdf,1,,1793512721
+54fbc67ee27cb037,https://goaspcb.gov.in/Media/Default/uploads/BMW_Rules_2016.pdf,200,application/pdf,1,,1793512722
+c51ecd529b678c1e,https://dslr.goa.gov.in/docs/F3.pdf,200,application/pdf,1,,1793512723
+9c1d61567685cee1,https://edc-goa.com/wp-content/uploads/2023/11/11_file_LA-Circular_compressed1.pdf,200,application/pdf,1,,1793512723
+4b5153b59b0e7b8d,https://edc-goa.com/wp-content/uploads/2021/04/89_file_Policy-Guidelines-for-reconsidering.pdf,200,application/pdf,1,,1793512724
+6508273cba56177d,https://goacivilsupplies.gov.in/wp-content/uploads/2025/05/Appointment-of-contractor-for-transportation-of-food-grains.pdf,200,application/pdf,1,,1793512724
+d1fd4d06f6b6874c,https://goacivilsupplies.gov.in/wp-content/uploads/2025/08/e-tender.pdf,200,application/pdf,1,,1793512724
+f6b2b66a420d7334,https://goaspcb.gov.in/Media/Default/Rules/Bio%20medical%20waste%20management%20(amendment)183847.pdf,200,application/pdf,1,,1793512725
+b82926d7f93149b9,https://edc-goa.com/wp-content/uploads/2021/04/24_generic_document_Exit_Policy_for_distressed_beneficiaries_CMRY.pdf,200,application/pdf,1,,1793512725
+339da11ab96e8c60,https://goacivilsupplies.gov.in/wp-content/uploads/2025/08/e-tender-corrigendum.pdf,200,application/pdf,1,,1793512726
+7031b1e6bf23ecb6,https://goaspcb.gov.in/Media/Default/uploads/CPCB.pdf,200,application/pdf,1,,1793512726
+68d15b2627d3429f,https://goacivilsupplies.gov.in/wp-content/uploads/2025/05/DGRO-order.pdf,200,application/pdf,1,,1793512726
+eb374501814e046e,https://edc-goa.com/wp-content/uploads/2021/04/ELCSG-GUIDELINES.pdf,200,application/pdf,1,,1793512727
+820eb2605c2f6fae,https://goacivilsupplies.gov.in/wp-content/uploads/2026/07/circular_of_revised_proforms_and_checklist_for_submission_of_proposals_under_the_welfare_Institutions_and__Hostels_Scheme.pdf,200,application/pdf,1,,1793512728
+7aa20edbae377537,https://goacivilsupplies.gov.in/wp-content/uploads/2025/11/circular-for-FPS-Dealers.pdf,404,text/html; charset=UTF-8,0,,1793512729
+5e314e4c878bd18c,https://goacivilsupplies.gov.in/wp-content/uploads/2025/05/Corrigendum-Targeted-Public-Distribution-System-Control-Order-2015.pdf,200,application/pdf,1,,1793512730
+57879189c80f0ebb,https://goaspcb.gov.in/Media/Default/BMW/BMW-GUIDELINES-COVID_1.pdf,200,application/pdf,1,,1793512732
+f57f06ea82919514,https://goaspcb.gov.in/Media/Default/gallery/1%20NGT%20Order%20in%20Application%20no%20673%20of%202018%20-NGT-Delhi.pdf,200,application/pdf,1,,1793512734
+d9f19fc0bbd596db,https://edc-goa.com/wp-content/uploads/2024/10/CMRY-2023-Notification.pdf,200,application/pdf,1,,1793512735
+528adcd34411f430,https://edc-goa.com/wp-content/uploads/2021/03/Guidelines_for_Destruction_of_Old_Files.pdf,200,application/pdf,1,,1793512736

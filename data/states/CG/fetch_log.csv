@@ -1,0 +1,301 @@
+doc_id,url,http,content_type,ok,err,ts
+5681a186ce6f74cd,https://forest.cg.gov.in/cms/media/929eafc9-95ba-47a7-aa67-98b1a8cf46da_jpg2pdf (2).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511724
+5e3adbf6ea5956f9,https://prd.cg.gov.in/pdf/CG Rajpatra vbgramg.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511724
+f4782c2d73a2d409,https://jansampark.cg.gov.in/dprnewsportal/pdf.aspx?path=.\public\uploads\ckeditor\pdf\छत्तीसगढ़ राजपत्र.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511724
+f292e0ff11f301b6,https://revenue.cg.nic.in/rev_notifications/Raight to information act 2005.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511724
+cc32b1bd656d4866,https://finance.cg.gov.in/vitt_nirdesh/budget_circulars/2027-2028/26-10-2026.pdf,200,application/pdf,1,,1793511724
+4e0f84ec223a3e80,https://forest.cg.gov.in/cms/media/fe2dfd4e-2617-4264-a857-f8e1cc78c6f5_193 05 Tender Letter Publication No 3110 dt 3006_260630_155929-2-8.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511725
+3adc16266fd7d116,https://cdnbbsr.s3waas.gov.in/s361acc51eb105aa505ffe1fe2e19b5151/uploads/2026/07/20260716527611334.pdf,200,application/pdf,1,,1793511725
+8e66682d42482ad5,https://dprcg.gov.in/public/uploads/notifications/1793022624_52a495bec6215a19aeee.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793511725
+7c1a3c0a0906a5a7,https://cdnbbsr.s3waas.gov.in/s32eefd571ad72f6712a22e6f6636f0b4c/uploads/2026/09/202609242139161854.pdf,200,application/pdf,1,,1793511725
+75f61665acc125f4,https://fcs.cg.gov.in/Documents/Trasfer2025.pdf,200,application/pdf,1,,1793511726
+189955a5be3002bb,https://finance.cg.gov.in/vitt_nirdesh/budget_circulars/2027-2028/22-10-2026.pdf,200,application/pdf,1,,1793511726
+fd11b56d16f08791,https://forest.cg.gov.in/cms/media/d3f0565f-4527-4668-ab5f-bb66441d8c3c_Tender Form SS Work.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511726
+55e8a5cae0b8dc6b,https://revenue.cg.nic.in/Tendar_Notice_wind.pdf,200,application/pdf,1,,1793511726
+9a8eda791f40dedf,https://forest.cg.gov.in/cms/media/e06ea903-906a-4641-8dbb-faae9a6f2c80_187 Drone 2041_260601_180025.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511727
+d9e19b3d87d7dede,https://forest.cg.gov.in/cms/media/2a6ba801-1157-49d8-9ed6-27a05da6438c_05 Tender for Publication Letter No 3384 dt 0905_260509_173403-2-7.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511728
+44449d28f335b472,https://forest.cg.gov.in/cms/media/1b881ec1-1ea8-40e0-a010-63faddf6a797_05 Tender Publication Letter No 3383 dt 0905202_260509_173344-2-7.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511729
+4fa4a9979c1af2f7,https://cdnbbsr.s3waas.gov.in/s32eefd571ad72f6712a22e6f6636f0b4c/uploads/2025/06/2025060376.pdf,200,application/pdf,1,,1793511729
+ac06c9f279cb5675,https://prd.cg.gov.in/pdf/vbgramgadhisuchna.pdf,200,application/pdf,1,,1793511729
+588ccf59d0cd42ae,https://finance.cg.gov.in/Miscellaneous/General%20circular/22-10-2026.pdf,200,application/pdf,1,,1793511729
+dce8de8573596ffe,https://prd.cg.gov.in/pdf/SVVAKRPPB.pdf,200,application/pdf,1,,1793511730
+d665fd40ef3fa1f0,https://finance.cg.gov.in/Miscellaneous/General%20circular/21-10-2026.pdf,200,application/pdf,1,,1793511730
+9e32e225d137cdd4,https://forest.cg.gov.in/cms/media/9ed30c67-a88c-4229-a68b-2931ecbdd3dc_05 Tender Publication Letter No 3226 dt 23042026_260423_183543-2-15.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511730
+a028fdf7116aead5,https://law.cgstate.gov.in/custom-files/notice_files/ODR20261021_108_6ad89fa20d108.pdf,200,application/pdf,1,,1793511730
+07de8307fe262443,https://prd.cg.gov.in/pdf/OfficeMemorandurm.pdf,200,application/pdf,1,,1793511731
+c7e45d392a431edd,https://finance.cg.gov.in/vitt_nirdesh/budget_circulars/2027-2028/07-10-2026.pdf,200,application/pdf,1,,1793511731
+d2b1dd598f369cce,https://cdnbbsr.s3waas.gov.in/s3db116b39f7a3ac5366079b1d9fe249a5/uploads/2025/09/20250915528901598.pdf,200,application/pdf,1,,1793511731
+0bfe4ae0e4ff6f7d,https://forest.cg.gov.in/cms/media/8ed8a53c-d50e-418e-891c-4528b19064c8_05 Tender Publication Letter No 3225 dt 23042026_260423_183519-2-21.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511731
+36629eabba4c8c2f,https://law.cgstate.gov.in/custom-files/notice_files/ODR20261021_107_6ad89b7f59dd5.pdf,200,application/pdf,1,,1793511732
+c16bb3295a6186dd,https://finance.cg.gov.in/vitt_nirdesh/year_wise/pdf_2026/23.pdf,200,application/pdf,1,,1793511732
+019f11a5494f3593,https://forest.cg.gov.in/cms/media/4273a545-4410-4133-bda9-9d75786770eb_166 Chainlink Tender Publication 2827 dt 150120_260415_155150-2-8.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511732
+633a016ba143f55e,https://cdnbbsr.s3waas.gov.in/s3db116b39f7a3ac5366079b1d9fe249a5/uploads/2025/09/202509152049749754.pdf,200,application/pdf,1,,1793511733
+e2483ed5ee80f770,https://revenue.cg.nic.in/WINDS_Tender_Correction_Letter.pdf,200,application/pdf,1,,1793511733
+34004efaf37382a4,https://law.cgstate.gov.in/custom-files/notice_files/ODR20261021_106_6ad89a870fb46.pdf,200,application/pdf,1,,1793511733
+baa7c21a88b9fe61,https://gad.cg.gov.in/statecirculars/Criculars/Scan-file-2000-2002/year2026/202600488_001.pdf,200,application/pdf,1,,1793511733
+f9f5223d0ca112fd,https://finance.cg.gov.in/vitt_nirdesh/budget_circulars/2027-2028/30-09-2026.pdf,200,application/pdf,1,,1793511734
+028bbf4ae07913d8,https://cdnbbsr.s3waas.gov.in/s3db116b39f7a3ac5366079b1d9fe249a5/uploads/2024/09/2024092369.pdf,200,application/pdf,1,,1793511734
+92595f8ffa953edb,https://gad.cg.gov.in/statecirculars/Criculars/Scan-file-2000-2002/year2026/202600487_001.pdf,200,application/pdf,1,,1793511734
+b39ae054f13ff3a4,https://dprcg.gov.in/public/uploads/notices/1790754350_496c84a4a554eb7c12a2.pdf,200,application/pdf,1,,1793511735
+b16c5fef6ab52f73,https://finance.cg.gov.in/Miscellaneous/General%20circular/21-09-2026.pdf,200,application/pdf,1,,1793511735
+935951bdef1500b4,https://gad.cg.gov.in/statecirculars/Criculars/Scan-file-2000-2002/year2026/202600486_001.pdf,200,application/pdf,1,,1793511735
+83a0dc152bb3151a,https://dprcg.gov.in/public/uploads/tenders/1746022099_14997efe2c5c0525f0fd.pdf,200,application/pdf,1,,1793511735
+99cc5f0669025dfe,https://descg.gov.in/pdf/rti/RTI-ORDER-DES.pdf,200,application/pdf,1,,1793511736
+512fe8e7e16c9030,https://descg.gov.in/data/adh/2.Operational Guidelines_Data_Life_Cycle.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511736
+2a9359dbc88f4092,https://finance.cg.gov.in/Miscellaneous/General%20circular/21-09-2026-1.pdf,200,application/pdf,1,,1793511736
+e3abc8f1e10ba8a1,https://dprcg.gov.in/public/uploads/tenders/1746021912_5d24fea4efd0654dee4d.pdf,200,application/pdf,1,,1793511736
+bac1ef74a9021d08,https://cdnbbsr.s3waas.gov.in/s3db116b39f7a3ac5366079b1d9fe249a5/uploads/2024/09/2024092355.pdf,200,application/pdf,1,,1793511736
+2c04be80e9453c81,https://revenue.cg.nic.in/LandAqucisitionNotice.pdf,200,application/pdf,1,,1793511736
+3b5392221735caf3,https://cdnbbsr.s3waas.gov.in/s3db116b39f7a3ac5366079b1d9fe249a5/uploads/2024/09/2024092449.pdf,200,application/pdf,1,,1793511737
+3e6653b872c54f58,https://dprcg.gov.in/public/uploads/tenders/1744258613_e3bc7a1b052e5adfbb96.pdf,200,application/pdf,1,,1793511737
+a62fcb4ff9877b5b,https://descg.gov.in/data/adh/3.Statistical-Quality-Assessment-Framework-Guidelines.PDF,200,application/pdf,1,,1793511737
+a188f69cce906ca5,https://law.cgstate.gov.in/custom-files/notice_files/ODR20261021_105_6ad8935bcc8fd.pdf,200,application/pdf,1,,1793511737
+a7d6fc7686d0a6e4,https://descg.gov.in/data/adh/5.NMDS 2.0-Guidelines.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511738
+a6ec341f644ea625,https://gad.cg.gov.in/statecirculars/Criculars/Scan-file-2000-2002/year2026/202600485_001.pdf,200,application/pdf,1,,1793511738
+dac29ec440c08f41,https://dprcg.gov.in/public/uploads/tenders/1744259703_d0b2e932ae2be7b867c5.pdf,200,application/pdf,1,,1793511738
+6b725f8bc9a9412a,https://revenue.cg.nic.in/LandAqucisitionNoticeRevised.pdf,200,application/pdf,1,,1793511738
+9f397ea6ddc661d9,https://agriportal.cg.nic.in/fisheries/pdf/Fishery_Policy_File_June_2023.pdf,200,application/pdf,1,,1793511738
+920037634ba9086f,https://agriportal.cg.nic.in/fisheries/FishHi/RC/Order Of blacklisting.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511738
+5fc9d26d885e1cf9,https://gad.cg.gov.in/statecirculars/Criculars/Scan-file-2000-2002/year2026/202600484_001.pdf,200,application/pdf,1,,1793511739
+565cf4dbb5ae601f,https://finance.cg.gov.in/vitt_nirdesh/budget_circulars/2027-2028/17-09-2026.pdf,200,application/pdf,1,,1793511739
+0c9c4d6109ed9d65,https://dprcg.gov.in/public/uploads/tenders/1744013058_0313d3fda905bfc1b47f.pdf,200,application/pdf,1,,1793511739
+6afc30075f362e03,https://agriportal.cg.nic.in/fisheries/pdf/Act and Rules Fisheries.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511739
+cd097e47749264e8,https://cdnbbsr.s3waas.gov.in/s3db116b39f7a3ac5366079b1d9fe249a5/uploads/2024/10/2024102212.pdf,200,application/pdf,1,,1793511739
+91c10c60e7f5ed9a,https://gad.cg.gov.in/statecirculars/Criculars/Scan-file-2000-2002/year2026/202600483_001.pdf,200,application/pdf,1,,1793511739
+ee6c76f5acc0cecd,https://cdnbbsr.s3waas.gov.in/s3db116b39f7a3ac5366079b1d9fe249a5/uploads/2026/09/202609031470631448.pdf,200,application/pdf,1,,1793511740
+d6bdeff527c59d33,https://agriportal.cg.nic.in/fisheries/pdf/Padonnati Niyam.compressed.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511740
+d90fb1de46d89f5d,https://tcp.cg.gov.in/nuis/Guidelines.pdf,200,application/pdf,1,,1793511741
+fb7bdb689e3cefcd,https://law.cgstate.gov.in/custom-files/notice_files/ODR20261023_110_6adafc9eab7e8.pdf,200,application/pdf,1,,1793511741
+3c278fe646b6da83,https://tcp.cg.gov.in/RTI/RTI Mannual_04-1-2021.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511741
+2a7a74cde4621395,https://dprcg.gov.in/public/uploads/tenders/1743676225_47adb8849231625ed870.pdf,200,application/pdf,1,,1793511741
+f20438124facd796,https://dprcg.gov.in/public/uploads/tenders/1741762907_8d44514bc5d9bc911993.pdf,200,application/pdf,1,,1793511741
+a79685dd46577b3c,https://descg.gov.in/pdf/mlalad/MLALADS_27-03-2025.pdf,200,application/pdf,1,,1793511741
+a2bb5e2554825e97,https://law.cgstate.gov.in/custom-files/notice_files/TDR20250912_10_68c3d0500f078.pdf,200,application/pdf,1,,1793511741
+696d068a1fda5245,https://descg.gov.in/pdf/mlalad/MLALADS_06-03-2025.pdf,200,application/pdf,1,,1793511741
+b66e875bd4fd7e10,https://gad.cg.gov.in/statecirculars/Criculars/Scan-file-2000-2002/year2026/202600480_001.pdf,200,application/pdf,1,,1793511742
+b2bff4b52902cbe6,https://tcp.cg.gov.in/Tender/2023/RFP FINAL PDF.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511742
+8d0823f287e7db3f,https://agriportal.cg.nic.in/fisheries/pdf/RTI.pdf,200,application/pdf,1,,1793511742
+e3ef52bca3f5a7c0,https://law.cgstate.gov.in/custom-files/notice_files/TDR20250912_11_68c3d137612ef.pdf,200,application/pdf,1,,1793511742
+22cfa10adab82b24,https://agriportal.cg.nic.in/fisheries/pdf/Lok_Sewa_Guaranty_2025-26_hindi.pdf,200,application/pdf,1,,1793511743
+767628d6e3a9cfb9,https://descg.gov.in/pdf/mlalad/MLALADS_31-12-2024.pdf,200,application/pdf,1,,1793511743
+36c78911d9928a5e,https://tcp.cg.gov.in/Circular/CG_Vikas_Niyamitikaran/AD_24x19cc.pdf,404,text/html,0,,1793511743
+2bf933179467ca42,https://gad.cg.gov.in/statecirculars/Criculars/Scan-file-2000-2002/year2026/202600470_001.pdf,200,application/pdf,1,,1793511743
+23968829e9064f54,https://agriportal.cg.nic.in/fisheries/RecruitmentRules/Bharti_Niyam_Rajpatrit.pdf,404,text/html,0,,1793511743
+3d2760b137a9883c,https://gad.cg.gov.in/statecirculars/Criculars/Scan-file-2000-2002/year2026/202600469_001.pdf,200,application/pdf,1,,1793511743
+32cd0764f9bfe4d6,https://cdnbbsr.s3waas.gov.in/s3db116b39f7a3ac5366079b1d9fe249a5/uploads/2026/09/202609031181985791.pdf,200,application/pdf,1,,1793511743
+49da4192558c4439,https://descg.gov.in/pdf/mlalad/MLALADS_19-12-2024.pdf,200,application/pdf,1,,1793511743
+96c53b44a22d555e,https://law.cgstate.gov.in/custom-files/notice_files/TDR20250912_3_68c3b945821b2.pdf,200,application/pdf,1,,1793511744
+5f150bea3bacf0a0,https://tcp.cg.gov.in/Tender/2025/RFP_AMRUT2.0 Updated 01-08-2025.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511744
+88d8a9830f59562e,https://law.cgstate.gov.in/custom-files/notice_files/TDR20250912_9_68c3cce59060f.pdf,200,application/pdf,1,,1793511744
+2c380211c4e7f335,https://gad.cg.gov.in/statecirculars/Criculars/Scan-file-2000-2002/year2026/202600468_001.pdf,200,application/pdf,1,,1793511745
+67caa46df5412d8a,https://descg.gov.in/pdf/mlalad/MLALADS_15-10-2024.pdf,200,application/pdf,1,,1793511745
+e6e2930e79a759aa,https://tcp.cg.gov.in/Tender/2025/corrigendum for RFP.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511745
+d5fda8606711a90c,https://cdnbbsr.s3waas.gov.in/s3db116b39f7a3ac5366079b1d9fe249a5/uploads/2026/09/202609031152893373.pdf,200,application/pdf,1,,1793511745
+9b672473189f64d5,https://tcp.cg.gov.in/Tender/2025/RFP_AMRUT2.0 Cluster 2  30-09-2025.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511746
+f9a57e5e1ad11a4b,https://descg.gov.in/pdf/mlalad/MLALADS_19-07-2024.pdf,200,application/pdf,1,,1793511746
+3655b3fe71483b3e,https://tcp.cg.gov.in/Tender/RFP PSC DTCP -17-1-2018.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511747
+610a5bf2e8eac575,https://law.cgstate.gov.in/custom-files/notice_files/TDR20250912_8_68c3cc0051476.pdf,200,application/pdf,1,,1793511747
+f7818c45e1748901,https://tcp.cg.gov.in/Tender/RFP PSC DTCP -15-12-2017.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511748
+3acf82132e4ccb41,http://govtcollegekotri.in/wp-content/uploads/2024/12/Sankay-Aadesh.pdf,200,application/pdf,1,,1793511748
+24329c19f31c6ec0,https://legalmetrology.cg.nic.in/Content/Notification_Files/notification_letter_720e98e7-aaf7-4ce7-a1c7-f8c27e673ce8.pdf,200,application/pdf,1,,1793511748
+5ef22561e1eb10e6,https://csvtu.ac.in/pdf/dte_transfer_rule/dte_transfer_rule.pdf,200,application/pdf,1,,1793511749
+4a899be981334adb,https://tcp.cg.gov.in/Requirement-25-5-2016/2018/Appointment Order- 19122018.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511749
+a67cb0e91ccf5562,https://www.dbgirls.org/Notification\Commitee 2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511749
+76c804cf545f1fbd,http://govtcollegekotri.in/wp-content/uploads/2023/04/JanbhagidariRules.pdf,200,application/pdf,1,,1793511749
+0d753b846b0abb75,https://www.dbgirls.org/Notification\Ordinance No. 197.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511750
+4be155405ab748ca,http://govtcollegekotri.in/wp-content/uploads/2023/04/Janbhagidari-Order.pdf,200,application/pdf,1,,1793511750
+4e16104d98f6fc84,https://www.dbgirls.org/Notification\Regulation No. 201.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511751
+485a4d1f2ac8ee54,https://www.sggcg.in/GuidelinesforAuthors.pdf,200,application/pdf,1,,1793511751
+7f2cbcd4bc1f69f0,https://cdnbbsr.s3waas.gov.in/s34b4edc2630fe75800ddc29a7b4070add/uploads/2023/07/2023072054.pdf,200,application/pdf,1,,1793511751
+1424302893e70b3e,https://www.sggcg.in/AdvisorBoard.pdf,200,application/pdf,1,,1793511752
+20944439ba4416dc,https://www.pssou.ac.in/attachment/general_letters/oer.pdf,200,application/pdf,1,,1793511752
+23865e382e131bf4,https://cdnbbsr.s3waas.gov.in/s34b4edc2630fe75800ddc29a7b4070add/uploads/2023/07/2023072029.pdf,200,application/pdf,1,,1793511754
+05c9d9990e476d8a,https://cdnbbsr.s3waas.gov.in/s34b4edc2630fe75800ddc29a7b4070add/uploads/2023/07/2023072027.pdf,200,application/pdf,1,,1793511755
+737053966c0bfaae,https://cdnbbsr.s3waas.gov.in/s34b4edc2630fe75800ddc29a7b4070add/uploads/2024/09/2024091026.pdf,200,application/pdf,1,,1793511757
+6a3ee2b1d5f45119,https://cdnbbsr.s3waas.gov.in/s34b4edc2630fe75800ddc29a7b4070add/uploads/2026/01/202601231705921741.pdf,200,application/pdf,1,,1793511758
+6fd205115c0d3a4a,https://www.sggcg.in/PUBLICATIONETHICSANDPOLICY.pdf,200,application/pdf,1,,1793511758
+5640448e51d147e0,https://cdnbbsr.s3waas.gov.in/s34b4edc2630fe75800ddc29a7b4070add/uploads/2026/01/202601231646541232.pdf,200,application/pdf,1,,1793511758
+8aafe4970e9aedc7,https://revenue.cg.nic.in/NoticeforInvitingTender(NIT)ANDRFPunderUPAHAR.pdf,200,application/pdf,1,,1793511759
+8fee87c32f25fac8,https://www.pssou.ac.in/attachment/rules/RSD_Study_rules.pdf,200,application/pdf,1,,1793511759
+fcc9f68602879f44,https://www.pssou.ac.in/attachment/notice_board/acd_673_04_10_2024.pdf,200,application/pdf,1,,1793511760
+6d0e837b3a71443b,https://cdnbbsr.s3waas.gov.in/s34b4edc2630fe75800ddc29a7b4070add/uploads/2025/12/20251206666656461.pdf,200,application/pdf,1,,1793511760
+1fe9566689e7103a,https://agriportal.cg.nic.in/fisheries/RecruitmantRules/Bharti_Niyam_Rajpatrit.pdf,200,application/pdf,1,,1793511760
+13bdd876bf26fbc8,https://www.sggcg.in/notification.pdf,200,application/pdf,1,,1793511761
+414e30e131beee34,https://cdnbbsr.s3waas.gov.in/s34b4edc2630fe75800ddc29a7b4070add/uploads/2025/11/202610251927471635.pdf,200,application/pdf,1,,1793511761
+2403d0dbdace77af,https://agriportal.cg.nic.in/fisheries/RecruitmentRules/Bharti_Niyam_Arajpatrit_Karyapalik.pdf,404,text/html,0,,1793511761
+df036a9215b7e801,https://www.pssou.ac.in/attachment/IT_Policy.pdf,200,application/pdf,1,,1793511762
+d45c94b9a5bab891,https://cdnbbsr.s3waas.gov.in/s34b4edc2630fe75800ddc29a7b4070add/uploads/2025/07/20250729100.pdf,200,application/pdf,1,,1793511763
+6b8d94a79f2e0c5a,https://www.cbda.in/sites/default/files/tender-document/Notice%20for%20extension%20PT_2025_002.PDF,200,application/pdf,1,,1793511763
+5c9969acbf5da33d,https://cdnbbsr.s3waas.gov.in/s34b4edc2630fe75800ddc29a7b4070add/uploads/2024/07/2024072578.pdf,200,application/pdf,1,,1793511764
+6b1bc606a027eaa3,https://legalmetrology.cg.nic.in/Content/Notification_Files/notification_letter_d27a9d2c-2a09-47e6-92c2-9f5161beecdc.pdf,200,application/pdf,1,,1793511765
+ae6668c8482d8b32,https://cgbse.nic.in/Documents/2019/Student_registration_process.PDF,200,application/pdf,1,,1793511765
+36b821696e40ec40,https://cgbse.nic.in/Documents/2026/adesh_271026.pdf,200,application/pdf,1,,1793511766
+a20d98e6eaa939f2,https://legalmetrology.cg.nic.in/Content/Notification_Files/notification_letter_acd54b6d-3409-46f1-9791-3481d291e9be.pdf,200,application/pdf,1,,1793511766
+d67fe548772b3f37,https://www.sggcg.in/GuideLine.pdf,200,application/pdf,1,,1793511766
+009cc1badda4628f,https://dprcg.gov.in/public/uploads/notifications/1791812145_094a8c9105f4e462fbae.pdf,200,application/pdf,1,,1793511766
+e31a12bf5c227e61,https://www.sggcg.in/11a55f0bcc1be9e93acfbe2.pdf,200,application/pdf,1,,1793511767
+dfa6106ad2a07ad0,https://prd.cg.gov.in/pdf/VAKNIYAM.pdf,200,application/pdf,1,,1793511768
+219ef244998b2b43,https://revenue.cg.nic.in/NoticeforInvitingTender(NIT)ANDRFPunderUPAHAR_New.pdf,200,application/pdf,1,,1793511768
+7d2247c3b5675350,https://prd.cg.gov.in/pdf/MASHIKPARISHRAM.pdf,200,application/pdf,1,,1793511769
+95f8229f3f48be72,https://cgbse.nic.in/Documents/2026/विज्ञापन_NMMSE_2027.pdf,200,application/pdf,1,,1793511769
+bc4e09d88ab855b6,https://prd.cg.gov.in/pdf/vbgramgadhisuchnaa.pdf,200,application/pdf,1,,1793511770
+b78789d19f7616b6,https://revenue.cg.nic.in/Docs/Rajasw%20and%20aapda%20vibag%20adhisuchna%202007.pdf,200,application/pdf,1,,1793511770
+8017fc4c478314e2,https://cgbse.nic.in/Documents/2026/safai_tender_061026.pdf,200,application/pdf,1,,1793511770
+928fc78734932cdb,https://csidc.in/wp-content/uploads/2025/07/idp-hindic.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793511770
+b136f560959c1d82,https://revenue.cg.nic.in/Docs/Adhisuchna%20Punarvas%202007.pdf,404,text/html; charset=utf-8,0,,1793511770
+e49025c247b952f3,https://cghb.gov.in/free-hold/Freehold-Circular.pdf,200,application/pdf,1,,1793511771
+90514cd820a55d70,https://cgbse.nic.in/Documents/2026/Pvt_Entry_Date_2026_27.pdf,200,application/pdf,1,,1793511771
+a1ec4f6aa05f3a39,http://revenue.cg.nic.in/docs/Rehabilitation%20Policy%20pdf.pdf,200,application/pdf,1,,1793511772
+ddd06a29a3dcd998,https://csidc.in/wp-content/uploads/2024/11/R-680.pdf,200,application/pdf,1,,1793511772
+f09aa9667b9c706b,https://cgmfpfed.org/new/pdf/Gazette_Notification_Tendupatta_2026.pdf,200,application/pdf,1,,1793511773
+9abb12951e7655cd,https://csidc.in/wp-content/uploads/2023/07/tourismpolicy.pdf,200,application/pdf,1,,1793511773
+12658017e0be3fe8,https://csidc.in/wp-content/uploads/2022/09/Logistics-Park-Policy-English.pdf,200,application/pdf,1,,1793511775
+55bec3247c4a44fa,https://csidc.in/wp-content/uploads/2022/09/Logistic-Park-Policy_Hindi.pdf,200,application/pdf,1,,1793511776
+9d79ebd2c93a7068,https://agriportal.cg.nic.in/fisheries/RecruitmantRules/Bharti_Niyam_Arajpatrit_Karyapalik.pdf,200,application/pdf,1,,1793511776
+9d6dc34dbcad40aa,https://csidc.in/wp-content/uploads/2023/03/logistics-Policy-2022.pdf,200,application/pdf,1,,1793511777
+1e763ba37a367110,https://www.cgmfpfed.org/new/news_upload/Distributionpolicy.pdf,200,application/pdf,1,,1793511778
+91cea6305a6268fd,https://www.cbda.in/sites/default/files/tender-document/Clarification%20of%20Bidder%27s%20Query.pdf,200,application/pdf,1,,1793511780
+d08626186fbef10e,https://csidc.in/wp-content/uploads/2022/09/ChhattisgarhStateEVPolicy2022English.pdf,200,application/pdf,1,,1793511780
+fe2b44d54b647bcd,https://csidc.in/wp-content/uploads/2023/03/20apsisahmati.pdf,200,application/pdf,1,,1793511780
+314027415746648b,https://shramevjayate.cg.gov.in/cesspayment.pdf,200,application/pdf,1,,1793511781
+f606370dda030890,https://csbc.cg.nic.in/bima2024.pdf,200,application/pdf,1,,1793511781
+a048afb3d38dccc0,https://www.cbda.in/sites/default/files/tender-document/Extension%20notice%2030%20jan%20PT%20002.PDF,200,application/pdf,1,,1793511781
+de6d1c4fc6f2112e,https://csbc.cg.nic.in/Corrigendum1920ro.pdf,200,application/pdf,1,,1793511782
+c1970dab4605aa04,https://shramevjayate.cg.gov.in/Shops_and_Est_Act_Notification.pdf,200,application/pdf,1,,1793511782
+04bc51fd56d42c70,https://csbc.cg.nic.in/Corrigendum%20for%20Terms%20and%20Cond%202019-20.pdf,200,application/pdf,1,,1793511783
+e0ac6fa4b61d10df,https://www.cbda.in/sites/default/files/tender-document/ADDENDUM_01%20PT_GHP%20002.pdf,200,application/pdf,1,,1793511784
+94929f904dd08399,https://shramevjayate.cg.gov.in/ISM.pdf,200,application/pdf,1,,1793511785
+36a05d00359d4379,https://cghb.gov.in/Career_Doc/CGVYAPAM_Accountant_Vacancy(16.02.2018).pdf,200,application/pdf,1,,1793511786
+d3160b1a35dafebb,https://cspc.co.in/cspc/csptcl/CSR%20Policy/CSR%20Policy%20410-01062022.pdf,200,application/pdf,1,,1793511786
+9e576d8e7cc23856,https://cspc.co.in/cspc/csptcl/CSR%20Policy/CSPTCL - CSR PROJECT-2022-24.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511786
+bae278870306135e,https://csidc.in/wp-content/uploads/2024/08/Latestspr.pdf,404,text/html; charset=UTF-8,0,,1793511786
+7ea290394c5cd75a,https://www.cbda.in/sites/default/files/tender-document/NOTICE%20price%20bid%20opening%20PT001.PDF,200,application/pdf,1,,1793511787
+a426b8b89f4d65da,https://cspc.co.in/cspc/csptcl/CSR%20Policy/CSR Project_2024-25_website disclosure.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511787
+134e31cba6748a62,https://www.cgmfpfed.org/new/pdf/Gazette_Notification_Aadhaar.pdf,200,application/pdf,1,,1793511787
+d5a14f5722869f33,https://www.cgmfpfed.org/new/act_rules/Indian Forest Act 1927.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511787
+93f94b314c8963f8,https://csidc.in/wp-content/uploads/2023/04/LAR-15-Book-Corrected-13.10.2022-pdf.pdf,200,application/pdf,1,,1793511787
+b22e0c139bfc73bd,https://cgbse.nic.in/Documents/2026/new_manyata_26.pdf,200,application/pdf,1,,1793511787
+11745f50258fb2a2,https://cgbse.nic.in/Documents/2026/SafSafai_Tender_Nirasti_Aadesh.pdf,200,application/pdf,1,,1793511787
+98b47aef5bc421e2,https://cspc.co.in/csptcl_tendernotices/Files\Civil Office Online Tender related order_3236.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511788
+06074a3839120f2c,https://cgswc.cg.gov.in/assets/pdf/Index/Ind_10428_250926.pdf,200,application/pdf,1,,1793511788
+5612d40695747ef5,"https://www.cgmfpfed.org/new/act_rules/Cooperative Society Adhiniyam, 1960.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511788
+e227dba1e1489f92,https://shramevjayate.cg.gov.in/women_permit.pdf,200,application/pdf,1,,1793511788
+86bd52c33cf20247,https://cgbse.nic.in/Documents/2026/TenderCancel.pdf,200,application/pdf,1,,1793511788
+6eaa17a2b04a8894,"https://www.cgmfpfed.org/new/act_rules/Cooperative Society Niyam, 1962.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511789
+73f64cba86a95019,https://www.cbda.in/sites/default/files/tender-document/NOTICE%20price%20bid%20opening%20GHP%20002.PDF,200,application/pdf,1,,1793511789
+f557496155fd1049,https://cgbse.nic.in/Documents/2026/pavesh_niyam_150626.PDF,200,application/pdf,1,,1793511789
+ec8da5d5b76c96c3,https://cgswc.cg.gov.in/assets/pdf/Index/Ind_8279_300726.pdf,200,application/pdf,1,,1793511789
+d7c6c47e57dd0faf,https://cgmfpfed.org/new/pdf/Gazette_Notification_Aadhaar.pdf,200,application/pdf,1,,1793511790
+c34a375a46473084,https://cgswc.cg.gov.in/assets/pdf/Index/Ind_4612_300426.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793511790
+8197b4e93a948a80,"https://www.cgmfpfed.org/new/act_rules/Chhattisgarh Tendu Patta (Vyapar Viniyaman) Adhiniyam, 1964.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511790
+7eeddf997f2afc52,https://cghb.gov.in/Career_Doc/Recruitment_Advrt(27.05.2016).pdf,200,application/pdf,1,,1793511790
+40c8f36ae427ddbe,http://cgmfpfed.org/pdtender_pdf/Seniority%20List%205818-5819_28-04-14.pdf,200,application/pdf,1,,1793511790
+6effe7739b515732,https://cspc.co.in/cspc/csptcl/C&RA/Grid%20Connectivity%20Guideline.pdf,200,application/pdf,1,,1793511790
+e17b21e5372adb08,https://cgbse.nic.in/Documents/2026/aadesh_050626.PDF,200,application/pdf,1,,1793511790
+1de373be55519e1e,http://cgmfpfed.org/pdtender_pdf/Seniority%20List%208113_08-07-14.pdf,200,application/pdf,1,,1793511791
+5144cf304e4df548,https://cgswc.cg.gov.in/assets/pdf/Index/Ind_4419A_280426.pdf,200,application/pdf,1,,1793511791
+6c362e51954baf59,https://cdn.s3waas.gov.in/s304ecb1fa28506ccb6f72b12c0245ddbc/uploads/2023/08/2023080119.pdf,200,application/pdf,1,,1793511793
+c7381cbd916589d8,https://cghb.gov.in/Career_Doc/Order-SubEngineer(Civil-Electrical).pdf,200,application/pdf,1,,1793511793
+e946938a14b56b12,https://pwd.cg.nic.in/Eregistration/E_Class_Reg2020.pdf,200,application/pdf,1,,1793511793
+5df7575781ab193e,https://cdn.s3waas.gov.in/s304ecb1fa28506ccb6f72b12c0245ddbc/uploads/2026/05/17798656727962.pdf,200,application/pdf,1,,1793511795
+78cef6ce227e999e,https://cghb.gov.in/Career_Doc/Vacancy-Peon&Attendant(07.09.2013).pdf,200,application/pdf,1,,1793511795
+c3d9be6683cdcd66,https://shramevjayate.cg.gov.in/Factory/CentralInspection/pdf/Risk_AssesMent.pdf,200,application/pdf,1,,1793511795
+bf6eb603f2bcb33f,https://www.cbda.in/sites/default/files/tender-document/JCB%20and%20construction%20material%20PT001%20-%20Corrected%2019%20august%20%281%29.pdf,200,application/pdf,1,,1793511796
+1b998e71a80556d5,https://cghb.gov.in/Home/board-orders/Admin/Administrative-572(31.08.2018).pdf,404,text/html; charset=utf-8,0,,1793511796
+50b7600c8ece65fd,https://cdn.s3waas.gov.in/s304ecb1fa28506ccb6f72b12c0245ddbc/uploads/2026/04/17772811134491.pdf,200,application/pdf,1,,1793511797
+e54410f70cbc8137,https://shramevjayate.cg.gov.in/Factory/CentralInspection/pdf/FactoryInspectionOrder.pdf,200,application/pdf,1,,1793511798
+fa04e93b7ec3db55,https://cdn.s3waas.gov.in/s326dd0dbc6e3f4c8043749885523d6a25/uploads/2026/07/17840333624425.pdf,200,application/pdf,1,,1793511798
+807916f4dd722a35,https://shramevjayate.cg.gov.in/Factory/CentralInspection/pdf/Joint_INS.pdf,200,application/pdf,1,,1793511798
+66d6f47dab8ea4b5,https://www.cbda.in/sites/default/files/tender-document/No.%2049%20date%2023.09.26.PDF,200,application/pdf,1,,1793511798
+d72f37394bd00141,https://cdn.s3waas.gov.in/s326dd0dbc6e3f4c8043749885523d6a25/uploads/2025/12/17646693779288.pdf,200,application/pdf,1,,1793511798
+32dc8fd241d85c82,https://shramevjayate.cg.gov.in/Factory/CentralInspection/pdf/Legal.pdf,200,application/pdf,1,,1793511799
+04e535bbe42a5de9,https://cdn.s3waas.gov.in/s36a10bbd480e4c5573d8f3af73ae0454b/uploads/2024/08/2024083068.pdf,200,application/pdf,1,,1793511799
+342be0ee467d0c0f,https://cgswc.cg.gov.in/assets/pdf/Index/Ind_4420_230426.pdf,200,application/pdf,1,,1793511799
+f1573b71594571f5,https://cspc.co.in/cspc/csptcl/C&RA/Grid_Conectivity_Guidelines2024.pdf,200,application/pdf,1,,1793511800
+86177b8435af36bf,https://cspc.co.in/cspc/csptcl/tariffpetition/TraiffPetition_2025-2026/Corrigendum_CSPTCL Tariff Petition no. 96 of 24.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511800
+64e1ad5223d2351b,https://cdn.s3waas.gov.in/s36a10bbd480e4c5573d8f3af73ae0454b/uploads/2024/08/2024083086.pdf,200,application/pdf,1,,1793511801
+25398fd3a9f85050,https://cspc.co.in/cspc/csptcl/tariffpetition/TraiffPetition_2025-2026/Approved Tariff Order for FY 26.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511801
+cb405f1d3890ad2c,https://cgswc.cg.gov.in/assets/pdf/Index/Ind_4419_230426.pdf,200,application/pdf,1,,1793511801
+6d1d5b9cef1f29d6,https://cdn.s3waas.gov.in/s36a10bbd480e4c5573d8f3af73ae0454b/uploads/2024/09/2024090481.pdf,200,application/pdf,1,,1793511802
+8dc7b384845a9a97,https://cghb.gov.in/Career_Doc/Order-SubEngineer(Ele).pdf,200,application/pdf,1,,1793511802
+b0d7acd5d1e0c730,https://cspc.co.in/cspc/csptcl/tariffpetition/TraiffPetition_2025-2026/Approed Order for CIP FY 2025-26 CSPTCL.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511802
+66806c1fd9b700a6,https://cspc.co.in/cspc/csptcl/tariffpetition/TariffOrder/Approved Tariff Order for FY 2024-25.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511803
+16fd183e78937759,https://cdn.s3waas.gov.in/s36a10bbd480e4c5573d8f3af73ae0454b/uploads/2024/09/2024090447.pdf,200,application/pdf,1,,1793511803
+07eb9977fc31ee74,https://cdn.s3waas.gov.in/s36a10bbd480e4c5573d8f3af73ae0454b/uploads/2024/09/2024090416.pdf,200,application/pdf,1,,1793511804
+60633d804abf7129,https://www.cbda.in/sites/default/files/tender-document/Extension%20notice.PDF,200,application/pdf,1,,1793511804
+a8d0e8e29b6e406e,https://cdn.s3waas.gov.in/s36a10bbd480e4c5573d8f3af73ae0454b/uploads/2025/10/17606777224445.pdf,200,application/pdf,1,,1793511805
+88af9dea3e89a0bb,https://cdn.s3waas.gov.in/s36a10bbd480e4c5573d8f3af73ae0454b/uploads/2026/09/17902999145628.pdf,200,application/pdf,1,,1793511806
+689928b109f1d50c,https://www.sldccg.com/wif-for-website/unifam/2704-tr286tenderdocuments.pdf,200,application/pdf,1,,1793511806
+a1561ec3ff0e4066,https://www.sldccg.com/wif-for-website/unifam/2687-corrigendumfinalseainterintrajune2026.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793511806
+c1d791b51653d575,https://cgswc.cg.gov.in/assets/pdf/Index/Ind_4226_200426.pdf,200,application/pdf,1,,1793511806
+1043eee7d0fd4008,https://www.sldccg.com/externaldata/2010/201003/20100310_152033_Meeting Notification SEA_MAR10.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511807
+a4e91414b9d67412,https://cdn.s3waas.gov.in/s36a10bbd480e4c5573d8f3af73ae0454b/uploads/2026/09/17884137367113.pdf,200,application/pdf,1,,1793511807
+ba882ceb6d2661c4,https://cdn.s3waas.gov.in/s36a10bbd480e4c5573d8f3af73ae0454b/uploads/2026/01/17677874496700.pdf,200,application/pdf,1,,1793511808
+89eab6b2348dbca8,https://www.cbda.in/sites/default/files/CG-CBG%20Policy%2C%202026.pdf,200,application/pdf,1,,1793511808
+bcf8b696e9620699,https://cgswc.cg.gov.in/__Notification/Notice/2025_10_03_11705.pdf,200,application/pdf,1,,1793511809
+fe45ad1912d7e2f0,https://cdn.s3waas.gov.in/s3d82c8d1619ad8176d665453cfb2e55f0/uploads/2026/09/17906770039309.pdf,200,application/pdf,1,,1793511809
+2ce6de00b8326047,https://cdn.s3waas.gov.in/s3d82c8d1619ad8176d665453cfb2e55f0/uploads/2026/10/17913514052822.pdf,200,application/pdf,1,,1793511810
+539bfd188293b02c,https://cgswc.cg.gov.in/__Notification/Notice/2025_08_19_9971.pdf,200,application/pdf,1,,1793511810
+31bdcff78365378d,https://cgswc.cg.gov.in/__Notification/Notice/2025_08_07_9655.pdf,200,application/pdf,1,,1793511811
+1987ba3b4f1cc51d,https://cdn.s3waas.gov.in/s3556f391937dfd4398cbac35e050a2177/uploads/2026/10/17933613582329.pdf,200,application/pdf,1,,1793511811
+bf2c21d45bc30ea3,https://cghb.gov.in/employee-corner/Interpretation_Of_Private_Documents.pdf,200,application/pdf,1,,1793511812
+d1a0cdbf46b9760b,https://cdn.s3waas.gov.in/s3556f391937dfd4398cbac35e050a2177/uploads/2026/07/17845442827121.pdf,200,application/pdf,1,,1793511812
+a950ccef67c67b0d,https://cghb.gov.in/employee-corner/ACT_1972.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793511812
+627e0bada1efd2be,https://cdn.s3waas.gov.in/s3556f391937dfd4398cbac35e050a2177/uploads/2026/06/17812623791607.pdf,200,application/pdf,1,,1793511813
+8f28f6b48f628aa8,https://www.sldccg.com/wif-for-website/sldccg_act_regulations/53-tarifforder202526.pdf,200,application/pdf,1,,1793511813
+b8b075032073b120,https://cdn.s3waas.gov.in/s3556f391937dfd4398cbac35e050a2177/uploads/2026/06/17812622953201.pdf,200,application/pdf,1,,1793511814
+0ccb84d2ca054bf1,https://cdn.s3waas.gov.in/s3556f391937dfd4398cbac35e050a2177/uploads/2026/06/17804863696467.pdf,200,application/pdf,1,,1793511815
+cfabf14caa1da135,https://cdn.s3waas.gov.in/s3556f391937dfd4398cbac35e050a2177/uploads/2026/10/17932558325046.pdf,200,application/pdf,1,,1793511816
+a8f4d9cd9f042a93,https://cdn.s3waas.gov.in/s3556f391937dfd4398cbac35e050a2177/uploads/2026/09/17884357208306.pdf,200,application/pdf,1,,1793511817
+266a01e6a65ab6a9,https://cdn.s3waas.gov.in/s3b5dc4e5d9b495d0196f61d45b26ef33e/uploads/2026/09/17906816084634.pdf,200,application/pdf,1,,1793511818
+a32fe855fd7b1f39,https://cdn.s3waas.gov.in/s3b5dc4e5d9b495d0196f61d45b26ef33e/uploads/2026/10/17912833239929.pdf,200,application/pdf,1,,1793511819
+b9c548ac20044253,https://cdn.s3waas.gov.in/s3b5dc4e5d9b495d0196f61d45b26ef33e/uploads/2025/05/2025050993.pdf,200,application/pdf,1,,1793511820
+40bbc96c4b300a68,https://www.sldccg.com/wif-for-website/sldccg_act_regulations/52-cserctarifforder202425.pdf,200,application/pdf,1,,1793511820
+3de265812425d136,https://pwd.cg.nic.in/Eregistration/OrderofE_Ragistration.pdf,200,application/pdf,1,,1793511820
+33647f994058c9b4,https://cdn.s3waas.gov.in/s3b5dc4e5d9b495d0196f61d45b26ef33e/uploads/2026/01/17691656374504.pdf,200,application/pdf,1,,1793511822
+a4b46f0e6d128c95,https://legalmetrology.cg.nic.in/Content/Notification_Files/notification_letter_538dbd33-2242-44c9-adb7-663db934288a.pdf,200,application/pdf,1,,1793511823
+7368fd5505f31b6e,https://cdn.s3waas.gov.in/s3f033ab37c30201f73f142449d037028d/uploads/2026/10/17921517082952.pdf,200,application/pdf,1,,1793511823
+1616e6923bf6f4e0,https://cdn.s3waas.gov.in/s3f033ab37c30201f73f142449d037028d/uploads/2026/10/17921517333550.pdf,200,application/pdf,1,,1793511824
+d21080599b4416ae,https://cdn.s3waas.gov.in/s3f033ab37c30201f73f142449d037028d/uploads/2026/09/17888682637271.pdf,200,application/pdf,1,,1793511825
+4310712c3023121e,https://cdn.s3waas.gov.in/s3f033ab37c30201f73f142449d037028d/uploads/2026/09/17888682898459.pdf,200,application/pdf,1,,1793511826
+da659b1f190a4b9d,https://cdn.s3waas.gov.in/s3f033ab37c30201f73f142449d037028d/uploads/2025/10/17599079568988.pdf,200,application/pdf,1,,1793511828
+fe92fc748488f2d4,https://cdn.s3waas.gov.in/s3f033ab37c30201f73f142449d037028d/uploads/2025/10/17599080012898.pdf,200,application/pdf,1,,1793511829
+0e707cba871f0e73,https://cdn.s3waas.gov.in/s3f033ab37c30201f73f142449d037028d/uploads/2025/10/17599080591640.pdf,200,application/pdf,1,,1793511830
+097018c5fb0bc806,https://www.sldccg.com/wif-for-website/sldccg_act_regulations/28-tarifforderfy202324.pdf,200,application/pdf,1,,1793511832
+762e863c96c76ba1,https://www.sldccg.com/wif-for-website/sldccg_act_regulations/49-centralelectricityauthorityinstallationandoperationofmetersamendmentregulations2022.pdf,200,application/pdf,1,,1793511833
+648779dece12e51c,https://www.sldccg.com/wif-for-website/sldccg_act_regulations/48-centralelectricityauthorityinstallationandoperationofmetersamendmentregulations2019.pdf,200,application/pdf,1,,1793511834
+0ba620d63e406143,https://cghb.gov.in/employee-corner/ACT_1998.pdf,200,application/pdf,1,,1793511834
+a77ee4bbb38b3dc8,https://www.sldccg.com/wif-for-website/sldccg_act_regulations/47-centralelectricityauthorityinstallationandoperationofmetersamendmentregulations2014.pdf,200,application/pdf,1,,1793511837
+2c9b2f19b1b1cb07,https://www.sldccg.com/wif-for-website/sldccg_act_regulations/46-centralelectricityauthorityinstallationandoperationofmetersamendmentregulations2010.pdf,200,application/pdf,1,,1793511838
+5eaf53203a3e05dc,https://fcs.cg.gov.in/Documents/Dhaan_Kharid_Policy.pdf,200,application/pdf,1,,1793511838
+a70718aba91a2769,https://fcs.cg.gov.in/Documents/Custom_Neeti_Policy.pdf,200,application/pdf,1,,1793511839
+fe7711eee3c8f545,https://fcs.cg.gov.in/Documents/lokseve_gurentee.pdf,200,application/pdf,1,,1793511840
+6ad61215042bb094,https://fcs.cg.gov.in/Documents/Rajpatra NFSA  2013.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511840
+ebb7a4fef57cda46,https://fcs.cg.gov.in/Documents/State Food Commission Order.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511841
+f2f96da8cb3c163a,https://fcs.cg.gov.in/Documents/Internal_grievance_redressal.pdf,200,application/pdf,1,,1793511847
+334515c3d1f5220d,https://www.dbgirls.org/Notification\210.pdf,200,application/pdf,1,,1793511847
+d3f724b621dfdb04,https://www.dbgirls.org/Notification\Extension of Autonomos (19-01-2024).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511847
+6b0e96bc04888426,https://www.dbgirls.org/Notification\Academic Calander  (2024-25).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511848
+bd88f9ff4b21cd5d,https://www.dbgirls.org/Notification/Induction 2026-27.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511849
+e911b7986674e1e2,https://www.dbgirls.org/Notification/Sports Day 2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511850
+965cf2e161c356ce,https://www.dbgirls.org/Notification/Guest Lecturer 2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511851
+75788e73379baa8c,https://www.dbgirls.org/Notification/Guest Lecture List_2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511852
+3f97db9098a6de0c,https://fcs.cg.gov.in/Documents/RationCardRule.pdf,200,application/pdf,1,,1793511853
+3f9c01b6dfc70bc8,https://fcs.cg.gov.in/Documents/PDSControlOrder_Merge.pdf,200,application/pdf,1,,1793511863
+6f358c4bd1af743c,https://legalmetrology.cg.nic.in/Content/Notification_Files/notification_letter_7ce9e1f3-d2f5-48a3-9b1f-a9c2bc0d79d9.pdf,200,application/pdf,1,,1793511868
+7022d66f7dc85213,https://legalmetrology.cg.nic.in/Content/Notification_Files/notification_letter_f661e367-af80-4602-a253-981444ed2980.pdf,200,application/pdf,1,,1793511875
+00d98124af346c68,https://legalmetrology.cg.nic.in/Content/Notification_Files/notification_letter_4dab3690-0d46-4cc9-a4c0-ab3e2e0b10fc.pdf,200,application/pdf,1,,1793511876
+c7f005369b76bfa1,https://legalmetrology.cg.nic.in/Content/Notification_Files/notification_letter_6c3ec49b-d6df-4103-84a2-cb34828edd1a.pdf,200,application/pdf,1,,1793511878
+c61360178e898848,https://fcs.cg.gov.in/Documents/Bharti_Niyam.pdf,200,application/pdf,1,,1793511881
+a45bcf5ad7999ba1,https://fcs.cg.gov.in/Documents/adniniyam/AavashyakVastu.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793511881
+f689832e4a3304f0,https://fcs.cg.gov.in/Documents/rules/chorbazari.pdf,200,application/pdf,1,,1793511906
+ec6f234a464e0e7a,https://fcs.cg.gov.in/Documents/adniniyam/consumerforum.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793511906
+f5b79191dcdc2971,https://fcs.cg.gov.in/Data/ConsumerProtectionAct 2019.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511907
+89580568de682ba2,https://fcs.cg.gov.in/Documents/adniniyam/khadaysurkhsa.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793511908
+d09dcad042fbbacc,https://legalmetrology.cg.nic.in/Content/Notification_Files/notification_letter_a9ac866d-3164-493d-b343-83c07f2ec4f1.pdf,200,application/pdf,1,,1793511919
+1426d14b0ada8d2c,https://fcs.cg.gov.in/Documents/adniniyam/cgkhadayAvmPoshan.pdf,200,application/pdf,1,,1793511922
+51879e5798eb0024,https://fcs.cg.gov.in/data/Amendment Dated 01.04.2013.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511922
+e3b3eab23002ea2a,https://fcs.cg.gov.in/data/Amendment Dated 09.04.2013.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511923
+646aa0b656cc6b8e,https://fcs.cg.gov.in/data/Amendment Dated 15.04.2013.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511924
+32abbff8731e15a2,https://fcs.cg.gov.in/data/Amendment Dated 05.09.2013.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793511925
+0690bd0b58320d92,https://legalmetrology.cg.nic.in/Content/Notification_Files/notification_letter_8ab6b804-df81-4d79-8b47-b6a4998d2932.pdf,200,application/pdf,1,,1793511963

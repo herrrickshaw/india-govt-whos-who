@@ -1,38 +1,69 @@
 # TN — who signed what — officers ↔ orders / notifications matrix
 
-_Built 2026-10-31 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (16 ministries/departments)._
+_Built 2026-11-01 by `scripts/signatory_matrix.py`. Scope: ministries with a who's-who roster in `data/ministry_officials.csv` (47 ministries/departments)._
 
 ## Funnel
 
 | Stage | Count |
 |---|---|
-| Candidate order/notification/circular/OM/gazette PDFs in the document index | 252 |
-| PDFs fetched | 239 |
-| PDFs with machine-readable text | 80 |
-| PDFs with a detectable signature block | 81 |
-| Signatures matched to a roster officer | 31 documents / 13 officers |
-| Signatures not matched (person not in any roster, or moved) | 54 |
+| Candidate order/notification/circular/OM/gazette PDFs in the document index | 300 |
+| PDFs fetched | 0 |
+| PDFs with machine-readable text | 25 |
+| PDFs with a detectable signature block | 25 |
+| Signatures matched to a roster officer | 10 documents / 9 officers |
+| Signatures not matched (person not in any roster, or moved) | 17 |
 
 ## Per ministry
 
 | Ministry | candidates | fetched | signature found | matched docs | officers linked |
 |---|---|---|---|---|---|
-| Agricultural Engineering Department, Tamil Nadu | 2 | 2 | 0 | 0 | 0 |
-| Agriculture and Farmers Welfare Department, Tamil Nadu | 23 | 23 | 6 | 1 | 1 |
-| Art and Culture Department, Tamil Nadu | 23 | 22 | 11 | 0 | 0 |
-| Backward Classes Most Backward Classes and Minorities Welfare Department, Tamil Nadu | 12 | 12 | 5 | 1 | 1 |
-| Civil Supplies and Consumer Protection Department, Tamil Nadu | 15 | 14 | 4 | 3 | 3 |
-| Department of Textiles, Tamil Nadu | 2 | 2 | 1 | 0 | 0 |
-| Employment and Training Department, Tamil Nadu | 23 | 22 | 8 | 1 | 1 |
-| Environment and Climate Change Department, Tamil Nadu | 23 | 22 | 10 | 10 | 1 |
-| Fisheries Department, Tamil Nadu | 15 | 13 | 5 | 3 | 2 |
-| Food Safety and Drug Administration Department, Tamil Nadu | 15 | 13 | 3 | 0 | 0 |
-| Handlooms Department, Tamil Nadu | 6 | 4 | 0 | 0 | 0 |
-| Health and Family Welfare Department, Tamil Nadu | 23 | 23 | 10 | 0 | 0 |
-| Highways Department, Tamil Nadu | 1 | 1 | 1 | 0 | 0 |
-| Horticulture and Plantation Crops Department, Tamil Nadu | 23 | 20 | 9 | 4 | 2 |
-| Information Technology Department, Tamil Nadu | 23 | 23 | 0 | 0 | 0 |
-| Labour Department, Tamil Nadu | 23 | 23 | 8 | 8 | 4 |
+| Agricultural Engineering Department, Tamil Nadu | 2 | 0 | 0 | 0 | 0 |
+| Agriculture and Farmers Welfare Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Alagappa University, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Anna University Regional Campus - Tirunelveli, Tamil Nadu | 1 | 0 | 0 | 0 | 0 |
+| Annamalai University, Tamil Nadu | 8 | 0 | 1 | 1 | 1 |
+| Arasu Rubber Corporation Limited, Tamil Nadu | 8 | 0 | 2 | 0 | 0 |
+| Art and Culture Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Backward Classes Most Backward Classes and Minorities Welfare Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Bharathiar University, Coimbatore, Tamil Nadu | 8 | 0 | 1 | 0 | 0 |
+| Bharathidasan Institute of Management (BIM), Tiruchirappalli, Tamil Nadu | 1 | 0 | 0 | 0 | 0 |
+| Bharathidasan University, Tiruchirappalli, Tamil Nadu | 8 | 0 | 2 | 1 | 1 |
+| Chennai Metropolitan Development Authority (CMDA), Tamil Nadu | 8 | 0 | 1 | 1 | 1 |
+| Civil Supplies and Consumer Protection Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Commissionerate of Employmnet and Traning, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Commissionerate of Revenue Administration and Disaster Management, Tamil Nadu | 2 | 0 | 1 | 1 | 1 |
+| Department of Textiles, Tamil Nadu | 2 | 0 | 0 | 0 | 0 |
+| Directorate for Welfare of the Differently Abled, Tamil Nadu | 8 | 0 | 2 | 0 | 0 |
+| Directorate of Boilers, Tamil Nadu | 8 | 0 | 1 | 1 | 1 |
+| Directorate of Collegiate Education, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Directorate of Government Examinations, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Directorate of Technical Education - Chennai, Tamil Nadu | 2 | 0 | 2 | 2 | 1 |
+| Directorate of Town and Country Planning, Tamil Nadu | 8 | 0 | 3 | 2 | 2 |
+| Directorate of Vigilance & Anti-Corruption, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Electronics Corporation of Tamil Nadu Ltd. (ELCOT), Tamil Nadu | 2 | 0 | 0 | 0 | 0 |
+| Employment and Training Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Environment and Climate Change Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Fisheries Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Food Safety and Drug Administration Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Government College of Engineering (GCE), Salem, Tamil Nadu | 5 | 0 | 1 | 1 | 1 |
+| Handlooms Department, Tamil Nadu | 6 | 0 | 0 | 0 | 0 |
+| Health and Family Welfare Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Highways Department, Tamil Nadu | 1 | 0 | 0 | 0 | 0 |
+| Horticulture and Plantation Crops Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Information Technology Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Labour Department, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Manonmaniam Sundaranar University, Tamil Nadu | 8 | 0 | 2 | 0 | 0 |
+| Medical Services Recruitment Board (MRB), Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Metropolitan Transport Corporation (Chennai) Ltd., Tamil Nadu | 8 | 0 | 1 | 0 | 0 |
+| Mother Teresa Women's University, Kodaikanal, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Overseas Manpower Corporation Ltd., Tamil Nadu | 1 | 0 | 0 | 0 | 0 |
+| Periyar University, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Tamil Nadu Agricultural University (TNAU), Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Tamil Nadu Institute of Urban Studies (TNIUS), Coimbatore, Tamil Nadu | 8 | 0 | 5 | 0 | 0 |
+| Tamil Nadu Institute of Urban Studies, Tamil Nadu | 1 | 0 | 0 | 0 | 0 |
+| Tamil Nadu Open University, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Tamil Nadu Physical Education and Sports University, Chennai, Tamil Nadu | 8 | 0 | 0 | 0 | 0 |
+| Virtual Learning Portal, Commissionerate of Employment & Training, Tamil Nadu | 2 | 0 | 0 | 0 | 0 |
 
 ## Officer × topic matrix (documents signed)
 
@@ -45,48 +76,24 @@ Full pivot: `officer_topic_pivot.csv`; long form with example titles and URLs: `
 
 For each ministry and topic, the roster officers who signed the most documents on it (name, roster designation, email).
 
-### Additional Chief Secretary to Government, Environment, Climate Change and Forests Department, Chennai
+### Additional Chief Secretary to Government, Tourism, Culture & Religious Endowments Department , Chennai
 
 | Topic | Contact officers (docs signed) |
 |---|---|
-| Budget / sanction / release of funds / grants |  |
-| Committees / meetings / minutes / constitution of |  |
 | Licensing / approvals / standards / enlistment |  |
-| Other / unclassified |  |
-| Scheme guidelines / implementation |  |
-
-### Additional Chief Secretary to Government, Micro Small and Medium Enterprises Department, Secretariat, Chennai
-
-| Topic | Contact officers (docs signed) |
-|---|---|
-| Committees / meetings / minutes / constitution of |  |
-
-### Additional Chief Secretary to Government, Rural Development and Panchayat Raj Department, Chennai
-
-| Topic | Contact officers (docs signed) |
-|---|---|
-| Acts / commencement / legislation |  |
-| Other / unclassified |  |
-
-### Additional Chief Secretary to Government, Special Initiatives Department, Chennai
-
-| Topic | Contact officers (docs signed) |
-|---|---|
-| Acts / commencement / legislation |  |
 | Statutory rules / gazette notifications (G.S.R. / S.O.) |  |
-
-### Chairman and MD, TNEB, TNPDCL, TNGECL, TANTRANSCO & TNPGCL, Chennai
-
-| Topic | Contact officers (docs signed) |
-|---|---|
-| Other / unclassified |  |
 
 ### Chairman, Inland Waterways Authority of India M/o Ports, Shipping & Waterways, New Delhi
 
 | Topic | Contact officers (docs signed) |
 |---|---|
-| Legal metrology / consumer protection rules |  |
 | Scheme guidelines / implementation |  |
+
+### Chief Secretary to Government of Tamil Nadu, Secretariat, Chennai
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| Other / unclassified |  |
 
 ### Commissioner (GOI) Navodaya Vidyalaya Samiti (NVS) D/o School Education & Literacy New Delhi
 
@@ -94,45 +101,36 @@ For each ministry and topic, the roster officers who signed the most documents o
 |---|---|
 | Other / unclassified |  |
 
-### Principal Secretary / Chairman and MD, TANSIDCO, Chennai
-
-| Topic | Contact officers (docs signed) |
-|---|---|
-| Statutory rules / gazette notifications (G.S.R. / S.O.) |  |
-
-### Principal Secretary to Government, Secretariat, Human Resources Management Department, Chennai
-
-| Topic | Contact officers (docs signed) |
-|---|---|
-| Other / unclassified |  |
-
-### Principal Secretary to Governor, Governor Secretariat, Chennai
-
-| Topic | Contact officers (docs signed) |
-|---|---|
-| Committees / meetings / minutes / constitution of |  |
-| Other / unclassified |  |
-| Statutory rules / gazette notifications (G.S.R. / S.O.) |  |
-
-### Secretary to Government BC, MBC & MW Department Secretariat Chennai
+### Commissioner , Collegiate Education, Chennai
 
 | Topic | Contact officers (docs signed) |
 |---|---|
 | Scheme guidelines / implementation |  |
 
-### Secretary to Government Higher Education Department Secretariat Chennai
+### Director of Tourism Tamil Nadu Tourism and Managing Director TTDC Chennai
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| Scheme guidelines / implementation |  |
+| Training / capacity building / workshops |  |
+
+### Director of Town and Country Planning, Chennai
 
 | Topic | Contact officers (docs signed) |
 |---|---|
 | Other / unclassified |  |
 
-### Secretary to Government Labour Welfare and Skill Development Department Secretariat Chennai
+### Principal Secretary / Member Secretary, CMDA, Chennai
 
 | Topic | Contact officers (docs signed) |
 |---|---|
-| Acts / commencement / legislation |  |
-| Legal metrology / consumer protection rules |  |
-| Statutory rules / gazette notifications (G.S.R. / S.O.) |  |
+| Other / unclassified |  |
+
+### Principal Secretary to Government, Municipal Administration and Water Supply Department, Secretariat, Chennai
+
+| Topic | Contact officers (docs signed) |
+|---|---|
+| Scheme guidelines / implementation |  |
 
 ## Signatories missing from the rosters (roster gaps)
 
@@ -140,13 +138,7 @@ People who sign orders for a ministry but are not on its who's-who page / igod /
 
 | Ministry | Signatory (as printed) | Signed as | Documents | Latest |
 |---|---|---|---|---|
-| Art and Culture Department, Tamil Nadu | Apoorva Varma | Additional Chief Secretary | 10 |  |
-| Agriculture and Farmers Welfare Department, Tamil Nadu | Samayamurthi | Commissioner | 5 |  |
-| Health and Family Welfare Department, Tamil Nadu | Thanjavur IMA | Director of Medical & Rural Health Services, Chennai. / Director of Medical & Rural Health Services,Chennai. | 3 |  |
-| Horticulture and Plantation Crops Department, Tamil Nadu | V. Datchinamurthi | Commissioner | 3 |  |
-| Backward Classes Most Backward Classes and Minorities Welfare Department, Tamil Nadu | K.G Verma | Deputy Secretary to the Government of India / Director | 2 |  |
-| Civil Supplies and Consumer Protection Department, Tamil Nadu | ANUPAM MISHRA | Jt. Secy | 2 |  |
-| Food Safety and Drug Administration Department, Tamil Nadu | SUDHIR KUMAR | Jt. Secy | 2 |  |
+| Tamil Nadu Institute of Urban Studies (TNIUS), Coimbatore, Tamil Nadu | SHIV DAS MEENA | SECRETARY TO GOVERNMENT / SECRETARY TO GOVERNMENT. | 4 |  |
 
 ## Caveats
 

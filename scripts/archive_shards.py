@@ -32,7 +32,9 @@ def trees():
     t = [("data/signatories/pdf", 0), ("data/signatories/text", 6), ("data/career/articles", 6), ("ministry_documents/data/sites", 6)]
     for st in sorted(glob.glob(str(REPO / "data/states/??"))):
         n = os.path.basename(st)
-        t += [(f"data/states/{n}/pdf", 0), (f"data/states/{n}/text", 6)]
+        t.append((f"data/states/{n}/pdf", 0))
+        if (REPO / f"data/states/{n}/signatures.csv").exists():      # text caches only once that state's extraction is done
+            t.append((f"data/states/{n}/text", 6))
     t += [(f"data/agents/{g}", 6) for g in ("groupA", "groupC", "groupD")]
     return [(p, lvl) for p, lvl in t if (REPO / p).is_dir()]
 

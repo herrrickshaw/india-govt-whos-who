@@ -1,0 +1,322 @@
+doc_id,url,http,content_type,ok,err,ts
+e648320205a9a722,https://forests.telangana.gov.in/wwf/Content Files/Introduction/OEOH Instruction Manual_English (For Teachers).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518021
+cbc798c4024ef290,https://mines.telangana.gov.in/MinesAndGeology/Documents/RTI Circulars/Geology_Telangana_GSI (1).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518021
+694886ff04450c49,https://law.telangana.gov.in/resources/downloads/GO32.pdf,404,text/html;charset=utf-8,0,,1793518021
+4a8121cc6938da7a,https://tggad.cgg.gov.in:443/downloadFile.do?pdfpath=GO124onPOSystem.pdf,200,text/html;charset=UTF-8,0,,1793518021
+8d96540cabb3c8b1,https://health.telangana.gov.in/142.pdf,200,application/pdf,1,,1793518021
+3e4a1340e9611ed5,https://endowments.ts.nic.in/images/incumbency_list.pdf,200,application/pdf,1,,1793518021
+3b3d5b55bac75a44,https://labour.telangana.gov.in:443/content/Downloads/MoM_Code_OSH_Rules.pdf,200,application/pdf,1,,1793518021
+594d94fbbfa5be87,https://bse.telangana.gov.in/PDF/GO109_Fee_Exemption.pdf,200,application/pdf,1,,1793518021
+e470b036900c4c62,https://horticulture.tg.nic.in/Downloads/2026/TGHDCL_Tender%20IR.pdf,200,application/pdf,1,,1793518021
+7f95483024dd7985,https://industries.telangana.gov.in/Library/Incentives%20guidelines-Final%20Version.pdf,200,application/pdf,1,,1793518021
+4f6db2e0761fb207,https://treasury.telangana.gov.in/docs_old/CompendiumofImpOrdersonNPSCPS.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793518021
+a82bef81869dcbc2,https://health.telangana.gov.in/VC Post Notification & Application Form.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518022
+14fe7ce3dc91f323,https://bse.telangana.gov.in/PDF/NMMS-2020-21 Notification Prssnote(English).PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518022
+9eb0fbb6b1cde6b2,https://tggad.cgg.gov.in:443/downloadFile.do?pdfpath=PO_2018-appointment_of_nodal_officers.pdf,200,text/html;charset=UTF-8,0,,1793518022
+a2fd6f395be33302,https://labour.telangana.gov.in:443/content/Downloads/MoM_Code_IR_Rules.pdf,200,application/pdf,1,,1793518022
+65be7434b2d8281c,https://law.telangana.gov.in/fileShow?fileName=/Uploads/LawDepartment/pdf/ActNo4of2015.pdf,200,application/pdf;charset=UTF-8,1,,1793518022
+d1da76814dcc5dea,https://horticulture.tg.nic.in/Downloads/2026/Tender/Pre-bid%20minutes.pdf,200,application/pdf,1,,1793518022
+1e1b4fe39caea5af,https://endowments.ts.nic.in/images/Transfers_Memo.pdf,200,application/pdf,1,,1793518022
+a52df69f4d896d4c,https://mines.telangana.gov.in/MinesAndGeology/Documents/Rules/MineralConcessionRule1960.pdf,200,application/pdf,1,,1793518022
+e134d6cc2b2eb85e,https://industries.telangana.gov.in/Library/operational%20guidelines.pdf,200,application/pdf,1,,1793518022
+403847201ef0917c,https://cdma.cgg.gov.in/cdma/Files/RTI Act/RTI_ACT_Amendment.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518023
+ee6d5e6e090b3a66,https://health.telangana.gov.in/Addendum to VC Post Notification.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518023
+09ef633dd60bad10,https://bse.telangana.gov.in/PDF/NMMS-2020-21 Notification Prssnote(Telugu).PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518023
+632143d127a63a96,https://endowments.ts.nic.in/images/Memo&Optionform.pdf,200,application/pdf,1,,1793518023
+dd8eae7315c4b3f8,https://labour.telangana.gov.in:443/content/Downloads/MoM_Code_Wages_Rules.pdf,200,application/pdf,1,,1793518023
+ad8615cdca5a2ef3,https://law.telangana.gov.in/fileShow?fileName=/Uploads/LawDepartment/pdf/ActNo5of2015.pdf,200,application/pdf;charset=UTF-8,1,,1793518023
+1fdc0705115087ec,https://mines.telangana.gov.in/MinesAndGeology/Documents/Rules/Minerals_Evidence_Rules_2015.pdf,200,application/pdf,1,,1793518023
+eb561bc80c7b4389,https://horticulture.tg.nic.in/Downloads/2026/Tender/Garden%20Inputs%20%20Technical%20Bid%20and%20Financial%20Bid.pdf,200,application/pdf,1,,1793518023
+1effa5b543e0d057,https://bse.telangana.gov.in/PDF/NMMSE 2020-21- HM Instructions.PDF,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518024
+1c9e778409c85cc3,https://law.telangana.gov.in/fileShow?fileName=/Uploads/LawDepartment/pdf/ActNo7of2015.pdf,200,application/pdf;charset=UTF-8,1,,1793518024
+1e214c6e3eb0815c,https://endowments.ts.nic.in/images/6a&6b_transfer_list.pdf,200,application/pdf,1,,1793518024
+61853f604b52ca2f,https://mines.telangana.gov.in/MinesAndGeology/Documents/Rules/Mineral_Auction_Rules_2015.pdf,200,application/pdf,1,,1793518024
+3a8e511fd80bbed6,https://horticulture.tg.nic.in/Downloads/2026/Tender/Leasing%20of%20Parking%20Slot%20%20Technical%20Bid%20and%20Financial%20bid.pdf,200,application/pdf,1,,1793518024
+6aadcbf5b5da9b65,https://cdma.cgg.gov.in/cdma/Files/FeeGOs/GO_22.pdf,200,application/pdf,1,,1793518024
+c9a2771baa18fb2f,"https://mines.telangana.gov.in/MinesAndGeology/Documents/Rules/Mineral Conservation and Development Rules, 1988.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518025
+51490ad467ec00c9,https://bse.telangana.gov.in/pdf/Rc 150 H M instructions March 2019dt 251019.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518025
+0fc7050a0f7dbd8d,https://law.telangana.gov.in/fileShow?fileName=/Uploads/LawDepartment/pdf/4 of 2016.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518025
+a4bf8425dbbdca26,https://cdma.cgg.gov.in/cdma/Files/FeeGOs/GO_10.pdf,200,application/pdf,1,,1793518025
+9d0e94df753e2a4c,https://endowments.ts.nic.in/images/Moffusil_ofc_transfers.pdf,200,application/pdf,1,,1793518025
+a3cfe2519ee4b405,https://horticulture.tg.nic.in/Downloads/2026/Tender/Floral%20Decoration%20Technical%20Bid%20and%20Financial%20Bid.pdf,200,application/pdf,1,,1793518025
+5707924203bf2247,https://emunicipal.telangana.gov.in/etistmvcdfwefrzxczx/scsdvcxvcxvcvxc?adsjfasd=NEWS_06102026121325RfP%20for%20Biomining%20for%202%20packages%2028092026%203rd%20call.pdf,200,application/pdf,1,,1793518025
+c85f9f987cf6590f,https://labour.telangana.gov.in:443/content/Downloads/MoM_Code_SocialSecurity_Rules.pdf,200,application/pdf,1,,1793518025
+0d469f7319a07c27,https://it.telangana.gov.in/wp-content/uploads/2016/10/Telangana-Open-Data-Policy1.pdf,200,application/pdf,1,,1793518025
+b590beade7a7672a,https://bse.telangana.gov.in/pdf/Revised Notification for Due Dates for SSC PE March 2020.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518026
+ec48d357cc9d6a8a,https://law.telangana.gov.in/fileShow?fileName=/Uploads/LawDepartment/pdf/5 of 2016.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518026
+420ba3f5458cfc76,https://cdtihyd.gov.in/static/download/joininginstructions.pdf,200,application/pdf,1,,1793518026
+16656f27edd31939,https://endowments.ts.nic.in/images/Transfer_Final_List.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793518026
+0fc7cfaab508d425,https://mines.telangana.gov.in/MinesAndGeology/Documents/Rules/TMMC_Rules_1966.pdf,200,application/pdf,1,,1793518026
+5acffe562fec7d62,https://emunicipal.telangana.gov.in/etistmvcdfwefrzxczx/scsdvcxvcxvcvxc?adsjfasd=NEWS_15052026035925Circular%20No%20712531%20dt%2014.05.2026%20Transfers%20of%20Managers%20%26%20Revenue%20OfficersAO%20%26%20JAO%20-%20Options%20through%20online%20website%20only%20-%20extended.pdf,200,application/pdf,1,,1793518026
+f93c58404f64f216,https://cdma.cgg.gov.in/cdma/Files/FeeGOs/GO_8.pdf,200,application/pdf,1,,1793518026
+c094fed5106ffde1,https://horticulture.tg.nic.in/Downloads/2026/G.O%20Ms.No.%2038%20Dated%2021.04.2026.PDF,200,application/pdf,1,,1793518026
+a5b7a39902de6472,https://law.telangana.gov.in/fileShow?fileName=/Uploads/LawDepartment/pdf/6 of 2016.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518027
+b7be19281f974e28,https://mines.telangana.gov.in/MinesAndGeology/Documents/Rules/WALTA_RULES_2004.pdf,200,application/pdf,1,,1793518027
+4e6fe7320f58644e,https://braou.ac.in/preview/CMS/LatestNews/latestnews_14102026122421106_d82b7658-6c60-4a0f-b5a0-ec9fb50ccc3b.pdf,200,application/pdf,1,,1793518027
+b19dfbf1b457b54f,https://endowments.ts.nic.in/images/GO&Transfers&ModifiedForm.pdf,200,application/pdf,1,,1793518027
+2e413fc3e1c16689,https://www.braouonline.in/Notifications/Workshop/2025_PG_38_2Year_0_Workshops__07-10-2026-splBED_2YR_4SEM2026.pdf,200,application/pdf,1,,1793518027
+f39e0117f408d21b,https://bse.telangana.gov.in/pdf/Guidelineforuploadingpracticalmarksmay18.pdf,200,application/pdf,1,,1793518028
+7a36d5a9e49548b2,https://mines.telangana.gov.in/MinesAndGeology/Documents/RTI Circulars/RTI_Fees_ Structure.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518028
+93eede9773ad0815,https://law.telangana.gov.in/fileShow?fileName=/Uploads/LawDepartment/pdf/7 of 2016.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518028
+d0d156d3c65de3cf,https://horticulture.tg.nic.in/Downloads/2026/Transfer/circular-2.pdf,200,application/pdf,1,,1793518028
+0eff83475e82fa85,https://braou.ac.in/preview/CMS/universityUpdates/univUpdates_16072026114903352_f3240bbd-e463-43a1-ab1e-48659d415193.pdf,200,application/pdf,1,,1793518028
+7cd8fe55facec814,https://www.braouonline.in/Notifications/Workshop/2025_PG_29_1Year_0_Workshops__07-10-2026-BEDODL_1STYR2026.pdf,200,application/pdf,1,,1793518029
+0cbecf8716d6f2cd,https://law.telangana.gov.in/fileShow?fileName=/Uploads/LawDepartment/pdf/8 of 2016.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518029
+1dd8bf4e2a7de6f3,https://mines.telangana.gov.in/MinesAndGeology/Documents/Circulars/DMG_HSRP_Circular.pdf,200,application/pdf,1,,1793518029
+cb4efa8137276622,https://www.braouonline.in/MISC/ugcbcs_revised_notification_jun2026.pdf,200,application/pdf,1,,1793518029
+f7afdf90d11cf74c,https://horticulture.tg.nic.in/Downloads/2026/Transfer/JDH%20Incumbency%20list.pdf,200,application/pdf,1,,1793518029
+ad9c12b89887117d,https://braou.ac.in/preview/CMS/universityUpdates/univUpdates_06052026113828001_dc010d86-852c-4fd5-9a3e-e3cad20c5728.pdf,200,application/pdf,1,,1793518029
+e17103554143de2a,https://bse.telangana.gov.in/pdf/TTCAprilMay2018.pdf,200,application/pdf,1,,1793518029
+014f4c35333dd96c,https://horticulture.tg.nic.in/Downloads/2026/Transfer/DDHs%20Incumbency%20list.pdf,200,application/pdf,1,,1793518030
+91d346d55b018d19,http://naac.iiit.ac.in/wp-content/uploads/2023/01/7.1.10_code.pdf,000,,0,curl: (6) Could not resolve host: naac.iiit.ac.in,1793518030
+b0d020140a5a279d,https://emunicipal.telangana.gov.in/etistmvcdfwefrzxczx/scsdvcxvcxvcvxc?adsjfasd=NEWS_31122025115141C5%20RFP_with_Draft%20CA%20C5.pdf,200,application/pdf,1,,1793518030
+1a4e665ce0e65705,https://bse.telangana.gov.in/pdf/FLTPINSTRfeb18.pdf,200,application/pdf,1,,1793518030
+0569f771644bdcb5,http://naac.iiit.ac.in/wp-content/uploads/2023/01/7.1.5_policy.pdf,000,,0,curl: (6) Could not resolve host: naac.iiit.ac.in,1793518031
+52827c78a4037b02,https://www.braouonline.in/Notifications/Workshop/2025_PG_38_2Year_0_Workshops__29-04-2026-BED_SPL_Workshop.pdf,200,application/pdf,1,,1793518031
+f8fe09dbdc622028,https://braou.ac.in:443/preview/CMS/UploadFiles/cmsupload_25042026113143323_d3378ec3-dd12-4a29-8a72-d9876de93b71.pdf,200,application/pdf,1,,1793518031
+6f4f2056bf9235b7,https://labour.telangana.gov.in:443/content/Downloads/transfers_2026.pdf,200,application/pdf,1,,1793518031
+b4ce849e12663717,https://emunicipal.telangana.gov.in/etistmvcdfwefrzxczx/scsdvcxvcxvcvxc?adsjfasd=NEWS_14112025052736RFP%20CITIIS%202.pdf,200,application/pdf,1,,1793518031
+dd5c714f5363c3a0,https://forests.telangana.gov.in/Pages/Acts_Rules/PCCFRc.No.452231-Admn-2-Amendment.pdf,200,application/pdf,1,,1793518031
+7d67459b46012d3c,https://www.hyderabadwater.gov.in/en/application/themes/hmwssb/images/Important-instructions-to-consumers.pdf,200,text/html,0,,1793518032
+b897c06544ea2fd6,http://naac.iiit.ac.in/wp-content/uploads/2023/01/6.4.3.1_6_compressed.pdf,000,,0,curl: (6) Could not resolve host: naac.iiit.ac.in,1793518032
+24e9a934dda322e8,https://endowments.ts.nic.in/images/6a&6b_transfer_list_MZ1.pdf,200,application/pdf,1,,1793518032
+b8649d41b5424814,https://nims.edu.in/NIMSWP/upload/research/NIMS_Course_Curriculum.pdf,200,application/pdf,1,,1793518032
+f41cce1ab873cdf2,https://www.hyderabadwater.gov.in/en/themes/HMWS/downloads/161214.pdf,200,text/html,0,,1793518032
+ade9b47035143aaf,https://endowments.ts.nic.in/images/Moffusil_ofc_transfers_wgl.pdf,200,application/pdf,1,,1793518032
+06b09bfc65036f09,http://naac.iiit.ac.in/wp-content/uploads/2023/01/Research-Fellowship-Guidelines.pdf,000,,0,curl: (6) Could not resolve host: naac.iiit.ac.in,1793518033
+64bfc11ac33a011e,https://treasury.telangana.gov.in/docs_old/GOMsno04Dt.28.02.2024.pdf,200,application/pdf,1,,1793518033
+d5a570261a67a0b9,https://www.hyderabadwater.gov.in/en/application/files/2617/5489/6938/tenders-11-08-2025-today.pdf,200,text/html,0,,1793518033
+ba4eb096198a9ded,http://naac.iiit.ac.in/wp-content/uploads/2023/01/PurchasePolicy_Nov2016.pdf,000,,0,curl: (6) Could not resolve host: naac.iiit.ac.in,1793518034
+46206d01419a42c6,https://treasury.telangana.gov.in/docs_old/INSTRUCTIONS_TO_DTOS_SBI_KODAD.pdf,200,application/pdf,1,,1793518034
+d14d04456badfc0d,https://www.hyderabadwater.gov.in/en/application/files/2517/5464/7064/tender-no-165.pdf,200,text/html,0,,1793518034
+f90039732c4c7645,https://braou.ac.in:443/preview/CMS/UploadFiles/cmsupload_27042026160603672_6419b101-3107-4ce7-a0ed-107f6d11deb9.pdf,200,application/pdf,1,,1793518034
+299257650e4a30a4,http://megsrcw.nic.in/sites/default/files/field/II%20schemes%20progs%20services%20under%20line%20deptts.pdf,000,,0,curl: (6) Could not resolve host: megsrcw.nic.in,1793518034
+ba8e7b66c2a28062,http://naac.iiit.ac.in/wp-content/uploads/2023/01/PDAPolicy_revised_July2018.pdf,000,,0,curl: (6) Could not resolve host: naac.iiit.ac.in,1793518035
+769a934d0efc727e,https://www.hmda.gov.in/wp-content/uploads/2020/07/G.O.Ms_.No_.306-2017-dt.07.12.2017-Land-Pooling-Scheme.pdf,200,application/pdf,1,,1793518036
+e9718d3923757c0d,http://naac.iiit.ac.in/wp-content/uploads/2023/01/Guidelines-on-top-tier-conferences-v1.pdf,000,,0,curl: (6) Could not resolve host: naac.iiit.ac.in,1793518036
+d13f464ac3a3b795,https://nims.edu.in/NIMSWP/upload/research/PhdGuidlines.PDF,200,application/pdf,1,,1793518036
+7e60e92b777aabbd,https://dst.gov.in/sites/default/files/Advertisement-WIDUSHI_0.pdf,404,text/html; charset=utf-8,0,,1793518036
+8b7c6bb515334f98,https://nims.edu.in/NIMSWP/upload/admission_uploads/2026-09-21/B_Sc_AHS_Web_Notification_2026_0001.pdf,200,application/pdf,1,,1793518037
+06ea44a6b9c7a6e5,https://www.hyderabadwater.gov.in/en/application/files/1517/8524/3927/v.the_rules._regulations_instuctions_manuals_and_records_held_by_it_or_under_its_control_or_used_by_its_employeees_for_dischargeing_its_functions.pdf,200,text/html,0,,1793518037
+2c924baeb02e645d,http://naac.iiit.ac.in/wp-content/uploads/2023/01/ConferenceTravelPolicy_Feb2018.pdf,000,,0,curl: (6) Could not resolve host: naac.iiit.ac.in,1793518037
+d9f4d854386838cc,https://treasury.telangana.gov.in/docs_old/CPS_Cir_Memo_Dt23-06-2025.pdf,200,application/pdf,1,,1793518037
+21fb91c66221249b,https://www.hyderabadwater.gov.in/en/application/files/2317/8524/4013/vii._the_particulars_of_any_arrangement_that_exists_for_consultation_with.pdf,200,text/html,0,,1793518037
+25f2246b6cf45360,https://www.ruraluniv.ac.in/files/includes/academics/faculties/dept/11/pdf/1SProgramme.pdf,200,application/pdf,1,,1793518038
+7ca4f8021f9646e3,http://naac.iiit.ac.in/wp-content/uploads/2023/01/Fac_Appnt_thru_Projects.pdf,000,,0,curl: (6) Could not resolve host: naac.iiit.ac.in,1793518038
+e1fbcb9294033cb3,https://www.hyderabadwater.gov.in/application/files/3617/3219/1532/WaterSupplyRules.pdf,200,text/html,0,,1793518038
+6336efdbbf32b3b0,https://www.hmda.gov.in/wp-content/uploads/2020/07/G.O.Ms_.No_.83-2020-04.06.2020-1533-Plg.I12020-land-pooling-GO.pdf,200,application/pdf,1,,1793518039
+95a744fb18bb7455,https://www.hyderabadwater.gov.in/application/files/6817/3219/1532/National_Building_Code.pdf,200,text/html,0,,1793518039
+b613df7aaad91062,https://www.hmda.gov.in/wp-content/uploads/2020/07/10596-NOTIFICATION-English-Ad.pdf,000,,0,"curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could",1793518039
+d9235b2847489026,https://www.meity.gov.in/static/uploads/2025/04/30e8672a53f05b9f90d86d16901b23d2.pdf,200,application/pdf,1,,1793518040
+c1b584c35121ce9c,https://www.hmda.gov.in/wp-content/uploads/2020/07/10596-NOTIFICATION-Telugu-Ad.pdf,000,,0,"curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could",1793518040
+2178d717035bde18,https://www.meity.gov.in/static/uploads/2024/03/Guidelines_PLI-Scheme-ITHW-min.pdf,200,application/pdf,1,,1793518040
+919708b82e18cf82,https://labour.telangana.gov.in:443/content/Downloads/transfers_2.pdf,200,application/pdf,1,,1793518040
+3b493a76b0bbc1d8,https://nims.edu.in/NIMSWP/upload/recruitment_uploads/2026-10-15/TIMS_AppointmentOrder_15102026.pdf,200,application/pdf,1,,1793518041
+6fd73f350291123c,https://www.hmda.gov.in/wp-content/uploads/2020/07/10x30-cm-NOTIFICATION-English-Ad.pdf,000,,0,"curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could",1793518041
+09703ded30c0be68,https://treasury.telangana.gov.in/docs_old/InstrcutionsforfilligDDORegForm.pdf,200,application/pdf,1,,1793518041
+762ac8e39a40e2b7,https://seap-pune.org/wp-content/uploads/2024/01/RFP-Companies-Willing-to-Setup-BPO_ITES-Operations-India-BPO-Promotion-Scheme.pdf,200,application/pdf,1,,1793518041
+43dd15b32ff7039a,https://www.hyderabadwater.gov.in/en/files/9314/3083/4948/rnguide.pdf,200,text/html,0,,1793518041
+666f4abe32929563,https://emunicipal.telangana.gov.in/etistmvcdfwefrzxczx/scsdvcxvcxvcvxc?adsjfasd=NEWS_22102025120250RFP%20and%20Draft%20CA%20-%20C%20and%20D%20Processing%20plant%20-%20Cluster%20II%20Nalgonda%20Mplty%2009ULBs%20-%20Tender%20-Reg..pdf,200,application/pdf,1,,1793518042
+78bbacb2c8ee3c52,https://uidai.gov.in/images/Internship_policy.pdf,404,text/html,0,,1793518042
+988df7dede0780b3,https://treasury.telangana.gov.in/docs_old/Instructionsforupdationofsubscriberdetails.pdf,200,application/pdf,1,,1793518042
+bab04dc22edc61e6,https://www.ruraluniv.ac.in/files/includes/academics/faculties/dept/11/pdf/GONo102_16062026.pdf,200,application/pdf,1,,1793518042
+7f23f256b4209303,https://www.hmda.gov.in/wp-content/uploads/2020/07/10x30-cm-NOTIFICATION-Telugu-Ad.pdf,000,,0,"curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could",1793518042
+6ee58586d7992413,https://intern.meity.gov.in/public/assets/Files/DIIS-2025.pdf,200,application/pdf,1,,1793518042
+206c32d90206d680,https://nims.edu.in/NIMSWP/upload/tender_uploads/2024-08-09/PhD-Prospectus-2024.pdf,200,application/pdf,1,,1793518042
+2ab7789e938850c2,https://www.ruraluniv.ac.in/files/includes/academics/faculties/dept/11/pdf/GONo2_05012016.pdf,200,application/pdf,1,,1793518042
+b7678a2292ae164f,https://nims.edu.in/NIMSWP/upload/admission_uploads/2026-10-13/PGD_NMT_Web_Notification_13-10-26.pdf,200,application/pdf,1,,1793518043
+523f97c98ed27720,https://labour.telangana.gov.in:443/content/Downloads/general_transfer_06.05.2026.pdf,200,application/pdf,1,,1793518043
+fc8507d5d47b8055,https://www.hmda.gov.in/wp-content/uploads/2020/07/Notification_Bandlaguda-_-Pocharam.pdf,000,,0,"curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could",1793518043
+c328745118ed1d04,https://tafrc.telangana.gov.in/Files/TAFRC_NOTIFICATION_MEDICAL_2026-2029.pdf,200,application/pdf,1,,1793518043
+c6da22bc41615c32,https://tgic.telangana.gov.in/Downloads/RTIAct/RTIACT_12.pdf,200,application/pdf,1,,1793518043
+7583d07b06bb9891,https://www.hmda.gov.in/wp-content/uploads/2020/07/Bandlaguda-Land-G.O..pdf,000,,0,"curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could",1793518044
+ef157ec9c43cd109,https://www.hmda.gov.in/wp-content/uploads/2020/07/Guidelines-Bandlaguda-Pocharam-21.12.2022.pdf,000,,0,"curl: (60) SSL certificate problem: unable to get local issuer certificate
+More details here: https://curl.se/docs/sslcerts.html
+
+curl failed to verify the legitimacy of the server and therefore could",1793518045
+afda7b0df8fdb069,https://nims.edu.in/NIMSWP/upload/admission_uploads/2026-09-15/2026_MPTPGDMSC_Notification.pdf,200,application/pdf,1,,1793518045
+026bf2381c14fe7b,https://nims.edu.in/NIMSWP/upload/admission_uploads/2026-10-21/MPT_Webnotification_21-10-26.pdf,200,application/pdf,1,,1793518046
+2bc29a12d1e5602e,https://cdn.sarkaristar.com/notifications/2026/10/ugc-net-detailed-pdf-6a9cfa0a.pdf,200,application/pdf,1,,1793518047
+8055386fa8cbaf4d,https://tgic.telangana.gov.in/Downloads/Instructions/58_766_05052025.pdf,200,application/pdf,1,,1793518047
+84c8fdb50ce44930,https://nims.edu.in/NIMSWP/upload/admission_uploads/2026-10-06/MPT_Web_Notification_06-10-2026.pdf,200,application/pdf,1,,1793518047
+faa98a98c1b93bb4,https://tvc.telangana.gov.in/pdfs/GOMNo175GA.pdf,200,application/pdf,1,,1793518047
+b73f19ba07256661,https://cdn.s3waas.gov.in/s3d554f7bb7be44a7267068a7df88ddd20/uploads/2024/07/2024072674.pdf,200,application/pdf,1,,1793518048
+b451483601645976,https://cdn.s3waas.gov.in/s3072b030ba126b2f4b2374f342be9ed44/uploads/2026/09/17905948388560.pdf,200,application/pdf,1,,1793518049
+7000c75d1e45a8f1,https://cdn.s3waas.gov.in/s3d554f7bb7be44a7267068a7df88ddd20/uploads/2024/09/2024090419.pdf,200,application/pdf,1,,1793518049
+bbf005dca7f65e31,https://cdn.s3waas.gov.in/s3d554f7bb7be44a7267068a7df88ddd20/uploads/2024/08/2024082025.pdf,200,application/pdf,1,,1793518049
+42e396da6d7b2e21,https://tvc.telangana.gov.in/pdfs/G.O-RT%20No1129.pdf,200,application/pdf,1,,1793518050
+7b5a82fac1752912,https://tafrc.telangana.gov.in/Files/Guidelines2026-2029_Medical.pdf,200,application/pdf,1,,1793518050
+9d674df6c69a8df4,https://cdn.s3waas.gov.in/s3d554f7bb7be44a7267068a7df88ddd20/uploads/2024/12/2024121277.pdf,200,application/pdf,1,,1793518050
+27b805f1f5ab3d2f,https://tgic.telangana.gov.in/Downloads/Instructions/59_766_24032025.pdf,200,application/pdf,1,,1793518050
+64b904907c3272bf,https://cdn.s3waas.gov.in/s3d554f7bb7be44a7267068a7df88ddd20/uploads/2024/09/2024091312-1.pdf,200,application/pdf,1,,1793518050
+3abb5ec30abb82c1,https://tafrc.telangana.gov.in/newpdfs/Nursing_GO_2024.pdf,200,application/pdf,0,curl: (56) Maximum file size exceeded,1793518050
+2b081ee36d2dce3a,https://tgic.telangana.gov.in/Downloads/Instructions/56_8895_19102024.pdf,200,application/pdf,1,,1793518051
+6d95dee38aebb25e,https://cdn.s3waas.gov.in/s3ec5decca5ed3d6b8079e2e7e7bacc9f2/uploads/2018/05/2018051668.pdf,200,application/pdf,1,,1793518051
+68cf50b12dcb7f1d,"https://forests.telangana.gov.in/Pages/Acts_Rules/Amendement%20of%20SFSER%202000%20with%20G.O.Ms.No.53,6,19.pdf",200,application/pdf,1,,1793518051
+4527ca192811fe2b,https://cdn.s3waas.gov.in/s36c524f9d5d7027454a783c841250ba71/uploads/2025/11/17641536876877.pdf,200,application/pdf,1,,1793518052
+4b40898181c74be5,https://cdn.s3waas.gov.in/s36c524f9d5d7027454a783c841250ba71/uploads/2025/11/17641536673889.pdf,200,application/pdf,1,,1793518053
+ce90b9d9b6746015,https://cdn.s3waas.gov.in/s36c524f9d5d7027454a783c841250ba71/uploads/2025/11/17641539014289.pdf,200,application/pdf,1,,1793518054
+b98d526369407dc9,https://www.ruraluniv.ac.in/files/includes/academics/faculties/dept/11/pdf/GONo3_08012025.pdf,200,application/pdf,1,,1793518054
+838e793c3c77547c,https://cdn.s3waas.gov.in/s36c524f9d5d7027454a783c841250ba71/uploads/2025/11/17641538712692.pdf,200,application/pdf,1,,1793518055
+cea4e8201f473a6e,https://cdn.s3waas.gov.in/s36c524f9d5d7027454a783c841250ba71/uploads/2025/11/17641539464082.pdf,200,application/pdf,1,,1793518055
+1f9e68d95b5cea5f,https://treasury.telangana.gov.in/docs_old/Gist_Of_Govt_Orders_on_Pension_Disbursement.pdf,200,application/pdf,1,,1793518056
+d548364b0ee43f48,https://cdn.s3waas.gov.in/s36c524f9d5d7027454a783c841250ba71/uploads/2025/11/17624132641164.pdf,200,application/pdf,1,,1793518056
+5c4c517ffe120843,https://tgic.telangana.gov.in/Downloads/Instructions/55_145_29052024.pdf,200,application/pdf,1,,1793518056
+9c5aba53a9228aca,https://cdn.s3waas.gov.in/s36c524f9d5d7027454a783c841250ba71/uploads/2025/11/17641539232941.pdf,200,application/pdf,1,,1793518057
+fc433d9b0b93e190,https://tgic.telangana.gov.in/Downloads/Instructions/54_17_25122023.pdf,200,application/pdf,1,,1793518057
+11c47caeb046ab5e,https://cdn.s3waas.gov.in/s33988c7f88ebcb58c6ce932b957b6f332/uploads/2025/06/2025061984.pdf,200,application/pdf,1,,1793518057
+6516c48a4007c195,http://treasury.telangana.gov.in/docs_old/Cir_regarding_ACRs.pdf,200,application/pdf,1,,1793518057
+da1d34035e5a2e4a,https://cdn.s3waas.gov.in/s3e2c420d928d4bf8ce0ff2ec19b371514/uploads/2026/10/17923460054123.pdf,200,application/pdf,1,,1793518058
+6f480c7490c5eed2,https://cdn.s3waas.gov.in/s36c524f9d5d7027454a783c841250ba71/uploads/2025/11/17641539707055.pdf,200,application/pdf,1,,1793518059
+a95f43a03bb97cbd,https://cdn.s3waas.gov.in/s3e2c420d928d4bf8ce0ff2ec19b371514/uploads/2026/08/17875550551098.pdf,200,application/pdf,1,,1793518059
+78814412d7b17640,https://cdn.s3waas.gov.in/s36c524f9d5d7027454a783c841250ba71/uploads/2025/11/17624133022205.pdf,200,application/pdf,1,,1793518060
+8d682ffd6108b30d,https://cdn.s3waas.gov.in/s3ea5d2f1c4608232e07d3aa3d998e5135/uploads/2026/10/17932640259914.pdf,200,application/pdf,1,,1793518060
+001e57f723fe531f,http://treasury.telangana.gov.in/docs_old/2022FIN_MS18.PDF,200,application/pdf,1,,1793518060
+3d3cfa377a4d7ed0,https://tgic.telangana.gov.in/Downloads/Instructions/22_7798_22112023.pdf,200,application/pdf,1,,1793518061
+a2ee415c3ce54861,https://cdn.s3waas.gov.in/s33988c7f88ebcb58c6ce932b957b6f332/uploads/2025/11/17639716836179.pdf,200,application/pdf,1,,1793518061
+f5cf751317496ead,https://cdn.s3waas.gov.in/s3e2c420d928d4bf8ce0ff2ec19b371514/uploads/2026/10/17933441665195.pdf,200,application/pdf,1,,1793518062
+03be34b6f785ef6b,https://cdn.s3waas.gov.in/s3ea5d2f1c4608232e07d3aa3d998e5135/uploads/2021/09/2021090366.pdf,200,application/pdf,1,,1793518063
+dcaec0e232048699,https://tgic.telangana.gov.in/Downloads/Instructions/53_70_24042023.pdf,200,application/pdf,1,,1793518063
+bf7d212be1d5559a,https://cdn.s3waas.gov.in/s3ea5d2f1c4608232e07d3aa3d998e5135/uploads/2024/10/2024102062.pdf,200,application/pdf,1,,1793518063
+943c8e0d2a5ae438,https://cdn.s3waas.gov.in/s3ea5d2f1c4608232e07d3aa3d998e5135/uploads/2026/10/17931719444280.pdf,200,application/pdf,1,,1793518063
+78266ca701dab16f,https://cdn.s3waas.gov.in/s3ea5d2f1c4608232e07d3aa3d998e5135/uploads/2022/03/2022030324.pdf,200,application/pdf,1,,1793518064
+771d14be28db19d7,https://tgic.telangana.gov.in/Downloads/Instructions/52_4_07022018.pdf,200,application/pdf,1,,1793518064
+861015ec983eca16,https://cdn.s3waas.gov.in/s3ea5d2f1c4608232e07d3aa3d998e5135/uploads/2022/12/2022120115.pdf,200,application/pdf,1,,1793518064
+acfb984a9a48a423,https://tgredco.telangana.gov.in/Updates_2025/Telangana_Clean_and_Green_Energy_Policy_2025.pdf,200,application/pdf,1,,1793518065
+ebab7b7998c4c3cb,https://cdn.s3waas.gov.in/s3e0ec453e28e061cc58ac43f91dc2f3f0/uploads/2024/06/2024062421.pdf,200,application/pdf,1,,1793518065
+b05f49f07f2526bb,https://cdn.s3waas.gov.in/s3ea5d2f1c4608232e07d3aa3d998e5135/uploads/2026/10/17910091669018.pdf,200,application/pdf,1,,1793518065
+decc8b617f3558bb,https://www.ruraluniv.ac.in/files/includes/academics/faculties/dept/11/pdf/GONo168_26082022.pdf,200,application/pdf,1,,1793518065
+257ca43801eca0ab,https://www.ruraluniv.ac.in/files/includes/academics/faculties/dept/11/pdf/GONo243_07112022.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793518065
+b09fbf6a1ce8d8ff,https://tgredco.telangana.gov.in/Updates_2022/PAT_SCHEMES/PAT_NOTIFICATIONS/PAT_Cycle_I.pdf,200,application/pdf,1,,1793518066
+a7f28065aa7c2548,https://cdn.s3waas.gov.in/s3ea5d2f1c4608232e07d3aa3d998e5135/uploads/2021/01/2021010735.pdf,200,application/pdf,1,,1793518066
+c7fff19494b1b072,https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/2026/10/17934272074109.pdf,200,application/pdf,1,,1793518066
+d6b7a86e73330ecc,https://tgredco.telangana.gov.in/Updates_2022/PAT_SCHEMES/PAT_NOTIFICATIONS/PAT_Cycle_II.pdf,200,application/pdf,1,,1793518067
+1219b9a4704a0d36,https://cdn.s3waas.gov.in/s3ea5d2f1c4608232e07d3aa3d998e5135/uploads/2021/10/2021100557.pdf,200,application/pdf,1,,1793518067
+627bfa1514451e0a,https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/2026/06/17823134341167.pdf,200,application/pdf,1,,1793518067
+8c8bde2813b09881,https://cdn.s3waas.gov.in/s3e0ec453e28e061cc58ac43f91dc2f3f0/uploads/2024/06/2024062563.pdf,200,application/pdf,1,,1793518068
+cf2f1e878afa8788,https://www.ruraluniv.ac.in/files/includes/kk/pdf/UGCSanctionOrder.pdf,200,application/pdf,1,,1793518068
+0d1c2866025109ea,https://tgredco.telangana.gov.in/Updates_2022/PAT_SCHEMES/PAT_NOTIFICATIONS/PAT_Cycle_III.pdf,200,application/pdf,1,,1793518068
+b54197296009e4a3,https://cdn.s3waas.gov.in/s372b32a1f754ba1c09b3695e0cb6cde7f/uploads/2018/09/2018092738.pdf,200,application/pdf,1,,1793518069
+e50fcba6c0f39771,https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/2026/06/17823134339695.pdf,200,application/pdf,1,,1793518070
+dbb367feb3d8adc4,https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2025/10/17607667276486.pdf,200,application/pdf,1,,1793518070
+1a773d8c92ec1c17,https://cdn.s3waas.gov.in/s3c2626d850c80ea07e7511bbae4c76f4b/uploads/2024/02/2024022651.pdf,200,application/pdf,1,,1793518070
+efd482b76cdbf545,https://forests.telangana.gov.in/Pages/Acts_Rules/Amendment%20of%20TSFSSR%201997%20with%20G.O.Ms.No.5%20&%2020.pdf,200,application/pdf,1,,1793518070
+aa3d9d4a8053d7ad,https://forests.telangana.gov.in/Pages/Acts_Rules/WALTA%202002%20(AP).pdf,200,application/pdf,1,,1793518071
+82cb1561dc1a9861,https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2024/12/2024121688.pdf,200,application/pdf,1,,1793518071
+2da42ae889b6d1d9,https://cdn.s3waas.gov.in/s372b32a1f754ba1c09b3695e0cb6cde7f/uploads/2020/10/2020100310.pdf,200,application/pdf,1,,1793518071
+689030d2bfb9d779,https://www.ruraluniv.ac.in/files/includes/footer/pdf/UGCRegulations2010.pdf,200,application/pdf,1,,1793518071
+7aa1cf64dbd5ed2a,https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2026/10/17914417485841.pdf,200,application/pdf,1,,1793518072
+7673766e272ee0a3,https://forests.telangana.gov.in/Pages/Acts_Rules/WALTA_Rules_2004%20(AP).pdf,200,application/pdf,1,,1793518072
+a216c6d8bc07d0d8,https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2025/06/2025061665.pdf,200,application/pdf,1,,1793518072
+d1ba2d0442602bfb,https://tgredco.telangana.gov.in/Updates_2022/PAT_SCHEMES/PAT_NOTIFICATIONS/PAT_Cycle_IV.pdf,200,application/pdf,1,,1793518073
+4ddb6e9401905faf,https://www.ruraluniv.ac.in/files/includes/footer/pdf/CCS_CCA_Rules.pdf,200,application/pdf,1,,1793518073
+70188f74bff28628,https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2026/06/17817808451391.pdf,200,application/pdf,1,,1793518073
+28730ef6480c144b,"https://forests.telangana.gov.in/Pages/Acts_Rules/Telangana%20Forest%20Produce%20Transit%20Rules,%201970%20(AP).pdf",200,application/pdf,1,,1793518073
+27a6a0d18a0af885,https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2024/12/2024121644.pdf,200,application/pdf,1,,1793518073
+2441a0df9fda8823,https://tgredco.telangana.gov.in/Updates_2022/PAT_SCHEMES/PAT_NOTIFICATIONS/PAT_Cycle_V.pdf,200,application/pdf,1,,1793518073
+63e1afa1bbcdb1cc,https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2025/03/2025032970.pdf,200,application/pdf,1,,1793518074
+23ccfdbcd8be7958,"https://forests.telangana.gov.in/Pages/Acts_Rules/Amendment%20to%20APFP%20Transit%20Rules,1970%20-%2006022010%20-%20G.O.Ms.No.35.PDF",200,application/pdf,1,,1793518074
+54dde0a706f61667,https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2026/09/17883353962683.pdf,200,application/pdf,1,,1793518074
+5d49debf09ea80c1,https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/09/17896978934188.pdf,200,application/pdf,1,,1793518075
+f1838e8dc84d6d90,https://forests.telangana.gov.in/Pages/Acts_Rules/Amendment%20to%20WALTA%20-%2013052016%20-%20G.O.Ms.No.19%20-%20Felling%20Permission.PDF,200,application/pdf,1,,1793518075
+8dcb46074f58cd5e,https://cdn.s3waas.gov.in/s31c383cd30b7c298ab50293adfecb7b18/uploads/2025/09/17580184185065.pdf,200,application/pdf,1,,1793518075
+1de3f258c0537e19,https://tgredco.telangana.gov.in/Updates_2022/PAT_SCHEMES/PAT_NOTIFICATIONS/PAT_Cycle_VI.pdf,200,application/pdf,1,,1793518076
+223b820237b730a5,https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/10/17928267718092.pdf,200,application/pdf,1,,1793518076
+769e26613aa6f75f,https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/09/17885906335403.pdf,200,application/pdf,1,,1793518076
+0fd5a99d79d0929b,https://tafrc.telangana.gov.in/newpdfs/TAFRC_MPHARMACY_PHARM_D(PB)_M_ARCH_(GO).pdf,200,application/pdf,1,,1793518076
+7b02eabd49245f02,https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/10/17928269403784.pdf,200,application/pdf,1,,1793518077
+264e896f0474420f,https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/09/17907467098123.pdf,200,application/pdf,1,,1793518077
+c235dc34948ec3c2,https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/10/17922473094667.pdf,200,application/pdf,1,,1793518078
+67e20187c7960297,https://cdn.s3waas.gov.in/s3a3f390d88e4c41f2747bfa2f1b5f87db/uploads/2023/04/2023042655.pdf,200,application/pdf,1,,1793518079
+e7e82d6f1e27787d,https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/10/17921283632192.pdf,200,application/pdf,1,,1793518079
+bb6bb9a1d18b185e,https://tafrc.telangana.gov.in/newpdfs/TAFRC-MEDICAL-GO-106-FOR-MBBS-BDS-COURSES-FOR-BP-2023-2026.pdf,200,application/pdf,1,,1793518080
+49ae9d77acf61b52,https://tgredco.telangana.gov.in/Updates_2022/PAT_SCHEMES/PAT_NOTIFICATIONS/PAT_Cycle_VII.pdf,200,application/pdf,1,,1793518080
+18851b0b51632b0d,https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/09/17902422213625.pdf,200,application/pdf,1,,1793518080
+d22b3193bdef4951,https://cdn.s3waas.gov.in/s3a3f390d88e4c41f2747bfa2f1b5f87db/uploads/2026/10/17921464602458.pdf,200,application/pdf,1,,1793518080
+d62c5b509608e9c7,https://tgredco.telangana.gov.in/Updates_2026/Pre_bid_Notification_RE_RTC_2000MW.pdf,200,application/pdf,1,,1793518080
+b714cdffed460ad5,https://cdn.s3waas.gov.in/s382cec96096d4281b7c95cd7e74623496/uploads/2026/06/17805732502010.pdf,200,application/pdf,1,,1793518081
+a5c1de096d2c413d,https://cdn.s3waas.gov.in/s3a3f390d88e4c41f2747bfa2f1b5f87db/uploads/2026/10/17926622666417.pdf,200,application/pdf,1,,1793518081
+42c90a44a9d92eb0,https://cdn.s3waas.gov.in/s3a3f390d88e4c41f2747bfa2f1b5f87db/uploads/2026/10/17921463853173.pdf,200,application/pdf,1,,1793518082
+df6c73e4843f568e,https://cdn.s3waas.gov.in/s3a3f390d88e4c41f2747bfa2f1b5f87db/uploads/2022/09/2022090968.pdf,200,application/pdf,1,,1793518082
+9d5b19a8734264a6,https://cdn.s3waas.gov.in/s3a3f390d88e4c41f2747bfa2f1b5f87db/uploads/2026/10/17921465155364.pdf,200,application/pdf,1,,1793518083
+6e3d74d55133ef03,https://cdn.s3waas.gov.in/s3a3f390d88e4c41f2747bfa2f1b5f87db/uploads/2023/06/2023060126.pdf,200,application/pdf,1,,1793518083
+114d2632e23cf3f2,https://cdn.s3waas.gov.in/s3a3f390d88e4c41f2747bfa2f1b5f87db/uploads/2022/12/2022120480.pdf,200,application/pdf,1,,1793518084
+48a6de7ec76f92f7,https://tafrc.telangana.gov.in/newpdfs/TAFRC-MEDICAL-GO-107and108-FOR-PG-MEDICAL-AND-DENTAL-COURSES-FOR-BP-2023-2026.pdf,200,application/pdf,1,,1793518084
+b0ed270fb827efcb,https://tafrc.telangana.gov.in/newpdfs/TAFRC-MEDICAL-GO-109-FOR-AYUSH-(HOMEOPATHY)UG AND-PG-COURSES-FOR-BP-2023-2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518084
+231aefc972626955,https://cdn.s3waas.gov.in/s3e00da03b685a0dd18fb6a08af0923de0/uploads/2025/09/17580207536928.pdf,200,application/pdf,1,,1793518084
+d8eaee16f332c7dd,https://cdn.s3waas.gov.in/s3a3f390d88e4c41f2747bfa2f1b5f87db/uploads/2022/09/2022090935.pdf,200,application/pdf,1,,1793518085
+8483cd33a5159a2c,https://cdn.s3waas.gov.in/s3e00da03b685a0dd18fb6a08af0923de0/uploads/2020/06/2020061364.pdf,200,application/pdf,1,,1793518085
+2d505eb402fdfeb3,https://cdn.s3waas.gov.in/s3e00da03b685a0dd18fb6a08af0923de0/uploads/2026/07/17848278362623.pdf,200,application/pdf,1,,1793518086
+7e3f51ad65fdda25,https://cdn.s3waas.gov.in/s3e00da03b685a0dd18fb6a08af0923de0/uploads/2026/09/17931900381848.pdf,200,application/pdf,1,,1793518086
+ebb3f77a2e0a3bd0,https://cdn.s3waas.gov.in/s3e00da03b685a0dd18fb6a08af0923de0/uploads/2020/06/2020061624.pdf,200,application/pdf,1,,1793518087
+c20c7ad1e0bb6e6f,https://cdn.s3waas.gov.in/s32a38a4a9316c49e5a833517c45d31070/uploads/2026/07/17831628765439.pdf,200,application/pdf,1,,1793518087
+1d673835187ba76f,https://cdn.s3waas.gov.in/s32a38a4a9316c49e5a833517c45d31070/uploads/2021/04/2021040373.pdf,200,application/pdf,1,,1793518088
+ed384b678b654f03,https://tafrc.telangana.gov.in/newpdfs/TAFRC-PG-LLMandML-COURSE-FOR-BP2022-2025.pdf,200,application/pdf,1,,1793518088
+92096c1d43fd871c,https://cdn.s3waas.gov.in/s3e00da03b685a0dd18fb6a08af0923de0/uploads/2026/09/17884294198503.pdf,200,application/pdf,1,,1793518088
+4ef544799a63a9d7,https://cdn.s3waas.gov.in/s3e00da03b685a0dd18fb6a08af0923de0/uploads/2026/07/17848738351078.pdf,200,application/pdf,1,,1793518089
+2d771eb2c2159ea6,https://cdn.s3waas.gov.in/s32a38a4a9316c49e5a833517c45d31070/uploads/2026/10/17912611211655.pdf,200,application/pdf,1,,1793518089
+26f1de8195abf4f1,https://cdn.s3waas.gov.in/s32a38a4a9316c49e5a833517c45d31070/uploads/2025/03/2025031792.pdf,200,application/pdf,1,,1793518090
+4a0788114469195f,https://cdn.s3waas.gov.in/s32a38a4a9316c49e5a833517c45d31070/uploads/2021/08/2021082597.pdf,200,application/pdf,1,,1793518091
+459f3a00965f0b20,https://cdn.s3waas.gov.in/s3da4fb5c6e93e74d3df8527599fa62642/uploads/2026/09/17887832406974.pdf,200,application/pdf,1,,1793518092
+1e64693d2aa8a716,https://tafrc.telangana.gov.in/newpdfs/TAFRC-UG-LLB-BL-3YEARS-5YEARS-FOR-BP-2022-2025.pdf,200,application/pdf,1,,1793518093
+0751d821614e9361,https://cdn.s3waas.gov.in/s3da4fb5c6e93e74d3df8527599fa62642/uploads/2026/10/17924121284380.pdf,200,application/pdf,1,,1793518093
+cd1dbaac30e89c13,https://cdn.s3waas.gov.in/s3da4fb5c6e93e74d3df8527599fa62642/uploads/2026/07/17831446123722.pdf,200,application/pdf,1,,1793518093
+bfe435bbff5a0bd0,https://cdn.s3waas.gov.in/s3da4fb5c6e93e74d3df8527599fa62642/uploads/2026/10/17924121738138.pdf,200,application/pdf,1,,1793518094
+f65d952287238232,https://cdn.s3waas.gov.in/s3da4fb5c6e93e74d3df8527599fa62642/uploads/2026/10/17924121749026.pdf,200,application/pdf,1,,1793518094
+c26682fd1bf19b18,https://cdn.s3waas.gov.in/s3da4fb5c6e93e74d3df8527599fa62642/uploads/2021/09/2021093010.pdf,200,application/pdf,1,,1793518095
+74ed6402d3e76a2c,https://cdn.s3waas.gov.in/s3da4fb5c6e93e74d3df8527599fa62642/uploads/2023/11/2023110958.pdf,200,application/pdf,1,,1793518096
+2c25d8c9ddaa209a,https://cdn.s3waas.gov.in/s3da4fb5c6e93e74d3df8527599fa62642/uploads/2021/08/2021080544.pdf,200,application/pdf,1,,1793518097
+c9427d51f93ba742,https://cdn.s3waas.gov.in/s3da4fb5c6e93e74d3df8527599fa62642/uploads/2026/05/17794468093958.pdf,200,application/pdf,1,,1793518097
+18d6c616692a9f6d,https://cdn.s3waas.gov.in/s3084b6fbb10729ed4da8c3d3f5a3ae7c9/uploads/2026/10/17931886475975.pdf,200,application/pdf,1,,1793518097
+cb836d4a2ccad8b0,https://cdn.s3waas.gov.in/s3084b6fbb10729ed4da8c3d3f5a3ae7c9/uploads/2026/10/17931890762290.pdf,200,application/pdf,1,,1793518098
+a24d7fbb0a3caf33,https://cdn.s3waas.gov.in/s389f0fd5c927d466d6ec9a21b9ac34ffa/uploads/2026/10/17929965173023.pdf,200,application/pdf,1,,1793518098
+89aa8cdef3061a21,https://industries.telangana.gov.in/Library/SCARCE%20RAW%20MATERIALS%20CIRCULARS%20MEMOS.pdf,200,application/pdf,1,,1793518098
+990fdbf9b0b77a1c,https://industries.telangana.gov.in/Library/MSME Policy Booklet English1.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518098
+5246480eb77fd11b,https://cdn.s3waas.gov.in/s3084b6fbb10729ed4da8c3d3f5a3ae7c9/uploads/2020/11/2020110713.pdf,200,application/pdf,1,,1793518099
+ce7ae4e12b165a65,https://cdn.s3waas.gov.in/s3084b6fbb10729ed4da8c3d3f5a3ae7c9/uploads/2020/12/2020121442.pdf,200,application/pdf,1,,1793518099
+6010e9ffb6d89951,https://industries.telangana.gov.in/Library/MSME Policy Booklet Telugu1.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793518099
+e93ea341d0a6274a,https://cdn.s3waas.gov.in/s374071a673307ca7459bcf75fbd024e09/uploads/2018/05/2018052211.pdf,200,application/pdf,1,,1793518100
+eb40667028ed755a,https://cdn.s3waas.gov.in/s3084b6fbb10729ed4da8c3d3f5a3ae7c9/uploads/2020/11/2020112324.pdf,200,application/pdf,1,,1793518100
+c2784e90ac71c95c,https://industries.telangana.gov.in/Library/logistics-policy-2021.pdf,200,application/pdf,1,,1793518102
+e64a708f16e679ab,https://industries.telangana.gov.in/Library/08092015INDS_MS62.pdf,200,application/pdf,1,,1793518103
+3c21c10261161364,https://cdn.s3waas.gov.in/s343feaeeecd7b2fe2ae2e26d917b6477d/uploads/2022/03/2022031412.pdf,200,application/pdf,1,,1793518103
+89eef3e093edcd5c,https://cdn.s3waas.gov.in/s374071a673307ca7459bcf75fbd024e09/uploads/2023/07/2023071917.pdf,200,application/pdf,1,,1793518103
+fa08d4583250a3c1,https://cdn.s3waas.gov.in/s313f9896df61279c928f19721878fac41/uploads/2025/08/17543116208664.pdf,200,application/pdf,1,,1793518103
+49824f75d36e0c5f,https://cdn.s3waas.gov.in/s343feaeeecd7b2fe2ae2e26d917b6477d/uploads/2025/12/17669895619650.pdf,200,application/pdf,1,,1793518103
+c52e5fdd59fcfda5,https://industries.telangana.gov.in/Library/2015INDS_MS77.pdf,200,application/pdf,1,,1793518104
+63136cb96b50c794,https://cdn.s3waas.gov.in/s38d5e957f297893487bd98fa830fa6413/uploads/2023/10/2023102252.pdf,200,application/pdf,1,,1793518104
+e495ef19130d91ce,https://cdn.s3waas.gov.in/s313f9896df61279c928f19721878fac41/uploads/2026/09/17904251369121.pdf,200,application/pdf,1,,1793518104
+a97e8851104efc4c,https://industries.telangana.gov.in/Library/2015INDS_MS78.pdf,200,application/pdf,1,,1793518105
+4f79af99e3489065,https://cdn.s3waas.gov.in/s38d5e957f297893487bd98fa830fa6413/uploads/2023/10/2023102294.pdf,200,application/pdf,1,,1793518105
+aadaf058b35fa097,https://cdn.s3waas.gov.in/s38d5e957f297893487bd98fa830fa6413/uploads/2023/10/2023101984.pdf,200,application/pdf,1,,1793518105
+0a0d6686318ce0c6,https://cdn.s3waas.gov.in/s38d5e957f297893487bd98fa830fa6413/uploads/2026/10/17930803997262.pdf,200,application/pdf,1,,1793518106
+7eb1f31d666207c5,https://cdn.s3waas.gov.in/s38d5e957f297893487bd98fa830fa6413/uploads/2021/12/2021123118.pdf,200,application/pdf,1,,1793518106
+c05edc3b86788bcc,https://cdn.s3waas.gov.in/s38d5e957f297893487bd98fa830fa6413/uploads/2026/10/17930778867201.pdf,200,application/pdf,1,,1793518107
+d08bcc55925ff129,https://cdn.s3waas.gov.in/s38d5e957f297893487bd98fa830fa6413/uploads/2023/10/2023101947.pdf,200,application/pdf,1,,1793518107
+4350e79e939f14bc,https://wbmsme.gov.in/sites/default/files/cms/circularpdf/1709828650Notification%20for%20West%20Bengal%20Artisans%20Financial%20Benefit%20Scheme%202024.pdf,000,,0,curl: (28) Failed to connect to wbmsme.gov.in port 443 after 75109 ms: Couldn't connect to server,1793518108
+09c65cedf61ad1bd,https://cdn.s3waas.gov.in/s34e732ced3463d06de0ca9a15b6153677/uploads/2026/10/17926653293489.pdf,200,application/pdf,1,,1793518108
+2b1b84dd8d858104,https://cdn.s3waas.gov.in/s38d5e957f297893487bd98fa830fa6413/uploads/2021/05/2021052117.pdf,200,application/pdf,1,,1793518108
+3560d2b1800a2b23,https://cdn.s3waas.gov.in/s38f14e45fceea167a5a36dedd4bea2543/uploads/2026/10/17933369764845.pdf,200,application/pdf,1,,1793518109
+c7039067f6dad9d8,https://cdn.s3waas.gov.in/s38d5e957f297893487bd98fa830fa6413/uploads/2026/07/17834211212790.pdf,200,application/pdf,1,,1793518109
+a200030fc361eda1,https://cdn.s3waas.gov.in/s38f14e45fceea167a5a36dedd4bea2543/uploads/2026/10/17926680989183.pdf,200,application/pdf,1,,1793518110
+10ce9fdf965dabe3,https://cdn.s3waas.gov.in/s38f14e45fceea167a5a36dedd4bea2543/uploads/2024/02/2024022963.pdf,200,application/pdf,1,,1793518110
+854a926f9f154f2a,https://cdn.s3waas.gov.in/s38f14e45fceea167a5a36dedd4bea2543/uploads/2026/09/17888510129413.pdf,200,application/pdf,1,,1793518111
+a5604b99f128ff94,https://dwcd.goa.gov.in/wp-content/uploads/2017/07/notification.pdf,000,,0,curl: (28) Failed to connect to dwcd.goa.gov.in port 443 after 75123 ms: Couldn't connect to server,1793518112

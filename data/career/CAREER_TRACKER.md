@@ -5,7 +5,7 @@ _Built 2026-11-01 by `scripts/career_tracker.py`. Events: 7083 ({'dopt_er_sheet'
 | Directory | signers | with a later/current posting found | moved since they signed | high confidence |
 |---|---|---|---|---|
 | centre | 2958 | 495 | 83 | 97 |
-| states | 145 | 35 | 0 | 12 |
+| states | 1480 | 225 | 0 | 110 |
 
 ## Signers who have moved (sample, high/medium confidence)
 

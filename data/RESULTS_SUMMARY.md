@@ -1,8 +1,8 @@
 # Results summary — ministries and states
 
-_Built 2026-11-01 11:20 from `data/results_by_ministry.csv` and `data/results_by_state.csv`. Ministry results are final for this run. State results are interim: who's-who, crawl and document selection are complete for all 36 states and UTs; PDF fetch is under way and signature extraction and matching exist only for UP, TN and KL so far._
+_Built 2026-11-01 16:58 by `scripts/build_results_summary.py` from `data/results_by_ministry.csv` and `data/results_by_state.csv`._
 
-## Union ministries (81 sites in the document index)
+## Union ministries
 
 135,769 documents indexed; 24,577 order, notification, circular and guideline PDFs read; 8,224 with a detectable signature block; 2,958 distinct signers (301 with a printed email); roster 10,679 officers across 47 ministries; 2,305 documents matched to a roster officer; 554 policy/incentive instruments mapped, 244 with at least one signing contact.
 
@@ -79,53 +79,51 @@ _Built 2026-11-01 11:20 from `data/results_by_ministry.csv` and `data/results_by
 | AYUSH (MoA) | 58 | 4 | 0 | 0 | 0 | 12 | 0 | 0 | 0 | 0 |
 | Department of Drinking Water and Sanitation (DDWS) | 5 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
-_Ministries with no PDFs read (sites blocked, JS-only or thin) are in `data/results_by_ministry.csv`._
+## States and union territories
 
-## States and union territories (interim)
+3,773 department sites targeted; who's-who found for 695 of them (16,228 officers, 7,742 with email); 3,612 sites crawled; 9,377 order/notification PDFs selected and 7,842 read; 1,603 with a detectable signature (430 signature lines in Indic scripts, romanised and translated); 1,411 signers; 251 documents matched to 158 roster officers.
 
-3,773 department sites targeted; who's-who found for 695 of them (16,228 officers, 7,742 with email); 3,612 sites crawled; 9,377 order/notification PDFs selected. Signatures read and matched so far: UP, TN, KL only (181 documents with signatures, 43 matched to 20 officers).
-
-| State | Dept sites | With who's-who | Officers | With email | Crawled | PDFs selected | PDFs on disk now | Docs with signature | Docs matched |
-|---|---|---|---|---|---|---|---|---|---|
-| AN | 31 | 10 | 2,138 | 83 | 31 | 171 | 63 | 0 | 0 |
-| HR | 128 | 48 | 1,177 | 634 | 125 | 300 | 0 | 0 | 0 |
-| JK | 127 | 24 | 1,125 | 640 | 125 | 300 | 0 | 0 | 0 |
-| WB | 148 | 27 | 1,057 | 666 | 144 | 300 | 0 | 0 | 0 |
-| GJ | 192 | 31 | 902 | 846 | 192 | 300 | 0 | 0 | 0 |
-| RJ | 136 | 8 | 899 | 104 | 128 | 300 | 0 | 0 | 0 |
-| MH | 156 | 39 | 869 | 596 | 155 | 300 | 0 | 0 | 0 |
-| ML | 88 | 22 | 748 | 220 | 88 | 300 | 0 | 0 | 0 |
-| TN | 134 | 32 | 601 | 209 | 132 | 300 | 0 | 81 | 31 |
-| UK | 127 | 49 | 533 | 390 | 127 | 300 | 0 | 0 | 0 |
-| UP | 161 | 33 | 519 | 349 | 158 | 300 | 0 | 53 | 9 |
-| BR | 155 | 29 | 480 | 323 | 137 | 300 | 263 | 0 | 0 |
-| AR | 81 | 23 | 464 | 120 | 80 | 286 | 227 | 0 | 0 |
-| PB | 126 | 30 | 438 | 332 | 121 | 300 | 0 | 0 | 0 |
-| MP | 157 | 29 | 398 | 199 | 156 | 300 | 0 | 0 | 0 |
-| JH | 97 | 22 | 341 | 287 | 80 | 300 | 0 | 0 | 0 |
-| GA | 70 | 12 | 340 | 77 | 68 | 300 | 0 | 0 | 0 |
-| PY | 43 | 16 | 340 | 168 | 43 | 220 | 0 | 0 | 0 |
-| DL | 137 | 22 | 295 | 152 | 137 | 300 | 0 | 0 | 0 |
-| HP | 104 | 14 | 280 | 262 | 83 | 300 | 0 | 0 | 0 |
-| MN | 70 | 18 | 263 | 118 | 69 | 300 | 0 | 0 | 0 |
-| OD | 153 | 8 | 255 | 108 | 150 | 300 | 0 | 0 | 0 |
-| MZ | 58 | 9 | 239 | 13 | 57 | 300 | 0 | 0 | 0 |
-| AS | 178 | 3 | 225 | 199 | 178 | 300 | 163 | 0 | 0 |
-| TS | 134 | 29 | 222 | 150 | 134 | 300 | 0 | 0 | 0 |
-| NL | 50 | 14 | 190 | 27 | 49 | 156 | 0 | 0 | 0 |
-| CG | 112 | 23 | 162 | 75 | 108 | 300 | 233 | 0 | 0 |
-| KA | 125 | 18 | 142 | 140 | 124 | 300 | 0 | 0 | 0 |
-| CH | 54 | 5 | 137 | 4 | 47 | 300 | 264 | 0 | 0 |
-| KL | 155 | 14 | 133 | 104 | 155 | 300 | 0 | 47 | 3 |
-| AP | 160 | 21 | 107 | 59 | 157 | 300 | 177 | 0 | 0 |
-| LA | 30 | 3 | 79 | 9 | 8 | 33 | 0 | 0 | 0 |
-| SK | 30 | 2 | 72 | 26 | 23 | 172 | 0 | 0 | 0 |
-| TR | 23 | 5 | 36 | 31 | 23 | 133 | 0 | 0 | 0 |
-| ND | 28 | 2 | 17 | 17 | 5 | 14 | 0 | 0 | 0 |
-| LD | 15 | 1 | 5 | 5 | 15 | 92 | 0 | 0 | 0 |
+| State | Dept sites | With who's-who | Officers | With email | Crawled | PDFs selected | Docs read | With signature | Signers | Docs matched | Officers linked |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| MZ | 58 | 9 | 239 | 13 | 57 | 300 | 295 | 146 | 109 | 22 | 5 |
+| MN | 70 | 18 | 263 | 118 | 69 | 300 | 234 | 107 | 76 | 30 | 13 |
+| GA | 70 | 12 | 340 | 77 | 68 | 300 | 259 | 77 | 66 | 6 | 7 |
+| DL | 137 | 22 | 295 | 152 | 137 | 300 | 290 | 71 | 47 | 2 | 2 |
+| AR | 81 | 23 | 464 | 120 | 80 | 286 | 227 | 69 | 50 | 21 | 11 |
+| HR | 128 | 48 | 1,177 | 634 | 125 | 300 | 259 | 69 | 65 | 18 | 11 |
+| KA | 125 | 18 | 142 | 140 | 124 | 300 | 223 | 66 | 59 | 1 | 1 |
+| ML | 88 | 22 | 748 | 220 | 88 | 300 | 208 | 60 | 40 | 20 | 6 |
+| GJ | 192 | 31 | 902 | 846 | 192 | 300 | 235 | 53 | 64 | 3 | 2 |
+| KL | 155 | 14 | 133 | 104 | 155 | 300 | 390 | 51 | 42 | 7 | 5 |
+| JH | 97 | 22 | 341 | 287 | 80 | 300 | 239 | 51 | 43 | 7 | 3 |
+| RJ | 136 | 8 | 899 | 104 | 128 | 300 | 234 | 50 | 46 | 7 | 6 |
+| UK | 127 | 49 | 533 | 390 | 127 | 300 | 277 | 48 | 52 | 8 | 5 |
+| WB | 148 | 27 | 1,057 | 666 | 144 | 300 | 251 | 47 | 49 | 8 | 7 |
+| TS | 134 | 29 | 222 | 150 | 134 | 300 | 243 | 45 | 35 | 12 | 8 |
+| MH | 156 | 39 | 869 | 596 | 155 | 300 | 218 | 40 | 40 | 5 | 4 |
+| HP | 104 | 14 | 280 | 262 | 83 | 300 | 230 | 40 | 45 | 7 | 6 |
+| CG | 112 | 23 | 162 | 75 | 108 | 300 | 233 | 38 | 37 | 2 | 1 |
+| MP | 157 | 29 | 398 | 199 | 156 | 300 | 235 | 38 | 37 | 2 | 2 |
+| OD | 153 | 8 | 255 | 108 | 150 | 300 | 276 | 37 | 33 | 10 | 7 |
+| BR | 155 | 29 | 480 | 323 | 137 | 300 | 263 | 36 | 34 | 4 | 4 |
+| AS | 178 | 3 | 225 | 199 | 178 | 300 | 163 | 36 | 33 | 10 | 9 |
+| NL | 50 | 14 | 190 | 27 | 49 | 156 | 118 | 35 | 25 | 2 | 2 |
+| UP | 161 | 33 | 519 | 349 | 158 | 300 | 343 | 34 | 29 | 5 | 4 |
+| AP | 160 | 21 | 107 | 59 | 157 | 300 | 177 | 34 | 25 | 3 | 3 |
+| CH | 54 | 5 | 137 | 4 | 47 | 300 | 264 | 33 | 27 | 2 | 1 |
+| PY | 43 | 16 | 340 | 168 | 43 | 220 | 167 | 32 | 30 | 6 | 4 |
+| SK | 30 | 2 | 72 | 26 | 23 | 172 | 150 | 31 | 30 | 3 | 3 |
+| PB | 126 | 30 | 438 | 332 | 121 | 300 | 249 | 31 | 33 | 4 | 3 |
+| JK | 127 | 24 | 1,125 | 640 | 125 | 300 | 244 | 27 | 28 | 1 | 1 |
+| TN | 134 | 32 | 601 | 209 | 132 | 300 | 378 | 25 | 30 | 10 | 9 |
+| LD | 15 | 1 | 5 | 5 | 15 | 92 | 77 | 16 | 19 | 1 | 1 |
+| TR | 23 | 5 | 36 | 31 | 23 | 133 | 86 | 11 | 8 | 2 | 2 |
+| AN | 31 | 10 | 2,138 | 83 | 31 | 171 | 63 | 8 | 11 | 0 | 0 |
+| LA | 30 | 3 | 79 | 9 | 8 | 33 | 30 | 7 | 8 | 0 | 0 |
+| ND | 28 | 2 | 17 | 17 | 5 | 14 | 14 | 4 | 6 | 0 | 0 |
 
 ## How to read this
 
 - 'Roster officers' are the people the who's-who pages list; 'signers' are people read from signature blocks, most of whom are in no roster. 'Docs matched' links a signed document to a roster officer by name, ministry, designation and rank.
-- State officers include secretariat and district sites; the IAS and IPS cadre lists (5,755 and 4,553 officers) are added as rosters when matching each state.
-- Instruments are policy and incentive schemes found in document titles or the curated list; 'with contact' means an official signed paperwork under that name.
+- State rosters are the department who's-who pages plus the IAS and IPS cadre lists (5,755 and 4,553 officers) for that state's cadre; at most 300 order PDFs per state were read.
+- Instruments are policy and incentive schemes found in document titles, the curated list, or the PIB scan; 'with contact' means an official signed paperwork under that name.

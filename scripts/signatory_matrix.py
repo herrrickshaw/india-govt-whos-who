@@ -627,6 +627,13 @@ def topic_of(text):
 def matrix():
     ns = pd.read_csv(OUT / "notification_signatories.csv")
     m = ns[ns.match_status == "matched"].copy()
+    if m.empty:        # nothing matched (small states / sparse rosters): leave empty, well-formed outputs instead of crashing
+        pd.DataFrame(columns=["officer_id", "officer_name", "officer_designation", "officer_ministry", "topic", "n_documents"]).to_csv(OUT / "officer_topic_matrix.csv", index=False)
+        pd.DataFrame().to_csv(OUT / "officer_topic_pivot.csv", index=False)
+        pd.DataFrame(columns=ns.columns).to_csv(OUT / "officer_documents.csv", index=False)
+        (OUT / "SIGNATORY_MATRIX.md").write_text(f"# Who signed what\n\nNo signatory could be matched to a roster officer ({len(ns)} signatures read, {ns.doc_id.nunique()} documents). See `notification_signatories.csv` for the signers read.\n")
+        print("matrix: no matches, wrote empty outputs")
+        return
     m["topic_text"] = m.subject.fillna("") + " | " + m.title.fillna("") + " | " + m.group.fillna("") + " | " + m.category.fillna("")
     m["topics"] = m.topic_text.map(topic_of)
     ex = m.explode("topics")

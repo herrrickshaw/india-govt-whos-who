@@ -1,0 +1,221 @@
+doc_id,url,http,content_type,ok,err,ts
+bde82611376b8db5,http://g.o.ms.no.107-dated-01.09.2014.pdf,000,,0,curl: (6) Could not resolve host: g.o.ms.no.107-dated-01.09.2014.pdf,1793517280
+77b1e05c36d7fe38,https://industry.py.gov.in/sites/default/files/public-procurement-policy-go.pdf,200,application/pdf,1,,1793517280
+868272aafcad27af,https://fire.py.gov.in/sites/default/files/rules-orders-under-which-powers-and-duty-are-derived-and.pdf,200,application/pdf,1,,1793517281
+836b552b61042863,https://py.gov.in/sites/default/files/om27102026saramnot.pdf,200,application/pdf,1,,1793517281
+06dfb4eadbf82336,https://law.py.gov.in/docs/Notaries_Rules_1956.pdf,200,application/pdf,1,,1793517281
+fe00cd25f8f8e2f8,https://dit.py.gov.in/sites/default/files/CandCI_POLICY2015.pdf,200,application/pdf,1,,1793517281
+b96c9f910bf42bc3,https://ahd.py.gov.in/sites/default/files/transfer-policy-ahd-py_0.pdf,200,application/pdf,1,,1793517281
+93d56281b914fe3e,https://gst.py.gov.in/sites/default/files/recruitment-rule-2017.pdf,200,application/pdf,1,,1793517281
+951f0c4134fc2076,https://dhte.py.gov.in/sites/default/files/g.o.ms.no.57-dated-01.10.2013.pdf,200,application/pdf,1,,1793517281
+835ef5e270c5b583,https://industry.py.gov.in/sites/default/files/industrial-policy-2016.pdf,200,application/pdf,0,curl: (63) Maximum file size exceeded,1793517281
+669baca3c1ae80b8,https://art.py.gov.in/sites/default/files/1122025.pdf,200,application/pdf,1,,1793517281
+9458742c6d32aa21,https://gst.py.gov.in/sites/default/files/GO-MS-NO-34-DT-04-02-2025.pdf,200,application/pdf,1,,1793517281
+d5aba03a1a5f3a7c,https://dit.py.gov.in/sites/default/files/IT-Policy-2017.pdf,200,application/pdf,1,,1793517281
+d14967cd37ef77a2,https://lad.py.gov.in/sites/default/files/st.vendors2015-rules.pdf,200,application/pdf,1,,1793517282
+7c68ed93d84b00eb,https://dhte.py.gov.in/sites/default/files/g.o.ms.no.61-dated-27.10.2015.pdf,200,application/pdf,1,,1793517282
+b32bb1fe2a583d2d,https://fire.py.gov.in/sites/default/files/fire-act.pdf,200,application/pdf,1,,1793517282
+6ad44bff137e57df,https://schooledn.py.gov.in/webPolicy/TermsConditions.pdf,200,application/pdf,1,,1793517282
+ce9e05f15325f234,https://art.py.gov.in/sites/default/files/notification-pilc.pdf,200,application/pdf,1,,1793517282
+3032a92981dfd3d8,https://industry.py.gov.in/sites/default/files/notificationinenglishind.pdf,200,application/pdf,1,,1793517282
+aafcba37f822df85,https://dhte.py.gov.in/sites/default/files/pkfa-G.O-16-17.pdf,200,application/pdf,1,,1793517283
+3829ae939dbfb8df,https://dit.py.gov.in/sites/default/files/NCIIPC-MPF-D-Rules.pdf,200,application/pdf,1,,1793517283
+ba487e1f687afb67,https://art.py.gov.in/sites/default/files/transfer-policy.pdf,200,application/pdf,1,,1793517283
+ff6fd16b1da7c8e4,https://industry.py.gov.in/sites/default/files/notificationintamilind.pdf,200,application/pdf,1,,1793517283
+0c4fb0687b45adea,https://schooledn.py.gov.in/webPolicy/copyright.pdf,200,application/pdf,1,,1793517283
+3f5e12a62f24b961,https://dhte.py.gov.in/sites/default/files/g.o.ms.no.36-dt.09.10.2018.pdf,200,application/pdf,1,,1793517284
+902e0675a58a4ccd,https://law.py.gov.in/docs/Kumaran.pdf,200,application/pdf,1,,1793517284
+d5e3940497202a23,https://law.py.gov.in/docs/Notification Engagement of Law Officers.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517284
+9fb7ed2e883cf7a5,https://gst.py.gov.in/sites/default/files/CTD29032022NOTIFICATION.pdf,200,application/pdf,1,,1793517284
+aaef671fc6a2bd03,https://schooledn.py.gov.in/webPolicy/prypolicy.pdf,200,application/pdf,1,,1793517284
+8ae0590747c3c6c4,https://fire.py.gov.in/sites/default/files/transfer-policy.pdf,200,application/pdf,1,,1793517284
+7932a5ad0ede783f,https://www.srkgacyanam.edu.in/userfiles/Admission Notification 2026-27.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517284
+bcc57bf979322a65,https://industry.py.gov.in/sites/default/files/odrportalnotification.pdf,200,application/pdf,1,,1793517284
+81492028c5e0e492,https://gst.py.gov.in/sites/default/files/NIT.pdf,200,application/pdf,1,,1793517284
+4d21d251c0c255ff,https://dhte.py.gov.in/sites/default/files/g.o.ms.no.31-dt.01.10.2019.pdf,200,application/pdf,1,,1793517285
+022102df312576a3,https://py.gov.in/sites/default/files/om27102026saramvenkat.pdf,200,application/pdf,1,,1793517285
+2809e3acffd6376c,https://art.py.gov.in/sites/default/files/g.o.rt2.pdf,200,application/pdf,1,,1793517285
+e0a5314ea6873d3e,https://finance.py.gov.in/sites/default/files/gemguidelines21sep17.pdf,200,application/pdf,1,,1793517285
+b10b5516b32246f5,https://law.py.gov.in/docs/Appointment of the Assistant Public Prosecutors.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517285
+4e37e18e7390d432,https://www.srkgacyanam.edu.in/userfiles/Fee Refund Policy 2024-25.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517285
+ef829ee4c1e9bee4,https://schooledn.py.gov.in/webPolicy/LinkingPolicy.pdf,200,application/pdf,1,,1793517285
+14e43ce174ab7522,https://py.gov.in/sites/default/files/om27102026govindanpet.pdf,200,application/pdf,1,,1793517285
+f50862422dea5f5a,https://industry.py.gov.in/sites/default/files/msmegazetteofindia0.pdf,200,application/pdf,1,,1793517286
+d6fa9f6f8b1cbb66,https://dhte.py.gov.in/sites/default/files/g.o-m.s.no.11-dt-31.03.20.pdf,200,application/pdf,1,,1793517286
+00ecbebe52f021cd,https://industry.py.gov.in/sites/default/files/recrutiment-rules-post-technical-officer_1.pdf,200,application/pdf,1,,1793517286
+291a3cee5e59c209,https://dhte.py.gov.in/sites/default/files/57631-sanction-g.o.pdf,200,application/pdf,1,,1793517287
+f163ca9aca0e861b,https://mgpgi.py.gov.in/sites/default/files/auction-ambassador-car.pdf,200,application/pdf,1,,1793517287
+415e31842fa42feb,https://mgpgi.py.gov.in/sites/default/files/ewastequot.pdf,200,application/pdf,1,,1793517287
+8c1bcda0fe4e730e,https://industry.py.gov.in/sites/default/files/recrutimentrules-post-ad-go.pdf,200,application/pdf,1,,1793517288
+054d7ac7a2ad139f,https://dhte.py.gov.in/sites/default/files/57632-sanction-g.o.pdf,200,application/pdf,1,,1793517288
+49d6c3114eafecf8,https://pipdic.in/uploads/news_feeds/ramp_eng.pdf,200,application/pdf,1,,1793517288
+99a0144ce589cf5a,https://ppclgov.in/admin/dynamic/tender/JCXF.pdf,200,application/pdf,1,,1793517288
+59840e96975e1d52,https://www.srkgacyanam.edu.in/images/updates/AdmissionNotification_2026-27.pdf,200,application/pdf,1,,1793517289
+6689aca93344547a,https://www.srkgacyanam.edu.in/userfiles/Guidelines of NEP-2020.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517289
+2988641b30f7eaee,https://srkgacyanam.edu.in/userfiles/Guidelines%20for%20Multiple%20Entry%20and%20Exit(1).pdf,200,application/pdf,1,,1793517289
+0dffc0c0f632dc67,https://pipdic.in/uploads/news_feeds/compassionate_order.pdf,200,application/pdf,1,,1793517289
+9c0c30ed46b7f050,https://cdn.s3waas.gov.in/s3b4288d9c0ec0a1841b3b3728321e7088/uploads/2026/03/17740018981253.pdf,200,application/pdf,1,,1793517289
+fd73eccd157389e2,https://www.srkgacyanam.edu.in/userfiles/Guidelines for Internship-Research Internship.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517290
+73b3f5977290e1a8,https://dhte.py.gov.in/sites/default/files/57633-sanction-g.o.pdf,200,application/pdf,1,,1793517290
+ca727454f9e72726,https://cdn.s3waas.gov.in/s3b4288d9c0ec0a1841b3b3728321e7088/uploads/2022/05/2022051783.pdf,200,application/pdf,1,,1793517290
+1f26647a69ad1eae,https://ppclgov.in/admin/dynamic/tender/8Rr9.pdf,200,application/pdf,1,,1793517290
+cf362726ecc7945a,https://www.srkgacyanam.edu.in/userfiles/Guidelines for Pursuing Two Academic Programmes Simultaneously.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517291
+ce9a10169cedefd6,https://dhte.py.gov.in/sites/default/files/57634-sanction-g.o.pdf,200,application/pdf,1,,1793517291
+ee080b2c62d4a9fb,https://ppclgov.in/admin/dynamic/tender/Q37k.pdf,200,application/pdf,1,,1793517291
+0f80a891e63131a7,https://law.py.gov.in/docs/Appointment_of_APP.pdf,200,application/pdf,1,,1793517291
+feb5e6103384ac79,https://www.srkgacyanam.edu.in/userfiles/Guidelines for Multiple Entry and Exit.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517292
+36cb4cb9fceef7e6,https://dhte.py.gov.in/sites/default/files/57635-sanction-g.o.pdf,200,application/pdf,1,,1793517292
+90de535c838225b5,https://schooledn.py.gov.in/notification/2017/Fixation_FeeStructure1.pdf,200,application/pdf,1,,1793517292
+607ed2eb8f0ae4da,https://law.py.gov.in/docs/GO.34_2025.pdf,200,application/pdf,1,,1793517292
+0261112035d57550,https://dhte.py.gov.in/sites/default/files/57636-sanction-g.o.pdf,200,application/pdf,1,,1793517293
+fbb07596de5e744b,https://law.py.gov.in/docs/Stipend_extended.pdf,200,application/pdf,1,,1793517293
+33caafb38a2427e5,https://dhte.py.gov.in/sites/default/files/57637-sanction-g.o.pdf,200,application/pdf,1,,1793517294
+2ccff8bb623d03f8,https://schooledn.py.gov.in/notification/goms89-new.pdf,200,application/pdf,1,,1793517294
+196c3a4cbaa9b6ac,https://law.py.gov.in/docs/Stipend_called.pdf,200,application/pdf,1,,1793517294
+9490648be483d2aa,https://law.py.gov.in/docs/GO - Transfer and Posting.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517294
+9e99ffeabfd2bb71,https://dhte.py.gov.in/sites/default/files/308815-sanction-g.o..pdf,200,application/pdf,1,,1793517294
+b9f4f29bbedf3dad,https://www.srkgacyanam.edu.in/userfiles/Circular-Offering-of-SWAYAM-Courses-for-the-academic-year-2023-24.pdf,200,application/pdf,1,,1793517295
+7466c6a95341f608,https://www.srkgacyanam.edu.in/userfiles/Guidelines for Multiple Entry and Exit(2).pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517295
+edc86b36ff0035c4,https://pipdic.in/uploads/news_feeds/BRAP31_NOTIFICATION.pdf,200,application/pdf,1,,1793517295
+b4626e67c94e80e5,https://law.py.gov.in/docs/Corrigendum - LO Appointment.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517295
+693860ca23b83dc3,https://dhte.py.gov.in/sites/default/files/308816-sanction-g.o..pdf,200,application/pdf,1,,1793517296
+fbeec9f34db291c6,https://py.gov.in/sites/default/files/home27102026go43.pdf,200,application/pdf,1,,1793517296
+f12dcaf3192c6955,https://law.py.gov.in/docs/Instructions - Arbitration Appeals.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517296
+96ea6b55ee093e06,https://py.gov.in/sites/default/files/circular26102026home.pdf,200,application/pdf,1,,1793517297
+0b1645d15ca03320,https://pipdic.in/uploads/news_feeds/compassionate_go.pdf,200,application/pdf,1,,1793517297
+a84382992765b4e7,https://dhte.py.gov.in/sites/default/files/308817-sanction-g.o.pdf,200,application/pdf,1,,1793517297
+aee303f6f356e44c,https://pipdic.in/uploads/news_feeds/Notification_Const.pdf,404,text/html; charset=UTF-8,0,,1793517297
+17b00e53f3b2b3ac,https://law.py.gov.in/docs/Instructions to LO.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517297
+c15c095b05f710b0,https://py.gov.in/sites/default/files/adwstw27082026order.pdf,200,application/pdf,1,,1793517298
+14f468010d9a5a20,https://py.gov.in/sites/default/files/home25062026go53.pdf,200,application/pdf,1,,1793517300
+316ac930b900e922,https://py.gov.in/sites/default/files/fsl27052026result.pdf,200,application/pdf,1,,1793517301
+136bee5e4a2c7d30,https://schooledn.py.gov.in/notification/GO-PreMS.pdf,200,application/pdf,1,,1793517303
+dc9fa739f015b684,https://law.py.gov.in/docs/LO_PDY_2023.pdf,200,application/pdf,1,,1793517303
+67c7ba26c11463a3,https://finance.py.gov.in/sites/default/files/gfr2017.pdf,200,application/pdf,1,,1793517304
+7ca9a07ab5d221ad,https://finance.py.gov.in/sites/default/files/Stock Verifier S.K G.I -RR.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517304
+48f522d2c4951a8c,https://law.py.gov.in/docs/AOR_2023.pdf,200,application/pdf,1,,1793517304
+46c5bfcd5510f717,https://law.py.gov.in/docs/PP Appointment.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517304
+0cd77f35678f49fd,https://law.py.gov.in/docs/APP Appointment.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517305
+39e7197f2693e33e,https://law.py.gov.in/docs/LOs for Subordinate Courts.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517306
+9eaf9dcfa4577dd8,https://dit.py.gov.in/sites/default/files/gigw3.pdf,200,application/pdf,1,,1793517306
+db5b44aefb1bba3b,https://agri.py.gov.in/sites/default/files/docs/SanctionPuducherry03.09.2015.pdf,200,application/pdf,1,,1793517306
+888f44741f9574d1,https://agri.py.gov.in/Tenders/TenderPDF/green house shade net.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517306
+de946d85058abb6c,https://finance.py.gov.in/sites/default/files/NPS_UPS_Addloptions_24aug26.pdf,200,application/pdf,1,,1793517307
+1118ee150c68287f,https://finance.py.gov.in/sites/default/files/Consultant Comprehensive Guidelines dt 27.08.2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517307
+f20b28ad6ce80e5b,https://dit.py.gov.in/sites/default/files/csc-guidelines.pdf,200,application/pdf,1,,1793517307
+5a3a237fa433be1a,https://agri.py.gov.in/Tenders/TenderPDF/0001_181 - Copy.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517307
+9b7a2f4cd958612d,https://swscollectorate.py.gov.in/Licensesoft/pdf/ExplosivesRules_2008.pdf,200,application/pdf;charset=ISO-8859-1,1,,1793517308
+9192773df5dde139,"https://swscollectorate.py.gov.in/Licensesoft/pdf/The Pondicherry Cinemas (Regulation) Rules, 1966.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517308
+df98b68977946bc0,https://schooledn.py.gov.in/notification/GO-AttendS.pdf,200,application/pdf,1,,1793517308
+b4af06cb2b893303,https://dit.py.gov.in/sites/default/files/ftth-circular.pdf,200,application/pdf,1,,1793517309
+1f5126ed5ff22bec,"https://swscollectorate.py.gov.in/Licensesoft/pdf/The Pondicherry Cinemas (Regulation) Amendment Rules, 2012.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517309
+1c7ecfcafbf99199,https://agri.py.gov.in/Tenders/TenderPDF/0001_179.pdf,200,application/pdf,1,,1793517309
+4a7895b25be41b2a,https://dit.py.gov.in/sites/default/files/lan-guidelines.pdf,200,application/pdf,1,,1793517309
+1aa658602f85390f,https://agri.py.gov.in/Tenders/TenderPDF/STL.pdf,404,text/html; charset=UTF-8,0,,1793517310
+268ac758182fa4a7,https://dit.py.gov.in/sites/default/files/pswan08042024guidelines.pdf,200,application/pdf,1,,1793517310
+59048aac16ef4f30,https://agri.py.gov.in/Tenders/TenderPDF/Submersible motor pump.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517310
+75cdfe4f969fe1a9,https://finance.py.gov.in/sites/default/files/JAOpromotion_14oct26.pdf,200,application/pdf,1,,1793517311
+34fef271a58ccdbc,https://lad.py.gov.in/sites/default/files/ladtradelicenseruless.pdf,200,application/pdf,1,,1793517311
+c4b0bae1cbb72b3d,https://dit.py.gov.in/sites/default/files/pswan27062025guidelines.pdf,200,application/pdf,1,,1793517311
+dce4003d492f8eea,https://ppclgov.in/admin/dynamic/tender/dkj7.pdf,200,application/pdf,1,,1793517311
+186cd74efb6e86d9,https://exciseportal.py.gov.in/puduvaicalal1/pdf/InfoService/GuidelinesforFL.2tourismcategorylicences.pdf,200,application/pdf;charset=ISO-8859-1,1,,1793517311
+518f69f4b5eb66b0,https://lad.py.gov.in/sites/default/files/ladpropertytaxrules.pdf,200,application/pdf,1,,1793517311
+57e7714b75763e4c,"https://exciseportal.py.gov.in/puduvaicalal1/pdf/legalmetrology/The Legal Metrology (General) Rules, 2011.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517312
+d13e302c2d6b52f9,https://pipdic.in/uploads/news_feeds/cosidici_award_nom.pdf,200,application/pdf,1,,1793517312
+3ea4ece79e5a0376,https://psdma.py.gov.in/ReadWriteData/Memorandum-of-understanding-with-VIT.pdf,200,application/pdf,1,,1793517312
+b8fb839a7b1a9f2d,https://exciseportal.py.gov.in/puduvaicalal1/pdf/legalmetrology/The Puducherry Legal Metrology (Enforcement) Rules 2011.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517313
+a2ecd1faec6ab985,https://dit.py.gov.in/sites/default/files/stationery-purchase.pdf,200,application/pdf,1,,1793517313
+9bd635f1a869ad34,https://lad.py.gov.in/sites/default/files/ladprofessionaltaxrules.pdf,200,application/pdf,1,,1793517314
+5b44379bca0aa847,https://agri.py.gov.in/Tenders/TenderPDF/0001_161.pdf,200,application/pdf,1,,1793517314
+a61893ece3c05d3b,https://exciseportal.py.gov.in/puduvaicalal1/pdf/downloads/Renewal-Circular-Manual.pdf,200,application/pdf;charset=ISO-8859-1,1,,1793517315
+30bac4fba7f4cf84,https://exciseportal.py.gov.in/puduvaicalal1/pdf/67-PART-II dated 29-10-2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517315
+e97015a94f7bf247,https://obps.py.gov.in/Images/Building_Regularisation_Gazette_Notification.pdf,200,application/pdf,1,,1793517316
+e3f8cd9e462a5bfa,https://pipdic.in/uploads/news_feeds/adv_con.pdf,200,application/pdf,1,,1793517316
+77a37919f522ab11,https://obps.py.gov.in/Images/Change_of_Land_Use_Gazette_Notification.pdf,200,application/pdf,1,,1793517316
+8cc86481d34fc4fa,https://pipdic.in/uploads/news_feeds/MIE_Tender.pdf,200,application/pdf,1,,1793517316
+a562bea11c6f3397,https://exciseportal.py.gov.in/puduvaicalal1/pdf/CIRCULAR FOR NORCOTICS CONTACT DISPLAY.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517316
+ca2e6c714519686d,https://lad.py.gov.in/sites/default/files/advertisement.pdf,200,application/pdf,1,,1793517317
+79f913cae9595229,https://pipdic.in/uploads/news_feeds/etender_IGC.pdf,200,application/pdf,1,,1793517317
+43b80de1b3ec788d,https://agri.py.gov.in/Tenders/TenderPDF/0001_156.pdf,200,application/pdf,1,,1793517318
+8dc0973c47f2a44d,https://pipdic.in/uploads/news_feeds/PIPDIC covid19 Notification2.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517318
+3e866c2be1cf6a54,https://exciseportal.py.gov.in/puduvaicalal1/pdf/Prohibitionofbanners.pdf,200,application/pdf;charset=ISO-8859-1,1,,1793517318
+7695fe35ab83e47d,https://exciseportal.py.gov.in/puduvaicalal1/pdf/Food Safety Circular dated 25.09.2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517318
+8534aa8e98f37626,https://pipdic.in/uploads/news_feeds/ThirdCalleAuctionForMeirsPharmaIndiaPvtLimited.pdf,200,application/pdf,1,,1793517319
+c0c36ed2b0df13f7,https://exciseportal.py.gov.in/puduvaicalal1/pdf/Payment Mode Circular.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517319
+e64e180d3b6721b5,https://agri.py.gov.in/Tenders/TenderPDF/0001_155.pdf,200,application/pdf,1,,1793517320
+77a9d7a55d7ad555,https://agri.py.gov.in/Tenders/TenderPDF/supply of FYM.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517320
+88e7990a3be6c8f0,https://gstchennai.gov.in/wp-content/uploads/2024/11/GST-Trade-Notice-No.002.2017-Dt.20.06.2016.pdf,200,application/pdf,1,,1793517320
+a57a246caa0f915a,https://exciseportal.py.gov.in/puduvaicalal1/pdf/Structural Stability Circular.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517320
+136b698e6288cc2e,https://gstchennai.gov.in/wp-content/uploads/2024/12/GST-Trade-Notice-No.003.2017-Dt.22.06.2017.pdf,200,application/pdf,1,,1793517320
+042bb27b0cb49483,https://ppclgov.in/admin/dynamic/tender/cHgk.pdf,200,application/pdf,1,,1793517320
+244160ac30221803,https://pipdic.in/uploads/news_feeds/SecondCalleAuctionForMeirsPharmaIndiaPvtLimited.pdf,200,application/pdf,1,,1793517320
+8bbe936415e3bea8,https://py.gov.in/sites/default/files/slum13052026.pdf,200,application/pdf,1,,1793517321
+4a951ee8ea99fb39,https://ppclgov.in/admin/dynamic/tender/pPxM.pdf,200,application/pdf,1,,1793517321
+41ea6ccfad39fc6a,https://pipdic.in/uploads/eodb-sws/Download_Signed _Final_Order.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517321
+103601d9478f691a,https://agri.py.gov.in/Tenders/TenderPDF/Supply of River and Red earth.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517321
+dd28214207cdfe99,https://lad.py.gov.in/sites/default/files/condition-service-rule.pdf,200,application/pdf,1,,1793517321
+c6cad32f4e98b6bc,https://exciseportal.py.gov.in/puduvaicalal1/pdf/110-PART-I dated 13-06-2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517321
+4a4270d41899cf7f,https://gstchennai.gov.in/wp-content/uploads/2025/01/VISHAKHA.pdf,200,application/pdf,1,,1793517322
+1144f9d72bb6eb8f,https://ppclgov.in/admin/dynamic/tender/rdnM.pdf,200,application/pdf,1,,1793517322
+d456ef9c9273a576,https://schooledn.py.gov.in/notification/GO-PostMS.pdf,200,application/pdf,1,,1793517322
+c1dff3a40d053b36,https://agri.py.gov.in/Tenders/TenderPDF/purchase of mud pots.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517322
+eae14dd20b48149a,https://pipdic.in/uploads/eodb-sws/Order.pdf,200,application/pdf,1,,1793517322
+9b28618b6358d17b,https://exciseportal.py.gov.in/puduvaicalal1/pdf/32-PART-II dated 02-06-2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517322
+7930957ad059f36a,https://gstchennai.gov.in/images/pdf/tenders/NACIN_Gem_Bidding-Air_Conditioner_18122024.pdf,200,application/pdf,1,,1793517323
+2ae86eb2b62ef84b,https://py.gov.in/sites/default/files/dip06052026cir.pdf,200,application/pdf,1,,1793517323
+3526af5ea7e9550d,https://ppclgov.in/admin/dynamic/tender/wVrg.pdf,200,application/pdf,1,,1793517323
+682ae9ad8b79974b,https://agri.py.gov.in/Tenders/TenderPDF/soil additves.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517323
+80fcf75a20863918,https://lad.py.gov.in/sites/default/files/adv22102026.pdf,200,application/pdf,1,,1793517323
+866a490de4c9b412,https://exciseportal.py.gov.in/puduvaicalal1/pdf/33-PART-II dated 02-06-2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517323
+68f61030c2bd8d40,https://pipdic.in/uploads/PIPDIC_docs/Order.pdf,200,application/pdf,1,,1793517323
+ff7be3498c931844,https://gstchennai.gov.in/images/pdf/tenders/NACIN_GeM_Bidding_16102024.pdf,200,application/pdf,1,,1793517324
+fcb9e867951c1e65,https://ppclgov.in/admin/dynamic/tender/rTdW.pdf,200,application/pdf,1,,1793517324
+850f7712ab7960ea,https://agri.py.gov.in/Tenders/TenderPDF/Supply of glasswares.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517324
+1dbd2af2f46821de,https://exciseportal.py.gov.in/puduvaicalal1/pdf/drydays dec-GEPLA-2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517324
+d543157cc98757ce,https://pipdic.in/uploads/PIPDIC_docs/DETAILS%20OF%20ALLOTMENT.pdf,200,application/pdf,1,,1793517325
+a7fbdbf44985b1f0,https://gstchennai.gov.in/images/pdf/tenders/Tender_e_Waste_DG_Systems.pdf,200,application/pdf,1,,1793517325
+2bd961e3b1933d6d,https://agri.py.gov.in/Tenders/TenderPDF/Farm works.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517325
+a39f56dda7bdc882,https://exciseportal.py.gov.in/puduvaicalal1/pdf/22-PART-II dated 23-03-2026.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517325
+8062a0f2954b32f4,https://pipdic.in/uploads/PIPDIC_docs/loan_sanction_2017.pdf,200,application/pdf,1,,1793517325
+abbec3c2fe99f598,https://gstchennai.gov.in/images/pdf/tenders/NACIN_%20Hiring_Vehicles.pdf,404,text/html; charset=UTF-8,0,,1793517326
+da746535d5c0fc40,https://ppclgov.in/admin/dynamic/tender/kRgT.pdf,200,application/pdf,1,,1793517326
+d107f0ec9c17c054,"https://exciseportal.py.gov.in/puduvaicalal1/pdf/Circular for Manufacturing Units, FL1,FL2, FL2 Tourism Category.pdf",000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517326
+bde381a57188f0ff,https://gstchennai.gov.in/images/pdf/tenders/NACIN_E-tender_%20IT%20equipment%202024.pdf,200,application/pdf,1,,1793517327
+4015e52b5ba0ba0c,https://ppclgov.in/admin/dynamic/tender/px69.pdf,200,application/pdf,1,,1793517327
+45c2c5650bce29c7,https://py.gov.in/sites/default/files/fin03052026go1.pdf,200,application/pdf,1,,1793517327
+7de248c8dccf81f8,https://agri.py.gov.in/Tenders/TenderPDF/JCP.pdf,200,application/pdf,1,,1793517327
+003fa67f1dfc3071,https://dic.py.gov.in//sites/default/files/pm-vishwakarma.pdf,200,application/pdf,1,,1793517327
+d5cdb3d5159b86ca,https://py.gov.in/sites/default/files/home23032026go25.pdf,200,application/pdf,1,,1793517327
+b4081bcfeb43e48b,https://agri.py.gov.in/Tenders/TenderPDF/SS water tank.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517327
+f42d2592b266df54,https://exciseportal.py.gov.in/puduvaicalal1/pdf/Circular on alteration.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517327
+c1f81b9a64fd9210,https://gstchennai.gov.in/images/pdf/tenders/Tender_Puducherry_15102024.pdf,200,application/pdf,1,,1793517327
+c69311a324d9f229,https://ppclgov.in/admin/dynamic/tender/Cnrg.pdf,200,application/pdf,1,,1793517328
+03789354c409c9d7,https://gstchennai.gov.in/images/pdf/tenders/Tender_Puducherry_23092024.pdf,200,application/pdf,1,,1793517329
+947e8cc9f6fb0418,https://ppclgov.in/admin/dynamic/tender/J9bR.pdf,200,application/pdf,1,,1793517329
+568068c78379c007,https://py.gov.in/sites/default/files/home19032026go22.pdf,200,application/pdf,1,,1793517329
+421bb7bb3496f0fd,https://ppclgov.in/admin/dynamic/tender/LKzm.pdf,200,application/pdf,1,,1793517330
+f956b02d445636bd,https://py.gov.in/sites/default/files/dfs30012026.pdf,200,application/pdf,1,,1793517330
+8c2edfb995fe62ae,https://gstchennai.gov.in/images/pdf/tenders/Tender_Coimbatore_05092024.pdf,200,application/pdf,1,,1793517330
+5099fdeee91bbee2,https://py.gov.in/sites/default/files/port21012026not.pdf,200,application/pdf,1,,1793517330
+90d83f03b1f67d43,https://gstchennai.gov.in/images/pdf/tenders/Notice_Tender_Coimbatore_05092024.pdf,200,application/pdf,1,,1793517331
+9609e57411539d34,https://ppclgov.in/admin/dynamic/tender/J7bN.pdf,200,application/pdf,1,,1793517331
+a1ae0f55efd093da,https://obps.py.gov.in/Images/Guidelines_for_proposal.pdf,200,application/pdf,1,,1793517331
+ef0870a67e90a9fd,https://obps.py.gov.in/Images/Master Plan notification pdf.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517331
+e6e4af4512bec058,https://ppclgov.in/admin/dynamic/tender/6z3g.pdf,200,application/pdf,1,,1793517332
+0e1302abb1d77511,https://obps.py.gov.in/Images/Gazette 1999 Nofitication.pdf,000,,0,curl: (3) URL rejected: Malformed input to a URL function,1793517332
+b142f1a7e153939d,https://py.gov.in/sites/default/files/home20012026go.pdf,200,application/pdf,1,,1793517332
+e6bde0b7366086a5,https://py.gov.in/sites/default/files/home15012026.pdf,200,application/pdf,1,,1793517333
+066ea39f68b1d8b3,https://gstchennai.gov.in/images/pdf/tenders/Tender_ZonalWebsite_30082024.pdf,200,application/pdf,1,,1793517333
+fdc6232ed1dd6378,https://gstchennai.gov.in/images/pdf/tenders/Audit_1_AMC_24_25.pdf,200,application/pdf,1,,1793517334
+a3dc8109ae447601,https://ppclgov.in/admin/dynamic/tender/Mgmy.pdf,200,application/pdf,1,,1793517334
+d7cb34a4a6fca5c8,https://gstchennai.gov.in/images/pdf/tenders/AMC_COMPUTER_2024_25.pdf,200,application/pdf,1,,1793517335
+b3119546c6e66cf7,https://gstchennai.gov.in/images/pdf/tenders/LIMITED_TENDER_NOTICE_APPEALS_I.pdf,200,application/pdf,1,,1793517336
+12d09901fc7902a9,https://gstchennai.gov.in/images/pdf/tenders/Notice_inviting_E_Tender_21022024.pdf,200,application/pdf,1,,1793517337
+36fe0cef3f556fac,https://schooledn.py.gov.in/notification/sanction-PreMS.pdf,200,application/pdf,1,,1793517363
+1c8725f56db1a341,https://schooledn.py.gov.in/notification/sanction-PostMS.pdf,200,application/pdf,1,,1793517366
+3e88df362360d3d8,https://schooledn.py.gov.in/notification/GO-13A.pdf,200,application/pdf,1,,1793517368
+4fde3ee37f60bb0f,https://schooledn.py.gov.in/notification/GO-27.pdf,200,application/pdf,1,,1793517374
+e33120ed3cfa6062,https://schooledn.py.gov.in/notification/GO-46.pdf,200,application/pdf,1,,1793517379
+adc22ce8fe6cdde9,https://schooledn.py.gov.in/notification/GO-70.pdf,200,application/pdf,1,,1793517381
+014b6698dd3d5814,https://schooledn.py.gov.in/notification/GO-105.pdf,200,application/pdf,1,,1793517386
+b3f5da005ae08891,https://schooledn.py.gov.in/notification/GO-111.pdf,200,application/pdf,1,,1793517387
