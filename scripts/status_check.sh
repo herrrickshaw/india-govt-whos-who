@@ -3,6 +3,7 @@
 cd "$HOME/india-govt-yellow-pages" || exit 1
 echo "=== $(date '+%a %H:%M')"
 df -h / | awk 'NR==2{print "disk free: "$4" ("$5" used)"}'
+echo "memory: $(memory_pressure -Q 2>/dev/null | awk '/free percentage/{print $NF}') free; resource guard: $(pgrep -f resource_guard.sh | wc -l | tr -d " ") running; last event: $(grep -E "PAUSED|RESUMED|EMERGENCY" data/resource_guard.log 2>/dev/null | tail -1 | cut -c1-80)"
 echo "--- archive"
 [ -f data/archive_manifest.csv ] && echo "shards verified: $(grep -c '' data/archive_manifest.csv | awk '{print $1-1}') files in manifest; zips uploaded: $(cut -d, -f3 data/archive_manifest.csv | sort -u | grep -c zip)"
 tail -2 data/archive_shards.log 2>/dev/null | cut -c1-120
