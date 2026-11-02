@@ -13,7 +13,16 @@ Everything is built from public government sources and public news. Nothing here
 
 > **New here?** [How to use this repo with AI (Claude, Gemini, ChatGPT)](HOW_TO_USE_WITH_AI.md) — clone it, paste it into an AI tool, and ask in plain English.
 
-## What you can ask it
+> Status: active (monthly refresh; data are a point-in-time capture, Oct-Nov 2026). Built only from public government sources and public news; it concentrates names, official phone numbers and emails of public servants, so read *Responsible use* before reuse.
+## What it does
+
+- Indexes every organisation on igod.gov.in and the officer rosters ministries and states publish.
+- Indexes ~136,000 union-ministry documents and converts ~41,000 to markdown (OCR where scanned).
+- Reads signature blocks and matches signers to roster officers (`scripts/signatory_matrix.py`, `scripts/state_pipeline.py`).
+- Links ~720 policy/incentive instruments to the officials who signed their paperwork (`scripts/policy_contact_linker.py`, `scripts/link_policy_contacts.py`); `scripts/policy_contact_matcher.py` prints who to contact for open application windows.
+- Tracks appointments and transfers (`scripts/career_tracker.py`) and new schemes (`scripts/new_policy_scanner.py`).
+
+Questions it answers and where to look:
 
 | Question | Where to look |
 |---|---|
@@ -44,53 +53,6 @@ Everything is built from public government sources and public news. Nothing here
 | Recent announcements classified (PIB + ministry sites, since 4 Jul 2026) | 282 instruments, 188 new |
 | Career events (appointments, transfers, postings) | 7,083 |
 | Markdown corpus | **40,708 documents**, 547,273 pages, ~597 million characters |
-
-## Repository map
-
-```
-data/                         All tables (CSV) and data/yellowpages.duckdb (same tables in one file)
-  organizations_index.csv     igod directory: every listed organisation (10,718)
-  org_contacts.csv, officials.csv   igod contact blocks and who's-who
-  ministry_officials.csv      union-ministry rosters from the ministries' own sites (10,679)
-  ias_officers.csv, ips_officers.csv   DoPT civil lists with current postings
-  signatories/                Centre: who signed what -> officer x topic matrix, signer directory
-  states/                     36 states/UTs: rosters, per-state signatures, matrices, go_portals.csv
-  career/                     Appointment/transfer events and the "where are they now" report
-  policy_*.csv, POLICY_CONTACTS.md   Instruments and the people who sign their paperwork
-  new_policies_incentives.csv, NEW_POLICIES.md   What was announced recently
-  md_index.csv.gz             One row per markdown document (provenance, pages, OCR method)
-  results_by_ministry.csv, results_by_state.csv, RESULTS_SUMMARY.md   Coverage tables
-corpus/md/                    Markdown text of 40,708 documents, in 109 zip shards (+ README)
-ministry_documents/           Document index of 89 union-ministry sites + the extractors
-dashboard/index.html          Offline dashboard over the directory tables
-scripts/                      Every pipeline stage (see docs/PIPELINES.md)
-docs/                         Data dictionary, pipelines, methods; architecture notes
-reports/, src/                Earlier outreach drafts and an experimental DDD/LangGraph design
-```
-
-## How it fits together
-
-```mermaid
-flowchart LR
-  IGOD[igod.gov.in directory] --> ORGS[organizations_index.csv]
-  ORGS --> RO[Ministry and state rosters\nwho's-who pages, PDFs, CMS APIs]
-  DOPT[DoPT IAS/IPS civil lists] --> RO
-  MIN[89 ministry sites] --> DOCS[document index\n135,769 documents]
-  ORGS --> STSITES[3,773 state department sites] --> STDOCS[order and notification PDFs]
-  DOCS --> PDFS[PDFs: orders, gazettes,\nguidelines, circulars]
-  STDOCS --> PDFS
-  PDFS --> SIG[Signature blocks\npdftotext + Tesseract in state languages]
-  SIG --> DIR[Signer directory]
-  DIR --> MATCH[Match to rosters\nname, ministry, rank]
-  RO --> MATCH
-  MATCH --> MATRIX[Officer x topic matrix]
-  MATCH --> POL[Policy and incentive contacts]
-  PIB[PIB releases + ministry sites] --> NEWPOL[New policies scanner] --> POL
-  NEWS[Transfer and appointment news,\nER sheets] --> CAREER[Career events] --> DIR
-  PDFS --> MD[Markdown corpus\n40,708 documents]
-```
-
-Details of every stage, with commands, run times and operational lessons, are in [`docs/PIPELINES.md`](docs/PIPELINES.md).
 
 ## Quick start
 
@@ -136,6 +98,53 @@ print(rows[0]["title"], rows[0]["source_url"]); print(z.read(rows[0]["doc_id"] +
 
 Browse visually: open `dashboard/index.html` in a browser (offline, light/dark aware).
 
+## How it fits together
+
+```mermaid
+flowchart LR
+  IGOD[igod.gov.in directory] --> ORGS[organizations_index.csv]
+  ORGS --> RO[Ministry and state rosters\nwho's-who pages, PDFs, CMS APIs]
+  DOPT[DoPT IAS/IPS civil lists] --> RO
+  MIN[89 ministry sites] --> DOCS[document index\n135,769 documents]
+  ORGS --> STSITES[3,773 state department sites] --> STDOCS[order and notification PDFs]
+  DOCS --> PDFS[PDFs: orders, gazettes,\nguidelines, circulars]
+  STDOCS --> PDFS
+  PDFS --> SIG[Signature blocks\npdftotext + Tesseract in state languages]
+  SIG --> DIR[Signer directory]
+  DIR --> MATCH[Match to rosters\nname, ministry, rank]
+  RO --> MATCH
+  MATCH --> MATRIX[Officer x topic matrix]
+  MATCH --> POL[Policy and incentive contacts]
+  PIB[PIB releases + ministry sites] --> NEWPOL[New policies scanner] --> POL
+  NEWS[Transfer and appointment news,\nER sheets] --> CAREER[Career events] --> DIR
+  PDFS --> MD[Markdown corpus\n40,708 documents]
+```
+
+Details of every stage, with commands, run times and operational lessons, are in [`docs/PIPELINES.md`](docs/PIPELINES.md).
+
+## Repository layout
+
+```
+data/                         All tables (CSV) and data/yellowpages.duckdb (same tables in one file)
+  organizations_index.csv     igod directory: every listed organisation (10,718)
+  org_contacts.csv, officials.csv   igod contact blocks and who's-who
+  ministry_officials.csv      union-ministry rosters from the ministries' own sites (10,679)
+  ias_officers.csv, ips_officers.csv   DoPT civil lists with current postings
+  signatories/                Centre: who signed what -> officer x topic matrix, signer directory
+  states/                     36 states/UTs: rosters, per-state signatures, matrices, go_portals.csv
+  career/                     Appointment/transfer events and the "where are they now" report
+  policy_*.csv, POLICY_CONTACTS.md   Instruments and the people who sign their paperwork
+  new_policies_incentives.csv, NEW_POLICIES.md   What was announced recently
+  md_index.csv.gz             One row per markdown document (provenance, pages, OCR method)
+  results_by_ministry.csv, results_by_state.csv, RESULTS_SUMMARY.md   Coverage tables
+corpus/md/                    Markdown text of 40,708 documents, in 109 zip shards (+ README)
+ministry_documents/           Document index of 89 union-ministry sites + the extractors
+dashboard/index.html          Offline dashboard over the directory tables
+scripts/                      Every pipeline stage (see docs/PIPELINES.md)
+docs/                         Data dictionary, pipelines, methods; architecture notes
+reports/, src/                Earlier outreach drafts and an experimental DDD/LangGraph design
+```
+
 ## Datasets
 
 [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) describes every table and column. In short:
@@ -150,7 +159,24 @@ Browse visually: open `dashboard/index.html` in a browser (offline, light/dark a
 | People over time | `career/career_events.csv` | Appointments and transfers from ER sheets and news |
 | Coverage | `results_by_*`, `RESULTS_SUMMARY.md`, `MINISTRY_PLAN.md` | What is and is not covered, per ministry and state |
 
-## Coverage and honesty about gaps
+## Data sources
+
+igod.gov.in (NIC/MeitY) · ministry and department websites (89 union, 3,773 state) · DoPT civil lists and ER sheets · PIB press releases · egazette.gov.in · public news on appointments and transfers (Whispers in the Corridors, PSU Watch, Sarkari Mirror). Language packs used for OCR: Hindi, Marathi, Gujarati, Punjabi, Bengali, Assamese, Odia, Tamil, Telugu, Kannada, Malayalam, Urdu, Nepali.
+
+## Configuration
+
+No credentials are needed to read the data. Pipeline stages that call an LLM (for example `state_pipeline.groq_json`) read an API key from the environment; keys are never committed. Paths are relative to the repo root; some scripts also read sibling clones under `$HOME` (for example `link_policy_contacts.py` reads `~/digital-twin-for-ipa` and `~/india-trade-sector-policy-recommendations`).
+
+## Testing
+
+```bash
+python -m venv .venv && source .venv/bin/activate && pip install pytest ruff
+pytest -q                 # synthetic rows only, no network, no data files needed
+```
+
+Tests live in `tests/` and cover `scripts/policy_contact_matcher.py` and the pure helpers of `scripts/link_policy_contacts.py`. CI (`.github/workflows/tests.yml`) also runs a secrets scan (`quality-gates.yml`).
+
+## Limitations and known issues
 
 - **Rosters decide how much you can match.** Union ministries with a usable who's-who page are covered (47). The other ministries' signers are found but mostly cannot be tied to a named roster entry. Most state-order signers are secretariat-service officers who appear in no roster, so only about 15% of signed state documents (508 of 3,444) match an officer.
 - **State coverage is a sample**, not the full output of each state: up to 300 + 400 order PDFs per state, chosen from the pages the crawl reached. State "GO portals" (Shasanadesh, Maharashtra GR, AP/TS GOIR) have search forms that still need dedicated extractors; see `data/states/go_portals.csv`.
@@ -186,10 +212,6 @@ The monthly refresh (`scripts/refresh.sh`) rebuilds the igod directory, rosters 
 | [`data/MINISTRY_PLAN.md`](data/MINISTRY_PLAN.md) | Coverage gaps and the plan to close them |
 | [`HOW_TO_USE_WITH_AI.md`](HOW_TO_USE_WITH_AI.md) | Using the repository with an AI assistant |
 | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md), [`docs/AI_GOVT_AFFAIRS_ANALYSIS.md`](docs/AI_GOVT_AFFAIRS_ANALYSIS.md) | Earlier design notes (DDD/LangGraph sketch; fit with a government-affairs stack) |
-
-## Sources
-
-igod.gov.in (NIC/MeitY) · ministry and department websites (89 union, 3,773 state) · DoPT civil lists and ER sheets · PIB press releases · egazette.gov.in · public news on appointments and transfers (Whispers in the Corridors, PSU Watch, Sarkari Mirror). Language packs used for OCR: Hindi, Marathi, Gujarati, Punjabi, Bengali, Assamese, Odia, Tamil, Telugu, Kannada, Malayalam, Urdu, Nepali.
 
 ## Licence
 
