@@ -256,7 +256,7 @@ def main():
     ii.sort_values(["ministry", "n_documents"], ascending=[True, False]).to_csv(REPO / "data/policy_instruments_index.csv", index=False)
     write_report(ii, ci)
     print(f"linker: {len(ii)} instruments with documents ({(ii.instrument_source=='curated').sum()} curated), "
-          f"{(ii.n_contacts>0).sum()} with at least one signing contact, {len(ci)} contact rows, {int((ci.email.astype(str).str.len()>0).sum())} with an email")
+          f"{(ii.n_contacts>0).sum()} with at least one signing contact, {len(ci)} contact rows, {int((ci.email.notna() & ci.email.astype(str).str.strip().ne('')).sum())} with an email")
 
 
 def write_report(ii, ci):
@@ -268,7 +268,7 @@ def write_report(ii, ci):
     L.append("| | Count |\n|---|---|")
     L.append(f"| Instruments with documents | {len(ii)} (curated {int((ii.instrument_source=='curated').sum())}, discovered from titles {int((ii.instrument_source=='documents').sum())}) |")
     L.append(f"| Instruments with at least one signing contact | {int((ii.n_contacts>0).sum())} |")
-    L.append(f"| Contact rows | {len(ci)} ({int((ci.email.astype(str).str.len()>0).sum())} with email, {int((ci.phone.astype(str).str.len()>0).sum())} with phone) |")
+    L.append(f"| Contact rows | {len(ci)} ({int((ci.email.notna() & ci.email.astype(str).str.strip().ne('')).sum())} with email, {int((ci.phone.notna() & ci.phone.astype(str).str.strip().ne('')).sum())} with phone) |")
     L.append(f"| Contacts flagged as moved since signing | {int((ci.moved_since_signing=='yes').sum())} |\n")
     L.append("## Curated incentive instruments (data/policy_windows.csv)\n")
     L.append("| Instrument | Ministry / level | Docs | Latest | Contacts (signed docs) |\n|---|---|---|---|---|")
