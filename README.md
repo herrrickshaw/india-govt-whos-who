@@ -165,7 +165,7 @@ igod.gov.in (NIC/MeitY) · ministry and department websites (89 union, 3,773 sta
 
 ## Configuration
 
-No credentials are needed to read the data. Pipeline stages that call an LLM (for example `state_pipeline.groq_json`) read an API key from the environment; keys are never committed. Paths are relative to the repo root; some scripts also read sibling clones under `$HOME` (for example `link_policy_contacts.py` reads `~/digital-twin-for-ipa` and `~/india-trade-sector-policy-recommendations`).
+No credentials are needed to read the data. Translation in `scripts/state_pipeline.py` uses `GROQ_API_KEY` (from the environment or the owner's local credentials file; otherwise rule-based transliteration only). Keys are never committed. Paths are relative to the repo root; some scripts also read sibling clones under `$HOME` (for example `link_policy_contacts.py` reads `~/digital-twin-for-ipa` and `~/india-trade-sector-policy-recommendations`).
 
 ## Testing
 
