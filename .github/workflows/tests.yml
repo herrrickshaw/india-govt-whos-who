@@ -1,0 +1,24 @@
+name: tests
+# Lint (touched modules only; repo-wide lint cleanup is Phase 2) + synthetic-data unit tests.
+# No network, no secrets.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pytest ruff
+      - run: ruff check scripts/policy_contact_matcher.py tests
+      - run: python -m compileall -q scripts src ministry_documents/tools
+      - run: pytest -q

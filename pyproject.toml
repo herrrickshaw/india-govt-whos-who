@@ -1,0 +1,10 @@
+[tool.ruff]
+line-length = 110
+target-version = "py39"
+extend-exclude = [".venv", "graphify-out", "corpus", "data"]
+
+[tool.ruff.lint]
+select = ["E9", "F", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

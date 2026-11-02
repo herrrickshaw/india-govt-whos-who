@@ -11,92 +11,88 @@ Options:
     --active-only    Show only policies with currently active application windows
     --days-ahead N   Include policies opening within N days (default: 30)
 """
+from __future__ import annotations
+
 import csv
 import sys
-from pathlib import Path
-from datetime import datetime, timedelta
 from collections import defaultdict
-from typing import Dict, List, Tuple, Optional
+from datetime import datetime
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 POLICY_CONTACTS_FILE = DATA_DIR / "policy_contacts.csv"
 POLICY_WINDOWS_FILE = DATA_DIR / "policy_windows.csv"
 POLICY_EOI_CONTACTS_FILE = DATA_DIR / "policy_eoi_contacts.csv"
 
+CSV_ENCODING = "utf-8-sig"
+DATE_FORMAT = "%Y-%m-%d"
+DEFAULT_DAYS_AHEAD = 30
+TOP_CONTACTS = 3
+RULE = "=" * 100
+UNKNOWN_RANK = 99
+# Rank order: Minister > Secretary > Minister of State > others.  Dict order matters:
+# the first title found as a substring of the designation wins.
+SENIORITY_RANK = {
+    "minister": 1,
+    "secretary": 2,
+    "minister of state": 3,
+    "additional secretary": 4,
+    "joint secretary": 5,
+    "director": 6,
+}
 
-def load_policy_contacts() -> List[Dict]:
+Contact = Dict[str, str]
+Windows = Dict[str, Tuple[datetime, datetime]]
+
+
+def _read_rows(path: Path) -> List[Contact]:
+    """Return all rows of a UTF-8(-BOM) CSV as dicts; [] when the file is absent."""
+    if not path.exists():
+        return []
+    with path.open(encoding=CSV_ENCODING) as f:
+        return list(csv.DictReader(f))
+
+
+def load_policy_contacts() -> List[Contact]:
     """Load policy contacts from CSV."""
     if not POLICY_CONTACTS_FILE.exists():
         print(f"❌ File not found: {POLICY_CONTACTS_FILE}")
         return []
-
-    contacts = []
-    with POLICY_CONTACTS_FILE.open(encoding='utf-8-sig') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            contacts.append(row)
-
-    return contacts
+    return _read_rows(POLICY_CONTACTS_FILE)
 
 
-def load_policy_windows() -> Dict[str, Tuple[datetime, datetime]]:
+def parse_windows(rows: List[Contact]) -> Windows:
+    """Build {instrument: (start, end)} from policy_windows rows; bad dates are skipped."""
+    windows: Windows = {}
+    for row in rows:
+        instrument = row.get('instrument', '').strip()
+        start_str = row.get('application_start_date', '').strip()
+        end_str = row.get('application_end_date', '').strip()
+        if instrument and start_str and end_str:
+            try:
+                windows[instrument] = (datetime.strptime(start_str, DATE_FORMAT),
+                                       datetime.strptime(end_str, DATE_FORMAT))
+            except ValueError:
+                pass
+    return windows
+
+
+def load_policy_windows() -> Windows:
     """Load application window dates from CSV.
 
     Returns: {instrument: (start_date, end_date), ...}
     """
-    if not POLICY_WINDOWS_FILE.exists():
-        return {}
-
-    windows = {}
-    with POLICY_WINDOWS_FILE.open(encoding='utf-8-sig') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            instrument = row.get('instrument', '').strip()
-            start_str = row.get('application_start_date', '').strip()
-            end_str = row.get('application_end_date', '').strip()
-
-            if instrument and start_str and end_str:
-                try:
-                    start = datetime.strptime(start_str, '%Y-%m-%d')
-                    end = datetime.strptime(end_str, '%Y-%m-%d')
-                    windows[instrument] = (start, end)
-                except ValueError:
-                    pass
-
-    return windows
+    return parse_windows(_read_rows(POLICY_WINDOWS_FILE))
 
 
-def load_eoi_contacts() -> List[Dict]:
+def load_eoi_contacts() -> List[Contact]:
     """Load EOI and press-release contacts from CSV.
 
     These supplement the main policy_contacts.csv with additional officials
     mentioned in Expression of Interest documents and official notifications.
     """
-    if not POLICY_EOI_CONTACTS_FILE.exists():
-        return []
-
-    eoi_contacts = []
-    with POLICY_EOI_CONTACTS_FILE.open(encoding='utf-8-sig') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            # Normalize field names to match policy_contacts.csv
-            normalized = {
-                'instrument': row.get('instrument', '').strip(),
-                'contact_name': row.get('contact_name', '').strip(),
-                'designation': row.get('designation', '').strip(),
-                'division': row.get('division', '').strip(),
-                'email': row.get('email', '').strip(),
-                'phones': row.get('phones', '').strip(),
-                'source': row.get('source', 'EOI/Press Release'),
-                'source_url': row.get('source_url', ''),
-                'offering_entity': row.get('division', '').strip(),
-                'status': 'open (EOI)',
-                'instrument_type': 'contact from official notification',
-            }
-            if normalized['instrument']:
-                eoi_contacts.append(normalized)
-
-    return eoi_contacts
+    return _read_rows(POLICY_EOI_CONTACTS_FILE)
 
 
 def get_window_status(start: datetime, end: datetime, today: Optional[datetime] = None) -> Tuple[str, int]:
@@ -121,8 +117,9 @@ def get_window_status(start: datetime, end: datetime, today: Optional[datetime] 
         return ("CLOSED", days)
 
 
-def filter_by_active_windows(contacts: List[Dict], windows: Dict,
-                            active_only: bool = True, days_ahead: int = 30) -> List[Dict]:
+def filter_by_active_windows(contacts: List[Contact], windows: Windows,
+                             active_only: bool = True, days_ahead: int = DEFAULT_DAYS_AHEAD,
+                             today: Optional[datetime] = None) -> List[Contact]:
     """Filter contacts to only include policies with active/upcoming application windows.
 
     Args:
@@ -130,10 +127,12 @@ def filter_by_active_windows(contacts: List[Dict], windows: Dict,
         windows: Dict of {instrument: (start_date, end_date)}
         active_only: If True, only show ACTIVE windows. If False, include OPENING_SOON
         days_ahead: Include policies opening within N days
+        today: Reference date (defaults to now; injectable for tests)
 
     Returns: Filtered contact list with window_status added
     """
-    today = datetime.now()
+    if today is None:
+        today = datetime.now()
     filtered = []
 
     for contact in contacts:
@@ -170,7 +169,7 @@ def filter_by_active_windows(contacts: List[Dict], windows: Dict,
     return filtered
 
 
-def group_by_policy(contacts: List[Dict]) -> Dict[str, List[Dict]]:
+def group_by_policy(contacts: List[Contact]) -> Dict[str, List[Contact]]:
     """Group contacts by policy instrument."""
     grouped = defaultdict(list)
     for contact in contacts:
@@ -180,7 +179,7 @@ def group_by_policy(contacts: List[Dict]) -> Dict[str, List[Dict]]:
     return grouped
 
 
-def get_open_policies(contacts: List[Dict]) -> List[str]:
+def get_open_policies(contacts: List[Contact]) -> List[str]:
     """Extract unique open policy instruments."""
     open_policies = set()
     for contact in contacts:
@@ -191,33 +190,25 @@ def get_open_policies(contacts: List[Dict]) -> List[str]:
     return sorted(open_policies)
 
 
-def rank_contacts_by_seniority(contacts: List[Dict]) -> List[Dict]:
-    """Rank contacts by designation seniority."""
-    # Rank order: Minister > Secretary > Minister of State > others
-    rank_map = {
-        'minister': 1,
-        'secretary': 2,
-        'minister of state': 3,
-        'additional secretary': 4,
-        'joint secretary': 5,
-        'director': 6,
-    }
-
-    def get_rank(contact):
-        designation = contact.get('designation', '').lower()
-        for title, rank in rank_map.items():
-            if title in designation:
-                return rank
-        return 99  # Unknown
-
-    return sorted(contacts, key=lambda c: get_rank(c))
+def seniority_rank(contact: Contact) -> int:
+    """Seniority rank of a contact's designation (1 = most senior, 99 = unknown)."""
+    designation = contact.get('designation', '').lower()
+    for title, rank in SENIORITY_RANK.items():
+        if title in designation:
+            return rank
+    return UNKNOWN_RANK
 
 
-def print_policy_contact_matrix(policies_by_instrument: Dict[str, List[Dict]]):
+def rank_contacts_by_seniority(contacts: List[Contact]) -> List[Contact]:
+    """Rank contacts by designation seniority (stable for equal ranks)."""
+    return sorted(contacts, key=seniority_rank)
+
+
+def print_policy_contact_matrix(policies_by_instrument: Dict[str, List[Contact]]) -> None:
     """Print a matrix of policies and their top contacts."""
-    print("\n" + "=" * 100)
+    print("\n" + RULE)
     print("🎯 OPEN POLICY INCENTIVES & TOP CONTACTS (WHO TO CONTACT)")
-    print("=" * 100)
+    print(RULE)
 
     for instrument, contacts in sorted(policies_by_instrument.items()):
         if not contacts:
@@ -241,16 +232,16 @@ def print_policy_contact_matrix(policies_by_instrument: Dict[str, List[Dict]]):
             elif window_status == 'OPENING_SOON':
                 print(f"   ⏰ APPLICATION WINDOW: Opens in {days_info} days")
             elif window_status == 'NO_DATA':
-                print(f"   ⏰ APPLICATION WINDOW: No data available")
+                print("   ⏰ APPLICATION WINDOW: No data available")
 
         if source_url:
             print(f"   Website: {source_url}")
 
         # Rank and show top 3 contacts
         ranked = rank_contacts_by_seniority(contacts)
-        print(f"\n   🤝 Top Contacts (by seniority):")
+        print("\n   🤝 Top Contacts (by seniority):")
 
-        for i, contact in enumerate(ranked[:3], 1):
+        for i, contact in enumerate(ranked[:TOP_CONTACTS], 1):
             name = contact.get('contact_name', '').strip()
             designation = contact.get('designation', '').strip()
             division = contact.get('division', '').strip()
@@ -271,14 +262,14 @@ def print_policy_contact_matrix(policies_by_instrument: Dict[str, List[Dict]]):
             if email:
                 print(f"         Email: {email}")
             else:
-                print(f"         Email: [Not available]")
+                print("         Email: [Not available]")
 
 
-def print_summary_by_sector(policies_by_instrument: Dict[str, List[Dict]]):
+def print_summary_by_sector(policies_by_instrument: Dict[str, List[Contact]]):
     """Print summary grouped by sector/entity."""
-    print("\n" + "=" * 100)
+    print("\n" + RULE)
     print("📊 SUMMARY BY SECTOR")
-    print("=" * 100)
+    print(RULE)
 
     by_sector = defaultdict(list)
     for instrument, contacts in policies_by_instrument.items():
@@ -292,11 +283,11 @@ def print_summary_by_sector(policies_by_instrument: Dict[str, List[Dict]]):
             print(f"  • {instrument}")
 
 
-def print_contact_lookup(policies_by_instrument: Dict[str, List[Dict]]):
+def print_contact_lookup(policies_by_instrument: Dict[str, List[Contact]]):
     """Print quick lookup: who is contact for what."""
-    print("\n" + "=" * 100)
+    print("\n" + RULE)
     print("📇 CONTACT LOOKUP (Who is responsible for what)")
-    print("=" * 100)
+    print(RULE)
 
     by_contact = defaultdict(list)
     for instrument, contacts in policies_by_instrument.items():
@@ -315,27 +306,30 @@ def print_contact_lookup(policies_by_instrument: Dict[str, List[Dict]]):
             print(f"  Designation: {designation}")
             if email:
                 print(f"  Email: {email}")
-            print(f"  Policies:")
+            print("  Policies:")
             for instrument in sorted(instruments):
                 print(f"    • {instrument}")
 
 
-def print_missing_contacts():
-    """Identify policies without contacts assigned."""
-    print("\n" + "=" * 100)
+def find_unassigned_policies(contacts: List[Contact]) -> List[Tuple[str, str]]:
+    """Open policies with no named contact, as (instrument, instrument_type) pairs."""
+    unassigned = []
+    for policy in get_open_policies(contacts):
+        matching = [c for c in contacts if c.get('instrument', '').strip() == policy]
+        if not any(c.get('contact_name', '').strip() for c in matching):
+            unassigned.append((policy, matching[0].get('instrument_type', '') if matching else ''))
+    return unassigned
+
+
+def print_missing_contacts(contacts: Optional[List[Contact]] = None) -> None:
+    """Identify policies without contacts assigned (reloads the CSV when not given)."""
+    print("\n" + RULE)
     print("⚠️  POLICIES WITHOUT ASSIGNED CONTACTS")
-    print("=" * 100)
+    print(RULE)
 
-    contacts = load_policy_contacts()
-    open_policies = get_open_policies(contacts)
-
-    no_contact_policies = []
-    for policy in open_policies:
-        matching_contacts = [c for c in contacts if c.get('instrument', '').strip() == policy]
-        assigned_contacts = [c for c in matching_contacts if c.get('contact_name', '').strip()]
-        if not assigned_contacts:
-            instrument_type = matching_contacts[0].get('instrument_type', '') if matching_contacts else ''
-            no_contact_policies.append((policy, instrument_type))
+    if contacts is None:
+        contacts = load_policy_contacts()
+    no_contact_policies = find_unassigned_policies(contacts)
 
     if no_contact_policies:
         for policy, instr_type in no_contact_policies:
@@ -348,9 +342,9 @@ def print_missing_contacts():
 
 def print_application_window_template():
     """Print template for adding application window data."""
-    print("\n" + "=" * 100)
+    print("\n" + RULE)
     print("🔄 TO ADD APPLICATION WINDOW DATA")
-    print("=" * 100)
+    print(RULE)
     print("""
 Application windows can be added by:
 
@@ -377,17 +371,22 @@ Current status: {0} open policy instruments identified.
 """.format(len(get_open_policies(load_policy_contacts()))))
 
 
-def main():
-    """Main entry point."""
-    # Parse command-line arguments
-    active_only = '--active-only' in sys.argv
-    days_ahead = 30
-    for i, arg in enumerate(sys.argv):
-        if arg == '--days-ahead' and i + 1 < len(sys.argv):
+def parse_args(argv: List[str]) -> Tuple[bool, int]:
+    """Return (active_only, days_ahead) from argv; a malformed --days-ahead is ignored."""
+    active_only = '--active-only' in argv
+    days_ahead = DEFAULT_DAYS_AHEAD
+    for i, arg in enumerate(argv):
+        if arg == '--days-ahead' and i + 1 < len(argv):
             try:
-                days_ahead = int(sys.argv[i + 1])
+                days_ahead = int(argv[i + 1])
             except ValueError:
                 pass
+    return active_only, days_ahead
+
+
+def main(argv: Optional[List[str]] = None) -> int:
+    """Main entry point."""
+    active_only, days_ahead = parse_args(sys.argv if argv is None else argv)
 
     # Load data
     contacts = load_policy_contacts()
@@ -405,7 +404,7 @@ def main():
     # Filter by application windows if requested
     if active_only or windows:
         filtered_contacts = filter_by_active_windows(contacts, windows, active_only, days_ahead)
-        print(f"✅ Filtering by application windows...")
+        print("✅ Filtering by application windows...")
         print(f"   • Total contacts (before filter): {len(contacts)}")
         print(f"   • Active window policies: {len(filtered_contacts)}")
         print(f"   • Window data available for {len(windows)} policies")
@@ -414,7 +413,7 @@ def main():
     policies_by_instrument = group_by_policy(contacts)
     open_policies = get_open_policies(contacts)
 
-    print(f"\n📈 Dataset Summary")
+    print("\n📈 Dataset Summary")
     print(f"   • Total contacts loaded: {len(contacts)}")
     print(f"   • Unique policies: {len(policies_by_instrument)}")
     print(f"   • Open policies: {len(open_policies)}")
@@ -429,9 +428,9 @@ def main():
     print_missing_contacts()
     print_application_window_template()
 
-    print("\n" + "=" * 100)
+    print("\n" + RULE)
     print("✅ Analysis complete")
-    print("=" * 100)
+    print(RULE)
 
     return 0
 

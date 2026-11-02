@@ -25,3 +25,6 @@ data/cloud_md/
 data/cloud_md_feeder.log
 data/resource_guard.log
 data/local_md_runner.log
+.venv/
+.pytest_cache/
+.ruff_cache/
