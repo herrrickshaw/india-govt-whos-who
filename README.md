@@ -193,4 +193,6 @@ igod.gov.in (NIC/MeitY) · ministry and department websites (89 union, 3,773 sta
 
 ## Licence
 
-No licence file has been added yet, so the code and compiled tables are "all rights reserved" by default. The underlying documents are public government publications and remain the property of their publishers; the compiled indexes link back to them via `source_url`. If you intend to reuse this, please open an issue so a licence can be chosen deliberately.
+- **Code** (`scripts/`, `src/`, `ministry_documents/tools/`): [MIT](LICENSE).
+- **Compiled data and documentation** (`data/`, `docs/`, READMEs, reports, dashboard): [CC BY 4.0](LICENSE-DATA.md) — please credit "India Government Yellow Pages (herrrickshaw/india-govt-yellow-pages)".
+- **Not covered:** the source government documents and their converted text (`corpus/md/`) and file listings (`ministry_documents/`) remain the property of the publishing authorities and are linked to via `source_url`; personal data about public servants carries no extra rights from these licences (see [`LICENSE-DATA.md`](LICENSE-DATA.md) and the *Responsible use* section above).
