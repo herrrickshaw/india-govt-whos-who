@@ -95,6 +95,27 @@ SIG_ALL_MINISTRIES=1 SIG_PER_MINISTRY_CAP=250 /usr/bin/python3 scripts/signatory
 /usr/bin/python3 scripts/career_tracker.py all --days 540 --max-articles 800
 ```
 
+### Machine-readable markdown corpus (all archived PDFs)
+
+Every PDF in the cloud archive (centre 24,262 + states 16,446, 109 shards) has been converted to markdown:
+`dropbox:india-govt-yellow-pages-archive/md/<tree>/<tree>-NNN.md.zip` (and a copy in a private S3 bucket). Each shard holds one
+`<doc_id>.md` per document plus `index.jsonl`; `data/md_index.csv.gz` is the combined provenance index (source URL, ministry /
+department, title, date, pages, characters, method, script, needs_ocr). A markdown file has YAML front matter and the text with
+`<!-- page N -->` markers; text-layer PDFs use `pdftotext`, scans use Tesseract in the state's language(s) (up to 10 pages).
+
+| | Count |
+|---|---|
+| Documents converted | 40,708 (547,273 pages, about 597 million characters) |
+| From the PDF text layer | 27,040 |
+| Through OCR | 13,668 |
+| Still without text after OCR (image-only / unreadable) | 332 (0.8%), flagged `needs_ocr` for a GPU pass |
+| Errors | 0 |
+
+Run: `scripts/shards_to_md.py` (locally, text-only), or the cloud route — `scripts/cloud_md_launch.py` builds a manifest of presigned URLs
+and launches a self-terminating AWS spot/on-demand instance running `scripts/cloud_md_worker.py` (no cloud credentials on the machine); the same worker
+runs in a Colab cell (`cloud_md_launch.py colab`), and `scripts/local_md_runner.py` uses this Mac's idle cores on the same queue.
+Cost of this run: about $4 of AWS compute. `scripts/resource_guard.sh` pauses the heavy jobs before the Mac runs out of disk or RAM.
+
 ### State-wise: `scripts/state_pipeline.py`
 
 The same matrix for states and UTs, in their languages. `targets` takes the state-government departments

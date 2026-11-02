@@ -24,3 +24,4 @@ data/aws_copy.log
 data/cloud_md/
 data/cloud_md_feeder.log
 data/resource_guard.log
+data/local_md_runner.log

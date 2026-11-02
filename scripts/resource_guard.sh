@@ -15,7 +15,7 @@ log() { echo "$(date '+%m-%d %H:%M:%S') $*" >> "$LOG"; }
 pipeline_pids() {   # Python processes (by executable name) whose arguments mention the pipeline script - never a shell that merely contains the text
   local out="" pid
   for pid in $(ps -axo pid=,comm= | awk '$2 ~ /[Pp]ython/ {print $1}'); do
-    ps -o args= -p "$pid" 2>/dev/null | grep -Eq "${PIPE_PATTERN:-state_pipeline[.]py}" && out="$out $pid"
+    ps -o args= -p "$pid" 2>/dev/null | grep -Eq "${PIPE_PATTERN:-state_pipeline[.]py|local_md_runner[.]py}" && out="$out $pid"
   done; echo "$out"; }
 while true; do
   read_disk() { if [ -n "$MOCK_DISK_FILE" ] && [ -f "$MOCK_DISK_FILE" ]; then cat "$MOCK_DISK_FILE"; else df -k / | awk 'NR==2{printf "%d", $4/1048576}'; fi; }   # MOCK_DISK_FILE is a test hook only

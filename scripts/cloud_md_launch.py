@@ -56,7 +56,7 @@ def tree_meta_json(tree):
     return tree_meta(tree)
 
 
-def build_manifest(workers, final=None):
+def build_manifest(workers, final=None, dry=False):
     done = {k for k, _ in list_keys("out/")}
     jobs = []
     for key, size in sorted(list_keys("in/")):
@@ -87,6 +87,8 @@ def build_manifest(workers, final=None):
     with tarfile.open(fileobj=buf, mode="w:gz") as t:
         for f in ("shards_to_md.py", "cloud_md_worker.py"):
             t.add(REPO / "scripts" / f, arcname=f)
+    if dry:                    # local runner: just the job list, leave the AWS queue and code bundle alone
+        return man
     s3.put_object(Bucket=BUCKET, Key="code/code.tgz", Body=buf.getvalue(), ServerSideEncryption="AES256")
     mkey = "manifests/next.json" if final is not None else f"manifests/manifest-{time.strftime('%Y%m%d-%H%M%S')}.json"
     if final is not None:
