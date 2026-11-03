@@ -1,0 +1,52 @@
+=== collect 18:37
+  title = BeautifulSoup((p.get("title") or {}).get("rendered") or "", "html.parser").get_text(strip=True)
+collect:
+  sarkarimirror: 800 new articles
+  psuwatch: 815 candidate urls, 800 new articles
+  whispersinthecorridors: 206 candidate urls, 206 new articles
+  articles on disk: 1806
+=== events 19:05
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+  groq failed: HTTP Error 429: Too Many Requests
+events: 7083 rows ({'dopt_er_sheet': 5734, 'sarkarimirror': 833, 'psuwatch': 395, 'whispersinthecorridors': 121}); LLM calls this run: 250
+=== attach 23:40
+# Career tracker — where are the signatories now?
+
+_Built 2026-10-31 by `scripts/career_tracker.py`. Events: 7083 ({'dopt_er_sheet': 5734, 'sarkarimirror': 833, 'psuwatch': 395, 'whispersinthecorridors': 121}); articles cached: 1806._
+
+| Directory | signers | with a later/current posting found | moved since they signed | high confidence |
+|---|---|---|---|---|
+| centre | 1354 | 272 | 82 | 71 |
+| states | 145 | 35 | 0 | 13 |
+
+## Signers who have moved (sample, high/medium confidence)
+
+| Directory | Signatory | Signed as (ministry) | Last signed | Now | Since | Source |
+|---|---|---|---|---|---|---|
