@@ -44,7 +44,7 @@ Officers listed on each union ministry/department's own site (who's-who pages, o
 State/UT department rosters: `state, department, website, name, designation, division, room, phones, email, source_url`. Rows without a name record a department that was scanned and had no usable who's-who (`source_url` says why).
 
 ### `ias_officers.csv` — 5,755 rows; `ips_officers.csv` — 4,553 rows
-DoPT civil-list entries: cadre, allotment year, name in English/Hindi, source of recruitment, qualification, pay scale, domicile, `identity_no`, `current_posting`, `posting_wef` (date effective), `dob`, `er_sheet_url` (the DoPT ER sheet), plus other personal fields published in the list. See *Responsible use* in the README.
+DoPT civil-list entries: cadre, allotment year, name in English/Hindi, source of recruitment, qualification, pay scale, `identity_no` (IAS) / `officer_code` and `appointment_date` (IPS), `current_posting`, `posting_wef` (date effective), `er_sheet_url` (IAS; the DoPT ER sheet), `awards` (IPS), `remarks` (IAS). Date of birth and domicile (home state) are deliberately not included; see *Fields deliberately not included* in the README. IAS has 13 columns and IPS 13 columns.
 
 ### `states/targets.csv` — 3,773 rows
 State department sites crawled: `state, name, website, igod_org_id, category_code, slug`.

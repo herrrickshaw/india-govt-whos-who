@@ -20,7 +20,7 @@ The selection, structure, matching, classification and derived fields of the tab
 - **Third-party lists** reproduced or reformatted from official sources (igod.gov.in, DoPT civil lists, PIB), and the short news excerpts in the `snippet`
   column of `data/career/career_events.csv` (from Whispers in the Corridors, PSU Watch and Sarkari Mirror), which belong to their owners.
 - **Personal data.** The tables contain names, official telephone numbers and email addresses of public servants as published by the government,
-  and, in `ias_officers.csv` and `ips_officers.csv`, further personal fields from DoPT's public lists. This licence grants no rights over personal
+  and, in `ias_officers.csv` and `ips_officers.csv`, further office-related fields (cadre, batch, posting) from DoPT's public lists. Date of birth and domicile are deliberately not included. This licence grants no rights over personal
   data and does not relieve you of your own obligations under data-protection law (including India's Digital Personal Data Protection Act, 2023).
   Use contact details for official enquiries only. To have an entry corrected or removed, open an issue.
 

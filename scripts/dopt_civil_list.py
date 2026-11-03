@@ -31,7 +31,7 @@ CADRES = [
 FIELDS = [
     "cadre_code", "sr_no", "name_en", "name_hi", "identity_no", "allotment_year",
     "source_of_recruitment", "qualification", "pay_scale", "remarks",
-    "domicile_state", "current_posting", "posting_wef", "dob", "er_sheet_url",
+    "current_posting", "posting_wef", "er_sheet_url",
 ]
 
 session = requests.Session()
@@ -52,7 +52,6 @@ def clean(s):
 def parse_row(row_html, cadre_code, sr_no):
     row_html = strip_images(row_html)
 
-    dob_m = re.search(r"DOB:\s*([\d/]+)", row_html)
     href_m = re.search(r'<a href="([^"]+)"[^>]*><b>Name:</b>', row_html)
     name_m = re.search(r"<b>Name:</b>\s*([^<]+)</a>", row_html)
     name_hi_m = re.search(r"<h3>([^<]*)</h3>", row_html)
@@ -62,7 +61,6 @@ def parse_row(row_html, cadre_code, sr_no):
     qual_m = re.search(r"<b>Qualification\(Subject\):</b>(.*?)</p>", row_html, re.S)
     pay_m = re.search(r"<b>Pay Scale:</b>\s*([^<]+)", row_html)
     remarks_m = re.search(r"<b>Remarks:</b>\s*([^<]*)", row_html)
-    domicile_m = re.search(r"<b>&</b>\s*([^<]+)", row_html)
     posting_block_m = re.search(r"<b>Posting:-</b>.*?<li>(.*?)</li>", row_html, re.S)
 
     posting_text, posting_wef = "", ""
@@ -83,10 +81,8 @@ def parse_row(row_html, cadre_code, sr_no):
         "qualification": clean(qual_m.group(1)) if qual_m else "",
         "pay_scale": clean(pay_m.group(1)) if pay_m else "",
         "remarks": clean(remarks_m.group(1)) if remarks_m else "",
-        "domicile_state": clean(domicile_m.group(1)) if domicile_m else "",
         "current_posting": posting_text,
         "posting_wef": posting_wef,
-        "dob": dob_m.group(1) if dob_m else "",
         "er_sheet_url": html.unescape(href_m.group(1)) if href_m else "",
     }
 

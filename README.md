@@ -162,8 +162,9 @@ The full list of known limitations and how confidence is assigned is in [`docs/M
 
 ## Responsible use
 
-All inputs are public: government websites and PDFs, DoPT's published civil lists, PIB, and public news. Even so, this repository concentrates the names, official phone numbers and email addresses of public servants, and `ias_officers.csv` / `ips_officers.csv` carry additional personal fields from DoPT's public lists (for example date of birth and domicile).
+All inputs are public: government websites and PDFs, DoPT's published civil lists, PIB, and public news. Even so, this repository concentrates the names, official phone numbers and email addresses of public servants, and `ias_officers.csv` / `ips_officers.csv` carry further office-related fields from DoPT's public lists (cadre, batch, posting, pay level).
 
+- **Fields deliberately not included.** Date of birth and domicile (home state / native place) of individual officers are not part of this dataset: they are personal data beyond what a contact map of officers in office needs. The `dob` and `domicile_state` columns were removed from `data/ias_officers.csv`, `data/ips_officers.csv` and the matching tables in `data/yellowpages.duckdb`, and `scripts/dopt_civil_list.py` / `scripts/ips_civil_list.py` no longer emit them. Nothing in this repository derived age or home-state analytics from them. They remain in earlier Git history and in forks; see the DoPT civil lists directly if you have a lawful need for them.
 - Use official email/phone for official queries about policy and incentives; do not use the data for bulk marketing, harassment or profiling.
 - Treat a "contact for a topic" as a starting point for a polite enquiry, and check the current post before relying on it.
 - Source sites were read at about one request per second per host, robots files respected, and any CAPTCHA, WAF or login wall was treated as a stop sign, not bypassed.

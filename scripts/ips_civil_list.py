@@ -51,8 +51,8 @@ CODE_RE = re.compile(r"^\d{6,9}$")
 
 FIELDS = [
     "cadre_state", "allotment_year", "sr_no", "name_en", "name_hi",
-    "source_of_recruitment", "officer_code", "appointment_date", "dob",
-    "qualification", "domicile_state", "pay_scale", "current_posting",
+    "source_of_recruitment", "officer_code", "appointment_date",
+    "qualification", "pay_scale", "current_posting",
     "posting_wef", "awards",
 ]
 
@@ -142,26 +142,25 @@ def flush_record(rec_cols, cadre_state, allotment_year, sr_no):
             qual_parts.append(row_text)
     qualification = " ".join(qual_parts).strip()
 
-    # column 3: source code / officer code / domicile state (remaining rows)
+    # column 3: source code / officer code (remaining rows hold the domicile state,
+    # which is deliberately not extracted -- see README "Fields deliberately not included")
     col3_rows = _rows_of(rec_cols.get(2, []))
-    source, code, domicile_parts = "", "", []
+    source, code = "", ""
     for row_text in col3_rows:
         tok = row_text.strip()
         if tok.upper() in SOURCE_CODES and not source:
             source = tok.upper()
         elif CODE_RE.match(tok) and not code:
             code = tok
-        elif tok:
-            domicile_parts.append(tok)
-    domicile_state = " ".join(domicile_parts).strip()
 
-    # column 4: dob / appointment date (occasional stray extra rows are ignored)
+    # column 4: the first date is the date of birth (deliberately discarded, never stored);
+    # the second is the appointment date (occasional stray extra rows are ignored)
     col4_rows = _rows_of(rec_cols.get(3, []))
-    dob, appt_date = "", ""
+    skipped_first_date, appt_date = False, ""
     for row_text in col4_rows:
         tok = row_text.strip()
-        if DATE_RE.match(tok) and not dob:
-            dob = tok
+        if DATE_RE.match(tok) and not skipped_first_date:
+            skipped_first_date = True
         elif DATE_RE.match(tok) and not appt_date:
             appt_date = tok
 
@@ -189,9 +188,7 @@ def flush_record(rec_cols, cadre_state, allotment_year, sr_no):
         "source_of_recruitment": source,
         "officer_code": code,
         "appointment_date": appt_date,
-        "dob": dob,
         "qualification": qualification,
-        "domicile_state": domicile_state,
         "pay_scale": pay_scale,
         "current_posting": current_posting,
         "posting_wef": posting_wef,

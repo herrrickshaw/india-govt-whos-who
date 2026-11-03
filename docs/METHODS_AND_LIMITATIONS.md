@@ -68,4 +68,4 @@ Text-layer PDFs: `pdftotext` in reading order, hyphenated line breaks joined, pa
 - **Dates.** Many ministry documents have no reliable date; "last signed" can be blank or only a month.
 
 ## 9. Responsible use
-All data come from public sources, but the compilation concentrates personal contact details of public servants (names, official phone numbers, email addresses, and in the civil lists date of birth and domicile). Use the contact details for official enquiries about policy; do not use them for bulk marketing or profiling; verify the current post before contacting someone; open an issue to correct or remove an entry.
+All data come from public sources, but the compilation concentrates personal contact details of public servants (names, official phone numbers, email addresses, and, in the civil lists, cadre, batch and posting; date of birth and domicile are deliberately not included). Use the contact details for official enquiries about policy; do not use them for bulk marketing or profiling; verify the current post before contacting someone; open an issue to correct or remove an entry.
