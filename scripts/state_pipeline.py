@@ -29,6 +29,8 @@ sys.path.insert(0, str(REPO / "scripts"))
 import signatory_matrix as S  # noqa: E402  (shared extractor / matcher / report)
 
 STATES_DIR = REPO / "data/states"
+UB_CATEGORIES = ["Attached / Subordinated Offices", "Statutory Bodies", "Commissions/ Committees", "Councils",
+                 "Statutory / Autonomous Bodies", "Independent Departments"]
 SITES = REPO / "ministry_documents/data/sites"
 CRAWLER = REPO / "ministry_documents/tools/crawl_html.py"
 TRANSLATIONS = STATES_DIR / "translations.json"
@@ -247,6 +249,12 @@ def targets(args):
     d = pd.read_csv(REPO / "data/organizations_index.csv", low_memory=False)
     sg = d[(d.branch == "sg") & d.website.notna()].copy()
     sg = sg[sg.state.isin(args.states)] if args.states else sg
+    # pseudo-state "UB": union-government bodies outside the ministries/departments (attached and subordinate offices,
+    # statutory bodies, commissions, councils) - the ministries themselves are covered by signatory_matrix.py
+    if not args.states or "UB" in args.states:
+        ub = d[(d.branch == "ug") & d.website.notna() & d.category.isin(UB_CATEGORIES)].copy()
+        ub["state"] = "UB"
+        sg = pd.concat([sg, ub])
     sg = sg.drop_duplicates("website")
     sg["slug"] = sg.website.map(slug_for)
     # secretariat departments first (they issue the GOs), then directorates / boards
@@ -486,8 +494,14 @@ CADRE = {"KA": "KN", "BR": "BH", "AS": "AM", "HR": "HY", "TS": "TG", "UK": "UD",
 
 def state_rosters(st):
     R = []
+    if st == "UB":
+        mo = REPO / "data/ministry_officials.csv"
+        for r in (pd.read_csv(mo).fillna("").itertuples() if mo.exists() else []):
+            if str(r.name).strip():
+                R.append(dict(roster="ministry_whoswho", ministry=r.ministry, name=r.name, designation=r.designation, division=r.division,
+                              email=r.email, phones=r.phones, source_url=r.source_url))
     p = STATES_DIR / "state_officials.csv"
-    if p.exists():
+    if st != "UB" and p.exists():
         so = pd.read_csv(p)
         so = so[(so.state == st) & so.name.notna() & (so.name.astype(str).str.strip() != "")]
         for r in so.itertuples():
@@ -503,7 +517,8 @@ def state_rosters(st):
                 continue
             want = CADRE.get(st, st)
             cv = c[col].astype(str).str.upper().str.strip()
-            c = c[(cv == want) | cv.str.startswith(want + " ") | cv.str.contains(rf"\b{want}\b")]
+            if st != "UB":   # union bodies are staffed from every cadre
+                c = c[(cv == want) | cv.str.startswith(want + " ") | cv.str.contains(rf"\b{want}\b")]
             for r in c.itertuples():
                 R.append(dict(roster=tag, ministry=str(getattr(r, "current_posting", "") or ""), name=r.name_en,
                               designation=str(getattr(r, "current_posting", "") or ""), division="", email="", phones="",

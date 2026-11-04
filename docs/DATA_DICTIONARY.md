@@ -83,6 +83,7 @@ The PDFs selected for reading: `doc_id, ministry, title, group, category, date, 
 ## 5. Signatures (states) — `data/states/`
 
 Per state `data/states/<ST>/`: `candidates.csv` (selected PDFs), `signatures.csv` (one row per signature: `signatory_raw` in the original script, `signatory` romanised, `sig_script`, `sig_designation_raw`, `signatory_rule` (the rule-based romanisation kept for comparison), `sig_designation` in English, `subject_raw` / `subject` translated with `subject_language`, `script`, `ocr` (1 = OCR was used), `indic_chars` / `latin_chars`), `notification_signatories.csv` (matched as above), `officer_topic_matrix.csv`, `SIGNATORY_MATRIX.md`.
+Extra "states": `UB` holds union bodies outside the ministries (447 signers), `TS` and `AP` include orders collected from their GOIR portals (`goir.telangana.gov.in`, 1305 orders; `goir.ap.gov.in`, 5689 orders, Jan–Apr 2025) under pseudo-URLs of the form `https://goir.telangana.gov.in/#<year><dept>_<type><gono>` or `.../dgo.ashx?gid=<id>&fileType=E`.
 Combined: `notification_signatories_all_states.csv` (4,293 rows), `signatory_directory_all_states.csv` (2,823 rows), `translations.json` (cache of romanised names and translated subjects), `go_portals.csv` (each state's official order portal and whether it answered), `STATE_MATRIX.md` (overview).
 
 ## 6. Policies and incentives
