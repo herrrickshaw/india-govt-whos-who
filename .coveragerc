@@ -1,0 +1,10 @@
+[run]
+source =
+    src
+    scripts
+    ministry_documents/tools
+omit =
+    tests/*
+    scripts/local_md_runner.py
+    scripts/cloud_md_launch.py
+    scripts/ministry_whoswho_browser.py
