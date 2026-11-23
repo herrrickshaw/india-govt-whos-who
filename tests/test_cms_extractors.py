@@ -96,6 +96,16 @@ def test_client_get_throttles_to_one_request_per_second(PP, monkeypatch, sleeps)
     assert sleeps == []                                          # last call long ago: no wait
 
 
+def test_client_get_wait_is_the_remainder_of_one_second(PP, monkeypatch, sleeps):
+    cl, _ = make_client(PP, monkeypatch, lambda u, r: {})
+    monkeypatch.setattr("time.time", lambda: 1000.0)
+    cl.last = 999.8
+    sleeps.clear()
+    cl.get("a")
+    assert sleeps == [pytest.approx(0.8)]
+    assert cl.last == 1000.0
+
+
 def test_client_get_retries_gateway_errors_with_growing_backoff(PP, monkeypatch, sleeps):
     seq = iter([http_error(502), http_error(503), {"ok": True}])
     cl, log = make_client(PP, monkeypatch, lambda u, r: next(seq))
@@ -449,6 +459,7 @@ def test_wpv2_end_to_end(load, repo, monkeypatch, sleeps, capsys):
     assert "&page=2&" in calls[1]
     media_calls = [c for c in calls if "wp/v2/media" in c]
     assert len(media_calls) == 2                                               # 52 integer media ids -> batches of 50 + 2
+    assert [len(c.split("include=")[1].split("&")[0].split(",")) for c in media_calls] == [50, 2]
     out = repo / "ministry_documents/data/sites/rural"
     s = json.load(open(out / "summary.json"))
     assert s["documents"] == 4 and s["files"] == 52 and s["resolved"] == 51 and s["method"] == "wp/v2/documents + wp/v2/media"
@@ -597,6 +608,8 @@ def test_retry_get_status_handling(load, monkeypatch, sleeps):
 
 def test_retry_row_shapes(load, monkeypatch, sleeps):
     m, _ = load_retry(load, monkeypatch, lambda u: {}, sleeps)
+    one = m.row({"ID": 8, "acf_data": {"a": {"url": "https://only"}}})
+    assert one[6] == "https://only" and one[9] == ""                     # a single file url has no Hindi counterpart
     p = {"ID": 5, "post_title": "PT", "post_date": "pd", "acf_data": {
         "title": " Ti ", "file_date": "fd", "language": ["en", "hi"], "pdf_type": "X",
         "a": {"url": "https://a", "filesize": 3, "mime_type": "m"}, "b": {"url": "https://b"}, "c": {"nourl": 1}, "d": "str"}}
